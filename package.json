@@ -1,0 +1,47 @@
+{
+  "name": "uncharted",
+  "description": "Uncharted — a new way of travelling",
+  "version": "1.1.1",
+  "author": "Robert Wolf",
+  "dependencies": {
+    "bulma": "^0.6.0",
+    "gatsby": "^1.9.213",
+    "gatsby-image": "^1.0.42",
+    "gatsby-link": "^1.6.37",
+    "gatsby-plugin-netlify-cms": "^1.0.9",
+    "gatsby-plugin-react-helmet": "^2.0.5",
+    "gatsby-plugin-sass": "^1.0.17",
+    "gatsby-plugin-sharp": "^1.6.41",
+    "gatsby-plugin-typography": "^1.7.18",
+    "gatsby-remark-images": "^1.5.50",
+    "gatsby-source-filesystem": "^1.5.23",
+    "gatsby-transformer-remark": "^1.7.33",
+    "gatsby-transformer-sharp": "^1.6.22",
+    "lodash": "^4.17.5",
+    "lodash-webpack-plugin": "^0.11.4",
+    "moment": "^2.22.0",
+    "prop-types": "^15.6.0",
+    "react": "^16.3.1",
+    "react-dates": "^16.5.0",
+    "react-dom": "^16.3.1",
+    "react-helmet": "^5.2.0",
+    "reset-css": "^3.0.0",
+    "styled-components": "^3.2.3"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "start": "npm run develop",
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "serve": "gatsby serve",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^1.7.4"
+  }
+}

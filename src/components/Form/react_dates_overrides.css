@@ -1,0 +1,21 @@
+.DateInput_input {
+  background-color: #1F233D;
+  color: white;
+  font-size: 1rem;
+  font-family: inherit;
+  border-radius: 0;
+}
+
+.DateRangePickerInput {
+  background-color: #1F233D;
+  border-radius: .5rem;
+  overflow: hidden;
+}
+
+.DateRangePickerInput_arrow {
+  position: relative;
+  vertical-align: initial;
+}
+.DateRangePickerInput_calendarIcon_svg {
+  vertical-align: initial;
+}
