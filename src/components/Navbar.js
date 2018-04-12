@@ -4,6 +4,8 @@ import styled from 'styled-components'
 
 import logo from '../img/logo_white.png'
 
+import ContactCard from './ContactCard'
+
 const Navbar = () => (
   <NavWrapper className="navbar">
     <Link to="/" className="navbar-item">
@@ -26,9 +28,10 @@ const Navbar = () => (
       </Item>
 
       <Item>
-        <Link className="navbar-item" to="/contact">
+        <ContactButton>
           Contact
-        </Link>
+        </ContactButton>
+        <ContactCard/>
       </Item>
 
     </Menu>
@@ -54,7 +57,9 @@ width: 120px
 
 const Menu = styled.ul`
 display: flex
-color: white
+& a {
+  color: black
+}
 `
 
 const Item = styled.li`
@@ -63,4 +68,15 @@ const Item = styled.li`
   text-transform: uppercase
   font-weight: 600
   letter-spacing: .2em
+`
+
+const ContactButton = styled.a`
+cursor: pointer 
+& + div {
+  display: none
+}
+
+&:hover + div, & + div:hover {
+  display: block
+}
 `

@@ -1,5 +1,12 @@
 [
     {
+        "componentChunkName": "component---src-templates-about-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "about.json",
+        "path": "/about/"
+    },
+    {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -19,20 +26,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.json",
         "path": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"
-    },
-    {
-        "componentChunkName": "component---src-templates-frontpage-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "frontpage.json",
-        "path": "/frontpage/"
-    },
-    {
-        "componentChunkName": "component---src-templates-about-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "about.json",
-        "path": "/about/"
     },
     {
         "componentChunkName": "component---src-templates-package-js",
@@ -112,7 +105,7 @@
         "path": "/404/"
     },
     {
-        "componentChunkName": "component---src-pages-concept-index-js",
+        "componentChunkName": "component---src-pages-concept-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "concept.json",
@@ -124,6 +117,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "index.json",
         "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-stories-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "stories.json",
+        "path": "/stories/"
     },
     {
         "componentChunkName": "component---src-pages-tags-index-js",

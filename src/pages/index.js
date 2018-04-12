@@ -56,7 +56,7 @@ IndexPage.propTypes = {
 
 export const pageQuery = graphql`
   query IndexQuery {
-    markdownRemark(frontmatter: {templateKey: { eq: "frontpage" }}) {
+    markdownRemark(frontmatter: {type: { eq: "frontpage" }}) {
       html
       frontmatter {
         image {
@@ -101,7 +101,7 @@ const Header =  styled.header`
 text-align: center
 width: 100%
 div.gatsby-image-outer-wrapper {
-  max-height: 80vh
+  max-height: 60vh
   overflow: hidden;
   &:after {
     content: "";
@@ -120,7 +120,7 @@ const Tagline = styled.h1`
 
 const Welcome = styled.p`
 max-width: 700px
-margin: 0 auto`
+margin: 0 auto 5rem`
 
 const Trips = styled.section`
 width: 100%

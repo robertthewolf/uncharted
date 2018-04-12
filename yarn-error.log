@@ -15,27 +15,34 @@ Platform:
 
 npm manifest: 
   {
-    "name": "gatsby-starter-netlify-cms",
-    "description": "Example Gatsby, and Netlify CMS project",
+    "name": "uncharted",
+    "description": "Uncharted — a new way of travelling",
     "version": "1.1.1",
-    "author": "Austin Green",
+    "author": "Robert Wolf",
     "dependencies": {
       "bulma": "^0.6.0",
       "gatsby": "^1.9.213",
+      "gatsby-image": "^1.0.42",
       "gatsby-link": "^1.6.37",
       "gatsby-plugin-netlify-cms": "^1.0.9",
       "gatsby-plugin-react-helmet": "^2.0.5",
       "gatsby-plugin-sass": "^1.0.17",
-      "gatsby-plugin-sharp": "^1.6.34",
+      "gatsby-plugin-sharp": "^1.6.41",
+      "gatsby-plugin-typography": "^1.7.18",
       "gatsby-remark-images": "^1.5.50",
       "gatsby-source-filesystem": "^1.5.23",
       "gatsby-transformer-remark": "^1.7.33",
-      "gatsby-transformer-sharp": "^1.6.21",
+      "gatsby-transformer-sharp": "^1.6.22",
       "lodash": "^4.17.5",
       "lodash-webpack-plugin": "^0.11.4",
+      "moment": "^2.22.0",
       "prop-types": "^15.6.0",
-      "react": "^16.2.0",
-      "react-helmet": "^5.2.0"
+      "react": "^16.3.1",
+      "react-dates": "^16.5.0",
+      "react-dom": "^16.3.1",
+      "react-helmet": "^5.2.0",
+      "reset-css": "^3.0.0",
+      "styled-components": "^3.2.3"
     },
     "keywords": [
       "gatsby"
@@ -11325,11 +11332,11 @@ Lockfile:
     resolved "https://registry.yarnpkg.com/zwitch/-/zwitch-1.0.2.tgz#9b059541bfa844799fe2d903bde609de2503a041"
 
 Trace: 
-  Error: /Users/Robert/uncharted/node_modules/sharp: Command failed.
+  Error: /Users/Robert/uncharted/node_modules/gatsby-remark-images/node_modules/sharp: Command failed.
   Exit code: 1
   Command: sh
   Arguments: -c node-gyp rebuild
-  Directory: /Users/Robert/uncharted/node_modules/sharp
+  Directory: /Users/Robert/uncharted/node_modules/gatsby-remark-images/node_modules/sharp
   Output:
   module.js:540
       throw err;
