@@ -7,6 +7,19 @@ import Image from 'gatsby-image'
 import Form from '../components/Form'
 
 export default class IndexPage extends React.Component {
+
+  componentDidMount () {
+    const script = document.createElement("script");
+
+    script.src = "https://yam.li/widget/script/tooltip.js";
+    script.id = "fastoryWidgetContainerScript"
+    script.async = true;
+    script.dataset.offset = 20;
+    script.dataset.id = "jcBBmnlz";
+
+    document.body.appendChild(script);
+  }
+
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark

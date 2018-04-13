@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6b54a6d0143512d013fe6ec236299e61",
+        "contentDigest": "0f33896b2df3cc55d2be570aebceb125",
         "owner": "internal-data-bridge"
       }
     },
@@ -921,12 +921,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-04-12T20:14:47.324Z",
+      "buildTime": "2018-04-13T09:30:38.916Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8d0190c6c85dd6f3f326d687e0eb7572",
+        "contentDigest": "1860a89cfc297b81a920d480b7b596b9",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -936,7 +936,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f9628aacae8463e9457f6fb88d2acdf6",
+        "contentDigest": "fd40831e527d4cef6acc1beed5085322",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -946,9 +946,9 @@
       "extension": "",
       "size": 320,
       "prettySize": "320 B",
-      "modifiedTime": "2018-04-12T20:04:33.956Z",
-      "accessTime": "2018-04-12T20:14:51.204Z",
-      "changeTime": "2018-04-12T20:04:33.956Z",
+      "modifiedTime": "2018-04-12T20:23:17.254Z",
+      "accessTime": "2018-04-13T09:30:43.787Z",
+      "changeTime": "2018-04-12T20:23:17.254Z",
       "birthTime": "2018-03-24T20:07:41.319Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src",
@@ -965,13 +965,13 @@
       "blksize": 4194304,
       "ino": 8600035683,
       "blocks": 0,
-      "atimeMs": 1523564091203.559,
-      "mtimeMs": 1523563473956.0332,
-      "ctimeMs": 1523563473956.0332,
+      "atimeMs": 1523611843786.7092,
+      "mtimeMs": 1523564597254.401,
+      "ctimeMs": 1523564597254.401,
       "birthtimeMs": 1521922061319.3135,
-      "atime": "2018-04-12T20:14:51.204Z",
-      "mtime": "2018-04-12T20:04:33.956Z",
-      "ctime": "2018-04-12T20:04:33.956Z",
+      "atime": "2018-04-13T09:30:43.787Z",
+      "mtime": "2018-04-12T20:23:17.254Z",
+      "ctime": "2018-04-12T20:23:17.254Z",
       "birthtime": "2018-03-24T20:07:41.319Z"
     },
     "/Users/Robert/uncharted/src/pages/about absPath of file": {
@@ -979,7 +979,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f643e36bc1c9855e992b4dd05ac0d29e",
+        "contentDigest": "10468c9e2a3b8dd13e24e9e367587ada",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -990,7 +990,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-03-24T20:07:41.320Z",
-      "accessTime": "2018-04-12T20:14:51.208Z",
+      "accessTime": "2018-04-13T09:30:43.790Z",
       "changeTime": "2018-03-24T20:07:41.320Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
@@ -1008,11 +1008,11 @@
       "blksize": 4194304,
       "ino": 8600035685,
       "blocks": 0,
-      "atimeMs": 1523564091208.1235,
+      "atimeMs": 1523611843789.931,
       "mtimeMs": 1521922061319.7295,
       "ctimeMs": 1521922061319.7295,
       "birthtimeMs": 1521922061319.6301,
-      "atime": "2018-04-12T20:14:51.208Z",
+      "atime": "2018-04-13T09:30:43.790Z",
       "mtime": "2018-03-24T20:07:41.320Z",
       "ctime": "2018-03-24T20:07:41.320Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
@@ -1022,7 +1022,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8b8e7dea43d61b156cf63beafe3a3e9f",
+        "contentDigest": "b5cc4890824b984dda4c844e0065feb7",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1033,7 +1033,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-03-24T20:07:41.321Z",
-      "accessTime": "2018-04-12T20:14:51.208Z",
+      "accessTime": "2018-04-13T09:30:43.790Z",
       "changeTime": "2018-03-24T20:07:41.321Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
@@ -1051,11 +1051,11 @@
       "blksize": 4194304,
       "ino": 8600035687,
       "blocks": 0,
-      "atimeMs": 1523564091208.1445,
+      "atimeMs": 1523611843789.8867,
       "mtimeMs": 1521922061320.7075,
       "ctimeMs": 1521922061320.7075,
       "birthtimeMs": 1521922061319.9465,
-      "atime": "2018-04-12T20:14:51.208Z",
+      "atime": "2018-04-13T09:30:43.790Z",
       "mtime": "2018-03-24T20:07:41.321Z",
       "ctime": "2018-03-24T20:07:41.321Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
@@ -1065,7 +1065,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "63c4424de3d170b5c49e15603b657925",
+        "contentDigest": "55332a52d35525c8e906b1cf8a01b528",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1076,7 +1076,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-03-25T00:18:37.653Z",
-      "accessTime": "2018-04-12T20:14:51.208Z",
+      "accessTime": "2018-04-13T09:30:43.790Z",
       "changeTime": "2018-03-25T00:18:37.653Z",
       "birthTime": "2018-03-25T00:03:05.423Z",
       "root": "/",
@@ -1094,11 +1094,11 @@
       "blksize": 4194304,
       "ino": 8600232496,
       "blocks": 0,
-      "atimeMs": 1523564091208.1536,
+      "atimeMs": 1523611843789.7703,
       "mtimeMs": 1521937117653.1138,
       "ctimeMs": 1521937117653.1138,
       "birthtimeMs": 1521936185423.1204,
-      "atime": "2018-04-12T20:14:51.208Z",
+      "atime": "2018-04-13T09:30:43.790Z",
       "mtime": "2018-03-25T00:18:37.653Z",
       "ctime": "2018-03-25T00:18:37.653Z",
       "birthtime": "2018-03-25T00:03:05.423Z"
@@ -1108,7 +1108,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "69e582e806ded5a193e9cbc12ae29b81",
+        "contentDigest": "d3bb2e71187d7743f79f5e092f1876b6",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1119,7 +1119,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-03-24T20:07:41.321Z",
-      "accessTime": "2018-04-12T20:14:51.208Z",
+      "accessTime": "2018-04-13T09:30:43.790Z",
       "changeTime": "2018-03-24T20:07:41.321Z",
       "birthTime": "2018-03-24T20:07:41.321Z",
       "root": "/",
@@ -1137,11 +1137,11 @@
       "blksize": 4194304,
       "ino": 8600035694,
       "blocks": 0,
-      "atimeMs": 1523564091208.193,
+      "atimeMs": 1523611843789.8892,
       "mtimeMs": 1521922061321.4124,
       "ctimeMs": 1521922061321.4124,
       "birthtimeMs": 1521922061321.3477,
-      "atime": "2018-04-12T20:14:51.208Z",
+      "atime": "2018-04-13T09:30:43.790Z",
       "mtime": "2018-03-24T20:07:41.321Z",
       "ctime": "2018-03-24T20:07:41.321Z",
       "birthtime": "2018-03-24T20:07:41.321Z"
@@ -1151,7 +1151,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4bb8001398c03efb3788119962c0f753",
+        "contentDigest": "06d9b85b16c997ad5ced14ee8bdc1e2a",
         "mediaType": "application/javascript",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1160,11 +1160,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/pages/index.js",
       "relativePath": "index.js",
       "extension": "js",
-      "size": 3790,
-      "prettySize": "3.79 kB",
-      "modifiedTime": "2018-04-12T20:47:58.534Z",
-      "accessTime": "2018-04-12T20:47:58.533Z",
-      "changeTime": "2018-04-12T20:47:58.534Z",
+      "size": 4115,
+      "prettySize": "4.12 kB",
+      "modifiedTime": "2018-04-13T09:33:32.101Z",
+      "accessTime": "2018-04-13T09:33:32.101Z",
+      "changeTime": "2018-04-13T09:33:32.101Z",
       "birthTime": "2018-03-24T20:07:41.321Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages",
@@ -1180,14 +1180,14 @@
       "rdev": 0,
       "blksize": 4194304,
       "ino": 8600035691,
-      "blocks": 8,
-      "atimeMs": 1523566078533.4866,
-      "mtimeMs": 1523566078533.9219,
-      "ctimeMs": 1523566078533.9219,
+      "blocks": 16,
+      "atimeMs": 1523612012100.9326,
+      "mtimeMs": 1523612012101.4504,
+      "ctimeMs": 1523612012101.4504,
       "birthtimeMs": 1521922061320.8904,
-      "atime": "2018-04-12T20:47:58.533Z",
-      "mtime": "2018-04-12T20:47:58.534Z",
-      "ctime": "2018-04-12T20:47:58.534Z",
+      "atime": "2018-04-13T09:33:32.101Z",
+      "mtime": "2018-04-13T09:33:32.101Z",
+      "ctime": "2018-04-13T09:33:32.101Z",
       "birthtime": "2018-03-24T20:07:41.321Z"
     },
     "/Users/Robert/uncharted/src/pages/404.js absPath of file": {
@@ -1851,7 +1851,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "bc9342b3c1ae075d91a77245a7197261",
+        "contentDigest": "76b523e3b30b1f465b09f79273fb018a",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1859,11 +1859,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/settings",
       "relativePath": "",
       "extension": "",
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2018-04-12T20:04:29.813Z",
-      "accessTime": "2018-04-12T20:14:51.255Z",
-      "changeTime": "2018-04-12T20:10:55.793Z",
+      "size": 160,
+      "prettySize": "160 B",
+      "modifiedTime": "2018-04-12T20:21:21.620Z",
+      "accessTime": "2018-04-13T09:30:43.809Z",
+      "changeTime": "2018-04-12T20:21:21.620Z",
       "birthTime": "2018-04-12T20:04:15.413Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src",
@@ -1873,20 +1873,20 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 4,
+      "nlink": 5,
       "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 8601653181,
       "blocks": 0,
-      "atimeMs": 1523564091254.654,
-      "mtimeMs": 1523563469813.35,
-      "ctimeMs": 1523563855793.4368,
+      "atimeMs": 1523611843808.5735,
+      "mtimeMs": 1523564481620.1982,
+      "ctimeMs": 1523564481620.1982,
       "birthtimeMs": 1523563455412.8713,
-      "atime": "2018-04-12T20:14:51.255Z",
-      "mtime": "2018-04-12T20:04:29.813Z",
-      "ctime": "2018-04-12T20:10:55.793Z",
+      "atime": "2018-04-13T09:30:43.809Z",
+      "mtime": "2018-04-12T20:21:21.620Z",
+      "ctime": "2018-04-12T20:21:21.620Z",
       "birthtime": "2018-04-12T20:04:15.413Z"
     },
     "/Users/Robert/uncharted/src/settings/stories.md absPath of file": {
@@ -1986,7 +1986,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e921e38820c2d0e4359466d734846244",
+        "contentDigest": "f437545b06433f58d5281c90afa9872e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1997,7 +1997,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-03-24T22:32:16.947Z",
-      "accessTime": "2018-04-12T20:14:51.268Z",
+      "accessTime": "2018-04-13T09:30:43.816Z",
       "changeTime": "2018-03-24T22:32:16.947Z",
       "birthTime": "2018-03-24T20:07:41.323Z",
       "root": "/",
@@ -2015,11 +2015,11 @@
       "blksize": 4194304,
       "ino": 8600035704,
       "blocks": 0,
-      "atimeMs": 1523564091268.375,
+      "atimeMs": 1523611843816.1274,
       "mtimeMs": 1521930736947.124,
       "ctimeMs": 1521930736947.124,
       "birthtimeMs": 1521922061322.7996,
-      "atime": "2018-04-12T20:14:51.268Z",
+      "atime": "2018-04-13T09:30:43.816Z",
       "mtime": "2018-03-24T22:32:16.947Z",
       "ctime": "2018-03-24T22:32:16.947Z",
       "birthtime": "2018-03-24T20:07:41.323Z"
@@ -2122,412 +2122,6 @@
         "contentDigest": "31b92e78cd26cb1a52fbb7172326c52b",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "SitePage /about/": {
-      "layout": "index",
-      "jsonName": "about.json",
-      "internalComponentName": "ComponentAbout",
-      "path": "/about/",
-      "component": "/Users/Robert/uncharted/src/templates/about-page.js",
-      "componentChunkName": "component---src-templates-about-page-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/about-page.js",
-      "id": "SitePage /about/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "3ee2176c13b0913afaf006a62dda3f4e",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/": {
-      "layout": "index",
-      "jsonName": "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json",
-      "internalComponentName": "ComponentBlog20161217MakingSenseOfTheScaasNewFlavorWheel",
-      "path": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
-      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "id": "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5a5a5e167f67c977e5e0ddcb7955b749",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/": {
-      "layout": "index",
-      "jsonName": "blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex.json",
-      "internalComponentName": "ComponentBlog20170104ABeginnersGuideToBrewingWithChemex",
-      "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
-      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "id": "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0a972542b1c54acf646c64c86631925f",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/": {
-      "layout": "index",
-      "jsonName": "blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.json",
-      "internalComponentName": "ComponentBlog20170104JustInSmallBatchOfJamaicanBlueMountainInStoreNextWeek",
-      "path": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
-      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "id": "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7da76bb826f7eb753e9acec2260cbccc",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /packages/fullnatureadventure/": {
-      "layout": "index",
-      "jsonName": "packages-fullnatureadventure.json",
-      "internalComponentName": "ComponentPackagesFullnatureadventure",
-      "path": "/packages/fullnatureadventure/",
-      "component": "/Users/Robert/uncharted/src/templates/package.js",
-      "componentChunkName": "component---src-templates-package-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
-      "id": "SitePage /packages/fullnatureadventure/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "fc560c2604a044b101e8399323aad133",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /packages/senseofadventure/": {
-      "layout": "index",
-      "jsonName": "packages-senseofadventure.json",
-      "internalComponentName": "ComponentPackagesSenseofadventure",
-      "path": "/packages/senseofadventure/",
-      "component": "/Users/Robert/uncharted/src/templates/package.js",
-      "componentChunkName": "component---src-templates-package-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
-      "id": "SitePage /packages/senseofadventure/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0f1188f7677f3123aeb9574aaeccddbf",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /packages/weekendgetaway.1/": {
-      "layout": "index",
-      "jsonName": "packages-weekendgetaway-1.json",
-      "internalComponentName": "ComponentPackagesWeekendgetaway1",
-      "path": "/packages/weekendgetaway.1/",
-      "component": "/Users/Robert/uncharted/src/templates/package.js",
-      "componentChunkName": "component---src-templates-package-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.1.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
-      "id": "SitePage /packages/weekendgetaway.1/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "859b1b462e775cf80ef41f18ff60ba17",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/flavor/": {
-      "layout": "index",
-      "jsonName": "tags-flavor.json",
-      "internalComponentName": "ComponentTagsFlavor",
-      "path": "/tags/flavor/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "flavor"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/flavor/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "88ce37c61e33a010541fac4eeec6feed",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/tasting/": {
-      "layout": "index",
-      "jsonName": "tags-tasting.json",
-      "internalComponentName": "ComponentTagsTasting",
-      "path": "/tags/tasting/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "tasting"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/tasting/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8087f2665bcd3b8c666e0f3fe343f877",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/brewing/": {
-      "layout": "index",
-      "jsonName": "tags-brewing.json",
-      "internalComponentName": "ComponentTagsBrewing",
-      "path": "/tags/brewing/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "brewing"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/brewing/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4115ff34a5f56a5494d674c7588eeaa7",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/chemex/": {
-      "layout": "index",
-      "jsonName": "tags-chemex.json",
-      "internalComponentName": "ComponentTagsChemex",
-      "path": "/tags/chemex/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "chemex"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/chemex/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "978bd112872ba10eb64427426ac07ba7",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/jamaica/": {
-      "layout": "index",
-      "jsonName": "tags-jamaica.json",
-      "internalComponentName": "ComponentTagsJamaica",
-      "path": "/tags/jamaica/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "jamaica"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/jamaica/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5407d14f03adc175c6c1256e5eaea4bd",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/green-beans/": {
-      "layout": "index",
-      "jsonName": "tags-green-beans.json",
-      "internalComponentName": "ComponentTagsGreenBeans",
-      "path": "/tags/green-beans/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "green beans"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/green-beans/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "2d92119182563915fe471b65fe78a23a",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404/": {
-      "layout": "index",
-      "jsonName": "404.json",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/Users/Robert/uncharted/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/uncharted/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "100143e0adca30a259d79dabef379041",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /concept/": {
-      "layout": "index",
-      "jsonName": "concept.json",
-      "internalComponentName": "ComponentConcept",
-      "path": "/concept/",
-      "component": "/Users/Robert/uncharted/src/pages/concept.js",
-      "componentChunkName": "component---src-pages-concept-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/uncharted/src/pages/concept.js",
-      "id": "SitePage /concept/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "66b7242b67b345ce82e39c2dcea87be6",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/Robert/uncharted/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/uncharted/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "874a080bd4fd8b879f76f7e033b11ce8",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /stories/": {
-      "layout": "index",
-      "jsonName": "stories.json",
-      "internalComponentName": "ComponentStories",
-      "path": "/stories/",
-      "component": "/Users/Robert/uncharted/src/pages/stories.js",
-      "componentChunkName": "component---src-pages-stories-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/uncharted/src/pages/stories.js",
-      "id": "SitePage /stories/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "c46bab2b5f972c28571bf4033cb03b63",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/": {
-      "layout": "index",
-      "jsonName": "tags.json",
-      "internalComponentName": "ComponentTags",
-      "path": "/tags/",
-      "component": "/Users/Robert/uncharted/src/pages/tags/index.js",
-      "componentChunkName": "component---src-pages-tags-index-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/uncharted/src/pages/tags/index.js",
-      "id": "SitePage /tags/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f5851fee8cbf714820f26cb3876fb8b7",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/Robert/uncharted/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/Robert/uncharted/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "593f66db3668f21ef1abbddec8fe3a0e",
-        "owner": "internal-data-bridge"
       }
     },
     "/Users/Robert/uncharted/src/settings/index.md absPath of file >>> MarkdownRemark": {
@@ -2703,6 +2297,412 @@
       "mtime": "2018-04-12T20:51:11.891Z",
       "ctime": "2018-04-12T20:51:11.891Z",
       "birthtime": "2018-04-12T20:23:07.016Z"
+    },
+    "SitePage /about/": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/Robert/uncharted/src/templates/about-page.js",
+      "componentChunkName": "component---src-templates-about-page-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/about-page.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d3c71820cfda5689f8dd750dd2c62843",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/": {
+      "layout": "index",
+      "jsonName": "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json",
+      "internalComponentName": "ComponentBlog20161217MakingSenseOfTheScaasNewFlavorWheel",
+      "path": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
+      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "id": "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6d3e1741ca18e4310a6fac28d4e55dc1",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/": {
+      "layout": "index",
+      "jsonName": "blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex.json",
+      "internalComponentName": "ComponentBlog20170104ABeginnersGuideToBrewingWithChemex",
+      "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
+      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "id": "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1115e46b7c92980edb0e7f78bc7321ce",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/": {
+      "layout": "index",
+      "jsonName": "blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.json",
+      "internalComponentName": "ComponentBlog20170104JustInSmallBatchOfJamaicanBlueMountainInStoreNextWeek",
+      "path": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
+      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "id": "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "77d95c41b1ec864efdc6a5ca1f4cc242",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /packages/fullnatureadventure/": {
+      "layout": "index",
+      "jsonName": "packages-fullnatureadventure.json",
+      "internalComponentName": "ComponentPackagesFullnatureadventure",
+      "path": "/packages/fullnatureadventure/",
+      "component": "/Users/Robert/uncharted/src/templates/package.js",
+      "componentChunkName": "component---src-templates-package-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
+      "id": "SitePage /packages/fullnatureadventure/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "31dbb9985e890f11da49243f3e7dda21",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /packages/senseofadventure/": {
+      "layout": "index",
+      "jsonName": "packages-senseofadventure.json",
+      "internalComponentName": "ComponentPackagesSenseofadventure",
+      "path": "/packages/senseofadventure/",
+      "component": "/Users/Robert/uncharted/src/templates/package.js",
+      "componentChunkName": "component---src-templates-package-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
+      "id": "SitePage /packages/senseofadventure/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4517988e5ad72fe89a6257c1654c9d72",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /packages/weekendgetaway.1/": {
+      "layout": "index",
+      "jsonName": "packages-weekendgetaway-1.json",
+      "internalComponentName": "ComponentPackagesWeekendgetaway1",
+      "path": "/packages/weekendgetaway.1/",
+      "component": "/Users/Robert/uncharted/src/templates/package.js",
+      "componentChunkName": "component---src-templates-package-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.1.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
+      "id": "SitePage /packages/weekendgetaway.1/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c515e45415222a4c031b41853a11aeec",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/flavor/": {
+      "layout": "index",
+      "jsonName": "tags-flavor.json",
+      "internalComponentName": "ComponentTagsFlavor",
+      "path": "/tags/flavor/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "flavor"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/flavor/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2747079718dbde2fd93c5efc099d710e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/tasting/": {
+      "layout": "index",
+      "jsonName": "tags-tasting.json",
+      "internalComponentName": "ComponentTagsTasting",
+      "path": "/tags/tasting/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "tasting"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/tasting/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3532c15adee6a74bb57503fb35faa8ab",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/brewing/": {
+      "layout": "index",
+      "jsonName": "tags-brewing.json",
+      "internalComponentName": "ComponentTagsBrewing",
+      "path": "/tags/brewing/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "brewing"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/brewing/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3aa4fd392731a68d6f9a3a407d65ea7c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/chemex/": {
+      "layout": "index",
+      "jsonName": "tags-chemex.json",
+      "internalComponentName": "ComponentTagsChemex",
+      "path": "/tags/chemex/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "chemex"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/chemex/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0994d86b820b7e2b0a6fcb97697a38ed",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/jamaica/": {
+      "layout": "index",
+      "jsonName": "tags-jamaica.json",
+      "internalComponentName": "ComponentTagsJamaica",
+      "path": "/tags/jamaica/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "jamaica"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/jamaica/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4f6aabdb92993d4a3a04f98296319113",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/green-beans/": {
+      "layout": "index",
+      "jsonName": "tags-green-beans.json",
+      "internalComponentName": "ComponentTagsGreenBeans",
+      "path": "/tags/green-beans/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "green beans"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/green-beans/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "75cd71f1371e55a8347065e11fac1b49",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/Robert/uncharted/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/uncharted/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "306f828e060c6366554247a618af08eb",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /concept/": {
+      "layout": "index",
+      "jsonName": "concept.json",
+      "internalComponentName": "ComponentConcept",
+      "path": "/concept/",
+      "component": "/Users/Robert/uncharted/src/pages/concept.js",
+      "componentChunkName": "component---src-pages-concept-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/uncharted/src/pages/concept.js",
+      "id": "SitePage /concept/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d5ae9d41a634a641c8c2d5449b80567f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/Robert/uncharted/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/uncharted/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "65a54af6ab1f57701782bda1e94fae85",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /stories/": {
+      "layout": "index",
+      "jsonName": "stories.json",
+      "internalComponentName": "ComponentStories",
+      "path": "/stories/",
+      "component": "/Users/Robert/uncharted/src/pages/stories.js",
+      "componentChunkName": "component---src-pages-stories-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/uncharted/src/pages/stories.js",
+      "id": "SitePage /stories/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2572d344eee097742ebae3d048d24ece",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/": {
+      "layout": "index",
+      "jsonName": "tags.json",
+      "internalComponentName": "ComponentTags",
+      "path": "/tags/",
+      "component": "/Users/Robert/uncharted/src/pages/tags/index.js",
+      "componentChunkName": "component---src-pages-tags-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/uncharted/src/pages/tags/index.js",
+      "id": "SitePage /tags/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0572b53ecd96a9d1ffedc09b680f4ae8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/Robert/uncharted/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/Robert/uncharted/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d5a750cabf73cd21b82392af4541a3c1",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
