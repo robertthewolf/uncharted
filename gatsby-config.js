@@ -3,6 +3,7 @@ module.exports = {
     title: 'Uncharted',
   },
   plugins: [
+    `gatsby-plugin-styled-components`,
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
