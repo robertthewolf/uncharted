@@ -2,15 +2,15 @@ import React from 'react'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
 
-import logo from '../img/logo_white.png'
+import logo from '../img/logo.png'
 
-import ContactCard from './ContactCard'
+import ContactCard from './ContactCard/index'
 
 const Navbar = () => (
   <NavWrapper className="navbar">
     <Link to="/" className="navbar-item">
       <figure className="image">
-        <Logo src={logo} alt="Kaldi" />
+        <Logo src={logo} alt="Uncharted" />
       </figure>
     </Link>
     <Menu>
@@ -52,7 +52,7 @@ const NavWrapper = styled.nav`
 `
 
 const Logo = styled.img`
-width: 120px
+width: 140px
 `
 
 const Menu = styled.ul`
@@ -66,7 +66,7 @@ const Item = styled.li`
   padding: 0 1em
   line-height: 1em
   text-transform: uppercase
-  font-weight: 600
+  font-weight: 400
   letter-spacing: .2em
 `
 

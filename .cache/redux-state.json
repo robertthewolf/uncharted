@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8d901b04ae79f45c56e5f1d1081fca95",
+        "contentDigest": "de024ec94162ab597aff7616c3caa48c",
         "owner": "internal-data-bridge"
       }
     },
@@ -1011,12 +1011,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-04-14T08:18:01.687Z",
+      "buildTime": "2018-04-14T12:55:12.604Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d9d22e4edee8c6b78ece450074ad20ba",
+        "contentDigest": "5b779fcca99882d223fd5c6acb87f6ba",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1026,7 +1026,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0fb9f034531440fb7ba9f4378ef12b61",
+        "contentDigest": "020ddd6a2cbfc86e5a32138e1c49ea22",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1037,7 +1037,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2018-04-12T20:23:17.254Z",
-      "accessTime": "2018-04-14T08:18:06.559Z",
+      "accessTime": "2018-04-14T12:55:14.917Z",
       "changeTime": "2018-04-12T20:23:17.254Z",
       "birthTime": "2018-03-24T20:07:41.319Z",
       "root": "/",
@@ -1055,11 +1055,11 @@
       "blksize": 4194304,
       "ino": 8600035683,
       "blocks": 0,
-      "atimeMs": 1523693886559.4675,
+      "atimeMs": 1523710514917.215,
       "mtimeMs": 1523564597254.401,
       "ctimeMs": 1523564597254.401,
       "birthtimeMs": 1521922061319.3135,
-      "atime": "2018-04-14T08:18:06.559Z",
+      "atime": "2018-04-14T12:55:14.917Z",
       "mtime": "2018-04-12T20:23:17.254Z",
       "ctime": "2018-04-12T20:23:17.254Z",
       "birthtime": "2018-03-24T20:07:41.319Z"
@@ -1069,7 +1069,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "94cbd8b6f5f6ad7405f3922d2fc08103",
+        "contentDigest": "feaefd9796935e22e8562cb4d3cfeb41",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1080,7 +1080,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-03-24T20:07:41.320Z",
-      "accessTime": "2018-04-14T08:18:06.563Z",
+      "accessTime": "2018-04-14T12:55:14.920Z",
       "changeTime": "2018-03-24T20:07:41.320Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
@@ -1098,11 +1098,11 @@
       "blksize": 4194304,
       "ino": 8600035685,
       "blocks": 0,
-      "atimeMs": 1523693886562.5647,
+      "atimeMs": 1523710514919.8145,
       "mtimeMs": 1521922061319.7295,
       "ctimeMs": 1521922061319.7295,
       "birthtimeMs": 1521922061319.6301,
-      "atime": "2018-04-14T08:18:06.563Z",
+      "atime": "2018-04-14T12:55:14.920Z",
       "mtime": "2018-03-24T20:07:41.320Z",
       "ctime": "2018-03-24T20:07:41.320Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
@@ -1112,7 +1112,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6544b6749de6ee8117cbac2cba551935",
+        "contentDigest": "637103e64bcedd4924ae47dd01fa6840",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1123,7 +1123,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-03-24T20:07:41.321Z",
-      "accessTime": "2018-04-14T08:18:06.563Z",
+      "accessTime": "2018-04-14T12:55:14.920Z",
       "changeTime": "2018-03-24T20:07:41.321Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
@@ -1141,11 +1141,11 @@
       "blksize": 4194304,
       "ino": 8600035687,
       "blocks": 0,
-      "atimeMs": 1523693886562.656,
+      "atimeMs": 1523710514919.838,
       "mtimeMs": 1521922061320.7075,
       "ctimeMs": 1521922061320.7075,
       "birthtimeMs": 1521922061319.9465,
-      "atime": "2018-04-14T08:18:06.563Z",
+      "atime": "2018-04-14T12:55:14.920Z",
       "mtime": "2018-03-24T20:07:41.321Z",
       "ctime": "2018-03-24T20:07:41.321Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
@@ -1155,7 +1155,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d1c4c82b76df1d5d644252d4ee79d9f8",
+        "contentDigest": "3db39ebed99064cd80f28e2b05208816",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1165,9 +1165,9 @@
       "extension": "",
       "size": 160,
       "prettySize": "160 B",
-      "modifiedTime": "2018-03-25T00:18:37.653Z",
-      "accessTime": "2018-04-14T08:18:06.563Z",
-      "changeTime": "2018-03-25T00:18:37.653Z",
+      "modifiedTime": "2018-04-14T11:43:02.739Z",
+      "accessTime": "2018-04-14T12:55:14.920Z",
+      "changeTime": "2018-04-14T11:43:02.739Z",
       "birthTime": "2018-03-25T00:03:05.423Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages",
@@ -1184,13 +1184,13 @@
       "blksize": 4194304,
       "ino": 8600232496,
       "blocks": 0,
-      "atimeMs": 1523693886562.7466,
-      "mtimeMs": 1521937117653.1138,
-      "ctimeMs": 1521937117653.1138,
+      "atimeMs": 1523710514919.814,
+      "mtimeMs": 1523706182738.8616,
+      "ctimeMs": 1523706182738.8616,
       "birthtimeMs": 1521936185423.1204,
-      "atime": "2018-04-14T08:18:06.563Z",
-      "mtime": "2018-03-25T00:18:37.653Z",
-      "ctime": "2018-03-25T00:18:37.653Z",
+      "atime": "2018-04-14T12:55:14.920Z",
+      "mtime": "2018-04-14T11:43:02.739Z",
+      "ctime": "2018-04-14T11:43:02.739Z",
       "birthtime": "2018-03-25T00:03:05.423Z"
     },
     "/Users/Robert/uncharted/src/pages/tags absPath of file": {
@@ -1198,7 +1198,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5d01fdcf7094055612702dce57737e27",
+        "contentDigest": "1112129da23182d157aebdd66d592092",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1209,7 +1209,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-03-24T20:07:41.321Z",
-      "accessTime": "2018-04-14T08:18:06.563Z",
+      "accessTime": "2018-04-14T12:55:14.920Z",
       "changeTime": "2018-03-24T20:07:41.321Z",
       "birthTime": "2018-03-24T20:07:41.321Z",
       "root": "/",
@@ -1227,11 +1227,11 @@
       "blksize": 4194304,
       "ino": 8600035694,
       "blocks": 0,
-      "atimeMs": 1523693886562.7144,
+      "atimeMs": 1523710514919.8572,
       "mtimeMs": 1521922061321.4124,
       "ctimeMs": 1521922061321.4124,
       "birthtimeMs": 1521922061321.3477,
-      "atime": "2018-04-14T08:18:06.563Z",
+      "atime": "2018-04-14T12:55:14.920Z",
       "mtime": "2018-03-24T20:07:41.321Z",
       "ctime": "2018-03-24T20:07:41.321Z",
       "birthtime": "2018-03-24T20:07:41.321Z"
@@ -1253,7 +1253,7 @@
       "size": 198,
       "prettySize": "198 B",
       "modifiedTime": "2018-03-24T20:07:41.319Z",
-      "accessTime": "2018-04-14T07:12:27.186Z",
+      "accessTime": "2018-04-14T12:53:47.159Z",
       "changeTime": "2018-03-24T20:07:41.319Z",
       "birthTime": "2018-03-24T20:07:41.319Z",
       "root": "/",
@@ -1271,11 +1271,11 @@
       "blksize": 4194304,
       "ino": 8600035684,
       "blocks": 8,
-      "atimeMs": 1523689947185.5945,
+      "atimeMs": 1523710427158.674,
       "mtimeMs": 1521922061319.4634,
       "ctimeMs": 1521922061319.4634,
       "birthtimeMs": 1521922061319.3723,
-      "atime": "2018-04-14T07:12:27.186Z",
+      "atime": "2018-04-14T12:53:47.159Z",
       "mtime": "2018-03-24T20:07:41.319Z",
       "ctime": "2018-03-24T20:07:41.319Z",
       "birthtime": "2018-03-24T20:07:41.319Z"
@@ -1285,7 +1285,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "48e9b57272daa003f1b840c4e713f4ce",
+        "contentDigest": "9dfe7204f91aefd63187bb697f99b818",
         "mediaType": "application/javascript",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1294,11 +1294,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/pages/concept.js",
       "relativePath": "concept.js",
       "extension": "js",
-      "size": 3056,
-      "prettySize": "3.06 kB",
-      "modifiedTime": "2018-04-14T08:12:59.388Z",
-      "accessTime": "2018-04-14T08:12:59.386Z",
-      "changeTime": "2018-04-14T08:12:59.388Z",
+      "size": 3070,
+      "prettySize": "3.07 kB",
+      "modifiedTime": "2018-04-14T11:57:29.840Z",
+      "accessTime": "2018-04-14T12:53:47.159Z",
+      "changeTime": "2018-04-14T11:57:29.840Z",
       "birthTime": "2018-04-12T20:23:07.016Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages",
@@ -1315,13 +1315,13 @@
       "blksize": 4194304,
       "ino": 8601654282,
       "blocks": 8,
-      "atimeMs": 1523693579386.1353,
-      "mtimeMs": 1523693579387.8547,
-      "ctimeMs": 1523693579387.8547,
+      "atimeMs": 1523710427158.7195,
+      "mtimeMs": 1523707049840.2988,
+      "ctimeMs": 1523707049840.2988,
       "birthtimeMs": 1523564587015.696,
-      "atime": "2018-04-14T08:12:59.386Z",
-      "mtime": "2018-04-14T08:12:59.388Z",
-      "ctime": "2018-04-14T08:12:59.388Z",
+      "atime": "2018-04-14T12:53:47.159Z",
+      "mtime": "2018-04-14T11:57:29.840Z",
+      "ctime": "2018-04-14T11:57:29.840Z",
       "birthtime": "2018-04-12T20:23:07.016Z"
     },
     "/Users/Robert/uncharted/src/pages/index.js absPath of file": {
@@ -1341,7 +1341,7 @@
       "size": 4345,
       "prettySize": "4.34 kB",
       "modifiedTime": "2018-04-14T08:04:11.031Z",
-      "accessTime": "2018-04-14T08:04:11.030Z",
+      "accessTime": "2018-04-14T12:53:47.159Z",
       "changeTime": "2018-04-14T08:04:11.031Z",
       "birthTime": "2018-03-24T20:07:41.321Z",
       "root": "/",
@@ -1359,11 +1359,11 @@
       "blksize": 4194304,
       "ino": 8600035691,
       "blocks": 16,
-      "atimeMs": 1523693051030.4204,
+      "atimeMs": 1523710427158.7256,
       "mtimeMs": 1523693051030.9028,
       "ctimeMs": 1523693051030.9028,
       "birthtimeMs": 1521922061320.8904,
-      "atime": "2018-04-14T08:04:11.030Z",
+      "atime": "2018-04-14T12:53:47.159Z",
       "mtime": "2018-04-14T08:04:11.031Z",
       "ctime": "2018-04-14T08:04:11.031Z",
       "birthtime": "2018-03-24T20:07:41.321Z"
@@ -1385,7 +1385,7 @@
       "size": 3626,
       "prettySize": "3.63 kB",
       "modifiedTime": "2018-04-14T06:48:39.865Z",
-      "accessTime": "2018-04-14T07:12:27.186Z",
+      "accessTime": "2018-04-14T12:53:47.159Z",
       "changeTime": "2018-04-14T06:48:39.865Z",
       "birthTime": "2018-04-12T19:48:35.625Z",
       "root": "/",
@@ -1403,14 +1403,198 @@
       "blksize": 4194304,
       "ino": 8601652565,
       "blocks": 8,
-      "atimeMs": 1523689947185.6904,
+      "atimeMs": 1523710427158.7705,
       "mtimeMs": 1523688519864.9873,
       "ctimeMs": 1523688519864.9873,
       "birthtimeMs": 1523562515624.7998,
-      "atime": "2018-04-14T07:12:27.186Z",
+      "atime": "2018-04-14T12:53:47.159Z",
       "mtime": "2018-04-14T06:48:39.865Z",
       "ctime": "2018-04-14T06:48:39.865Z",
       "birthtime": "2018-04-12T19:48:35.625Z"
+    },
+    "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4ef48c85b1707a513f9a5f6d495fa065",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md",
+      "relativePath": "packages/fullnatureadventure.md",
+      "extension": "md",
+      "size": 81,
+      "prettySize": "81 B",
+      "modifiedTime": "2018-04-14T12:54:36.482Z",
+      "accessTime": "2018-04-14T12:54:37.524Z",
+      "changeTime": "2018-04-14T12:54:36.482Z",
+      "birthTime": "2018-03-25T00:03:31.320Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/pages/packages",
+      "base": "fullnatureadventure.md",
+      "ext": ".md",
+      "name": "fullnatureadventure",
+      "relativeDirectory": "packages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8600232516,
+      "blocks": 8,
+      "atimeMs": 1523710477523.6943,
+      "mtimeMs": 1523710476481.6855,
+      "ctimeMs": 1523710476481.6855,
+      "birthtimeMs": 1521936211320.3223,
+      "atime": "2018-04-14T12:54:37.524Z",
+      "mtime": "2018-04-14T12:54:36.482Z",
+      "ctime": "2018-04-14T12:54:36.482Z",
+      "birthtime": "2018-03-25T00:03:31.320Z"
+    },
+    "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "66e4f9d44a3048ef5ca5a2854be989dc",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md",
+      "relativePath": "packages/senseofadventure.md",
+      "extension": "md",
+      "size": 78,
+      "prettySize": "78 B",
+      "modifiedTime": "2018-04-14T12:54:26.008Z",
+      "accessTime": "2018-04-14T12:54:27.380Z",
+      "changeTime": "2018-04-14T12:54:26.008Z",
+      "birthTime": "2018-03-25T00:14:47.707Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/pages/packages",
+      "base": "senseofadventure.md",
+      "ext": ".md",
+      "name": "senseofadventure",
+      "relativeDirectory": "packages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8600233780,
+      "blocks": 8,
+      "atimeMs": 1523710467379.785,
+      "mtimeMs": 1523710466007.518,
+      "ctimeMs": 1523710466007.518,
+      "birthtimeMs": 1521936887706.852,
+      "atime": "2018-04-14T12:54:27.380Z",
+      "mtime": "2018-04-14T12:54:26.008Z",
+      "ctime": "2018-04-14T12:54:26.008Z",
+      "birthtime": "2018-03-25T00:14:47.707Z"
+    },
+    "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3236ed6f880e785ac61511bd372be7d8",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md",
+      "relativePath": "packages/weekendgetaway.md",
+      "extension": "md",
+      "size": 75,
+      "prettySize": "75 B",
+      "modifiedTime": "2018-04-14T12:54:31.770Z",
+      "accessTime": "2018-04-14T12:54:32.828Z",
+      "changeTime": "2018-04-14T12:54:31.770Z",
+      "birthTime": "2018-03-25T00:18:25.695Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/pages/packages",
+      "base": "weekendgetaway.md",
+      "ext": ".md",
+      "name": "weekendgetaway",
+      "relativeDirectory": "packages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8600234117,
+      "blocks": 8,
+      "atimeMs": 1523710472828.0725,
+      "mtimeMs": 1523710471770.1643,
+      "ctimeMs": 1523710471770.1643,
+      "birthtimeMs": 1521937105694.813,
+      "atime": "2018-04-14T12:54:32.828Z",
+      "mtime": "2018-04-14T12:54:31.770Z",
+      "ctime": "2018-04-14T12:54:31.770Z",
+      "birthtime": "2018-03-25T00:18:25.695Z"
+    },
+    "/Users/Robert/uncharted/src/pages/about/index.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/pages/about/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ee431923b895d30d57e6b876f0a90f76",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Robert/uncharted/src/pages/about/index.md",
+      "relativePath": "about/index.md",
+      "extension": "md",
+      "size": 1528,
+      "prettySize": "1.53 kB",
+      "modifiedTime": "2018-03-24T20:07:41.320Z",
+      "accessTime": "2018-04-14T12:53:40.357Z",
+      "changeTime": "2018-03-24T20:07:41.320Z",
+      "birthTime": "2018-03-24T20:07:41.320Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/pages/about",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "about",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8600035686,
+      "blocks": 8,
+      "atimeMs": 1523710420356.9443,
+      "mtimeMs": 1521922061319.7979,
+      "ctimeMs": 1521922061319.7979,
+      "birthtimeMs": 1521922061319.7207,
+      "atime": "2018-04-14T12:53:40.357Z",
+      "mtime": "2018-03-24T20:07:41.320Z",
+      "ctime": "2018-03-24T20:07:41.320Z",
+      "birthtime": "2018-03-24T20:07:41.320Z"
     },
     "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
@@ -1431,7 +1615,7 @@
       "size": 2231,
       "prettySize": "2.23 kB",
       "modifiedTime": "2018-04-12T19:56:53.402Z",
-      "accessTime": "2018-04-14T07:12:27.186Z",
+      "accessTime": "2018-04-14T12:53:40.357Z",
       "changeTime": "2018-04-12T19:56:53.402Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
@@ -1449,11 +1633,11 @@
       "blksize": 4194304,
       "ino": 8600035688,
       "blocks": 8,
-      "atimeMs": 1523689947185.6218,
+      "atimeMs": 1523710420357.0579,
       "mtimeMs": 1523563013402.4001,
       "ctimeMs": 1523563013402.4001,
       "birthtimeMs": 1521922061320.0696,
-      "atime": "2018-04-14T07:12:27.186Z",
+      "atime": "2018-04-14T12:53:40.357Z",
       "mtime": "2018-04-12T19:56:53.402Z",
       "ctime": "2018-04-12T19:56:53.402Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
@@ -1477,7 +1661,7 @@
       "size": 2476,
       "prettySize": "2.48 kB",
       "modifiedTime": "2018-04-12T19:56:50.436Z",
-      "accessTime": "2018-04-14T07:12:27.186Z",
+      "accessTime": "2018-04-14T12:53:40.357Z",
       "changeTime": "2018-04-12T19:56:50.436Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
@@ -1495,11 +1679,11 @@
       "blksize": 4194304,
       "ino": 8600035689,
       "blocks": 8,
-      "atimeMs": 1523689947185.6287,
+      "atimeMs": 1523710420357.0708,
       "mtimeMs": 1523563010436.246,
       "ctimeMs": 1523563010436.246,
       "birthtimeMs": 1521922061320.4092,
-      "atime": "2018-04-14T07:12:27.186Z",
+      "atime": "2018-04-14T12:53:40.357Z",
       "mtime": "2018-04-12T19:56:50.436Z",
       "ctime": "2018-04-12T19:56:50.436Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
@@ -1523,7 +1707,7 @@
       "size": 2757,
       "prettySize": "2.76 kB",
       "modifiedTime": "2018-04-12T19:56:57.986Z",
-      "accessTime": "2018-04-14T07:12:27.186Z",
+      "accessTime": "2018-04-14T12:53:40.357Z",
       "changeTime": "2018-04-12T19:56:57.986Z",
       "birthTime": "2018-03-24T20:07:41.321Z",
       "root": "/",
@@ -1541,198 +1725,14 @@
       "blksize": 4194304,
       "ino": 8600035690,
       "blocks": 8,
-      "atimeMs": 1523689947185.636,
+      "atimeMs": 1523710420357.1199,
       "mtimeMs": 1523563017986.0679,
       "ctimeMs": 1523563017986.0679,
       "birthtimeMs": 1521922061320.7004,
-      "atime": "2018-04-14T07:12:27.186Z",
+      "atime": "2018-04-14T12:53:40.357Z",
       "mtime": "2018-04-12T19:56:57.986Z",
       "ctime": "2018-04-12T19:56:57.986Z",
       "birthtime": "2018-03-24T20:07:41.321Z"
-    },
-    "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "464562a7d3b103b9c0b80dc12fe13355",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md",
-      "relativePath": "packages/fullnatureadventure.md",
-      "extension": "md",
-      "size": 79,
-      "prettySize": "79 B",
-      "modifiedTime": "2018-03-25T16:38:47.000Z",
-      "accessTime": "2018-04-14T07:12:27.186Z",
-      "changeTime": "2018-03-25T16:38:47.789Z",
-      "birthTime": "2018-03-25T00:03:31.320Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/pages/packages",
-      "base": "fullnatureadventure.md",
-      "ext": ".md",
-      "name": "fullnatureadventure",
-      "relativeDirectory": "packages",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8600232516,
-      "blocks": 8,
-      "atimeMs": 1523689947185.668,
-      "mtimeMs": 1521995927000,
-      "ctimeMs": 1521995927788.7207,
-      "birthtimeMs": 1521936211320.3223,
-      "atime": "2018-04-14T07:12:27.186Z",
-      "mtime": "2018-03-25T16:38:47.000Z",
-      "ctime": "2018-03-25T16:38:47.789Z",
-      "birthtime": "2018-03-25T00:03:31.320Z"
-    },
-    "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "db3c521bb3a6a1d1299dee70bb6c335e",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md",
-      "relativePath": "packages/senseofadventure.md",
-      "extension": "md",
-      "size": 76,
-      "prettySize": "76 B",
-      "modifiedTime": "2018-03-25T08:00:41.601Z",
-      "accessTime": "2018-04-14T07:12:27.186Z",
-      "changeTime": "2018-03-25T08:00:41.601Z",
-      "birthTime": "2018-03-25T00:14:47.707Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/pages/packages",
-      "base": "senseofadventure.md",
-      "ext": ".md",
-      "name": "senseofadventure",
-      "relativeDirectory": "packages",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8600233780,
-      "blocks": 8,
-      "atimeMs": 1523689947185.676,
-      "mtimeMs": 1521964841601.2578,
-      "ctimeMs": 1521964841601.2578,
-      "birthtimeMs": 1521936887706.852,
-      "atime": "2018-04-14T07:12:27.186Z",
-      "mtime": "2018-03-25T08:00:41.601Z",
-      "ctime": "2018-03-25T08:00:41.601Z",
-      "birthtime": "2018-03-25T00:14:47.707Z"
-    },
-    "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.1.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.1.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.1.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "5a31667afd50779568c34aaa8260855b",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.1.md",
-      "relativePath": "packages/weekendgetaway.1.md",
-      "extension": "md",
-      "size": 73,
-      "prettySize": "73 B",
-      "modifiedTime": "2018-03-25T08:00:47.848Z",
-      "accessTime": "2018-04-14T07:12:27.186Z",
-      "changeTime": "2018-03-25T08:00:47.848Z",
-      "birthTime": "2018-03-25T00:18:25.695Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/pages/packages",
-      "base": "weekendgetaway.1.md",
-      "ext": ".md",
-      "name": "weekendgetaway.1",
-      "relativeDirectory": "packages",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8600234117,
-      "blocks": 8,
-      "atimeMs": 1523689947185.6836,
-      "mtimeMs": 1521964847847.901,
-      "ctimeMs": 1521964847847.901,
-      "birthtimeMs": 1521937105694.813,
-      "atime": "2018-04-14T07:12:27.186Z",
-      "mtime": "2018-03-25T08:00:47.848Z",
-      "ctime": "2018-03-25T08:00:47.848Z",
-      "birthtime": "2018-03-25T00:18:25.695Z"
-    },
-    "/Users/Robert/uncharted/src/pages/about/index.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/pages/about/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "ee431923b895d30d57e6b876f0a90f76",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Robert/uncharted/src/pages/about/index.md",
-      "relativePath": "about/index.md",
-      "extension": "md",
-      "size": 1528,
-      "prettySize": "1.53 kB",
-      "modifiedTime": "2018-03-24T20:07:41.320Z",
-      "accessTime": "2018-04-14T07:12:27.186Z",
-      "changeTime": "2018-03-24T20:07:41.320Z",
-      "birthTime": "2018-03-24T20:07:41.320Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/pages/about",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "about",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8600035686,
-      "blocks": 8,
-      "atimeMs": 1523689947185.6082,
-      "mtimeMs": 1521922061319.7979,
-      "ctimeMs": 1521922061319.7979,
-      "birthtimeMs": 1521922061319.7207,
-      "atime": "2018-04-14T07:12:27.186Z",
-      "mtime": "2018-03-24T20:07:41.320Z",
-      "ctime": "2018-03-24T20:07:41.320Z",
-      "birthtime": "2018-03-24T20:07:41.320Z"
     },
     "/Users/Robert/uncharted/src/pages/tags/index.js absPath of file": {
       "id": "/Users/Robert/uncharted/src/pages/tags/index.js absPath of file",
@@ -1751,7 +1751,7 @@
       "size": 1192,
       "prettySize": "1.19 kB",
       "modifiedTime": "2018-03-24T20:07:41.321Z",
-      "accessTime": "2018-04-14T07:12:27.186Z",
+      "accessTime": "2018-04-14T12:53:47.159Z",
       "changeTime": "2018-03-24T20:07:41.321Z",
       "birthTime": "2018-03-24T20:07:41.321Z",
       "root": "/",
@@ -1769,14 +1769,118 @@
       "blksize": 4194304,
       "ino": 8600035695,
       "blocks": 8,
-      "atimeMs": 1523689947185.7048,
+      "atimeMs": 1523710427158.7834,
       "mtimeMs": 1521922061321.4688,
       "ctimeMs": 1521922061321.4688,
       "birthtimeMs": 1521922061321.4065,
-      "atime": "2018-04-14T07:12:27.186Z",
+      "atime": "2018-04-14T12:53:47.159Z",
       "mtime": "2018-03-24T20:07:41.321Z",
       "ctime": "2018-03-24T20:07:41.321Z",
       "birthtime": "2018-03-24T20:07:41.321Z"
+    },
+    "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'package'\nimage: /img/hero1.jpg\ntitle: Full Nature Adventure\n---",
+        "contentDigest": "773d3615f6dafe1d342add6cef5c61a3",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Full Nature Adventure",
+        "templateKey": "package",
+        "image": "../../../static/img/hero1.jpg",
+        "_PARENT": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md",
+      "fields": {
+        "slug": "/packages/fullnatureadventure/"
+      }
+    },
+    "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'package'\nimage: /img/hero1.jpg\ntitle: Sense of Adventure\n---",
+        "contentDigest": "c40e3402d6d908054088407a4c90cb76",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Sense of Adventure",
+        "templateKey": "package",
+        "image": "../../../static/img/hero1.jpg",
+        "_PARENT": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md",
+      "fields": {
+        "slug": "/packages/senseofadventure/"
+      }
+    },
+    "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'package'\nimage: /img/hero1.jpg\ntitle: Weekend Getaway\n---",
+        "contentDigest": "53403fe4b57247cca293dfdafb7f9593",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Weekend Getaway",
+        "templateKey": "package",
+        "image": "../../../static/img/hero1.jpg",
+        "_PARENT": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md",
+      "fields": {
+        "slug": "/packages/weekendgetaway/"
+      }
+    },
+    "/Users/Robert/uncharted/src/pages/about/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'about-page'\npath: /about\ntitle: About our values\n---\n### Shade-grown coffee\nCoffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.\n\n### Single origin\nSingle-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.\n\n### Sustainable farming\nSustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.\n\n### Direct sourcing\nDirect trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.\n\n### Reinvest profits\nWe want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.\n",
+        "contentDigest": "c5834aa2c378c06632aa287b3ba68c5c",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About our values",
+        "templateKey": "about-page",
+        "path": "/about",
+        "_PARENT": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/about/index.md",
+      "fields": {
+        "slug": "/about/"
+      }
     },
     "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark",
@@ -1876,116 +1980,12 @@
         "slug": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"
       }
     },
-    "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: package\nimage: /img/hero1.jpg\ntitle: Full Nature Adventure\n---",
-        "contentDigest": "773d3615f6dafe1d342add6cef5c61a3",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Full Nature Adventure",
-        "templateKey": "package",
-        "image": "../../../static/img/hero1.jpg",
-        "_PARENT": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md",
-      "fields": {
-        "slug": "/packages/fullnatureadventure/"
-      }
-    },
-    "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: package\nimage: /img/hero1.jpg\ntitle: Sense of Adventure\n---",
-        "contentDigest": "c40e3402d6d908054088407a4c90cb76",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Sense of Adventure",
-        "templateKey": "package",
-        "image": "../../../static/img/hero1.jpg",
-        "_PARENT": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md",
-      "fields": {
-        "slug": "/packages/senseofadventure/"
-      }
-    },
-    "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.1.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.1.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.1.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: package\nimage: /img/hero1.jpg\ntitle: Weekend Getaway\n---",
-        "contentDigest": "53403fe4b57247cca293dfdafb7f9593",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Weekend Getaway",
-        "templateKey": "package",
-        "image": "../../../static/img/hero1.jpg",
-        "_PARENT": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.1.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.1.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.1.md",
-      "fields": {
-        "slug": "/packages/weekendgetaway.1/"
-      }
-    },
-    "/Users/Robert/uncharted/src/pages/about/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: 'about-page'\npath: /about\ntitle: About our values\n---\n### Shade-grown coffee\nCoffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.\n\n### Single origin\nSingle-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.\n\n### Sustainable farming\nSustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.\n\n### Direct sourcing\nDirect trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.\n\n### Reinvest profits\nWe want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.\n",
-        "contentDigest": "c5834aa2c378c06632aa287b3ba68c5c",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "About our values",
-        "templateKey": "about-page",
-        "path": "/about",
-        "_PARENT": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/about/index.md",
-      "fields": {
-        "slug": "/about/"
-      }
-    },
     "/Users/Robert/uncharted/src/data absPath of file": {
       "id": "/Users/Robert/uncharted/src/data absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "fc5bdd587d6a4c8be1a7da3e29836958",
+        "contentDigest": "3d3dc62ea21eef9ad11c6cbf08d04de9",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1996,7 +1996,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-04-14T08:04:49.313Z",
-      "accessTime": "2018-04-14T08:18:06.580Z",
+      "accessTime": "2018-04-14T12:55:14.964Z",
       "changeTime": "2018-04-14T08:04:49.313Z",
       "birthTime": "2018-04-12T20:04:15.413Z",
       "root": "/",
@@ -2014,11 +2014,11 @@
       "blksize": 4194304,
       "ino": 8601653181,
       "blocks": 0,
-      "atimeMs": 1523693886580.2876,
+      "atimeMs": 1523710514963.9082,
       "mtimeMs": 1523693089313.4978,
       "ctimeMs": 1523693089313.4978,
       "birthtimeMs": 1523563455412.8713,
-      "atime": "2018-04-14T08:18:06.580Z",
+      "atime": "2018-04-14T12:55:14.964Z",
       "mtime": "2018-04-14T08:04:49.313Z",
       "ctime": "2018-04-14T08:04:49.313Z",
       "birthtime": "2018-04-12T20:04:15.413Z"
@@ -2028,7 +2028,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7aaeafc9bc7882aa0183eb5a33dd050f",
+        "contentDigest": "afa1a5997a3b5c1b7e1edc9fa759b780",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2039,7 +2039,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-04-14T07:57:31.634Z",
-      "accessTime": "2018-04-14T08:18:06.581Z",
+      "accessTime": "2018-04-14T12:55:14.965Z",
       "changeTime": "2018-04-14T07:57:31.634Z",
       "birthTime": "2018-04-14T06:51:58.905Z",
       "root": "/",
@@ -2057,60 +2057,57 @@
       "blksize": 4194304,
       "ino": 8601914063,
       "blocks": 0,
-      "atimeMs": 1523693886581.2568,
+      "atimeMs": 1523710514965.439,
       "mtimeMs": 1523692651633.756,
       "ctimeMs": 1523692651633.756,
       "birthtimeMs": 1523688718905.1316,
-      "atime": "2018-04-14T08:18:06.581Z",
+      "atime": "2018-04-14T12:55:14.965Z",
       "mtime": "2018-04-14T07:57:31.634Z",
       "ctime": "2018-04-14T07:57:31.634Z",
       "birthtime": "2018-04-14T06:51:58.905Z"
     },
-    "/Users/Robert/uncharted/src/data/index.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/index.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark"
-      ],
+    "/Users/Robert/uncharted/src/data/values absPath of file": {
+      "id": "/Users/Robert/uncharted/src/data/values absPath of file",
+      "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f3a4849f02bdb5125768f478ec5288d4",
-        "mediaType": "text/markdown",
-        "type": "File",
+        "contentDigest": "6510ee1d9a39cfe4172fb9fde4a86051",
+        "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/index.md",
-      "relativePath": "index.md",
-      "extension": "md",
-      "size": 343,
-      "prettySize": "343 B",
-      "modifiedTime": "2018-04-14T06:48:15.099Z",
-      "accessTime": "2018-04-14T06:57:11.347Z",
-      "changeTime": "2018-04-14T06:48:15.099Z",
-      "birthTime": "2018-03-24T22:13:24.296Z",
+      "absolutePath": "/Users/Robert/uncharted/src/data/values",
+      "relativePath": "values",
+      "extension": "",
+      "size": 192,
+      "prettySize": "192 B",
+      "modifiedTime": "2018-04-14T08:00:13.675Z",
+      "accessTime": "2018-04-14T12:55:14.966Z",
+      "changeTime": "2018-04-14T08:00:13.675Z",
+      "birthTime": "2018-04-14T07:57:28.444Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/data",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
+      "base": "values",
+      "ext": "",
+      "name": "values",
       "relativeDirectory": "",
       "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
+      "mode": 16877,
+      "nlink": 6,
       "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8600229499,
-      "blocks": 8,
-      "atimeMs": 1523689031346.5437,
-      "mtimeMs": 1523688495099.2993,
-      "ctimeMs": 1523688495099.2993,
-      "birthtimeMs": 1521929604296.0662,
-      "atime": "2018-04-14T06:57:11.347Z",
-      "mtime": "2018-04-14T06:48:15.099Z",
-      "ctime": "2018-04-14T06:48:15.099Z",
-      "birthtime": "2018-03-24T22:13:24.296Z"
+      "ino": 8601918034,
+      "blocks": 0,
+      "atimeMs": 1523710514965.5056,
+      "mtimeMs": 1523692813674.5247,
+      "ctimeMs": 1523692813674.5247,
+      "birthtimeMs": 1523692648443.6057,
+      "atime": "2018-04-14T12:55:14.966Z",
+      "mtime": "2018-04-14T08:00:13.675Z",
+      "ctime": "2018-04-14T08:00:13.675Z",
+      "birthtime": "2018-04-14T07:57:28.444Z"
     },
     "/Users/Robert/uncharted/src/data/concept.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/concept.md absPath of file",
@@ -2131,7 +2128,7 @@
       "size": 328,
       "prettySize": "328 B",
       "modifiedTime": "2018-04-14T06:48:10.167Z",
-      "accessTime": "2018-04-14T06:56:03.283Z",
+      "accessTime": "2018-04-14T12:53:40.506Z",
       "changeTime": "2018-04-14T06:48:10.167Z",
       "birthTime": "2018-04-12T20:21:16.129Z",
       "root": "/",
@@ -2149,14 +2146,60 @@
       "blksize": 4194304,
       "ino": 8601654136,
       "blocks": 8,
-      "atimeMs": 1523688963283.4844,
+      "atimeMs": 1523710420506.36,
       "mtimeMs": 1523688490166.5828,
       "ctimeMs": 1523688490166.5828,
       "birthtimeMs": 1523564476128.821,
-      "atime": "2018-04-14T06:56:03.283Z",
+      "atime": "2018-04-14T12:53:40.506Z",
       "mtime": "2018-04-14T06:48:10.167Z",
       "ctime": "2018-04-14T06:48:10.167Z",
       "birthtime": "2018-04-12T20:21:16.129Z"
+    },
+    "/Users/Robert/uncharted/src/data/index.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/data/index.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f3a4849f02bdb5125768f478ec5288d4",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/uncharted/src/data/index.md",
+      "relativePath": "index.md",
+      "extension": "md",
+      "size": 343,
+      "prettySize": "343 B",
+      "modifiedTime": "2018-04-14T06:48:15.099Z",
+      "accessTime": "2018-04-14T12:53:40.506Z",
+      "changeTime": "2018-04-14T06:48:15.099Z",
+      "birthTime": "2018-03-24T22:13:24.296Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/data",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8600229499,
+      "blocks": 8,
+      "atimeMs": 1523710420506.3862,
+      "mtimeMs": 1523688495099.2993,
+      "ctimeMs": 1523688495099.2993,
+      "birthtimeMs": 1521929604296.0662,
+      "atime": "2018-04-14T12:53:40.506Z",
+      "mtime": "2018-04-14T06:48:15.099Z",
+      "ctime": "2018-04-14T06:48:15.099Z",
+      "birthtime": "2018-03-24T22:13:24.296Z"
     },
     "/Users/Robert/uncharted/src/data/stories.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/stories.md absPath of file",
@@ -2177,7 +2220,7 @@
       "size": 337,
       "prettySize": "337 B",
       "modifiedTime": "2018-04-14T06:48:20.387Z",
-      "accessTime": "2018-04-14T06:48:22.713Z",
+      "accessTime": "2018-04-14T12:53:40.506Z",
       "changeTime": "2018-04-14T06:48:20.387Z",
       "birthTime": "2018-04-12T20:02:15.287Z",
       "root": "/",
@@ -2195,42 +2238,290 @@
       "blksize": 4194304,
       "ino": 8601653079,
       "blocks": 8,
-      "atimeMs": 1523688502712.9136,
+      "atimeMs": 1523710420506.4124,
       "mtimeMs": 1523688500387.3276,
       "ctimeMs": 1523688500387.3276,
       "birthtimeMs": 1523563335286.836,
-      "atime": "2018-04-14T06:48:22.713Z",
+      "atime": "2018-04-14T12:53:40.506Z",
       "mtime": "2018-04-14T06:48:20.387Z",
       "ctime": "2018-04-14T06:48:20.387Z",
       "birthtime": "2018-04-12T20:02:15.287Z"
     },
-    "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/index.md absPath of file",
+    "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
       "internal": {
-        "content": "---\ntemplateKey: 'frontpage'\nimage: /img/hero1.jpg\ntagline: A new way of travelling!\nwelcome: 'Welcome to your new travelling chapter. In this chapter you are the one to decide if you want to be taken into a special themed adventure, or tailor your own. What’s guaranteed is that with each uncharted path, you will rediscover yourself.'\n---\n",
-        "contentDigest": "c3c7960848aa0b72d3ba8597f21a6e79",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
+        "contentDigest": "6e0d035687bdee305c33390624fac52f",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
       },
-      "frontmatter": {
-        "title": "",
-        "templateKey": "frontpage",
-        "image": "../../static/img/hero1.jpg",
-        "tagline": "A new way of travelling!",
-        "welcome": "Welcome to your new travelling chapter. In this chapter you are the one to decide if you want to be taken into a special themed adventure, or tailor your own. What’s guaranteed is that with each uncharted path, you will rediscover yourself.",
-        "_PARENT": "/Users/Robert/uncharted/src/data/index.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/index.md absPath of file"
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/uncharted/src/data/activities/hiking.md",
+      "relativePath": "activities/hiking.md",
+      "extension": "md",
+      "size": 69,
+      "prettySize": "69 B",
+      "modifiedTime": "2018-04-14T07:20:03.626Z",
+      "accessTime": "2018-04-14T12:53:40.506Z",
+      "changeTime": "2018-04-14T07:20:03.626Z",
+      "birthTime": "2018-04-14T06:52:08.495Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/data/activities",
+      "base": "hiking.md",
+      "ext": ".md",
+      "name": "hiking",
+      "relativeDirectory": "activities",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601914065,
+      "blocks": 8,
+      "atimeMs": 1523710420506.3008,
+      "mtimeMs": 1523690403625.896,
+      "ctimeMs": 1523690403625.896,
+      "birthtimeMs": 1523688728494.768,
+      "atime": "2018-04-14T12:53:40.506Z",
+      "mtime": "2018-04-14T07:20:03.626Z",
+      "ctime": "2018-04-14T07:20:03.626Z",
+      "birthtime": "2018-04-14T06:52:08.495Z"
+    },
+    "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7a3df8c5eadeb85bfd072010f4bb6aa2",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
       },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/index.md",
-      "fields": {
-        "slug": "/"
-      }
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/uncharted/src/data/activities/hunt.md",
+      "relativePath": "activities/hunt.md",
+      "extension": "md",
+      "size": 76,
+      "prettySize": "76 B",
+      "modifiedTime": "2018-04-14T07:19:58.777Z",
+      "accessTime": "2018-04-14T12:53:40.506Z",
+      "changeTime": "2018-04-14T07:19:58.777Z",
+      "birthTime": "2018-04-14T07:16:23.158Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/data/activities",
+      "base": "hunt.md",
+      "ext": ".md",
+      "name": "hunt",
+      "relativeDirectory": "activities",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601915865,
+      "blocks": 8,
+      "atimeMs": 1523710420506.331,
+      "mtimeMs": 1523690398776.8486,
+      "ctimeMs": 1523690398776.8486,
+      "birthtimeMs": 1523690183158.2034,
+      "atime": "2018-04-14T12:53:40.506Z",
+      "mtime": "2018-04-14T07:19:58.777Z",
+      "ctime": "2018-04-14T07:19:58.777Z",
+      "birthtime": "2018-04-14T07:16:23.158Z"
+    },
+    "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1a7bc1fe06941ab1cc0a4bdc4963c9c3",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/uncharted/src/data/values/genuine.md",
+      "relativePath": "values/genuine.md",
+      "extension": "md",
+      "size": 423,
+      "prettySize": "423 B",
+      "modifiedTime": "2018-04-14T07:59:21.453Z",
+      "accessTime": "2018-04-14T12:53:40.507Z",
+      "changeTime": "2018-04-14T07:59:21.453Z",
+      "birthTime": "2018-04-14T07:57:35.672Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/data/values",
+      "base": "genuine.md",
+      "ext": ".md",
+      "name": "genuine",
+      "relativeDirectory": "values",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601918048,
+      "blocks": 8,
+      "atimeMs": 1523710420506.5127,
+      "mtimeMs": 1523692761453.3262,
+      "ctimeMs": 1523692761453.3262,
+      "birthtimeMs": 1523692655672.0955,
+      "atime": "2018-04-14T12:53:40.507Z",
+      "mtime": "2018-04-14T07:59:21.453Z",
+      "ctime": "2018-04-14T07:59:21.453Z",
+      "birthtime": "2018-04-14T07:57:35.672Z"
+    },
+    "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8d0d39b26636aa2c5d22dc2d25f0e8fa",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/uncharted/src/data/values/rediscover.md",
+      "relativePath": "values/rediscover.md",
+      "extension": "md",
+      "size": 346,
+      "prettySize": "346 B",
+      "modifiedTime": "2018-04-14T08:00:29.154Z",
+      "accessTime": "2018-04-14T12:53:40.507Z",
+      "changeTime": "2018-04-14T08:00:29.154Z",
+      "birthTime": "2018-04-14T08:00:04.392Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/data/values",
+      "base": "rediscover.md",
+      "ext": ".md",
+      "name": "rediscover",
+      "relativeDirectory": "values",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601918194,
+      "blocks": 8,
+      "atimeMs": 1523710420506.542,
+      "mtimeMs": 1523692829154.028,
+      "ctimeMs": 1523692829154.028,
+      "birthtimeMs": 1523692804392.3994,
+      "atime": "2018-04-14T12:53:40.507Z",
+      "mtime": "2018-04-14T08:00:29.154Z",
+      "ctime": "2018-04-14T08:00:29.154Z",
+      "birthtime": "2018-04-14T08:00:04.392Z"
+    },
+    "/Users/Robert/uncharted/src/data/values/safe.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/data/values/safe.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c639e46e41372bea69439c0177b230f0",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/uncharted/src/data/values/safe.md",
+      "relativePath": "values/safe.md",
+      "extension": "md",
+      "size": 444,
+      "prettySize": "444 B",
+      "modifiedTime": "2018-04-14T07:59:17.716Z",
+      "accessTime": "2018-04-14T12:53:40.507Z",
+      "changeTime": "2018-04-14T07:59:17.716Z",
+      "birthTime": "2018-04-14T07:58:38.399Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/data/values",
+      "base": "safe.md",
+      "ext": ".md",
+      "name": "safe",
+      "relativeDirectory": "values",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601918094,
+      "blocks": 8,
+      "atimeMs": 1523710420506.5698,
+      "mtimeMs": 1523692757716.403,
+      "ctimeMs": 1523692757716.403,
+      "birthtimeMs": 1523692718398.7253,
+      "atime": "2018-04-14T12:53:40.507Z",
+      "mtime": "2018-04-14T07:59:17.716Z",
+      "ctime": "2018-04-14T07:59:17.716Z",
+      "birthtime": "2018-04-14T07:58:38.399Z"
+    },
+    "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "76a3ae99abe4735c6ceff9b9dd1e7d98",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/uncharted/src/data/values/sustainable.md",
+      "relativePath": "values/sustainable.md",
+      "extension": "md",
+      "size": 310,
+      "prettySize": "310 B",
+      "modifiedTime": "2018-04-14T07:59:51.118Z",
+      "accessTime": "2018-04-14T12:53:40.507Z",
+      "changeTime": "2018-04-14T07:59:51.118Z",
+      "birthTime": "2018-04-14T07:59:23.143Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/data/values",
+      "base": "sustainable.md",
+      "ext": ".md",
+      "name": "sustainable",
+      "relativeDirectory": "values",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601918144,
+      "blocks": 8,
+      "atimeMs": 1523710420506.598,
+      "mtimeMs": 1523692791118.0103,
+      "ctimeMs": 1523692791118.0103,
+      "birthtimeMs": 1523692763142.7793,
+      "atime": "2018-04-14T12:53:40.507Z",
+      "mtime": "2018-04-14T07:59:51.118Z",
+      "ctime": "2018-04-14T07:59:51.118Z",
+      "birthtime": "2018-04-14T07:59:23.143Z"
     },
     "/Users/Robert/uncharted/src/data/concept.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/uncharted/src/data/concept.md absPath of file >>> MarkdownRemark",
@@ -2258,6 +2549,34 @@
       "fileAbsolutePath": "/Users/Robert/uncharted/src/data/concept.md",
       "fields": {
         "slug": "/concept/"
+      }
+    },
+    "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/data/index.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'frontpage'\nimage: /img/hero1.jpg\ntagline: A new way of travelling!\nwelcome: 'Welcome to your new travelling chapter. In this chapter you are the one to decide if you want to be taken into a special themed adventure, or tailor your own. What’s guaranteed is that with each uncharted path, you will rediscover yourself.'\n---\n",
+        "contentDigest": "c3c7960848aa0b72d3ba8597f21a6e79",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "",
+        "templateKey": "frontpage",
+        "image": "../../static/img/hero1.jpg",
+        "tagline": "A new way of travelling!",
+        "welcome": "Welcome to your new travelling chapter. In this chapter you are the one to decide if you want to be taken into a special themed adventure, or tailor your own. What’s guaranteed is that with each uncharted path, you will rediscover yourself.",
+        "_PARENT": "/Users/Robert/uncharted/src/data/index.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/data/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/index.md",
+      "fields": {
+        "slug": "/"
       }
     },
     "/Users/Robert/uncharted/src/data/stories.md absPath of file >>> MarkdownRemark": {
@@ -2288,201 +2607,12 @@
         "slug": "/stories/"
       }
     },
-    "/Users/Robert/uncharted/static/img absPath of file": {
-      "id": "/Users/Robert/uncharted/static/img absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "d002a28c07dfa521b305ff9a765bd5f3",
-        "type": "Directory",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/Robert/uncharted/static/img",
-      "relativePath": "",
-      "extension": "",
-      "size": 128,
-      "prettySize": "128 B",
-      "modifiedTime": "2018-03-24T22:32:16.947Z",
-      "accessTime": "2018-04-14T08:18:06.591Z",
-      "changeTime": "2018-03-24T22:32:16.947Z",
-      "birthTime": "2018-03-24T20:07:41.323Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/static",
-      "base": "img",
-      "ext": "",
-      "name": "img",
-      "relativeDirectory": "..",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 4,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8600035704,
-      "blocks": 0,
-      "atimeMs": 1523693886591.3525,
-      "mtimeMs": 1521930736947.124,
-      "ctimeMs": 1521930736947.124,
-      "birthtimeMs": 1521922061322.7996,
-      "atime": "2018-04-14T08:18:06.591Z",
-      "mtime": "2018-03-24T22:32:16.947Z",
-      "ctime": "2018-03-24T22:32:16.947Z",
-      "birthtime": "2018-03-24T20:07:41.323Z"
-    },
-    "/Users/Robert/uncharted/static/img/.DS_Store absPath of file": {
-      "id": "/Users/Robert/uncharted/static/img/.DS_Store absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "194577a7e20bdcc7afbb718f502c134c",
-        "mediaType": "application/octet-stream",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/Robert/uncharted/static/img/.DS_Store",
-      "relativePath": ".DS_Store",
-      "extension": "",
-      "size": 6148,
-      "prettySize": "6.15 kB",
-      "modifiedTime": "2018-03-24T22:32:10.412Z",
-      "accessTime": "2018-04-14T06:46:19.489Z",
-      "changeTime": "2018-03-24T22:32:10.412Z",
-      "birthTime": "2018-03-24T22:32:05.139Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/static/img",
-      "base": ".DS_Store",
-      "ext": "",
-      "name": ".DS_Store",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8600231987,
-      "blocks": 16,
-      "atimeMs": 1523688379489.3062,
-      "mtimeMs": 1521930730411.992,
-      "ctimeMs": 1521930730411.992,
-      "birthtimeMs": 1521930725138.738,
-      "atime": "2018-04-14T06:46:19.489Z",
-      "mtime": "2018-03-24T22:32:10.412Z",
-      "ctime": "2018-03-24T22:32:10.412Z",
-      "birthtime": "2018-03-24T22:32:05.139Z"
-    },
-    "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file": {
-      "id": "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "31b92e78cd26cb1a52fbb7172326c52b",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/Robert/uncharted/static/img/hero1.jpg",
-      "relativePath": "hero1.jpg",
-      "extension": "jpg",
-      "size": 8697889,
-      "prettySize": "8.7 MB",
-      "modifiedTime": "2018-03-02T11:06:04.000Z",
-      "accessTime": "2018-04-14T07:10:54.732Z",
-      "changeTime": "2018-03-24T22:32:19.528Z",
-      "birthTime": "2018-03-02T11:06:04.000Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/static/img",
-      "base": "hero1.jpg",
-      "ext": ".jpg",
-      "name": "hero1",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8597870283,
-      "blocks": 16992,
-      "atimeMs": 1523689854732.0183,
-      "mtimeMs": 1519988764000,
-      "ctimeMs": 1521930739527.9033,
-      "birthtimeMs": 1519988764000,
-      "atime": "2018-04-14T07:10:54.732Z",
-      "mtime": "2018-03-02T11:06:04.000Z",
-      "ctime": "2018-03-24T22:32:19.528Z",
-      "birthtime": "2018-03-02T11:06:04.000Z"
-    },
-    "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file",
-      "internal": {
-        "contentDigest": "31b92e78cd26cb1a52fbb7172326c52b",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "6e0d035687bdee305c33390624fac52f",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/activities/hiking.md",
-      "relativePath": "activities/hiking.md",
-      "extension": "md",
-      "size": 69,
-      "prettySize": "69 B",
-      "modifiedTime": "2018-04-14T07:20:03.626Z",
-      "accessTime": "2018-04-14T07:20:03.625Z",
-      "changeTime": "2018-04-14T07:20:03.626Z",
-      "birthTime": "2018-04-14T06:52:08.495Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/activities",
-      "base": "hiking.md",
-      "ext": ".md",
-      "name": "hiking",
-      "relativeDirectory": "activities",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8601914065,
-      "blocks": 8,
-      "atimeMs": 1523690403625.2754,
-      "mtimeMs": 1523690403625.896,
-      "ctimeMs": 1523690403625.896,
-      "birthtimeMs": 1523688728494.768,
-      "atime": "2018-04-14T07:20:03.625Z",
-      "mtime": "2018-04-14T07:20:03.626Z",
-      "ctime": "2018-04-14T07:20:03.626Z",
-      "birthtime": "2018-04-14T06:52:08.495Z"
-    },
     "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file >>> MarkdownRemark",
       "children": [],
       "parent": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: 'activity'\nimage: /img/hero1.jpg\nname: hiking\n---\n",
+        "content": "---\ntemplateKey: 'activity'\nimage: /img/hero1.jpg\nname: 'hiking'\n---\n",
         "contentDigest": "b739e2ca9521ebb4f44bff61f0b46ed9",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
@@ -2504,58 +2634,12 @@
         "slug": "/activities/hiking/"
       }
     },
-    "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "7a3df8c5eadeb85bfd072010f4bb6aa2",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/activities/hunt.md",
-      "relativePath": "activities/hunt.md",
-      "extension": "md",
-      "size": 76,
-      "prettySize": "76 B",
-      "modifiedTime": "2018-04-14T07:19:58.777Z",
-      "accessTime": "2018-04-14T07:19:58.776Z",
-      "changeTime": "2018-04-14T07:19:58.777Z",
-      "birthTime": "2018-04-14T07:16:23.158Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/activities",
-      "base": "hunt.md",
-      "ext": ".md",
-      "name": "hunt",
-      "relativeDirectory": "activities",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8601915865,
-      "blocks": 8,
-      "atimeMs": 1523690398776.1057,
-      "mtimeMs": 1523690398776.8486,
-      "ctimeMs": 1523690398776.8486,
-      "birthtimeMs": 1523690183158.2034,
-      "atime": "2018-04-14T07:19:58.776Z",
-      "mtime": "2018-04-14T07:19:58.777Z",
-      "ctime": "2018-04-14T07:19:58.777Z",
-      "birthtime": "2018-04-14T07:16:23.158Z"
-    },
     "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file >>> MarkdownRemark",
       "children": [],
       "parent": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: 'activity'\nimage: /img/hero1.jpg\nname: treasure hunt\n---\n",
+        "content": "---\ntemplateKey: 'activity'\nimage: /img/hero1.jpg\nname: 'treasure hunt'\n---\n",
         "contentDigest": "6c33d871d06877de6197af14b6e0c87c",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
@@ -2575,168 +2659,6 @@
       "fileAbsolutePath": "/Users/Robert/uncharted/src/data/activities/hunt.md",
       "fields": {
         "slug": "/activities/hunt/"
-      }
-    },
-    "/Users/Robert/uncharted/src/data/values absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/values absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "6a933f072c6d6db8cdc5446602265fa9",
-        "type": "Directory",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/values",
-      "relativePath": "values",
-      "extension": "",
-      "size": 192,
-      "prettySize": "192 B",
-      "modifiedTime": "2018-04-14T08:00:13.675Z",
-      "accessTime": "2018-04-14T08:18:06.581Z",
-      "changeTime": "2018-04-14T08:00:13.675Z",
-      "birthTime": "2018-04-14T07:57:28.444Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data",
-      "base": "values",
-      "ext": "",
-      "name": "values",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 6,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8601918034,
-      "blocks": 0,
-      "atimeMs": 1523693886581.2585,
-      "mtimeMs": 1523692813674.5247,
-      "ctimeMs": 1523692813674.5247,
-      "birthtimeMs": 1523692648443.6057,
-      "atime": "2018-04-14T08:18:06.581Z",
-      "mtime": "2018-04-14T08:00:13.675Z",
-      "ctime": "2018-04-14T08:00:13.675Z",
-      "birthtime": "2018-04-14T07:57:28.444Z"
-    },
-    "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "1a7bc1fe06941ab1cc0a4bdc4963c9c3",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/values/genuine.md",
-      "relativePath": "values/genuine.md",
-      "extension": "md",
-      "size": 423,
-      "prettySize": "423 B",
-      "modifiedTime": "2018-04-14T07:59:21.453Z",
-      "accessTime": "2018-04-14T07:59:21.453Z",
-      "changeTime": "2018-04-14T07:59:21.453Z",
-      "birthTime": "2018-04-14T07:57:35.672Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/values",
-      "base": "genuine.md",
-      "ext": ".md",
-      "name": "genuine",
-      "relativeDirectory": "values",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8601918048,
-      "blocks": 8,
-      "atimeMs": 1523692761452.9414,
-      "mtimeMs": 1523692761453.3262,
-      "ctimeMs": 1523692761453.3262,
-      "birthtimeMs": 1523692655672.0955,
-      "atime": "2018-04-14T07:59:21.453Z",
-      "mtime": "2018-04-14T07:59:21.453Z",
-      "ctime": "2018-04-14T07:59:21.453Z",
-      "birthtime": "2018-04-14T07:57:35.672Z"
-    },
-    "/Users/Robert/uncharted/src/data/values/safe.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/values/safe.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "c639e46e41372bea69439c0177b230f0",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/values/safe.md",
-      "relativePath": "values/safe.md",
-      "extension": "md",
-      "size": 444,
-      "prettySize": "444 B",
-      "modifiedTime": "2018-04-14T07:59:17.716Z",
-      "accessTime": "2018-04-14T07:59:17.716Z",
-      "changeTime": "2018-04-14T07:59:17.716Z",
-      "birthTime": "2018-04-14T07:58:38.399Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/values",
-      "base": "safe.md",
-      "ext": ".md",
-      "name": "safe",
-      "relativeDirectory": "values",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8601918094,
-      "blocks": 8,
-      "atimeMs": 1523692757715.798,
-      "mtimeMs": 1523692757716.403,
-      "ctimeMs": 1523692757716.403,
-      "birthtimeMs": 1523692718398.7253,
-      "atime": "2018-04-14T07:59:17.716Z",
-      "mtime": "2018-04-14T07:59:17.716Z",
-      "ctime": "2018-04-14T07:59:17.716Z",
-      "birthtime": "2018-04-14T07:58:38.399Z"
-    },
-    "/Users/Robert/uncharted/src/data/values/safe.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: 'value'\nheading: 'You’re in safe hands'\ntext: 'All adventure tours are accompanied by your group leader who is a specialist in activities. He will provide information on the places you are travelling through, suggest things to do and introduce you to local friends along the way. Your group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the area.'\n---\n",
-        "contentDigest": "d8534823dcf5b6d8d6c4ddd415e5f455",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "",
-        "templateKey": "value",
-        "heading": "You’re in safe hands",
-        "text": "All adventure tours are accompanied by your group leader who is a specialist in activities. He will provide information on the places you are travelling through, suggest things to do and introduce you to local friends along the way. Your group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the area.",
-        "_PARENT": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/values/safe.md",
-      "fields": {
-        "slug": "/values/safe/"
       }
     },
     "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file >>> MarkdownRemark": {
@@ -2766,51 +2688,59 @@
         "slug": "/values/genuine/"
       }
     },
-    "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
+    "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file",
       "internal": {
-        "contentDigest": "76a3ae99abe4735c6ceff9b9dd1e7d98",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
+        "content": "---\ntemplateKey: 'value'\nheading: 'rediscover yourself'\ntext: 'Uncharted challenges you to experience every small detail, as if it were for the first time. Except for the unexplored destinations and exciting activities, the adventure tours give you time to enjoy the silence, and reflect on your new discoveries, while enjoying the scenery.'\n---\n",
+        "contentDigest": "937562bbc816105891683f5674a90326",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
       },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/values/sustainable.md",
-      "relativePath": "values/sustainable.md",
-      "extension": "md",
-      "size": 310,
-      "prettySize": "310 B",
-      "modifiedTime": "2018-04-14T07:59:51.118Z",
-      "accessTime": "2018-04-14T07:59:51.102Z",
-      "changeTime": "2018-04-14T07:59:51.118Z",
-      "birthTime": "2018-04-14T07:59:23.143Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/values",
-      "base": "sustainable.md",
-      "ext": ".md",
-      "name": "sustainable",
-      "relativeDirectory": "values",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8601918144,
-      "blocks": 8,
-      "atimeMs": 1523692791101.6392,
-      "mtimeMs": 1523692791118.0103,
-      "ctimeMs": 1523692791118.0103,
-      "birthtimeMs": 1523692763142.7793,
-      "atime": "2018-04-14T07:59:51.102Z",
-      "mtime": "2018-04-14T07:59:51.118Z",
-      "ctime": "2018-04-14T07:59:51.118Z",
-      "birthtime": "2018-04-14T07:59:23.143Z"
+      "frontmatter": {
+        "title": "",
+        "templateKey": "value",
+        "heading": "rediscover yourself",
+        "text": "Uncharted challenges you to experience every small detail, as if it were for the first time. Except for the unexplored destinations and exciting activities, the adventure tours give you time to enjoy the silence, and reflect on your new discoveries, while enjoying the scenery.",
+        "_PARENT": "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/values/rediscover.md",
+      "fields": {
+        "slug": "/values/rediscover/"
+      }
+    },
+    "/Users/Robert/uncharted/src/data/values/safe.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'value'\nheading: 'You’re in safe hands'\ntext: 'All adventure tours are accompanied by your group leader who is a specialist in activities. He will provide information on the places you are travelling through, suggest things to do and introduce you to local friends along the way. Your group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the area.'\n---\n",
+        "contentDigest": "d8534823dcf5b6d8d6c4ddd415e5f455",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "",
+        "templateKey": "value",
+        "heading": "You’re in safe hands",
+        "text": "All adventure tours are accompanied by your group leader who is a specialist in activities. He will provide information on the places you are travelling through, suggest things to do and introduce you to local friends along the way. Your group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the area.",
+        "_PARENT": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/values/safe.md",
+      "fields": {
+        "slug": "/values/safe/"
+      }
     },
     "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file >>> MarkdownRemark",
@@ -2839,34 +2769,75 @@
         "slug": "/values/sustainable/"
       }
     },
-    "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file >>> MarkdownRemark"
-      ],
+    "/Users/Robert/uncharted/static/img absPath of file": {
+      "id": "/Users/Robert/uncharted/static/img absPath of file",
+      "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8d0d39b26636aa2c5d22dc2d25f0e8fa",
-        "mediaType": "text/markdown",
+        "contentDigest": "5e8d4444b2465e4441518ac93bf8d231",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/uncharted/static/img",
+      "relativePath": "",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-03-24T22:32:16.947Z",
+      "accessTime": "2018-04-14T12:55:15.013Z",
+      "changeTime": "2018-03-24T22:32:16.947Z",
+      "birthTime": "2018-03-24T20:07:41.323Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/static",
+      "base": "img",
+      "ext": "",
+      "name": "img",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8600035704,
+      "blocks": 0,
+      "atimeMs": 1523710515012.963,
+      "mtimeMs": 1521930736947.124,
+      "ctimeMs": 1521930736947.124,
+      "birthtimeMs": 1521922061322.7996,
+      "atime": "2018-04-14T12:55:15.013Z",
+      "mtime": "2018-03-24T22:32:16.947Z",
+      "ctime": "2018-03-24T22:32:16.947Z",
+      "birthtime": "2018-03-24T20:07:41.323Z"
+    },
+    "/Users/Robert/uncharted/static/img/.DS_Store absPath of file": {
+      "id": "/Users/Robert/uncharted/static/img/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "194577a7e20bdcc7afbb718f502c134c",
+        "mediaType": "application/octet-stream",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/values/rediscover.md",
-      "relativePath": "values/rediscover.md",
-      "extension": "md",
-      "size": 346,
-      "prettySize": "346 B",
-      "modifiedTime": "2018-04-14T08:00:29.154Z",
-      "accessTime": "2018-04-14T08:00:29.154Z",
-      "changeTime": "2018-04-14T08:00:29.154Z",
-      "birthTime": "2018-04-14T08:00:04.392Z",
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/uncharted/static/img/.DS_Store",
+      "relativePath": ".DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-03-24T22:32:10.412Z",
+      "accessTime": "2018-04-14T12:54:16.850Z",
+      "changeTime": "2018-03-24T22:32:10.412Z",
+      "birthTime": "2018-03-24T22:32:05.139Z",
       "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/values",
-      "base": "rediscover.md",
-      "ext": ".md",
-      "name": "rediscover",
-      "relativeDirectory": "values",
+      "dir": "/Users/Robert/uncharted/static/img",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "",
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
@@ -2874,108 +2845,71 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8601918194,
-      "blocks": 8,
-      "atimeMs": 1523692829153.6929,
-      "mtimeMs": 1523692829154.028,
-      "ctimeMs": 1523692829154.028,
-      "birthtimeMs": 1523692804392.3994,
-      "atime": "2018-04-14T08:00:29.154Z",
-      "mtime": "2018-04-14T08:00:29.154Z",
-      "ctime": "2018-04-14T08:00:29.154Z",
-      "birthtime": "2018-04-14T08:00:04.392Z"
+      "ino": 8600231987,
+      "blocks": 16,
+      "atimeMs": 1523710456850.045,
+      "mtimeMs": 1521930730411.992,
+      "ctimeMs": 1521930730411.992,
+      "birthtimeMs": 1521930725138.738,
+      "atime": "2018-04-14T12:54:16.850Z",
+      "mtime": "2018-03-24T22:32:10.412Z",
+      "ctime": "2018-03-24T22:32:10.412Z",
+      "birthtime": "2018-03-24T22:32:05.139Z"
     },
-    "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file",
+    "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file": {
+      "id": "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
       "internal": {
-        "content": "---\ntemplateKey: 'value'\nheading: 'rediscover yourself'\ntext: 'Uncharted challenges you to experience every small detail, as if it were for the first time. Except for the unexplored destinations and exciting activities, the adventure tours give you time to enjoy the silence, and reflect on your new discoveries, while enjoying the scenery.'\n---\n",
-        "contentDigest": "937562bbc816105891683f5674a90326",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
+        "contentDigest": "31b92e78cd26cb1a52fbb7172326c52b",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
       },
-      "frontmatter": {
-        "title": "",
-        "templateKey": "value",
-        "heading": "rediscover yourself",
-        "text": "Uncharted challenges you to experience every small detail, as if it were for the first time. Except for the unexplored destinations and exciting activities, the adventure tours give you time to enjoy the silence, and reflect on your new discoveries, while enjoying the scenery.",
-        "_PARENT": "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/values/rediscover.md",
-      "fields": {
-        "slug": "/values/rediscover/"
-      }
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/uncharted/static/img/hero1.jpg",
+      "relativePath": "hero1.jpg",
+      "extension": "jpg",
+      "size": 8697889,
+      "prettySize": "8.7 MB",
+      "modifiedTime": "2018-03-02T11:06:04.000Z",
+      "accessTime": "2018-04-14T12:54:16.850Z",
+      "changeTime": "2018-03-24T22:32:19.528Z",
+      "birthTime": "2018-03-02T11:06:04.000Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/static/img",
+      "base": "hero1.jpg",
+      "ext": ".jpg",
+      "name": "hero1",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8597870283,
+      "blocks": 16992,
+      "atimeMs": 1523710456850.0532,
+      "mtimeMs": 1519988764000,
+      "ctimeMs": 1521930739527.9033,
+      "birthtimeMs": 1519988764000,
+      "atime": "2018-04-14T12:54:16.850Z",
+      "mtime": "2018-03-02T11:06:04.000Z",
+      "ctime": "2018-03-24T22:32:19.528Z",
+      "birthtime": "2018-03-02T11:06:04.000Z"
     },
-    "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/": {
-      "layout": "index",
-      "jsonName": "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json",
-      "internalComponentName": "ComponentBlog20161217MakingSenseOfTheScaasNewFlavorWheel",
-      "path": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
-      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "id": "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
-      "parent": "SOURCE",
+    "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file >> ImageSharp",
       "children": [],
+      "parent": "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file",
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "c02dcc513e31e58e83076b77d4f07828",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/": {
-      "layout": "index",
-      "jsonName": "blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex.json",
-      "internalComponentName": "ComponentBlog20170104ABeginnersGuideToBrewingWithChemex",
-      "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
-      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "id": "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "dd8e24892f51db872abbb641ce39e585",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/": {
-      "layout": "index",
-      "jsonName": "blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.json",
-      "internalComponentName": "ComponentBlog20170104JustInSmallBatchOfJamaicanBlueMountainInStoreNextWeek",
-      "path": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
-      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "id": "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0902fb1477c66f946c2c683b42272bac",
-        "owner": "internal-data-bridge"
+        "contentDigest": "31b92e78cd26cb1a52fbb7172326c52b",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
       }
     },
     "SitePage /packages/fullnatureadventure/": {
@@ -2996,7 +2930,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "55c2958a978cae44a0b80a8eea921c83",
+        "contentDigest": "d989d68fb8a3e0b47283108dc91cb950",
         "owner": "internal-data-bridge"
       }
     },
@@ -3018,29 +2952,29 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9f6c00cca67fb6920e38eea4f62d9d32",
+        "contentDigest": "0996870129e8f594def3483576ae4e2e",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /packages/weekendgetaway.1/": {
+    "SitePage /packages/weekendgetaway/": {
       "layout": "index",
-      "jsonName": "packages-weekendgetaway-1.json",
-      "internalComponentName": "ComponentPackagesWeekendgetaway1",
-      "path": "/packages/weekendgetaway.1/",
+      "jsonName": "packages-weekendgetaway.json",
+      "internalComponentName": "ComponentPackagesWeekendgetaway",
+      "path": "/packages/weekendgetaway/",
       "component": "/Users/Robert/uncharted/src/templates/package.js",
       "componentChunkName": "component---src-templates-package-js",
       "context": {
-        "id": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.1.md absPath of file >>> MarkdownRemark"
+        "id": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file >>> MarkdownRemark"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
-      "id": "SitePage /packages/weekendgetaway.1/",
+      "id": "SitePage /packages/weekendgetaway/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "90dfae8101d4a308853138d4e9f9a862",
+        "contentDigest": "cf586d7a0a7cd32c7abf9ec1911c3391",
         "owner": "internal-data-bridge"
       }
     },
@@ -3062,7 +2996,73 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7c7fdf28a256ddf9feffb3010828b399",
+        "contentDigest": "1cde941a317a9ccc558e8b91d3bbca20",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/": {
+      "layout": "index",
+      "jsonName": "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json",
+      "internalComponentName": "ComponentBlog20161217MakingSenseOfTheScaasNewFlavorWheel",
+      "path": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
+      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "id": "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1690142a618fbc8d681aed7af61f223f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/": {
+      "layout": "index",
+      "jsonName": "blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex.json",
+      "internalComponentName": "ComponentBlog20170104ABeginnersGuideToBrewingWithChemex",
+      "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
+      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "id": "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bb291b66c00ca61ddb9a2cc10621f1dc",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/": {
+      "layout": "index",
+      "jsonName": "blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.json",
+      "internalComponentName": "ComponentBlog20170104JustInSmallBatchOfJamaicanBlueMountainInStoreNextWeek",
+      "path": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
+      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "id": "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0718c1dad9fd23358e32b08fd1affd90",
         "owner": "internal-data-bridge"
       }
     },
@@ -3084,7 +3084,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "48a4495bfa286b3d0b86e7c99f9edf45",
+        "contentDigest": "36f46ee9d1eccb9d0f4c17458a829aff",
         "owner": "internal-data-bridge"
       }
     },
@@ -3106,7 +3106,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f4cf355cb6bab05d11f9ea884f511e6a",
+        "contentDigest": "ef9438fcf601f3bd89ae943e54e533a5",
         "owner": "internal-data-bridge"
       }
     },
@@ -3128,7 +3128,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "580b6c44c73a4a271ee3a93b4312e9e1",
+        "contentDigest": "9dbaaa9c132b64d64dacca33bddef6b4",
         "owner": "internal-data-bridge"
       }
     },
@@ -3150,7 +3150,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "17ba21f1534c3a1f09db0a2d337234a2",
+        "contentDigest": "559ce14c51cf90faab2d40ede0d9cab2",
         "owner": "internal-data-bridge"
       }
     },
@@ -3172,7 +3172,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "57b590733b3c2f7940bef89226e10cbe",
+        "contentDigest": "229d0b72dd9446656d5adaa39bda6501",
         "owner": "internal-data-bridge"
       }
     },
@@ -3194,7 +3194,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "41427ec1e9e867070d48b7a107a00148",
+        "contentDigest": "2c690f0a01c9c11e4be9d630f6b4acab",
         "owner": "internal-data-bridge"
       }
     },
@@ -3214,7 +3214,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "226cdc5f9826dc9e4ae8a182f43b1785",
+        "contentDigest": "0dc28a51c85c1d2378852c45c7b91f85",
         "owner": "internal-data-bridge"
       }
     },
@@ -3234,7 +3234,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "34a61d39ef5c6d4528bdc28ce14486d8",
+        "contentDigest": "7d145e0c3b857976bc5073b609c5dbc4",
         "owner": "internal-data-bridge"
       }
     },
@@ -3254,7 +3254,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "af90ca267d5a95475b72cfe0fb073ae0",
+        "contentDigest": "c1335e74e94a8065ddf5b91f61d6750a",
         "owner": "internal-data-bridge"
       }
     },
@@ -3274,7 +3274,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0f9acc1bf8547fc49e1614938d8f8472",
+        "contentDigest": "21a77c462522130b1ad89c1d3ee4b302",
         "owner": "internal-data-bridge"
       }
     },
@@ -3294,7 +3294,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0fe9fad79c30f1bdd9e9ee097dbd0970",
+        "contentDigest": "5b712b9ff5872a6c4953bd49041de60c",
         "owner": "internal-data-bridge"
       }
     },
@@ -3314,7 +3314,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6301268f26f9adfaff81ab254af21ee2",
+        "contentDigest": "e7cbeccccdabbb7b131927aafcd2b85f",
         "owner": "internal-data-bridge"
       }
     }
@@ -3325,42 +3325,42 @@
   },
   "componentDataDependencies": {
     "nodes": {
-      "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark": [
-        "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"
-      ],
-      "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark": [
-        "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"
-      ],
-      "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": [
-        "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
-      ],
-      "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark": [
-        "/packages/fullnatureadventure/"
+      "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file >>> MarkdownRemark": [
+        "/packages/weekendgetaway/"
       ],
       "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file": [
-        "/stories/",
-        "/packages/weekendgetaway.1/",
+        "/packages/weekendgetaway/",
         "/packages/senseofadventure/",
         "/packages/fullnatureadventure/",
         "/concept/",
-        "/"
+        "/",
+        "/stories/"
       ],
       "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file >> ImageSharp": [
-        "/stories/",
-        "/packages/weekendgetaway.1/",
+        "/packages/weekendgetaway/",
         "/packages/senseofadventure/",
         "/packages/fullnatureadventure/",
         "/concept/",
-        "/"
+        "/",
+        "/stories/"
       ],
       "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark": [
         "/packages/senseofadventure/"
       ],
-      "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.1.md absPath of file >>> MarkdownRemark": [
-        "/packages/weekendgetaway.1/"
+      "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark": [
+        "/packages/fullnatureadventure/"
       ],
       "/Users/Robert/uncharted/src/pages/about/index.md absPath of file >>> MarkdownRemark": [
         "/about/"
+      ],
+      "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": [
+        "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
+      ],
+      "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark": [
+        "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"
+      ],
+      "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark": [
+        "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"
       ],
       "Site": [
         "/tags/flavor/",
@@ -3389,10 +3389,11 @@
         "/tags/chemex/",
         "/tags/jamaica/",
         "/tags/green-beans/",
+        "/concept/",
+        "/",
         "/stories/",
         "/tags/",
-        "/concept/",
-        "/"
+        "LAYOUT___index"
       ],
       "SitePage": [
         "/dev-404-page/"

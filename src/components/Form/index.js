@@ -36,7 +36,11 @@ export default class Form extends React.Component {
                 <Question>How many people are going?</Question>
                 <button>+</button><input type="number" /><button>-</button>
                 <Question>How much are you willing to spend?</Question>
-                <PriceContainer><label>1 000 DKK</label><input type="range" min="1000" max="10000"/><label>10 000 DKK</label></PriceContainer>
+                <PriceContainer>
+                    <PriceLimit>1 000 DKK</PriceLimit>
+                    <input type="range" min="1000" max="10000"/>
+                    <PriceLimit>10 000 DKK</PriceLimit>
+                </PriceContainer>
                 <Question>What do you want to do?</Question>
                 <ul>
                     {this.props.activities.map(({node : post}) => (
@@ -74,7 +78,7 @@ grid-template-columns: 1fr 1fr 1fr
 const Question = styled.h3`
 font-size: 1rem
 text-align: center
-margin: 2rem auto 1rem
+margin: 4rem auto 1rem
 grid-column: 1 / 4
 `
 
@@ -86,6 +90,9 @@ grid-column: 1 / 4
 display: flex
 align-items: center
 justify-content: center`
+
+const PriceLimit = styled.label`
+white-space: nowrap`
 
 const Comments = styled.textarea`
 resize: none

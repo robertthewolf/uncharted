@@ -23,7 +23,7 @@ export default class ConceptPage extends React.Component {
           {posts
             .filter(post => post.node.frontmatter.templateKey === 'value')
             .map(({ node: post }) => (
-                  <Value>
+                  <Value key={post.id}>
                     <Heading>{post.frontmatter.heading}</Heading>
                     <Text>{post.frontmatter.text}</Text>
                   </Value>

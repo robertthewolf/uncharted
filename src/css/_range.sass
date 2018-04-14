@@ -1,0 +1,105 @@
+$thumb-size: 24px
+$thumb-color: #464F8A
+
+$track-color: #1F233D
+$track-height: 5px
+
+
+input[type=range] 
+  -webkit-appearance: none /* Hides the slider so that custom slider can be made */
+  width: 100% /* Specific width is required for Firefox. */
+  background: transparent /* Otherwise white in Chrome */
+
+
+input[type=range]::-webkit-slider-thumb 
+  -webkit-appearance: none
+
+
+input[type=range]:focus 
+  outline: none /* Removes the blue border. You should probably do some kind of focus styling for accessibility reasons though. */
+
+
+input[type=range]::-ms-track 
+  width: 100%
+  cursor: pointer
+
+  /* Hides the slider so custom styles can be added */
+  background: transparent 
+  border-color: transparent
+  color: transparent
+
+
+/* Special styling for WebKit/Blink */
+input[type=range]::-webkit-slider-thumb 
+  -webkit-appearance: none
+  border: none
+  height: $thumb-size
+  width: $thumb-size
+  border-radius: 50%
+  background: $thumb-color
+  cursor: pointer
+  margin-top: -10px /* You need to specify a margin in Chrome, but in Firefox and IE it is automatic */
+  
+
+/* All the same stuff for Firefox */
+input[type=range]::-moz-range-thumb
+  border: none
+  height: $thumb-size
+  width: $thumb-size
+  border-radius: 50%
+  background: $thumb-color
+  cursor: pointer
+
+/* All the same stuff for IE */
+input[type=range]::-ms-thumb
+  border: none
+  height: $thumb-size
+  width: $thumb-size
+  border-radius: 50%
+  background: $thumb-color
+  cursor: pointer
+
+/* track */
+
+input[type=range]::-webkit-slider-runnable-track 
+  width: 100%
+  height: $track-height
+  cursor: pointer
+  background: $track-color
+  border-radius: $track-height
+
+
+input[type=range]:focus::-webkit-slider-runnable-track 
+  background: $track-color
+
+
+input[type=range]::-moz-range-track 
+  width: 100%
+  height: $track-height
+  cursor: pointer
+  background: $track-color
+  border-radius: $track-height
+
+
+input[type=range]::-ms-track 
+  width: 100%
+  height: $track-height
+  cursor: pointer
+  background: transparent
+  border-color: transparent
+  border-width: 16px 0
+  color: transparent
+
+input[type=range]::-ms-fill-lower 
+  background: $track-color
+  border-radius: $track-height
+
+input[type=range]:focus::-ms-fill-lower 
+  background: $track-color
+
+input[type=range]::-ms-fill-upper 
+  background: $track-color
+  border-radius: $track-height
+
+input[type=range]:focus::-ms-fill-upper 
+  background: $track-color
