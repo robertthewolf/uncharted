@@ -14,25 +14,18 @@
         "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"
     },
     {
-        "componentChunkName": "component---src-templates-package-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-fullnatureadventure.json",
-        "path": "/packages/fullnatureadventure/"
-    },
-    {
-        "componentChunkName": "component---src-templates-about-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "about.json",
-        "path": "/about/"
-    },
-    {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.json",
         "path": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"
+    },
+    {
+        "componentChunkName": "component---src-templates-package-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-fullnatureadventure.json",
+        "path": "/packages/fullnatureadventure/"
     },
     {
         "componentChunkName": "component---src-templates-package-js",
@@ -47,6 +40,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-weekendgetaway-1.json",
         "path": "/packages/weekendgetaway.1/"
+    },
+    {
+        "componentChunkName": "component---src-templates-about-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "about.json",
+        "path": "/about/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",

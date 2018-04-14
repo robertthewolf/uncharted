@@ -25,6 +25,9 @@ export default class IndexPage extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
     const { frontmatter: frontpage } = data.markdownRemark
 
+    const activities = posts.filter(post => post.node.frontmatter.templateKey === 'activity')
+    console.log(activities)
+
     return (
       <article>
           <Header>
@@ -53,7 +56,7 @@ export default class IndexPage extends React.Component {
             ))}
           </Trips>
           <h2>Make your own</h2>
-          <Form />
+          <Form activities={posts.filter(post => post.node.frontmatter.templateKey === 'activity')}/>
       </article>
     )
   }
@@ -69,7 +72,7 @@ IndexPage.propTypes = {
 
 export const pageQuery = graphql`
   query IndexQuery {
-    markdownRemark(frontmatter: {type: { eq: "frontpage" }}) {
+    markdownRemark(frontmatter: {templateKey: { eq: "frontpage" }}) {
       html
       frontmatter {
         image {
@@ -95,6 +98,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             templateKey
+            name
             image {
               childImageSharp {
                 sizes(maxWidth: 1000) {

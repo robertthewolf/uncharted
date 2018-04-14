@@ -52,7 +52,7 @@ StoriesPage.propTypes = {
 
 export const pageQuery = graphql`
   query StoriesQuery {
-    markdownRemark(frontmatter: {type: { eq: "stories" }}) {
+    markdownRemark(frontmatter: {templateKey: { eq: "stories" }}) {
       html
       frontmatter {
         image {

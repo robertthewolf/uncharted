@@ -39,7 +39,13 @@ export default class Form extends React.Component {
                 <PriceContainer><label>1 000 DKK</label><input type="range" min="1000" max="10000"/><label>10 000 DKK</label></PriceContainer>
                 <Question>What do you want to do?</Question>
                 <ul>
-                    <li><input type="checkbox"/></li>
+                    {this.props.activities.map(({node : post}) => (
+                        <li key={post.id}>
+                            <input type="checkbox"/>
+                            {post.frontmatter.name}
+                            <img src={post.frontmatter.image} />
+                        </li>
+                    ))}
                 </ul>
                 <Question>Any other wishes?</Question>
                 <Comments>

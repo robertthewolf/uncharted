@@ -53,7 +53,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 
     posts.forEach(edge => {
       const id = edge.node.id
-      if (id.includes('settings')) return;
+      if (id.includes('data')) return;
       createPage({
         path: edge.node.fields.slug,
         tags: edge.node.frontmatter.tags,

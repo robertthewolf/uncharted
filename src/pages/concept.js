@@ -19,24 +19,16 @@ export default class ConceptPage extends React.Component {
             <Welcome>{frontpage.welcome}</Welcome>
 
           </Header>
-          <Stories>
+          <Values>
           {posts
-            .filter(post => post.node.frontmatter.templateKey === 'blog-post')
+            .filter(post => post.node.frontmatter.templateKey === 'value')
             .map(({ node: post }) => (
-                  <Link to={post.fields.slug} key={post.id}>
-                    <Trip>
-                      <Thumbnail>
-                        <Image
-                          sizes={post.frontmatter.image.childImageSharp.sizes}
-                          alt={post.frontmatter.title}
-                          style={{height: '100%'}}
-                        />
-                      </Thumbnail>
-                      <Caption>{post.frontmatter.title}</Caption>
-                    </Trip>
-                  </Link>
+                  <Value>
+                    <Heading>{post.frontmatter.heading}</Heading>
+                    <Text>{post.frontmatter.text}</Text>
+                  </Value>
             ))}
-          </Stories>
+          </Values>
       </article>
     )
   }
@@ -52,7 +44,7 @@ ConceptPage.propTypes = {
 
 export const pageQuery = graphql`
   query ConceptQuery {
-    markdownRemark(frontmatter: {type: { eq: "concept" }}) {
+    markdownRemark(frontmatter: {templateKey: { eq: "concept" }}) {
       html
       frontmatter {
         image {
@@ -76,7 +68,8 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            title
+            heading
+            text
             templateKey
             image {
               childImageSharp {
@@ -118,49 +111,37 @@ const Welcome = styled.p`
 max-width: 700px
 margin: 0 auto 5rem`
 
-const Stories = styled.section`
-width: 100%
-max-width: 1024px
-margin: 0 auto
+const Values = styled.section`
+margin: 0 2rem
+padding: 3rem 0
 overflow-x: hidden
-display: grid
-grid-template-columns: 1fr 1fr 1fr 1fr
-align-content: stretch`
+display: flex`
 
-const Trip = styled.figure`
-padding: 1em
-position: relative`
-
-const Thumbnail = styled.div`
-width: 100%
-overflow: hidden
+const Value = styled.figure`
+padding: 1.5rem
 position: relative
-&:after {
-  content: "";
-  position: relative;
-  width: 100%;
-  padding-bottom: 100%;
-  background: radial-gradient( circle,transparent 0%,black 155%);
-  transform: scale(110%);
-  height: 100%;
-  display: block;
-  transition: opacity 1s ease;
+background: linear-gradient(180deg, rgba(215, 202, 235, 0.9) 0%, rgba(165, 166, 133, 0.9) 104.78%);
+flex:1
+
+&:nth-of-type(even) {
+transform: skewY(5deg);
 }
-&:hover:after {
-  opacity: .5
-}
-div {
-  position: absolute !important;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
+
+&:nth-of-type(odd) {
+transform: skewY(-5deg);
 }
 `
 
-const Caption = styled.figcaption`
-width: calc(100% - 2em);
-text-align: center
-font-weight: 600
+const Heading = styled.h3`
+font-family: Sign
+font-weight: 400
 text-transform: uppercase
+text-align: center
+text-align: left
+font-size: 1.6em
+color: black
+`
+
+const Text = styled.p`
+color: black
 `
