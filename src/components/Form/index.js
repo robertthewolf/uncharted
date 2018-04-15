@@ -13,6 +13,22 @@ export default class Form extends React.Component {
         endDate: null,
         focusedInput: null,
 
+        people: 1,
+        price: 4500
+    }
+
+    plusPeople = () => {
+        if (this.state.people === 20) return;
+        this.setState({people: this.state.people + 1})
+    }
+
+    minusPeople = () => {
+        if (this.state.people === 1) return;
+        this.setState({people: this.state.people - 1})
+    }
+
+    updatePrice = (event) => {
+        this.setState({price: event.target.value})
     }
 
     render() {
@@ -33,14 +49,23 @@ export default class Form extends React.Component {
                 showDefaultInputIcon={true}
                 />
                 </Date>
+
                 <Question>How many people are going?</Question>
-                <button>+</button><input type="number" /><button>-</button>
-                <Question>How much are you willing to spend?</Question>
-                <PriceContainer>
-                    <PriceLimit>1 000 DKK</PriceLimit>
-                    <input type="range" min="1000" max="10000"/>
-                    <PriceLimit>10 000 DKK</PriceLimit>
-                </PriceContainer>
+                <PlusButton onClick={this.minusPeople}>-</PlusButton>
+                <PeopleValue>
+                    {this.state.people}
+                    &nbsp;people
+                </PeopleValue>
+                <MinusButton onClick={this.plusPeople}>+</MinusButton>
+
+                <Question>How much are you willing to spend per person?</Question>
+                <PriceInput type="range" min="1000" max="10000" value={this.state.price} onChange={this.updatePrice} />
+                <PriceLimit>1 000 DKK</PriceLimit>
+                <PriceValue>{this.state.price}&nbsp;DKK</PriceValue>
+                <PriceLimit>10 000 DKK</PriceLimit>
+                    
+                    
+
                 <Question>What do you want to do?</Question>
                 <ul>
                     {this.props.activities.map(({node : post}) => (
@@ -51,14 +76,17 @@ export default class Form extends React.Component {
                         </li>
                     ))}
                 </ul>
+
                 <Question>Any other wishes?</Question>
                 <Comments>
                 </Comments>
                 <EmailContainer>
+
                 <Question>Email</Question>
                 <input type="email" />
                 </EmailContainer>
                 <PhoneContainer>
+
                 <Question>Phone</Question>
                 <input type="tel" />
                 </PhoneContainer>
@@ -85,14 +113,44 @@ grid-column: 1 / 4
 const Date = styled.div`
 grid-column: 1 / 4`
 
-const PriceContainer = styled.div`
+const PlusButton = styled.button`
+justify-self: right
+border-radius: .5rem 0 0 .5rem
+background-color: #464F8A
+width: 3.2rem
+cursor: pointer
+`
+
+const MinusButton = styled.button`
+justify-self: left
+border-radius: 0 .5rem .5rem 0
+background-color: #464F8A
+width: 3.2rem
+cursor: pointer
+`
+
+const PeopleValue = styled.div`
+text-align: center
+text-transform: uppercase
+font-size: 1rem
+padding: .8rem 1rem
+background-color: #1F233D
+`
+
+const PriceInput = styled.input`
 grid-column: 1 / 4
-display: flex
-align-items: center
-justify-content: center`
+width: calc(100% - 2rem) !important;`
 
 const PriceLimit = styled.label`
-white-space: nowrap`
+white-space: nowrap
+font-size: .8rem
+opacity: .5
+&:last-of-type {
+    text-align: right
+}`
+
+const PriceValue = styled.p`
+text-align: center`
 
 const Comments = styled.textarea`
 resize: none
