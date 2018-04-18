@@ -1,6 +1,8 @@
 import React from 'react'
 import styled from 'styled-components'
 
+import Image from 'gatsby-image'
+
 //date-picker
 import 'react-dates/initialize';
 import { DateRangePicker, SingleDatePicker, DayPickerRangeController } from 'react-dates';
@@ -54,28 +56,29 @@ export default class Form extends React.Component {
                 <PlusButton onClick={this.minusPeople}>-</PlusButton>
                 <PeopleValue>
                     {this.state.people}
-                    &nbsp;people
+                    &nbsp;
+                    {this.state.people === 1 && 'person'}
+                    {this.state.people > 1 && 'people'}
                 </PeopleValue>
                 <MinusButton onClick={this.plusPeople}>+</MinusButton>
 
                 <Question>How much are you willing to spend per person?</Question>
                 <PriceInput type="range" min="1000" max="10000" value={this.state.price} onChange={this.updatePrice} />
                 <PriceLimit>1 000 DKK</PriceLimit>
-                <PriceValue>{this.state.price}&nbsp;DKK</PriceValue>
+                <PriceValue>{Math.round(this.state.price * Math.pow(10, -2)) * 100}&nbsp;DKK</PriceValue>
                 <PriceLimit>10 000 DKK</PriceLimit>
                     
                     
 
                 <Question>What do you want to do?</Question>
-                <ul>
                     {this.props.activities.map(({node : post}) => (
-                        <li key={post.id}>
-                            <input type="checkbox"/>
-                            {post.frontmatter.name}
-                            <img src={post.frontmatter.image} />
-                        </li>
+                        <Activity key={post.id}>
+                            <Checkbox type="checkbox"/>
+                            <FakeCheckbox />
+                            <Image sizes={post.frontmatter.image} />
+                            <CheckboxName>{post.frontmatter.name}</CheckboxName>
+                        </Activity>
                     ))}
-                </ul>
 
                 <Question>Any other wishes?</Question>
                 <Comments>
@@ -145,12 +148,53 @@ const PriceLimit = styled.label`
 white-space: nowrap
 font-size: .8rem
 opacity: .5
-&:last-of-type {
+&:nth-of-type(2) {
     text-align: right
 }`
 
 const PriceValue = styled.p`
 text-align: center`
+
+const Activity = styled.label`
+display: block;
+position: relative;
+margin: .5rem
+padding: .8rem 1rem
+height: 100px
+cursor: pointer;
+`
+
+const Checkbox = styled.input`
+position: absolute
+top: 0;
+left: 0;
+opacity: 0
+cursor: pointer
+width: 100%;
+height: 100%;
+&:checked ~ div {
+    background-color: #464F8A
+}
+`
+
+const FakeCheckbox = styled.div`
+position: absolute
+top: 0;
+left: 0;
+width: 100%;
+height: 100%
+background-color: #1F233D
+border-radius: .5rem
+transition: background-color .5s ease
+`
+const CheckboxName = styled.span`
+text-align: center
+text-transform: uppercase
+position: relative
+z-index: 20
+width: 100%
+font-size: 1rem
+`
 
 const Comments = styled.textarea`
 resize: none

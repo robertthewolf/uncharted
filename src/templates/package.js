@@ -15,9 +15,21 @@ const Package = ({ data }) => {
       <Helmet title={`${post.frontmatter.title} | Package`} />
       <Header>
             <Image sizes={post.frontmatter.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
-            <Tagline>{post.frontmatter.title}</Tagline>
-
+            <Container>
+            <Feature>💰<br/>{post.frontmatter.price}</Feature>
+            <Feature>🗓️<br/>{post.frontmatter.lenght}</Feature>
+            <Title>{post.frontmatter.title}</Title>
+            <Tagline>{post.frontmatter.tagline}</Tagline>
+            <Description>{post.frontmatter.description}</Description>
+            </Container>
       </Header>
+      <Container>
+      <IncludedList>
+        {post.frontmatter.included.map((item) => (
+          <IncludedItem>{item}</IncludedItem>
+        ))}
+      </IncludedList>
+      </Container>
     </section>
   )
 }
@@ -45,6 +57,11 @@ export const pageQuery = graphql`
           }
         }
         title
+        tagline
+        description
+        price
+        lenght
+        included
       }
     }
   }
@@ -68,9 +85,42 @@ div.gatsby-image-outer-wrapper {
 }
 `
 
-const Tagline = styled.h1`
+const Container = styled.div`
+max-width: 1024px
+margin: 0 auto
+text-align: left`
+
+const Feature = styled.div`
+float: right
+text-align: center
+margin: 1rem
+&:first-letter {
+  font-size: 2em
+}
 `
 
-const Welcome = styled.p`
-max-width: 700px
-margin: 0 auto 5rem`
+const Title = styled.h1`
+text-align: left
+`
+const Tagline = styled.h3`
+font-size: 1.5rem
+margin-bottom: 3rem
+font-weight: 200
+`
+const Description = styled.p`
+opacity: .4
+transition: opacity 1s ease
+&:hover {
+  opacity: .9
+}
+`
+
+const IncludedList = styled.ul`
+margin: 2rem 0
+column-count: 2
+
+`
+
+const IncludedItem = styled.li`
+padding: 2rem 4rem
+`
