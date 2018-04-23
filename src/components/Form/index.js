@@ -89,7 +89,7 @@ export default class Form extends React.Component {
                 <Question>Phone</Question>
                 <input type="tel" name="phone" placeholder="optional" />
                 </PhoneContainer>
-                <Submit type="submit" />
+                <Submit type="submit">Submit</Submit>
             </Container>
         );
     }
@@ -227,7 +227,7 @@ grid-column: 2 / 3
     }
 }`
 
-const Submit = styled.input`
+const Submit = styled.button`
 grid-column: 3 / 4
 align-self: end
 @media screen and (max-width: 600px) {
