@@ -60,12 +60,19 @@ padding: 1rem
 
 const Container = styled.div`
 max-width: 1024px
-margin: 2rem auto
+margin: 0 auto
 display: grid
 grid-template-columns: 1fr 1fr 1fr 1fr
+@media screen and (max-width: 850px) {
+    grid-template-columns: 1fr 1fr
+}
+@media screen and (max-width: 420px) {
+    grid-template-columns: 1fr
+}
 `
 
 const Column = styled.div`
+margin: 2rem .5rem;
 `
 const Heading = styled.h3`
 font-weight: 200

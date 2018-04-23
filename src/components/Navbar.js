@@ -6,40 +6,53 @@ import logo from '../img/logo.png'
 
 import ContactCard from './ContactCard/index'
 
-const Navbar = () => (
-  <NavWrapper className="navbar">
-    <Link to="/" className="navbar-item">
-      <figure className="image">
-        <Logo src={logo} alt="Uncharted" />
-      </figure>
-    </Link>
-    <Menu>
+export default class Navbar extends React.Component {
+  state = {
+    menuOpen: false,
+  }
 
-      <Item>
-        <Link className="navbar-item" to="/concept">
-          Concept
+  toggleMenu = () => {
+    this.setState({menuOpen: !this.state.menuOpen})
+  }
+
+  render() {
+    return(
+      <NavWrapper className="navbar">
+        <Link to="/" className="navbar-item">
+          <figure className="image">
+            <Logo src={logo} alt="Uncharted" />
+          </figure>
         </Link>
-      </Item>
+        <Menu open={this.state.menuOpen}>
 
-      <Item>
-        <Link className="navbar-item" to="/stories">
-          Stories
-        </Link>
-      </Item>
+          <Item>
+            <Link className="navbar-item" to="/concept" onClick={this.toggleMenu}>
+              Concept
+            </Link>
+          </Item>
 
-      <Item>
-        <ContactButton>
-          Contact
-        </ContactButton>
-        <ContactCard/>
-      </Item>
+          <Item>
+            <Link className="navbar-item" to="/stories" onClick={this.toggleMenu}>
+              Stories
+            </Link>
+          </Item>
 
-    </Menu>
+          <Item>
+            <ContactButton>
+              Contact
+            </ContactButton>
+            <ContactCard/>
+          </Item>
 
-  </NavWrapper>
-)
+        </Menu>
 
-export default Navbar
+        <MenuButton open={this.state.menuOpen} onClick={this.toggleMenu} />
+
+      </NavWrapper>
+    )
+  }
+}
+
 
 const NavWrapper = styled.nav`
   display: flex
@@ -60,6 +73,40 @@ display: flex
 & a {
   color: black
 }
+@media screen and (max-width: 600px) {
+  position: fixed
+  top: 0
+  left: 0
+  width: 100%
+  height: 100vh
+  background-color: black
+  flex-direction: column
+  justify-content: space-around
+  align-items: center
+  transform: translateX(${props => props.open ? '0px' : '-100vw'});
+  transition: transform .2s ease-in;
+  & * {
+    color: white !important
+  }
+}
+`
+
+const MenuButton = styled.div`
+@media screen and (min-width: 600px) {
+  display: none
+}
+position: fixed
+top: 1rem
+right: 1rem
+background: white
+color: black
+font-size: 28px
+padding: 0 .4em .125em
+cursor: pointer
+&:after{
+  content: ${props => props.open ? '"✕"' : '"☰"'};
+}
+
 `
 
 const Item = styled.li`

@@ -137,7 +137,8 @@ const Tagline = styled.h1`
 
 const Welcome = styled.p`
 max-width: 700px
-margin: 0 auto 5rem`
+margin: 0 auto 5rem
+padding: 1rem`
 
 const Trips = styled.section`
 width: 100%
@@ -146,7 +147,14 @@ margin: 0 auto
 overflow-x: hidden
 display: grid
 grid-template-columns: 1fr 1fr 1fr
-align-content: stretch`
+align-content: stretch
+@media screen and (max-width: 700px) {
+  grid-template-columns: 1fr 1fr
+}
+@media screen and (max-width: 380px) {
+  grid-template-columns: 1fr
+}
+`
 
 const Trip = styled.figure`
 padding: 1em

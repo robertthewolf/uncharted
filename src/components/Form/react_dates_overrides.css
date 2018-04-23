@@ -4,6 +4,7 @@
   font-size: 1rem;
   font-family: inherit;
   border-radius: 0;
+  width: initial;
 }
 
 .DateRangePickerInput {
@@ -15,7 +16,17 @@
 .DateRangePickerInput_arrow {
   position: relative;
   vertical-align: initial;
+  padding-right: .5rem;
 }
+
+.DateRangePickerInput_arrow_svg {
+  fill: #fff;
+}
+
 .DateRangePickerInput_calendarIcon_svg {
   vertical-align: initial;
+}
+
+.DateInput_input__focused {
+  border-bottom: none;
 }

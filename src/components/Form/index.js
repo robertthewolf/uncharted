@@ -16,7 +16,8 @@ export default class Form extends React.Component {
         focusedInput: null,
 
         people: 1,
-        price: 4500
+        price: 4500,
+
     }
 
     plusPeople = () => {
@@ -35,7 +36,7 @@ export default class Form extends React.Component {
 
     render() {
         return(
-            <Container>
+            <Container name="createyourown" netlify>
                 <Question>When do you want to go?</Question>
                 <Date>
                 <DateRangePicker
@@ -91,7 +92,7 @@ export default class Form extends React.Component {
                 <PhoneContainer>
 
                 <Question>Phone</Question>
-                <input type="tel" />
+                <input type="tel" placeholder="optional" />
                 </PhoneContainer>
                 <Submit type="submit" />
             </Container>
@@ -99,11 +100,16 @@ export default class Form extends React.Component {
     }
 }
 
-const Container = styled.section`
+const Container = styled.form`
 max-width: 650px
 margin: 0 auto
+padding: 1rem
 display: grid
 grid-template-columns: 1fr 1fr 1fr
+@media screen and (max-width: 600px) {
+    grid-template-columns: 1fr 1fr 1fr
+    width: calc(100% - 2rem)
+}
 `
 
 const Question = styled.h3`
@@ -138,6 +144,7 @@ text-transform: uppercase
 font-size: 1rem
 padding: .8rem 1rem
 background-color: #1F233D
+font-weight: 200
 `
 
 const PriceInput = styled.input`
@@ -162,6 +169,7 @@ margin: .5rem
 padding: .8rem 1rem
 height: 100px
 cursor: pointer;
+text-align: center
 `
 
 const Checkbox = styled.input`
@@ -194,6 +202,7 @@ position: relative
 z-index: 20
 width: 100%
 font-size: 1rem
+font-weight: 200
 `
 
 const Comments = styled.textarea`
@@ -203,12 +212,30 @@ height: 5rem
 grid-column: 1 / 4`
 
 const EmailContainer = styled.div`
-grid-column: 1 / 2`
+grid-column: 1 / 2
+@media screen and (max-width: 600px) {
+    grid-column: 1 / 3;
+    padding: 1rem 0;
+    & input {
+    width: calc(100% - 3rem);
+    }
+}`
 
 const PhoneContainer = styled.div`
-grid-column: 2 / 3`
+grid-column: 2 / 3
+@media screen and (max-width: 600px) {
+    grid-column: 3 / 4;
+    padding: 1rem 0;
+    min-width: 0
+    & input {
+    width: calc(100% - 2rem);
+    }
+}`
 
 const Submit = styled.input`
 grid-column: 3 / 4
 align-self: end
-`
+@media screen and (max-width: 600px) {
+    grid-column: 1 / 4;
+    padding: 1rem 0;
+}`
