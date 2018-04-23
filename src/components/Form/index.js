@@ -41,9 +41,9 @@ export default class Form extends React.Component {
                 <Date>
                 <DateRangePicker
                 startDate={this.state.startDate} // momentPropTypes.momentObj or null,
-                startDateId="your_unique_start_date_id" // PropTypes.string.isRequired,
+                startDateId="start_date" // PropTypes.string.isRequired,
                 endDate={this.state.endDate} // momentPropTypes.momentObj or null,
-                endDateId="your_unique_end_date_id" // PropTypes.string.isRequired,
+                endDateId="end_date" // PropTypes.string.isRequired,
                 onDatesChange={({ startDate, endDate }) => this.setState({ startDate, endDate })} // PropTypes.func.isRequired,
                 focusedInput={this.state.focusedInput} // PropTypes.oneOf([START_DATE, END_DATE]) or null,
                 onFocusChange={focusedInput => this.setState({ focusedInput })} // PropTypes.func.isRequired,
@@ -55,12 +55,7 @@ export default class Form extends React.Component {
 
                 <Question>How many people are going?</Question>
                 <PlusButton onClick={this.minusPeople}>-</PlusButton>
-                <PeopleValue>
-                    {this.state.people}
-                    &nbsp;
-                    {this.state.people === 1 && 'person'}
-                    {this.state.people > 1 && 'people'}
-                </PeopleValue>
+                <PeopleValue type="number" name="people" value={this.state.people} disabled />
                 <MinusButton onClick={this.plusPeople}>+</MinusButton>
 
                 <Question>How much are you willing to spend per person?</Question>
@@ -87,7 +82,7 @@ export default class Form extends React.Component {
                 <EmailContainer>
 
                 <Question>Email</Question>
-                <input type="email" name="email" />
+                <input type="email" name="email" placeholder="required" required />
                 </EmailContainer>
                 <PhoneContainer>
 
@@ -122,29 +117,29 @@ grid-column: 1 / 4
 const Date = styled.div`
 grid-column: 1 / 4`
 
-const PlusButton = styled.button`
+const PlusButton = styled.div`
 justify-self: right
 border-radius: .5rem 0 0 .5rem
 background-color: #464F8A
-width: 3.2rem
+padding: .1rem 1.2rem
+font-size: 1.5rem
 cursor: pointer
+user-select: none;
 `
 
-const MinusButton = styled.button`
+const MinusButton = styled.div`
 justify-self: left
 border-radius: 0 .5rem .5rem 0
 background-color: #464F8A
-width: 3.2rem
+padding: .1rem 1.2rem
+font-size: 1.5rem
 cursor: pointer
+user-select: none;
 `
 
-const PeopleValue = styled.div`
+const PeopleValue = styled.input`
 text-align: center
-text-transform: uppercase
-font-size: 1rem
-padding: .8rem 1rem
-background-color: #1F233D
-font-weight: 200
+border-radius: 0;
 `
 
 const PriceInput = styled.input`
