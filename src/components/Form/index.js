@@ -36,7 +36,7 @@ export default class Form extends React.Component {
 
     render() {
         return(
-            <Container name="createyourown" netlify>
+            <Container name="createyourown" data-netlify="true">
                 <Question>When do you want to go?</Question>
                 <Date>
                 <DateRangePicker
@@ -64,7 +64,7 @@ export default class Form extends React.Component {
                 <MinusButton onClick={this.plusPeople}>+</MinusButton>
 
                 <Question>How much are you willing to spend per person?</Question>
-                <PriceInput type="range" min="1000" max="10000" value={this.state.price} onChange={this.updatePrice} />
+                <PriceInput type="range" name="price" min="1000" max="10000" value={this.state.price} onChange={this.updatePrice} />
                 <PriceLimit>1 000 DKK</PriceLimit>
                 <PriceValue>{Math.round(this.state.price * Math.pow(10, -2)) * 100}&nbsp;DKK</PriceValue>
                 <PriceLimit>10 000 DKK</PriceLimit>
@@ -74,7 +74,7 @@ export default class Form extends React.Component {
                 <Question>What do you want to do?</Question>
                     {this.props.activities.map(({node : post}) => (
                         <Activity key={post.id}>
-                            <Checkbox type="checkbox"/>
+                            <Checkbox type="checkbox" name={post.frontmatter.name} />
                             <FakeCheckbox />
                             <Image sizes={post.frontmatter.image} />
                             <CheckboxName>{post.frontmatter.name}</CheckboxName>
@@ -82,17 +82,17 @@ export default class Form extends React.Component {
                     ))}
 
                 <Question>Any other wishes?</Question>
-                <Comments>
+                <Comments name="comments">
                 </Comments>
                 <EmailContainer>
 
                 <Question>Email</Question>
-                <input type="email" />
+                <input type="email" name="email" />
                 </EmailContainer>
                 <PhoneContainer>
 
                 <Question>Phone</Question>
-                <input type="tel" placeholder="optional" />
+                <input type="tel" name="phone" placeholder="optional" />
                 </PhoneContainer>
                 <Submit type="submit" />
             </Container>
