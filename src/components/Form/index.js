@@ -36,7 +36,7 @@ export default class Form extends React.Component {
 
     render() {
         return(
-            <Container name="createyourown" data-netlify="true">
+            <Container name="createyourown" method="POST" data-netlify="true" action="/confirmation">
                 <Question>When do you want to go?</Question>
                 <Date>
                 <DateRangePicker
