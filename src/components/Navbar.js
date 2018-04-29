@@ -31,11 +31,11 @@ export default class Navbar extends React.Component {
             </Link>
           </Item>
 
-          <Item>
+          {/* <Item>
             <Link className="navbar-item" to="/stories" onClick={this.toggleMenu}>
               Stories
             </Link>
-          </Item>
+          </Item> */}
 
           <Item>
             <ContactButton>

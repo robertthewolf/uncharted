@@ -75,8 +75,12 @@ h2
   margin-top: 2em
   font-size: 2em
 
+h4
+  margin-top: 2rem
+
 p
   font-weight: 200
+  padding-bottom: 1rem
 
 input, textarea, button
   padding: .8rem 1rem
@@ -87,8 +91,14 @@ input, textarea, button
   font-size: 1rem
   font-weight: 200
   transition: background-color .5s ease
+  &::placeholder
+    color: darken(#1F233D, 30%)
   &:focus
     background-color: #464F8A
+    &::placeholder
+      color: #1F233D
+
+  
 
 button
   font-weight: 600

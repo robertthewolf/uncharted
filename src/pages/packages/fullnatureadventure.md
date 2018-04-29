@@ -1,7 +1,7 @@
 ---
 templateKey: 'package'
 image: /img/hero1.jpg
-title: Full Nature Adventure
+title: Full Nature Immersion
 tagline: Find yourself in the natural wonders of Transylvania.
 description: Full nature immersion will give you the perfect opportunity to fully connect with nature and release the stress of urban life. Embark on an adventure that will take you through the heart of the mountains, paved by centuries of history and tradition. Discover the nature wonders of Transylvania in a unique way, an adventure specially designed to offer the most genuine discovery process. With high focus on various ways to explore the mountains and enjoy the nature, numerous elements of culture and traditions will still be present. In this way we ensure an experience where memories are being formed, while footsteps are left behind.
 price: '5.500 DKK'

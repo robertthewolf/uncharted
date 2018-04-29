@@ -12,7 +12,7 @@ export default class ConceptPage extends React.Component {
     const { frontmatter: frontpage } = data.markdownRemark
 
     return (
-      <article>
+      <Wrapper>
           <Header>
             <Image sizes={frontpage.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
             <Tagline>{frontpage.tagline}</Tagline>
@@ -29,7 +29,7 @@ export default class ConceptPage extends React.Component {
                   </Value>
             ))}
           </Values>
-      </article>
+      </Wrapper>
     )
   }
 }
@@ -85,6 +85,9 @@ export const pageQuery = graphql`
     }
   }
 `
+
+const Wrapper = styled.article`
+padding-bottom: 4rem`
 
 const Header =  styled.header`
 text-align: center

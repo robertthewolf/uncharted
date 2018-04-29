@@ -29,7 +29,7 @@ export default class IndexPage extends React.Component {
     console.log(activities)
 
     return (
-      <article>
+      <Wrapper>
           <Header>
             <Image sizes={frontpage.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
             <Tagline>{frontpage.tagline}</Tagline>
@@ -57,7 +57,7 @@ export default class IndexPage extends React.Component {
           </Trips>
           <h2>Make your own</h2>
           <Form activities={posts.filter(post => post.node.frontmatter.templateKey === 'activity')}/>
-      </article>
+      </Wrapper>
     )
   }
 }
@@ -113,6 +113,10 @@ export const pageQuery = graphql`
     }
   }
 `
+
+
+const Wrapper = styled.article`
+padding-bottom: 4rem`
 
 const Header =  styled.header`
 text-align: center

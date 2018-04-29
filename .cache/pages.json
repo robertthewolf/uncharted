@@ -91,13 +91,6 @@
         "path": "/tags/green-beans/"
     },
     {
-        "componentChunkName": "component---cache-dev-404-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "dev-404-page.json",
-        "path": "/dev-404-page/"
-    },
-    {
         "componentChunkName": "component---src-pages-404-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -119,6 +112,13 @@
         "path": "/confirmation/"
     },
     {
+        "componentChunkName": "component---src-pages-faq-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "faq.json",
+        "path": "/faq/"
+    },
+    {
         "componentChunkName": "component---src-pages-index-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -133,11 +133,11 @@
         "path": "/stories/"
     },
     {
-        "componentChunkName": "component---src-pages-tags-index-js",
+        "componentChunkName": "component---src-pages-terms-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags.json",
-        "path": "/tags/"
+        "jsonName": "terms.json",
+        "path": "/terms/"
     },
     {
         "componentChunkName": "component---src-pages-404-js",

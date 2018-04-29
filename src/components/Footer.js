@@ -22,7 +22,18 @@ const Footer = (props) => (
         </Column>
         <Column>
             <Heading>Useful Links</Heading>
-            
+            <Link to="/faq">
+              FAQ's
+            </Link>
+            <Link to="/terms">
+              Terms and conditions
+            </Link>
+            <Link to="/concept">
+              The Concept
+            </Link>
+            {/* <Link to="/stories">
+              Our Stories
+            </Link> */}
         </Column>
         <Column>
             <Heading>Reach Us Anytime</Heading>
@@ -43,7 +54,6 @@ export default Footer
 
 const Wrapper = styled.footer`
 background-color: #1F233D
-margin-top: 4rem
 padding: 1rem
 & a {
     display: block

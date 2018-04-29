@@ -6,40 +6,80 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "src/pages/blog"
+  - name: "packages"
+    label: "Packages"
+    folder: "src/pages/packages"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "package"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Tagline", name: "tagline", widget: "string"}
+      - {label: "Cover image", name: "image", widget: "image"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Price", name: "price", widget: "string"}
+      - {label: "Number of days", name: "lenght", widget: "string"}
+      - {label: "What's included", name: "included", widget: "list"}
+
+  - name: "activities"
+    label: "Activities"
+    folder: "src/data/activities"
+    create: true
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "activity"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Thumbnail image", name: "image", widget: "image"}
+
+  - name: "values"
+    label: "Values"
+    folder: "src/data/values"
+    create: true
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "values"}
+      - {label: "Heading", name: "heading", widget: "string"}
+      - {label: "Text", name: "text", widget: "string"}
+ 
+#  pages
 
   - name: "pages"
     label: "Pages"
     files:
       - file: "src/pages/about/index.md"
-        label: "About"
-        name: "about"
+        name: "frontpage"
+        label: "Frontpage"
+        folder: "src/data/"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/products/index.md"
-        label: "Products Page"
-        name: "products"
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "frontpage"}
+          - {label: "Tagline", name: "tagline", widget: "string"}
+          - {label: "Welcoming paragraph", name: "welcome", widget: "string"}
+          - {label: "Cover image", name: "image", widget: "image"}
+      - file: "src/pages/about/concept.md"
+        name: "concept"
+        label: "Concept"
+        folder: "src/data/"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "product-page"}
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Description, name: description, widget: string}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
-          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
-          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
-          - {label: Full_image, name: full_image, widget: image}
-          - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "concept"}
+          - {label: "Tagline", name: "tagline", widget: "string"}
+          - {label: "Welcoming paragraph", name: "welcome", widget: "string"}
+          - {label: "Cover image", name: "image", widget: "image"}
+          - {label: "Body text", name: "body", widget: "markdown"}
+      - file: "src/pages/about/stories.md"
+        name: "stories"
+        label: "Stories"
+        folder: "src/data/"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "stories"}
+          - {label: "Tagline", name: "tagline", widget: "string"}
+          - {label: "Welcoming paragraph", name: "welcome", widget: "string"}
+          - {label: "Cover image", name: "image", widget: "image"}
+
+      - file: "src/pages/about/terms.md"
+        name: "terms"
+        label: "Terms and Conditions"
+        folder: "src/data/"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "terms"}
+          - {label: "Tagline", name: "tagline", widget: "string"}
+          - {label: "Welcoming paragraph", name: "welcome", widget: "string"}
+          - {label: "Cover image", name: "image", widget: "image"}
+          - {label: "Body text", name: "body", widget: "markdown"}
+    

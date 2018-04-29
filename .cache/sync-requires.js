@@ -11,13 +11,13 @@ exports.components = {
   "component---src-templates-blog-post-js": preferDefault(require("/Users/Robert/uncharted/src/templates/blog-post.js")),
   "component---src-templates-about-page-js": preferDefault(require("/Users/Robert/uncharted/src/templates/about-page.js")),
   "component---src-templates-tags-js": preferDefault(require("/Users/Robert/uncharted/src/templates/tags.js")),
-  "component---cache-dev-404-page-js": preferDefault(require("/Users/Robert/uncharted/.cache/dev-404-page.js")),
   "component---src-pages-404-js": preferDefault(require("/Users/Robert/uncharted/src/pages/404.js")),
   "component---src-pages-concept-js": preferDefault(require("/Users/Robert/uncharted/src/pages/concept.js")),
   "component---src-pages-confirmation-js": preferDefault(require("/Users/Robert/uncharted/src/pages/confirmation.js")),
+  "component---src-pages-faq-js": preferDefault(require("/Users/Robert/uncharted/src/pages/faq.js")),
   "component---src-pages-index-js": preferDefault(require("/Users/Robert/uncharted/src/pages/index.js")),
   "component---src-pages-stories-js": preferDefault(require("/Users/Robert/uncharted/src/pages/stories.js")),
-  "component---src-pages-tags-index-js": preferDefault(require("/Users/Robert/uncharted/src/pages/tags/index.js"))
+  "component---src-pages-terms-js": preferDefault(require("/Users/Robert/uncharted/src/pages/terms.js"))
 }
 
 exports.json = {
@@ -48,19 +48,19 @@ exports.json = {
   "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
   "tags-green-beans.json": require("/Users/Robert/uncharted/.cache/json/tags-green-beans.json"),
   "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
-  "dev-404-page.json": require("/Users/Robert/uncharted/.cache/json/dev-404-page.json"),
-  "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
   "404.json": require("/Users/Robert/uncharted/.cache/json/404.json"),
   "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
   "concept.json": require("/Users/Robert/uncharted/.cache/json/concept.json"),
   "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
   "confirmation.json": require("/Users/Robert/uncharted/.cache/json/confirmation.json"),
   "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
+  "faq.json": require("/Users/Robert/uncharted/.cache/json/faq.json"),
+  "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
   "index.json": require("/Users/Robert/uncharted/.cache/json/index.json"),
   "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
   "stories.json": require("/Users/Robert/uncharted/.cache/json/stories.json"),
   "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
-  "tags.json": require("/Users/Robert/uncharted/.cache/json/tags.json"),
+  "terms.json": require("/Users/Robert/uncharted/.cache/json/terms.json"),
   "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
   "404-html.json": require("/Users/Robert/uncharted/.cache/json/404-html.json")
 }
