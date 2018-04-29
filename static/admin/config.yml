@@ -18,7 +18,12 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Price", name: "price", widget: "string"}
       - {label: "Number of days", name: "lenght", widget: "string"}
-      - {label: "What's included", name: "included", widget: "list"}
+      - label: "What's included"
+        name: "included"
+        widget: "list"
+        create: true
+        fields:
+          - {label: "Feature", name: "feature", widget: "string"}
 
   - name: "activities"
     label: "Activities"
@@ -36,50 +41,45 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "values"}
       - {label: "Heading", name: "heading", widget: "string"}
-      - {label: "Text", name: "text", widget: "string"}
+      - {label: "Text", name: "text", widget: "text"}
  
 #  pages
 
   - name: "pages"
     label: "Pages"
     files:
-      - file: "src/pages/about/index.md"
+      - file: "src/data/index.md"
         name: "frontpage"
         label: "Frontpage"
-        folder: "src/data/"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "frontpage"}
           - {label: "Tagline", name: "tagline", widget: "string"}
-          - {label: "Welcoming paragraph", name: "welcome", widget: "string"}
+          - {label: "Welcoming paragraph", name: "welcome", widget: "text"}
           - {label: "Cover image", name: "image", widget: "image"}
-      - file: "src/pages/about/concept.md"
+      - file: "src/data/concept.md"
         name: "concept"
         label: "Concept"
-        folder: "src/data/"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "concept"}
           - {label: "Tagline", name: "tagline", widget: "string"}
-          - {label: "Welcoming paragraph", name: "welcome", widget: "string"}
+          - {label: "Welcoming paragraph", name: "welcome", widget: "text"}
           - {label: "Cover image", name: "image", widget: "image"}
           - {label: "Body text", name: "body", widget: "markdown"}
-      - file: "src/pages/about/stories.md"
+      - file: "src/data/stories.md"
         name: "stories"
         label: "Stories"
-        folder: "src/data/"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "stories"}
           - {label: "Tagline", name: "tagline", widget: "string"}
-          - {label: "Welcoming paragraph", name: "welcome", widget: "string"}
+          - {label: "Welcoming paragraph", name: "welcome", widget: "text"}
           - {label: "Cover image", name: "image", widget: "image"}
-
-      - file: "src/pages/about/terms.md"
+      - file: "src/data/terms.md"
         name: "terms"
         label: "Terms and Conditions"
-        folder: "src/data/"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "terms"}
           - {label: "Tagline", name: "tagline", widget: "string"}
-          - {label: "Welcoming paragraph", name: "welcome", widget: "string"}
+          - {label: "Welcoming paragraph", name: "welcome", widget: "text"}
           - {label: "Cover image", name: "image", widget: "image"}
           - {label: "Body text", name: "body", widget: "markdown"}
     
