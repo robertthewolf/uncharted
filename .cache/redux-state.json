@@ -968,6 +968,10 @@
             "version": "^5.2.0"
           },
           {
+            "name": "react-load-script",
+            "version": "0.0.6"
+          },
+          {
             "name": "reset-css",
             "version": "^3.0.0"
           },
@@ -1000,12 +1004,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-04-29T16:47:17.502Z",
+      "buildTime": "2018-04-29T17:32:58.717Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ceafad35181b3a8ef9fefe84f9b1fe27",
+        "contentDigest": "99f10fa2c5bf5581875e6a8c0f6fdfb3",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1015,7 +1019,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f34587a80a94bda0c1f9b53dbd5ec3d5",
+        "contentDigest": "003f1911d034ba3822997b9a28cc99ba",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1026,7 +1030,7 @@
       "size": 384,
       "prettySize": "384 B",
       "modifiedTime": "2018-04-29T15:57:17.264Z",
-      "accessTime": "2018-04-29T16:47:21.968Z",
+      "accessTime": "2018-04-29T17:33:02.935Z",
       "changeTime": "2018-04-29T15:57:17.264Z",
       "birthTime": "2018-03-24T20:07:41.319Z",
       "root": "/",
@@ -1044,11 +1048,11 @@
       "blksize": 4194304,
       "ino": 8600035683,
       "blocks": 0,
-      "atimeMs": 1525020441967.7046,
+      "atimeMs": 1525023182935.3196,
       "mtimeMs": 1525017437263.5664,
       "ctimeMs": 1525017437263.5664,
       "birthtimeMs": 1521922061319.3135,
-      "atime": "2018-04-29T16:47:21.968Z",
+      "atime": "2018-04-29T17:33:02.935Z",
       "mtime": "2018-04-29T15:57:17.264Z",
       "ctime": "2018-04-29T15:57:17.264Z",
       "birthtime": "2018-03-24T20:07:41.319Z"
@@ -1058,7 +1062,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "fdc847e9f0e827a420960ced082f4aa7",
+        "contentDigest": "c6eb76abfbe53709cf4b794c66cccbbb",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1069,7 +1073,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-03-24T20:07:41.320Z",
-      "accessTime": "2018-04-29T16:47:21.971Z",
+      "accessTime": "2018-04-29T17:33:02.938Z",
       "changeTime": "2018-03-24T20:07:41.320Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
@@ -1087,11 +1091,11 @@
       "blksize": 4194304,
       "ino": 8600035685,
       "blocks": 0,
-      "atimeMs": 1525020441971.0605,
+      "atimeMs": 1525023182938.256,
       "mtimeMs": 1521922061319.7295,
       "ctimeMs": 1521922061319.7295,
       "birthtimeMs": 1521922061319.6301,
-      "atime": "2018-04-29T16:47:21.971Z",
+      "atime": "2018-04-29T17:33:02.938Z",
       "mtime": "2018-03-24T20:07:41.320Z",
       "ctime": "2018-03-24T20:07:41.320Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
@@ -1101,7 +1105,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "14586b9ac0d4d35e35f0cc26530e089e",
+        "contentDigest": "4c0ea5d1f7cfdb83c01471df2770a522",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1112,7 +1116,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-03-24T20:07:41.321Z",
-      "accessTime": "2018-04-29T16:47:21.971Z",
+      "accessTime": "2018-04-29T17:33:02.938Z",
       "changeTime": "2018-03-24T20:07:41.321Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
@@ -1130,11 +1134,11 @@
       "blksize": 4194304,
       "ino": 8600035687,
       "blocks": 0,
-      "atimeMs": 1525020441971.068,
+      "atimeMs": 1525023182938.2744,
       "mtimeMs": 1521922061320.7075,
       "ctimeMs": 1521922061320.7075,
       "birthtimeMs": 1521922061319.9465,
-      "atime": "2018-04-29T16:47:21.971Z",
+      "atime": "2018-04-29T17:33:02.938Z",
       "mtime": "2018-03-24T20:07:41.321Z",
       "ctime": "2018-03-24T20:07:41.321Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
@@ -1144,7 +1148,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "22460975c444f489d42148eb7cf4fdf9",
+        "contentDigest": "c748adf21221d3b37c1383e78cde6d8f",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1155,7 +1159,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-04-14T11:43:02.739Z",
-      "accessTime": "2018-04-29T16:47:21.971Z",
+      "accessTime": "2018-04-29T17:33:02.938Z",
       "changeTime": "2018-04-14T11:43:02.739Z",
       "birthTime": "2018-03-25T00:03:05.423Z",
       "root": "/",
@@ -1173,58 +1177,102 @@
       "blksize": 4194304,
       "ino": 8600232496,
       "blocks": 0,
-      "atimeMs": 1525020441971.1133,
+      "atimeMs": 1525023182938.2468,
       "mtimeMs": 1523706182738.8616,
       "ctimeMs": 1523706182738.8616,
       "birthtimeMs": 1521936185423.1204,
-      "atime": "2018-04-29T16:47:21.971Z",
+      "atime": "2018-04-29T17:33:02.938Z",
       "mtime": "2018-04-14T11:43:02.739Z",
       "ctime": "2018-04-14T11:43:02.739Z",
       "birthtime": "2018-03-25T00:03:05.423Z"
     },
-    "/Users/Robert/uncharted/src/pages/404.js absPath of file": {
-      "id": "/Users/Robert/uncharted/src/pages/404.js absPath of file",
+    "/Users/Robert/uncharted/src/pages/faq.js absPath of file": {
+      "id": "/Users/Robert/uncharted/src/pages/faq.js absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8d50d9a7e3f04ddcc5ff8d43b6effe79",
+        "contentDigest": "1e97e5ffb3198405269efca23093f441",
         "mediaType": "application/javascript",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Robert/uncharted/src/pages/404.js",
-      "relativePath": "404.js",
+      "absolutePath": "/Users/Robert/uncharted/src/pages/faq.js",
+      "relativePath": "faq.js",
       "extension": "js",
-      "size": 198,
-      "prettySize": "198 B",
-      "modifiedTime": "2018-03-24T20:07:41.319Z",
-      "accessTime": "2018-04-23T21:31:38.520Z",
-      "changeTime": "2018-03-24T20:07:41.319Z",
-      "birthTime": "2018-03-24T20:07:41.319Z",
+      "size": 3113,
+      "prettySize": "3.11 kB",
+      "modifiedTime": "2018-04-29T16:20:59.594Z",
+      "accessTime": "2018-04-29T16:51:35.548Z",
+      "changeTime": "2018-04-29T16:20:59.594Z",
+      "birthTime": "2018-04-29T15:57:05.096Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages",
-      "base": "404.js",
+      "base": "faq.js",
       "ext": ".js",
-      "name": "404",
+      "name": "faq",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777223,
       "mode": 33188,
       "nlink": 1,
       "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8600035684,
+      "ino": 8602514089,
       "blocks": 8,
-      "atimeMs": 1524519098519.6956,
-      "mtimeMs": 1521922061319.4634,
-      "ctimeMs": 1521922061319.4634,
-      "birthtimeMs": 1521922061319.3723,
-      "atime": "2018-04-23T21:31:38.520Z",
-      "mtime": "2018-03-24T20:07:41.319Z",
-      "ctime": "2018-03-24T20:07:41.319Z",
-      "birthtime": "2018-03-24T20:07:41.319Z"
+      "atimeMs": 1525020695547.9346,
+      "mtimeMs": 1525018859594.0212,
+      "ctimeMs": 1525018859594.0212,
+      "birthtimeMs": 1525017425096.3462,
+      "atime": "2018-04-29T16:51:35.548Z",
+      "mtime": "2018-04-29T16:20:59.594Z",
+      "ctime": "2018-04-29T16:20:59.594Z",
+      "birthtime": "2018-04-29T15:57:05.096Z"
+    },
+    "/Users/Robert/uncharted/src/pages/confirmation.js absPath of file": {
+      "id": "/Users/Robert/uncharted/src/pages/confirmation.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f2e46fd25c3e5f26f8c470b546a8efbc",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Robert/uncharted/src/pages/confirmation.js",
+      "relativePath": "confirmation.js",
+      "extension": "js",
+      "size": 216,
+      "prettySize": "216 B",
+      "modifiedTime": "2018-04-23T22:10:09.746Z",
+      "accessTime": "2018-04-26T19:10:22.835Z",
+      "changeTime": "2018-04-23T22:10:09.747Z",
+      "birthTime": "2018-04-23T22:08:10.996Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/pages",
+      "base": "confirmation.js",
+      "ext": ".js",
+      "name": "confirmation",
+      "relativeDirectory": "",
+      "dev": 16777223,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602351520,
+      "blocks": 8,
+      "atimeMs": 1524769822835.0178,
+      "mtimeMs": 1524521409746,
+      "ctimeMs": 1524521409746.93,
+      "birthtimeMs": 1524521290995.6768,
+      "atime": "2018-04-26T19:10:22.835Z",
+      "mtime": "2018-04-23T22:10:09.746Z",
+      "ctime": "2018-04-23T22:10:09.747Z",
+      "birthtime": "2018-04-23T22:08:10.996Z"
     },
     "/Users/Robert/uncharted/src/pages/concept.js absPath of file": {
       "id": "/Users/Robert/uncharted/src/pages/concept.js absPath of file",
@@ -1243,7 +1291,7 @@
       "size": 3125,
       "prettySize": "3.13 kB",
       "modifiedTime": "2018-04-29T16:21:29.470Z",
-      "accessTime": "2018-04-29T16:21:29.451Z",
+      "accessTime": "2018-04-29T16:51:35.548Z",
       "changeTime": "2018-04-29T16:21:29.470Z",
       "birthTime": "2018-04-12T20:23:07.016Z",
       "root": "/",
@@ -1261,58 +1309,14 @@
       "blksize": 4194304,
       "ino": 8601654282,
       "blocks": 8,
-      "atimeMs": 1525018889451.3442,
+      "atimeMs": 1525020695547.861,
       "mtimeMs": 1525018889469.6326,
       "ctimeMs": 1525018889469.6326,
       "birthtimeMs": 1523564587015.696,
-      "atime": "2018-04-29T16:21:29.451Z",
+      "atime": "2018-04-29T16:51:35.548Z",
       "mtime": "2018-04-29T16:21:29.470Z",
       "ctime": "2018-04-29T16:21:29.470Z",
       "birthtime": "2018-04-12T20:23:07.016Z"
-    },
-    "/Users/Robert/uncharted/src/pages/index.js absPath of file": {
-      "id": "/Users/Robert/uncharted/src/pages/index.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "efd8e2e402079061cb1c12a7348039d1",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Robert/uncharted/src/pages/index.js",
-      "relativePath": "index.js",
-      "extension": "js",
-      "size": 4560,
-      "prettySize": "4.56 kB",
-      "modifiedTime": "2018-04-29T16:21:14.445Z",
-      "accessTime": "2018-04-29T16:21:14.436Z",
-      "changeTime": "2018-04-29T16:21:14.445Z",
-      "birthTime": "2018-03-24T20:07:41.321Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/pages",
-      "base": "index.js",
-      "ext": ".js",
-      "name": "index",
-      "relativeDirectory": "",
-      "dev": 16777223,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8600035691,
-      "blocks": 16,
-      "atimeMs": 1525018874436.194,
-      "mtimeMs": 1525018874444.7744,
-      "ctimeMs": 1525018874444.7744,
-      "birthtimeMs": 1521922061320.8904,
-      "atime": "2018-04-29T16:21:14.436Z",
-      "mtime": "2018-04-29T16:21:14.445Z",
-      "ctime": "2018-04-29T16:21:14.445Z",
-      "birthtime": "2018-03-24T20:07:41.321Z"
     },
     "/Users/Robert/uncharted/src/pages/stories.js absPath of file": {
       "id": "/Users/Robert/uncharted/src/pages/stories.js absPath of file",
@@ -1331,7 +1335,7 @@
       "size": 3681,
       "prettySize": "3.68 kB",
       "modifiedTime": "2018-04-29T16:20:15.028Z",
-      "accessTime": "2018-04-29T16:20:15.009Z",
+      "accessTime": "2018-04-29T16:51:35.548Z",
       "changeTime": "2018-04-29T16:20:15.028Z",
       "birthTime": "2018-04-12T19:48:35.625Z",
       "root": "/",
@@ -1349,11 +1353,11 @@
       "blksize": 4194304,
       "ino": 8601652565,
       "blocks": 8,
-      "atimeMs": 1525018815009.0586,
+      "atimeMs": 1525020695548.2695,
       "mtimeMs": 1525018815028.131,
       "ctimeMs": 1525018815028.131,
       "birthtimeMs": 1523562515624.7998,
-      "atime": "2018-04-29T16:20:15.009Z",
+      "atime": "2018-04-29T16:51:35.548Z",
       "mtime": "2018-04-29T16:20:15.028Z",
       "ctime": "2018-04-29T16:20:15.028Z",
       "birthtime": "2018-04-12T19:48:35.625Z"
@@ -1377,7 +1381,7 @@
       "size": 1478,
       "prettySize": "1.48 kB",
       "modifiedTime": "2018-04-24T09:16:14.100Z",
-      "accessTime": "2018-04-29T15:44:43.612Z",
+      "accessTime": "2018-04-29T16:51:35.548Z",
       "changeTime": "2018-04-24T09:16:14.100Z",
       "birthTime": "2018-03-25T00:03:31.320Z",
       "root": "/",
@@ -1395,11 +1399,11 @@
       "blksize": 4194304,
       "ino": 8600232516,
       "blocks": 8,
-      "atimeMs": 1525016683611.7366,
+      "atimeMs": 1525020695548.173,
       "mtimeMs": 1524561374099.7605,
       "ctimeMs": 1524561374099.7605,
       "birthtimeMs": 1521936211320.3223,
-      "atime": "2018-04-29T15:44:43.612Z",
+      "atime": "2018-04-29T16:51:35.548Z",
       "mtime": "2018-04-24T09:16:14.100Z",
       "ctime": "2018-04-24T09:16:14.100Z",
       "birthtime": "2018-03-25T00:03:31.320Z"
@@ -1423,7 +1427,7 @@
       "size": 1475,
       "prettySize": "1.48 kB",
       "modifiedTime": "2018-04-23T15:18:57.905Z",
-      "accessTime": "2018-04-23T21:31:31.523Z",
+      "accessTime": "2018-04-29T16:47:22.347Z",
       "changeTime": "2018-04-23T15:18:57.905Z",
       "birthTime": "2018-03-25T00:14:47.707Z",
       "root": "/",
@@ -1432,7 +1436,7 @@
       "ext": ".md",
       "name": "senseofadventure",
       "relativeDirectory": "packages",
-      "dev": 16777220,
+      "dev": 16777223,
       "mode": 33188,
       "nlink": 1,
       "uid": 502,
@@ -1441,14 +1445,102 @@
       "blksize": 4194304,
       "ino": 8600233780,
       "blocks": 8,
-      "atimeMs": 1524519091523.0232,
+      "atimeMs": 1525020442346.618,
       "mtimeMs": 1524496737904.5906,
       "ctimeMs": 1524496737904.5906,
       "birthtimeMs": 1521936887706.852,
-      "atime": "2018-04-23T21:31:31.523Z",
+      "atime": "2018-04-29T16:47:22.347Z",
       "mtime": "2018-04-23T15:18:57.905Z",
       "ctime": "2018-04-23T15:18:57.905Z",
       "birthtime": "2018-03-25T00:14:47.707Z"
+    },
+    "/Users/Robert/uncharted/src/pages/404.js absPath of file": {
+      "id": "/Users/Robert/uncharted/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8d50d9a7e3f04ddcc5ff8d43b6effe79",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Robert/uncharted/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 198,
+      "prettySize": "198 B",
+      "modifiedTime": "2018-03-24T20:07:41.319Z",
+      "accessTime": "2018-04-26T17:25:47.499Z",
+      "changeTime": "2018-03-24T20:07:41.319Z",
+      "birthTime": "2018-03-24T20:07:41.319Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 16777223,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8600035684,
+      "blocks": 8,
+      "atimeMs": 1524763547498.8247,
+      "mtimeMs": 1521922061319.4634,
+      "ctimeMs": 1521922061319.4634,
+      "birthtimeMs": 1521922061319.3723,
+      "atime": "2018-04-26T17:25:47.499Z",
+      "mtime": "2018-03-24T20:07:41.319Z",
+      "ctime": "2018-03-24T20:07:41.319Z",
+      "birthtime": "2018-03-24T20:07:41.319Z"
+    },
+    "/Users/Robert/uncharted/src/pages/index.js absPath of file": {
+      "id": "/Users/Robert/uncharted/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7e501cf2a1f833b3e9185f2cb4b8a5db",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Robert/uncharted/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 5031,
+      "prettySize": "5.03 kB",
+      "modifiedTime": "2018-04-29T17:12:34.643Z",
+      "accessTime": "2018-04-29T17:29:27.033Z",
+      "changeTime": "2018-04-29T17:12:34.643Z",
+      "birthTime": "2018-03-24T20:07:41.321Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777223,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8600035691,
+      "blocks": 16,
+      "atimeMs": 1525022967033.2651,
+      "mtimeMs": 1525021954642.988,
+      "ctimeMs": 1525021954642.988,
+      "birthtimeMs": 1521922061320.8904,
+      "atime": "2018-04-29T17:29:27.033Z",
+      "mtime": "2018-04-29T17:12:34.643Z",
+      "ctime": "2018-04-29T17:12:34.643Z",
+      "birthtime": "2018-03-24T20:07:41.321Z"
     },
     "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file",
@@ -1469,7 +1561,7 @@
       "size": 1472,
       "prettySize": "1.47 kB",
       "modifiedTime": "2018-04-23T15:19:00.083Z",
-      "accessTime": "2018-04-23T21:31:31.523Z",
+      "accessTime": "2018-04-29T16:47:22.347Z",
       "changeTime": "2018-04-23T15:19:00.083Z",
       "birthTime": "2018-03-25T00:18:25.695Z",
       "root": "/",
@@ -1478,7 +1570,7 @@
       "ext": ".md",
       "name": "weekendgetaway",
       "relativeDirectory": "packages",
-      "dev": 16777220,
+      "dev": 16777223,
       "mode": 33188,
       "nlink": 1,
       "uid": 502,
@@ -1487,60 +1579,104 @@
       "blksize": 4194304,
       "ino": 8600234117,
       "blocks": 8,
-      "atimeMs": 1524519091523.079,
+      "atimeMs": 1525020442346.7222,
       "mtimeMs": 1524496740082.9583,
       "ctimeMs": 1524496740082.9583,
       "birthtimeMs": 1521937105694.813,
-      "atime": "2018-04-23T21:31:31.523Z",
+      "atime": "2018-04-29T16:47:22.347Z",
       "mtime": "2018-04-23T15:19:00.083Z",
       "ctime": "2018-04-23T15:19:00.083Z",
       "birthtime": "2018-03-25T00:18:25.695Z"
     },
-    "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+    "/Users/Robert/uncharted/src/pages/about/index.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file",
       "children": [
-        "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
+        "/Users/Robert/uncharted/src/pages/about/index.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "86cc7010deb4202b8177d394dfc9edc7",
+        "contentDigest": "ee431923b895d30d57e6b876f0a90f76",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
-      "relativePath": "blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "absolutePath": "/Users/Robert/uncharted/src/pages/about/index.md",
+      "relativePath": "about/index.md",
       "extension": "md",
-      "size": 2231,
-      "prettySize": "2.23 kB",
-      "modifiedTime": "2018-04-12T19:56:53.402Z",
-      "accessTime": "2018-04-23T21:31:31.523Z",
-      "changeTime": "2018-04-12T19:56:53.402Z",
+      "size": 1528,
+      "prettySize": "1.53 kB",
+      "modifiedTime": "2018-03-24T20:07:41.320Z",
+      "accessTime": "2018-04-26T17:25:47.504Z",
+      "changeTime": "2018-03-24T20:07:41.320Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
-      "dir": "/Users/Robert/uncharted/src/pages/blog",
-      "base": "2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "dir": "/Users/Robert/uncharted/src/pages/about",
+      "base": "index.md",
       "ext": ".md",
-      "name": "2016-12-17-making-sense-of-the-scaas-new-flavor-wheel",
-      "relativeDirectory": "blog",
-      "dev": 16777220,
+      "name": "index",
+      "relativeDirectory": "about",
+      "dev": 16777223,
       "mode": 33188,
       "nlink": 1,
       "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8600035688,
+      "ino": 8600035686,
       "blocks": 8,
-      "atimeMs": 1524519091522.8145,
-      "mtimeMs": 1523563013402.4001,
-      "ctimeMs": 1523563013402.4001,
-      "birthtimeMs": 1521922061320.0696,
-      "atime": "2018-04-23T21:31:31.523Z",
-      "mtime": "2018-04-12T19:56:53.402Z",
-      "ctime": "2018-04-12T19:56:53.402Z",
+      "atimeMs": 1524763547504.0195,
+      "mtimeMs": 1521922061319.7979,
+      "ctimeMs": 1521922061319.7979,
+      "birthtimeMs": 1521922061319.7207,
+      "atime": "2018-04-26T17:25:47.504Z",
+      "mtime": "2018-03-24T20:07:41.320Z",
+      "ctime": "2018-03-24T20:07:41.320Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
+    },
+    "/Users/Robert/uncharted/src/pages/terms.js absPath of file": {
+      "id": "/Users/Robert/uncharted/src/pages/terms.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e8b280cf3028dd0ec3be3f61be52ebd3",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Robert/uncharted/src/pages/terms.js",
+      "relativePath": "terms.js",
+      "extension": "js",
+      "size": 1810,
+      "prettySize": "1.81 kB",
+      "modifiedTime": "2018-04-29T16:19:09.291Z",
+      "accessTime": "2018-04-29T16:51:35.548Z",
+      "changeTime": "2018-04-29T16:19:09.291Z",
+      "birthTime": "2018-04-29T15:57:17.264Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/pages",
+      "base": "terms.js",
+      "ext": ".js",
+      "name": "terms",
+      "relativeDirectory": "",
+      "dev": 16777223,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602514106,
+      "blocks": 8,
+      "atimeMs": 1525020695548.4004,
+      "mtimeMs": 1525018749290.7454,
+      "ctimeMs": 1525018749290.7454,
+      "birthtimeMs": 1525017437263.546,
+      "atime": "2018-04-29T16:51:35.548Z",
+      "mtime": "2018-04-29T16:19:09.291Z",
+      "ctime": "2018-04-29T16:19:09.291Z",
+      "birthtime": "2018-04-29T15:57:17.264Z"
     },
     "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file",
@@ -1561,7 +1697,7 @@
       "size": 2476,
       "prettySize": "2.48 kB",
       "modifiedTime": "2018-04-12T19:56:50.436Z",
-      "accessTime": "2018-04-23T21:31:31.523Z",
+      "accessTime": "2018-04-29T16:47:22.346Z",
       "changeTime": "2018-04-12T19:56:50.436Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
@@ -1570,7 +1706,7 @@
       "ext": ".md",
       "name": "2017-01-04-a-beginners-guide-to-brewing-with-chemex",
       "relativeDirectory": "blog",
-      "dev": 16777220,
+      "dev": 16777223,
       "mode": 33188,
       "nlink": 1,
       "uid": 502,
@@ -1579,13 +1715,59 @@
       "blksize": 4194304,
       "ino": 8600035689,
       "blocks": 8,
-      "atimeMs": 1524519091522.8286,
+      "atimeMs": 1525020442346.2869,
       "mtimeMs": 1523563010436.246,
       "ctimeMs": 1523563010436.246,
       "birthtimeMs": 1521922061320.4092,
-      "atime": "2018-04-23T21:31:31.523Z",
+      "atime": "2018-04-29T16:47:22.346Z",
       "mtime": "2018-04-12T19:56:50.436Z",
       "ctime": "2018-04-12T19:56:50.436Z",
+      "birthtime": "2018-03-24T20:07:41.320Z"
+    },
+    "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "86cc7010deb4202b8177d394dfc9edc7",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "relativePath": "blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "extension": "md",
+      "size": 2231,
+      "prettySize": "2.23 kB",
+      "modifiedTime": "2018-04-12T19:56:53.402Z",
+      "accessTime": "2018-04-29T16:47:22.346Z",
+      "changeTime": "2018-04-12T19:56:53.402Z",
+      "birthTime": "2018-03-24T20:07:41.320Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/pages/blog",
+      "base": "2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "ext": ".md",
+      "name": "2016-12-17-making-sense-of-the-scaas-new-flavor-wheel",
+      "relativeDirectory": "blog",
+      "dev": 16777223,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8600035688,
+      "blocks": 8,
+      "atimeMs": 1525020442346.2383,
+      "mtimeMs": 1523563013402.4001,
+      "ctimeMs": 1523563013402.4001,
+      "birthtimeMs": 1521922061320.0696,
+      "atime": "2018-04-29T16:47:22.346Z",
+      "mtime": "2018-04-12T19:56:53.402Z",
+      "ctime": "2018-04-12T19:56:53.402Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
     },
     "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file": {
@@ -1607,7 +1789,7 @@
       "size": 2757,
       "prettySize": "2.76 kB",
       "modifiedTime": "2018-04-12T19:56:57.986Z",
-      "accessTime": "2018-04-23T21:31:31.523Z",
+      "accessTime": "2018-04-29T16:47:22.346Z",
       "changeTime": "2018-04-12T19:56:57.986Z",
       "birthTime": "2018-03-24T20:07:41.321Z",
       "root": "/",
@@ -1616,7 +1798,7 @@
       "ext": ".md",
       "name": "2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week",
       "relativeDirectory": "blog",
-      "dev": 16777220,
+      "dev": 16777223,
       "mode": 33188,
       "nlink": 1,
       "uid": 502,
@@ -1625,60 +1807,14 @@
       "blksize": 4194304,
       "ino": 8600035690,
       "blocks": 8,
-      "atimeMs": 1524519091522.88,
+      "atimeMs": 1525020442346.416,
       "mtimeMs": 1523563017986.0679,
       "ctimeMs": 1523563017986.0679,
       "birthtimeMs": 1521922061320.7004,
-      "atime": "2018-04-23T21:31:31.523Z",
+      "atime": "2018-04-29T16:47:22.346Z",
       "mtime": "2018-04-12T19:56:57.986Z",
       "ctime": "2018-04-12T19:56:57.986Z",
       "birthtime": "2018-03-24T20:07:41.321Z"
-    },
-    "/Users/Robert/uncharted/src/pages/about/index.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/pages/about/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "ee431923b895d30d57e6b876f0a90f76",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Robert/uncharted/src/pages/about/index.md",
-      "relativePath": "about/index.md",
-      "extension": "md",
-      "size": 1528,
-      "prettySize": "1.53 kB",
-      "modifiedTime": "2018-03-24T20:07:41.320Z",
-      "accessTime": "2018-04-23T21:31:31.523Z",
-      "changeTime": "2018-03-24T20:07:41.320Z",
-      "birthTime": "2018-03-24T20:07:41.320Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/pages/about",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "about",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8600035686,
-      "blocks": 8,
-      "atimeMs": 1524519091522.7002,
-      "mtimeMs": 1521922061319.7979,
-      "ctimeMs": 1521922061319.7979,
-      "birthtimeMs": 1521922061319.7207,
-      "atime": "2018-04-23T21:31:31.523Z",
-      "mtime": "2018-03-24T20:07:41.320Z",
-      "ctime": "2018-03-24T20:07:41.320Z",
-      "birthtime": "2018-03-24T20:07:41.320Z"
     },
     "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark",
@@ -1812,6 +1948,32 @@
         "slug": "/packages/weekendgetaway/"
       }
     },
+    "/Users/Robert/uncharted/src/pages/about/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'about-page'\npath: /about\ntitle: About our values\n---\n### Shade-grown coffee\nCoffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.\n\n### Single origin\nSingle-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.\n\n### Sustainable farming\nSustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.\n\n### Direct sourcing\nDirect trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.\n\n### Reinvest profits\nWe want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.\n",
+        "contentDigest": "c5834aa2c378c06632aa287b3ba68c5c",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About our values",
+        "templateKey": "about-page",
+        "path": "/about",
+        "_PARENT": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/about/index.md",
+      "fields": {
+        "slug": "/about/"
+      }
+    },
     "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -1842,38 +2004,6 @@
       "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
       "fields": {
         "slug": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
-      }
-    },
-    "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: blog-post\nimage: /img/hero1.jpg\ntitle: A beginners’ guide to brewing with Chemex\ndate: 2017-01-04T15:04:10.000Z\ndescription: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.\ntags:\n  - brewing\n  - chemex\n---\n![chemex](/img/chemex.jpg)\n\nThis week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.\n\nIn 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _\"one of the best-designed products of modern times\"_, and so is included in the collection of the Museum of Modern Art in New York City.\n\n## The little secrets of Chemex brewing\n\nThe Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:\n\n1. Always buy dedicated Chemex filters.\n2. Use a scale, don’t try to eyeball it.\n3. Never skip preheating the glass.\n4. Timing is key, don’t forget the clock.\n\nThe most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.\n\nFor a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.\n",
-        "contentDigest": "f00271bab01ec05ecbaf4676683716ae",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "A beginners’ guide to brewing with Chemex",
-        "templateKey": "blog-post",
-        "image": "../../../static/img/hero1.jpg",
-        "date": "2017-01-04T15:04:10.000Z",
-        "description": "Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.",
-        "tags": [
-          "brewing",
-          "chemex"
-        ],
-        "_PARENT": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md",
-      "fields": {
-        "slug": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"
       }
     },
     "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark": {
@@ -1910,13 +2040,13 @@
         "slug": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"
       }
     },
-    "/Users/Robert/uncharted/src/pages/about/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file >>> MarkdownRemark",
+    "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file",
+      "parent": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: 'about-page'\npath: /about\ntitle: About our values\n---\n### Shade-grown coffee\nCoffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.\n\n### Single origin\nSingle-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.\n\n### Sustainable farming\nSustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.\n\n### Direct sourcing\nDirect trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.\n\n### Reinvest profits\nWe want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.\n",
-        "contentDigest": "c5834aa2c378c06632aa287b3ba68c5c",
+        "content": "---\ntemplateKey: blog-post\nimage: /img/hero1.jpg\ntitle: A beginners’ guide to brewing with Chemex\ndate: 2017-01-04T15:04:10.000Z\ndescription: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.\ntags:\n  - brewing\n  - chemex\n---\n![chemex](/img/chemex.jpg)\n\nThis week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.\n\nIn 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _\"one of the best-designed products of modern times\"_, and so is included in the collection of the Museum of Modern Art in New York City.\n\n## The little secrets of Chemex brewing\n\nThe Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:\n\n1. Always buy dedicated Chemex filters.\n2. Use a scale, don’t try to eyeball it.\n3. Never skip preheating the glass.\n4. Timing is key, don’t forget the clock.\n\nThe most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.\n\nFor a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.\n",
+        "contentDigest": "f00271bab01ec05ecbaf4676683716ae",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -1924,16 +2054,22 @@
         }
       },
       "frontmatter": {
-        "title": "About our values",
-        "templateKey": "about-page",
-        "path": "/about",
-        "_PARENT": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/pages/about/index.md absPath of file"
+        "title": "A beginners’ guide to brewing with Chemex",
+        "templateKey": "blog-post",
+        "image": "../../../static/img/hero1.jpg",
+        "date": "2017-01-04T15:04:10.000Z",
+        "description": "Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.",
+        "tags": [
+          "brewing",
+          "chemex"
+        ],
+        "_PARENT": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file"
       },
       "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/about/index.md",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md",
       "fields": {
-        "slug": "/about/"
+        "slug": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"
       }
     },
     "/Users/Robert/uncharted/src/data absPath of file": {
@@ -1941,7 +2077,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e7e195512a54e3f3fff0834e887d9050",
+        "contentDigest": "edb2aa9b21256345bdcf33c105f7de82",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1952,7 +2088,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2018-04-29T16:09:45.522Z",
-      "accessTime": "2018-04-29T16:47:21.989Z",
+      "accessTime": "2018-04-29T17:33:02.984Z",
       "changeTime": "2018-04-29T16:09:45.522Z",
       "birthTime": "2018-04-12T20:04:15.413Z",
       "root": "/",
@@ -1970,11 +2106,11 @@
       "blksize": 4194304,
       "ino": 8601653181,
       "blocks": 0,
-      "atimeMs": 1525020441988.6602,
+      "atimeMs": 1525023182983.6577,
       "mtimeMs": 1525018185521.9973,
       "ctimeMs": 1525018185521.9973,
       "birthtimeMs": 1523563455412.8713,
-      "atime": "2018-04-29T16:47:21.989Z",
+      "atime": "2018-04-29T17:33:02.984Z",
       "mtime": "2018-04-29T16:09:45.522Z",
       "ctime": "2018-04-29T16:09:45.522Z",
       "birthtime": "2018-04-12T20:04:15.413Z"
@@ -1984,7 +2120,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1646b31c55f44da5f429b6b2187129a8",
+        "contentDigest": "1bf050615f5dc757d56965aa83d3d3a0",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1995,7 +2131,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-04-14T07:57:31.634Z",
-      "accessTime": "2018-04-29T16:47:21.990Z",
+      "accessTime": "2018-04-29T17:33:02.985Z",
       "changeTime": "2018-04-14T07:57:31.634Z",
       "birthTime": "2018-04-14T06:51:58.905Z",
       "root": "/",
@@ -2013,11 +2149,11 @@
       "blksize": 4194304,
       "ino": 8601914063,
       "blocks": 0,
-      "atimeMs": 1525020441989.675,
+      "atimeMs": 1525023182984.809,
       "mtimeMs": 1523692651633.756,
       "ctimeMs": 1523692651633.756,
       "birthtimeMs": 1523688718905.1316,
-      "atime": "2018-04-29T16:47:21.990Z",
+      "atime": "2018-04-29T17:33:02.985Z",
       "mtime": "2018-04-14T07:57:31.634Z",
       "ctime": "2018-04-14T07:57:31.634Z",
       "birthtime": "2018-04-14T06:51:58.905Z"
@@ -2027,7 +2163,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d4ddfd9d189be0dbd9a4b9449d3bc418",
+        "contentDigest": "4fd87959c66860bf790668f2cb95831b",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2038,7 +2174,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-04-14T08:00:13.675Z",
-      "accessTime": "2018-04-29T16:47:21.990Z",
+      "accessTime": "2018-04-29T17:33:02.985Z",
       "changeTime": "2018-04-14T08:00:13.675Z",
       "birthTime": "2018-04-14T07:57:28.444Z",
       "root": "/",
@@ -2056,11 +2192,11 @@
       "blksize": 4194304,
       "ino": 8601918034,
       "blocks": 0,
-      "atimeMs": 1525020441989.6782,
+      "atimeMs": 1525023182984.8752,
       "mtimeMs": 1523692813674.5247,
       "ctimeMs": 1523692813674.5247,
       "birthtimeMs": 1523692648443.6057,
-      "atime": "2018-04-29T16:47:21.990Z",
+      "atime": "2018-04-29T17:33:02.985Z",
       "mtime": "2018-04-14T08:00:13.675Z",
       "ctime": "2018-04-14T08:00:13.675Z",
       "birthtime": "2018-04-14T07:57:28.444Z"
@@ -2084,7 +2220,7 @@
       "size": 877,
       "prettySize": "877 B",
       "modifiedTime": "2018-04-29T16:28:37.609Z",
-      "accessTime": "2018-04-29T16:28:37.594Z",
+      "accessTime": "2018-04-29T16:51:35.548Z",
       "changeTime": "2018-04-29T16:28:37.609Z",
       "birthTime": "2018-04-12T20:21:16.129Z",
       "root": "/",
@@ -2102,60 +2238,14 @@
       "blksize": 4194304,
       "ino": 8601654136,
       "blocks": 8,
-      "atimeMs": 1525019317593.8801,
+      "atimeMs": 1525020695547.6814,
       "mtimeMs": 1525019317608.6284,
       "ctimeMs": 1525019317608.6284,
       "birthtimeMs": 1523564476128.821,
-      "atime": "2018-04-29T16:28:37.594Z",
+      "atime": "2018-04-29T16:51:35.548Z",
       "mtime": "2018-04-29T16:28:37.609Z",
       "ctime": "2018-04-29T16:28:37.609Z",
       "birthtime": "2018-04-12T20:21:16.129Z"
-    },
-    "/Users/Robert/uncharted/src/data/stories.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/stories.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/stories.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "38fa06dc9d9499a9b72b7f87e0b126fd",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/stories.md",
-      "relativePath": "stories.md",
-      "extension": "md",
-      "size": 337,
-      "prettySize": "337 B",
-      "modifiedTime": "2018-04-14T06:48:20.387Z",
-      "accessTime": "2018-04-23T21:31:31.714Z",
-      "changeTime": "2018-04-14T06:48:20.387Z",
-      "birthTime": "2018-04-12T20:02:15.287Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data",
-      "base": "stories.md",
-      "ext": ".md",
-      "name": "stories",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8601653079,
-      "blocks": 8,
-      "atimeMs": 1524519091714.2544,
-      "mtimeMs": 1523688500387.3276,
-      "ctimeMs": 1523688500387.3276,
-      "birthtimeMs": 1523563335286.836,
-      "atime": "2018-04-23T21:31:31.714Z",
-      "mtime": "2018-04-14T06:48:20.387Z",
-      "ctime": "2018-04-14T06:48:20.387Z",
-      "birthtime": "2018-04-12T20:02:15.287Z"
     },
     "/Users/Robert/uncharted/src/data/index.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/index.md absPath of file",
@@ -2176,7 +2266,7 @@
       "size": 343,
       "prettySize": "343 B",
       "modifiedTime": "2018-04-14T06:48:15.099Z",
-      "accessTime": "2018-04-23T21:31:31.714Z",
+      "accessTime": "2018-04-26T19:05:39.568Z",
       "changeTime": "2018-04-14T06:48:15.099Z",
       "birthTime": "2018-03-24T22:13:24.296Z",
       "root": "/",
@@ -2185,7 +2275,7 @@
       "ext": ".md",
       "name": "index",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777223,
       "mode": 33188,
       "nlink": 1,
       "uid": 502,
@@ -2194,14 +2284,60 @@
       "blksize": 4194304,
       "ino": 8600229499,
       "blocks": 8,
-      "atimeMs": 1524519091714.2275,
+      "atimeMs": 1524769539567.7095,
       "mtimeMs": 1523688495099.2993,
       "ctimeMs": 1523688495099.2993,
       "birthtimeMs": 1521929604296.0662,
-      "atime": "2018-04-23T21:31:31.714Z",
+      "atime": "2018-04-26T19:05:39.568Z",
       "mtime": "2018-04-14T06:48:15.099Z",
       "ctime": "2018-04-14T06:48:15.099Z",
       "birthtime": "2018-03-24T22:13:24.296Z"
+    },
+    "/Users/Robert/uncharted/src/data/terms.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/data/terms.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/data/terms.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8f060d8ee7022c684c0a9ee52815f9cb",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/uncharted/src/data/terms.md",
+      "relativePath": "terms.md",
+      "extension": "md",
+      "size": 15200,
+      "prettySize": "15.2 kB",
+      "modifiedTime": "2018-04-29T16:11:04.728Z",
+      "accessTime": "2018-04-29T16:51:35.548Z",
+      "changeTime": "2018-04-29T16:11:04.728Z",
+      "birthTime": "2018-04-29T16:09:41.402Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/data",
+      "base": "terms.md",
+      "ext": ".md",
+      "name": "terms",
+      "relativeDirectory": "",
+      "dev": 16777223,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602514675,
+      "blocks": 32,
+      "atimeMs": 1525020695547.7258,
+      "mtimeMs": 1525018264728.4744,
+      "ctimeMs": 1525018264728.4744,
+      "birthtimeMs": 1525018181402.0989,
+      "atime": "2018-04-29T16:51:35.548Z",
+      "mtime": "2018-04-29T16:11:04.728Z",
+      "ctime": "2018-04-29T16:11:04.728Z",
+      "birthtime": "2018-04-29T16:09:41.402Z"
     },
     "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file",
@@ -2222,7 +2358,7 @@
       "size": 69,
       "prettySize": "69 B",
       "modifiedTime": "2018-04-14T07:20:03.626Z",
-      "accessTime": "2018-04-23T21:31:31.714Z",
+      "accessTime": "2018-04-26T19:05:39.577Z",
       "changeTime": "2018-04-14T07:20:03.626Z",
       "birthTime": "2018-04-14T06:52:08.495Z",
       "root": "/",
@@ -2231,7 +2367,7 @@
       "ext": ".md",
       "name": "hiking",
       "relativeDirectory": "activities",
-      "dev": 16777220,
+      "dev": 16777223,
       "mode": 33188,
       "nlink": 1,
       "uid": 502,
@@ -2240,60 +2376,60 @@
       "blksize": 4194304,
       "ino": 8601914065,
       "blocks": 8,
-      "atimeMs": 1524519091714.1436,
+      "atimeMs": 1524769539577.0698,
       "mtimeMs": 1523690403625.896,
       "ctimeMs": 1523690403625.896,
       "birthtimeMs": 1523688728494.768,
-      "atime": "2018-04-23T21:31:31.714Z",
+      "atime": "2018-04-26T19:05:39.577Z",
       "mtime": "2018-04-14T07:20:03.626Z",
       "ctime": "2018-04-14T07:20:03.626Z",
       "birthtime": "2018-04-14T06:52:08.495Z"
     },
-    "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file",
+    "/Users/Robert/uncharted/src/data/stories.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/data/stories.md absPath of file",
       "children": [
-        "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file >>> MarkdownRemark"
+        "/Users/Robert/uncharted/src/data/stories.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7a3df8c5eadeb85bfd072010f4bb6aa2",
+        "contentDigest": "38fa06dc9d9499a9b72b7f87e0b126fd",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/activities/hunt.md",
-      "relativePath": "activities/hunt.md",
+      "absolutePath": "/Users/Robert/uncharted/src/data/stories.md",
+      "relativePath": "stories.md",
       "extension": "md",
-      "size": 76,
-      "prettySize": "76 B",
-      "modifiedTime": "2018-04-14T07:19:58.777Z",
-      "accessTime": "2018-04-23T21:31:31.714Z",
-      "changeTime": "2018-04-14T07:19:58.777Z",
-      "birthTime": "2018-04-14T07:16:23.158Z",
+      "size": 337,
+      "prettySize": "337 B",
+      "modifiedTime": "2018-04-14T06:48:20.387Z",
+      "accessTime": "2018-04-29T16:47:22.527Z",
+      "changeTime": "2018-04-14T06:48:20.387Z",
+      "birthTime": "2018-04-12T20:02:15.287Z",
       "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/activities",
-      "base": "hunt.md",
+      "dir": "/Users/Robert/uncharted/src/data",
+      "base": "stories.md",
       "ext": ".md",
-      "name": "hunt",
-      "relativeDirectory": "activities",
-      "dev": 16777220,
+      "name": "stories",
+      "relativeDirectory": "",
+      "dev": 16777223,
       "mode": 33188,
       "nlink": 1,
       "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8601915865,
+      "ino": 8601653079,
       "blocks": 8,
-      "atimeMs": 1524519091714.1738,
-      "mtimeMs": 1523690398776.8486,
-      "ctimeMs": 1523690398776.8486,
-      "birthtimeMs": 1523690183158.2034,
-      "atime": "2018-04-23T21:31:31.714Z",
-      "mtime": "2018-04-14T07:19:58.777Z",
-      "ctime": "2018-04-14T07:19:58.777Z",
-      "birthtime": "2018-04-14T07:16:23.158Z"
+      "atimeMs": 1525020442527.162,
+      "mtimeMs": 1523688500387.3276,
+      "ctimeMs": 1523688500387.3276,
+      "birthtimeMs": 1523563335286.836,
+      "atime": "2018-04-29T16:47:22.527Z",
+      "mtime": "2018-04-14T06:48:20.387Z",
+      "ctime": "2018-04-14T06:48:20.387Z",
+      "birthtime": "2018-04-12T20:02:15.287Z"
     },
     "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file",
@@ -2314,7 +2450,7 @@
       "size": 423,
       "prettySize": "423 B",
       "modifiedTime": "2018-04-14T07:59:21.453Z",
-      "accessTime": "2018-04-23T21:31:31.714Z",
+      "accessTime": "2018-04-26T19:05:39.588Z",
       "changeTime": "2018-04-14T07:59:21.453Z",
       "birthTime": "2018-04-14T07:57:35.672Z",
       "root": "/",
@@ -2323,7 +2459,7 @@
       "ext": ".md",
       "name": "genuine",
       "relativeDirectory": "values",
-      "dev": 16777220,
+      "dev": 16777223,
       "mode": 33188,
       "nlink": 1,
       "uid": 502,
@@ -2332,60 +2468,60 @@
       "blksize": 4194304,
       "ino": 8601918048,
       "blocks": 8,
-      "atimeMs": 1524519091714.3523,
+      "atimeMs": 1524769539588.3362,
       "mtimeMs": 1523692761453.3262,
       "ctimeMs": 1523692761453.3262,
       "birthtimeMs": 1523692655672.0955,
-      "atime": "2018-04-23T21:31:31.714Z",
+      "atime": "2018-04-26T19:05:39.588Z",
       "mtime": "2018-04-14T07:59:21.453Z",
       "ctime": "2018-04-14T07:59:21.453Z",
       "birthtime": "2018-04-14T07:57:35.672Z"
     },
-    "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file",
+    "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file",
       "children": [
-        "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file >>> MarkdownRemark"
+        "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8d0d39b26636aa2c5d22dc2d25f0e8fa",
+        "contentDigest": "7a3df8c5eadeb85bfd072010f4bb6aa2",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/values/rediscover.md",
-      "relativePath": "values/rediscover.md",
+      "absolutePath": "/Users/Robert/uncharted/src/data/activities/hunt.md",
+      "relativePath": "activities/hunt.md",
       "extension": "md",
-      "size": 346,
-      "prettySize": "346 B",
-      "modifiedTime": "2018-04-14T08:00:29.154Z",
-      "accessTime": "2018-04-23T21:31:31.714Z",
-      "changeTime": "2018-04-14T08:00:29.154Z",
-      "birthTime": "2018-04-14T08:00:04.392Z",
+      "size": 76,
+      "prettySize": "76 B",
+      "modifiedTime": "2018-04-14T07:19:58.777Z",
+      "accessTime": "2018-04-29T16:47:22.527Z",
+      "changeTime": "2018-04-14T07:19:58.777Z",
+      "birthTime": "2018-04-14T07:16:23.158Z",
       "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/values",
-      "base": "rediscover.md",
+      "dir": "/Users/Robert/uncharted/src/data/activities",
+      "base": "hunt.md",
       "ext": ".md",
-      "name": "rediscover",
-      "relativeDirectory": "values",
-      "dev": 16777220,
+      "name": "hunt",
+      "relativeDirectory": "activities",
+      "dev": 16777223,
       "mode": 33188,
       "nlink": 1,
       "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8601918194,
+      "ino": 8601915865,
       "blocks": 8,
-      "atimeMs": 1524519091714.3818,
-      "mtimeMs": 1523692829154.028,
-      "ctimeMs": 1523692829154.028,
-      "birthtimeMs": 1523692804392.3994,
-      "atime": "2018-04-23T21:31:31.714Z",
-      "mtime": "2018-04-14T08:00:29.154Z",
-      "ctime": "2018-04-14T08:00:29.154Z",
-      "birthtime": "2018-04-14T08:00:04.392Z"
+      "atimeMs": 1525020442527.0178,
+      "mtimeMs": 1523690398776.8486,
+      "ctimeMs": 1523690398776.8486,
+      "birthtimeMs": 1523690183158.2034,
+      "atime": "2018-04-29T16:47:22.527Z",
+      "mtime": "2018-04-14T07:19:58.777Z",
+      "ctime": "2018-04-14T07:19:58.777Z",
+      "birthtime": "2018-04-14T07:16:23.158Z"
     },
     "/Users/Robert/uncharted/src/data/values/safe.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file",
@@ -2406,7 +2542,7 @@
       "size": 444,
       "prettySize": "444 B",
       "modifiedTime": "2018-04-14T07:59:17.716Z",
-      "accessTime": "2018-04-23T21:31:31.714Z",
+      "accessTime": "2018-04-29T16:47:22.528Z",
       "changeTime": "2018-04-14T07:59:17.716Z",
       "birthTime": "2018-04-14T07:58:38.399Z",
       "root": "/",
@@ -2415,7 +2551,7 @@
       "ext": ".md",
       "name": "safe",
       "relativeDirectory": "values",
-      "dev": 16777220,
+      "dev": 16777223,
       "mode": 33188,
       "nlink": 1,
       "uid": 502,
@@ -2424,14 +2560,60 @@
       "blksize": 4194304,
       "ino": 8601918094,
       "blocks": 8,
-      "atimeMs": 1524519091714.409,
+      "atimeMs": 1525020442527.512,
       "mtimeMs": 1523692757716.403,
       "ctimeMs": 1523692757716.403,
       "birthtimeMs": 1523692718398.7253,
-      "atime": "2018-04-23T21:31:31.714Z",
+      "atime": "2018-04-29T16:47:22.528Z",
       "mtime": "2018-04-14T07:59:17.716Z",
       "ctime": "2018-04-14T07:59:17.716Z",
       "birthtime": "2018-04-14T07:58:38.399Z"
+    },
+    "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8d0d39b26636aa2c5d22dc2d25f0e8fa",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/uncharted/src/data/values/rediscover.md",
+      "relativePath": "values/rediscover.md",
+      "extension": "md",
+      "size": 346,
+      "prettySize": "346 B",
+      "modifiedTime": "2018-04-14T08:00:29.154Z",
+      "accessTime": "2018-04-29T16:47:22.527Z",
+      "changeTime": "2018-04-14T08:00:29.154Z",
+      "birthTime": "2018-04-14T08:00:04.392Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/data/values",
+      "base": "rediscover.md",
+      "ext": ".md",
+      "name": "rediscover",
+      "relativeDirectory": "values",
+      "dev": 16777223,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601918194,
+      "blocks": 8,
+      "atimeMs": 1525020442527.4531,
+      "mtimeMs": 1523692829154.028,
+      "ctimeMs": 1523692829154.028,
+      "birthtimeMs": 1523692804392.3994,
+      "atime": "2018-04-29T16:47:22.527Z",
+      "mtime": "2018-04-14T08:00:29.154Z",
+      "ctime": "2018-04-14T08:00:29.154Z",
+      "birthtime": "2018-04-14T08:00:04.392Z"
     },
     "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file",
@@ -2452,7 +2634,7 @@
       "size": 310,
       "prettySize": "310 B",
       "modifiedTime": "2018-04-14T07:59:51.118Z",
-      "accessTime": "2018-04-23T21:31:31.714Z",
+      "accessTime": "2018-04-29T16:47:22.528Z",
       "changeTime": "2018-04-14T07:59:51.118Z",
       "birthTime": "2018-04-14T07:59:23.143Z",
       "root": "/",
@@ -2461,7 +2643,7 @@
       "ext": ".md",
       "name": "sustainable",
       "relativeDirectory": "values",
-      "dev": 16777220,
+      "dev": 16777223,
       "mode": 33188,
       "nlink": 1,
       "uid": 502,
@@ -2470,14 +2652,42 @@
       "blksize": 4194304,
       "ino": 8601918144,
       "blocks": 8,
-      "atimeMs": 1524519091714.4355,
+      "atimeMs": 1525020442527.5657,
       "mtimeMs": 1523692791118.0103,
       "ctimeMs": 1523692791118.0103,
       "birthtimeMs": 1523692763142.7793,
-      "atime": "2018-04-23T21:31:31.714Z",
+      "atime": "2018-04-29T16:47:22.528Z",
       "mtime": "2018-04-14T07:59:51.118Z",
       "ctime": "2018-04-14T07:59:51.118Z",
       "birthtime": "2018-04-14T07:59:23.143Z"
+    },
+    "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/data/index.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'frontpage'\nimage: /img/hero1.jpg\ntagline: A new way of travelling!\nwelcome: 'Welcome to your new travelling chapter. In this chapter you are the one to decide if you want to be taken into a special themed adventure, or tailor your own. What’s guaranteed is that with each uncharted path, you will rediscover yourself.'\n---\n",
+        "contentDigest": "c3c7960848aa0b72d3ba8597f21a6e79",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "",
+        "templateKey": "frontpage",
+        "image": "../../static/img/hero1.jpg",
+        "tagline": "A new way of travelling!",
+        "welcome": "Welcome to your new travelling chapter. In this chapter you are the one to decide if you want to be taken into a special themed adventure, or tailor your own. What’s guaranteed is that with each uncharted path, you will rediscover yourself.",
+        "_PARENT": "/Users/Robert/uncharted/src/data/index.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/data/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/index.md",
+      "fields": {
+        "slug": "/"
+      }
     },
     "/Users/Robert/uncharted/src/data/concept.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/uncharted/src/data/concept.md absPath of file >>> MarkdownRemark",
@@ -2505,6 +2715,60 @@
       "fileAbsolutePath": "/Users/Robert/uncharted/src/data/concept.md",
       "fields": {
         "slug": "/concept/"
+      }
+    },
+    "/Users/Robert/uncharted/src/data/terms.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/data/terms.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/data/terms.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'terms'\nimage: /img/hero1.jpg\ntagline: Terms And Conditions\n---\n#### **Important notes:**\n\n  \n\n• All tours start and end in the city of Cluj-Napoca;\n\n• No matter the way chosen to reach Cluj-Napoca, the adventurer has to make sure he/she arrives at the starting point of the tour no later than 12:30 p.m. on the first day of the tour;\n\n• Your tour leader will welcome you at the airport and he will be with you all the time along the tour. He will be also the one who will make sure you get to the airport in time for your departure back to home;\n\n• Throughout each activity you will be accompanied by experts from that specific field;\n\n• All the specific gear for the activities will be provided by Uncharted. Still, the basic gear such as mountain boots, rain jackets, warm clothes for all seasons etc. have to be brought by the adventurer itself;\n\n• In case of external factors, such as bad weather, interfering with the plan, some of the activities might be replaced with more suitable ones for the weather conditions. These measures will be taken to ensure that you will have the best experience.\n\n  \n\n#### Deposit and Full Payment\n\n  \n\nAfter your request has been processed, you will receive an email confirming your booking and containing your invoice. To finalize your request for the offer and have a place booked within the tour, you will have 7 days to pay at least 50% of the amount received in the invoice. The rest of the amount must be paid latest 30 days due the trip’s departure. If the trip is due in less than 30 days, the full payment must be done at once. (Note: please check the invoice for due date as well as additional information regarding reminders)\n\n  \n\n#### Cancellation\n\n  \n\nSince the adventures that we offer are considered package tour, you, the adventurer are covered by the Package Travel Act – more info  \nAccording to it, the customer (adventurer) is entitled to cancellation. Should the adventurer cancel the package tour, the organizer (Uncharted) can only claim appropriate compensation as determined considering the timing of the cancellation and the nature of the package tour. If the upper paragraph applies, the customer (adventurer) is refunded as the following:  \n  \n• 100% of the package price refunded, if the customer (adventurer) cancels in the timeframe of > 30 days before the first day of the tour;  \n• 80% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 20-29 days before the first day of the tour;  \n• 50% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 10-19 days before the first day of the tour;  \n• 20% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 4-9 days before the first day of the tour;  \n• There is no refund, if the customer (adventurer) cancels in the timeframe of 3 or less days before the first day of the tour or for not showing up at all.  \n  \nThe right of cancellation may be limited or derogated from in the contract if the organizer has a limited right of cancellation in relation to a third party.  \nFurthermore, the customer (adventurer) may cancel a package tour if, within 14 days of the commencement of the package tour, war, natural disaster, lethal contagious diseases or other similar events occur at the destination or in areas adjacent to the destination. In that case, the customer (adventurer) shall be entitled to a refund of all amounts paid under the contract.  \nThe upper paragraph shall not apply if the event in question was known to the customer (adventurer) on the conclusion of the contract or if the event was generally known.  \nThe organizer (Uncharted) shall notify the customer (adventurer) of the cancellation terms prior to the conclusion of the contract.  \nPrior to the conclusion of the contract, the organizer shall notify the customer (adventurer) of the possibilities and terms of taking out insurance to cover the customer's non-participation in the package tour due to illness or similar.\n\n  \n\n#### Travel Insurance\n\n  \n\nBecause the outdoor activities imply a certain risk of injury, we strongly advise you to purchase travel insurance. We recommend that you contact your insurance broker and ask for the suitable insurance for the chosen tour.  \nTravel insurance is compulsory for all our trips. We require that, at a minimum, you are covered for medical expenses including emergency repatriation. We strongly recommend that the policy also covers personal liability, curtailment and loss of luggage and personal effects.  \nIt is the adventurer’s own responsibility to ensure they purchase a travel insurance. Uncharted IVS is not to be held liable in case of any accidents that could have been covered by the travel insurance.\n\n  \n\n#### Medical and health information\n\n  \n\nAll Uncharted adventurers need to be in a good physical health in order to fully participate on any of the activities. Please make sure you have read through the itinerary carefully when selecting your adventure and assess your ability to cope with our style of travel. Please note that if, in the opinion of our group leader or local guide, any adventurer is unable to complete the itinerary without undue risk to themselves and/or the rest of the group, Uncharted IVS reserves the right to exclude them from all or part of a trip without refund.  \nFor legal reasons our leaders and guides are prohibited from administering any type of drugs including headache tablets and antibiotics. Please ensure that you are adequately prepared.\n\n  \n\n#### Air & Lodging Reservations\n\n  \n\nWe urge you to make your travel plans as soon as possible. All tours are planned around the cheapest flight tickets to the departure city of Cluj-Napoca. We suggest you pick the route Billund – Cluj-Napoca, operating with the lowest cost flight company such as WIZZ Air. You may choose to arrange the transportation to the departure city as you please, but do take into account that you have to be there at 12:30, on the first day of the tour.  \nIn case of a flight delay or external issues that might delay your arrival, contact us as soon as possible to plan the departure from Cluj-Napoca. Uncharted is not to be held responsible for any issues derived from the consumers failing to comply with this terms.\n\n  \n\n#### Passport and visas\n\n  \n\n**Citizens of the European Union countries** can enter Romania with a **valid passport** or with their **National Identity Card**.  \nA valid passport is required for all overseas/non-EU visitors.Your passport must be valid for the entire duration of your visit (it will not expire sooner than your intended date of departure). However, please check the expiration date on your passport carefully before traveling to Europe.  \nTo apply for an extended stay visa please visit [eVisa.MAE.ro.](http://evisa.mae.ro/)  \nFor additional information please contact the [Romanian Immigration Office.](http://igi.mai.gov.ro/en)\n\n  \n\n#### Food and dietary requirements\n\n  \n\nYour tour includes meals as indicated in our brochure and online. Every day breakfast, lunch and dinner will be included. On some of the days, due to certain activities that require longer traveling distances, the lunch will be served either as a lunch-box or in a cosier manner such as a BBQ or a meal made by the shepherds.  \nAdventurers with special meal requirements or food allergies **MUST** ensure they or their travel agent has informed Uncharted IVS of this at the time of booking. We can make all the proper adjustments to ensure your dietary requirements are met, as long as we are informed in time.\n\n  \n\n#### Free Courses\n\n  \n\nSome of our activities might seem intimidating for people who never tried them before. Activities such as rock climbing for example. We want to help you overcome your fear and inhibitions and that is why we offer free courses for people who want to try this amazing activity.  \nIf you consider taking an adventure that has included rock climbing, but you are uncertain about it, write us an email and we will organise for you a free climbing session. There, you have an opportunity to try it out as well as to learn few basic techniques. Afterwards if you decide to buy the package, we throw in 4 more free climbing sessions where you will gain more experience and knowledge about the sport. All sessions will be held with our accredited trainer and instructor. (Note: This applies only for Aarhus commune residents)  \nFurthermore, in the winter season, for those of you who want to switch from skis to snowboard or simply want to learn how to slide down the mountain in the cool snowboarding way, we offer free snowboarding training for the period of your tour. You will be thought all the basics and who knows, maybe by the end of the adventure you will already be able to snowboard on your own.\n\n  \n\n#### Pocket Money\n\n  \n\nRomania still employs mostly cash payments; therefore, we recommend you do not fully rely on the possibility of paying with the credit card in all places.  \nThe currency in Romania is RON (1 RON = 1.62 DKK). Regarding pocket money, you have few options. The first one is to use your credit card and withdraw RON from the local ATM’s. Your tour guide will make sure to find the most suitable one for you with least exchange charges. The second option would be to bring cash (EURO) and change them at the exchange offices.  \nOur tours take us through villages and places where the only way to pay for souvenirs is with cash, therefore we strongly advise to have some cash with you at all time.\n\n  \n\n#### Equipment\n\n  \n\nDue to the fact that all tours consist of activities that involve nature and mountains, we strongly recommend that you have on you the following basic equipment at all times:  \n  \n• Hiking boots  \n• Rain jacket  \n• Warm clothes, no matter the season.  \n  \nSpecific equipment for the different activities will be provided by Uncharted IVS or the partners. Therefore, all you need to think of is the equipment presented above. If by any chance, extra equipment is necessary, we will inform you, and if you do not have it we will do our best to provide you with the best alternative in order for you to be properly equipped for your adventure.\n\n  \n\n#### Group Leader and travel guides\n\n  \n\nAll our adventure tours are accompanied by your group leader from Uncharted team. Your group leader is also your driver and on different activities he will be your instructor as well. The aim of the group leader is to take the hassle out of your travels and to help you have the best trip possible. The group leader will provide information on the places you are travelling through, offer suggestions for things to do and see and organise everything to ensure the best experience for you, the adventurer. He will also introduce you to our local friends along the way. While not being a guide in the traditional sense you can expect him to have a broad general knowledge of the areas visited on the trip, including historical, environmental, cultural and social aspects.  \n  \nYour group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the city of Sibiu. Moreover, he is a mountain sports enthusiast performing a variety of the mountain activities in the tour, in some of them being also specialised as a professional trainer and instructor:  \n  \n• Rock Climbing trainer and instructor (activating within Aarhus Klatreklub);  \n• Ski and Snowboard instructor.  \n  \nFor other activities, our partners will provide us with the appropriate mountain guides and specific activities travel guides. All of them are experts in their fields, with lots of years of experience on their back. You can find them on our partners’ list.\n\n  \n\n#### Travelling on a group trip\n\n  \n\nAs you travel on a group trip you will be exposed to all the pleasures and maybe some of the frustrations of travelling in a group. Your fellow adventurers will probably come from all corners of the world and likely a range of age groups too. We ask you to be understanding of the various needs and preferences of your group - patience with your fellow adventurers is sometimes required for the benefit of everyone's travel experience. Remember too that you have responsibilities to the group. If you are requested to be at a place at a certain time, ensure that you don't keep the rest of the group waiting.  \nTo ensure a great group environment, we will host an informal meeting, prior to the departure, where you will get the chance to know a bit about the people you will go on the adventure with. Due to privacy reasons however, we are unable to provide you with contact details and any personal information about your fellow adventurers booked on your trip prior to departure.\n\n  \n\n#### Sustainable traveling\n\n  \n\nUncharted is all about making simple choices to reduce the negative impact on the destinations. Individually, each one of these choices makes only a small difference. But collectively, becoming more conscious about these little things can have a huge impact.  \n  \nWhether you are passionate about supporting local communities or preserving wildlife and natural resources, there are plenty of ways you can do that. Here is a list of few ways you will make your impact, just by choosing our adventures:  \n  \n• Our tours consist of a lot of walking in both the nature and urban regions. Often, we may add some biking trails in order to cover more ground, while still remaining conscious about the environment. Therefore, the transportation by car will be reduced to a bare minimum, hence cutting down on gas usage and pollution;  \n• Throughout the tour we will always stick to the marked paths, that are there for a reason. And that is to avoid harming native flora;  \n• We always keep respectful distance from wildlife. Even though we understand that a selfie with a brown bear or a wild deer could make a great Instagram story, if you are too close to attract the animal’s attention, then you are way too close;  \n• Our adventurers are always encouraged and guided towards buying local products rather than those which have been imported. Local artisans, manufacturers and producers are the people we encourage the souvenirs to be brought from. By this we help to preserve the culture, give back to the community and show you, the adventurer, the authenticity of the traditions and the local customs. Think, whether at the end of the day you want to buy an authentic souvenir or one that came straight from the Asian assembly line?  \n• All the adventures are held in small groups, up to 16 people. The reason behind is not only to create a cosy environment for the adventurers, but also to lessen the negative impact on the environment. Together we can show that tourism can be done in a responsible, sustainable manner.  \n• All elements in every tour are created in such way that in helps to immerse yourself in the local culture. The true definition of a travelling adventure is to get the chance to try different foods, listen to different music and explore different cultures. That is what we do here at Uncharted.",
+        "contentDigest": "496af9d39dc7d7b2a259b74d1eb7cc58",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "",
+        "templateKey": "terms",
+        "image": "../../static/img/hero1.jpg",
+        "tagline": "Terms And Conditions",
+        "_PARENT": "/Users/Robert/uncharted/src/data/terms.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/data/terms.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/terms.md",
+      "fields": {
+        "slug": "/terms/"
+      }
+    },
+    "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'activity'\nimage: /img/hero1.jpg\nname: 'hiking'\n---\n",
+        "contentDigest": "b739e2ca9521ebb4f44bff61f0b46ed9",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "",
+        "templateKey": "activity",
+        "image": "../../../static/img/hero1.jpg",
+        "name": "hiking",
+        "_PARENT": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/activities/hiking.md",
+      "fields": {
+        "slug": "/activities/hiking/"
       }
     },
     "/Users/Robert/uncharted/src/data/stories.md absPath of file >>> MarkdownRemark": {
@@ -2535,13 +2799,13 @@
         "slug": "/stories/"
       }
     },
-    "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark",
+    "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/index.md absPath of file",
+      "parent": "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: 'frontpage'\nimage: /img/hero1.jpg\ntagline: A new way of travelling!\nwelcome: 'Welcome to your new travelling chapter. In this chapter you are the one to decide if you want to be taken into a special themed adventure, or tailor your own. What’s guaranteed is that with each uncharted path, you will rediscover yourself.'\n---\n",
-        "contentDigest": "c3c7960848aa0b72d3ba8597f21a6e79",
+        "content": "---\ntemplateKey: 'value'\nheading: 'genuine adventures'\ntext: 'Discover locations with great beauty and history, but which are not known to everyone. The 3 day weekend getaway and the 8 days’ adventure combine special destinations with interesting activities, to create the perfect recipe for the Genuine Adventure tour. You can always build your own adventure and we make sure to tailor it suiting your preferences.'\n---\n",
+        "contentDigest": "ee4e4e00773883aabc13b3f3f1268efb",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -2550,44 +2814,16 @@
       },
       "frontmatter": {
         "title": "",
-        "templateKey": "frontpage",
-        "image": "../../static/img/hero1.jpg",
-        "tagline": "A new way of travelling!",
-        "welcome": "Welcome to your new travelling chapter. In this chapter you are the one to decide if you want to be taken into a special themed adventure, or tailor your own. What’s guaranteed is that with each uncharted path, you will rediscover yourself.",
-        "_PARENT": "/Users/Robert/uncharted/src/data/index.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/index.md absPath of file"
+        "templateKey": "value",
+        "heading": "genuine adventures",
+        "text": "Discover locations with great beauty and history, but which are not known to everyone. The 3 day weekend getaway and the 8 days’ adventure combine special destinations with interesting activities, to create the perfect recipe for the Genuine Adventure tour. You can always build your own adventure and we make sure to tailor it suiting your preferences.",
+        "_PARENT": "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file"
       },
       "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/index.md",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/values/genuine.md",
       "fields": {
-        "slug": "/"
-      }
-    },
-    "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: 'activity'\nimage: /img/hero1.jpg\nname: 'hiking'\n---\n",
-        "contentDigest": "b739e2ca9521ebb4f44bff61f0b46ed9",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "",
-        "templateKey": "activity",
-        "image": "../../../static/img/hero1.jpg",
-        "name": "hiking",
-        "_PARENT": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/activities/hiking.md",
-      "fields": {
-        "slug": "/activities/hiking/"
+        "slug": "/values/genuine/"
       }
     },
     "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file >>> MarkdownRemark": {
@@ -2617,13 +2853,13 @@
         "slug": "/activities/hunt/"
       }
     },
-    "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file >>> MarkdownRemark",
+    "/Users/Robert/uncharted/src/data/values/safe.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file",
+      "parent": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: 'value'\nheading: 'genuine adventures'\ntext: 'Discover locations with great beauty and history, but which are not known to everyone. The 3 day weekend getaway and the 8 days’ adventure combine special destinations with interesting activities, to create the perfect recipe for the Genuine Adventure tour. You can always build your own adventure and we make sure to tailor it suiting your preferences.'\n---\n",
-        "contentDigest": "ee4e4e00773883aabc13b3f3f1268efb",
+        "content": "---\ntemplateKey: 'value'\nheading: 'You’re in safe hands'\ntext: 'All adventure tours are accompanied by your group leader who is a specialist in activities. He will provide information on the places you are travelling through, suggest things to do and introduce you to local friends along the way. Your group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the area.'\n---\n",
+        "contentDigest": "d8534823dcf5b6d8d6c4ddd415e5f455",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -2633,15 +2869,15 @@
       "frontmatter": {
         "title": "",
         "templateKey": "value",
-        "heading": "genuine adventures",
-        "text": "Discover locations with great beauty and history, but which are not known to everyone. The 3 day weekend getaway and the 8 days’ adventure combine special destinations with interesting activities, to create the perfect recipe for the Genuine Adventure tour. You can always build your own adventure and we make sure to tailor it suiting your preferences.",
-        "_PARENT": "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file"
+        "heading": "You’re in safe hands",
+        "text": "All adventure tours are accompanied by your group leader who is a specialist in activities. He will provide information on the places you are travelling through, suggest things to do and introduce you to local friends along the way. Your group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the area.",
+        "_PARENT": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file"
       },
       "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/values/genuine.md",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/values/safe.md",
       "fields": {
-        "slug": "/values/genuine/"
+        "slug": "/values/safe/"
       }
     },
     "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file >>> MarkdownRemark": {
@@ -2669,33 +2905,6 @@
       "fileAbsolutePath": "/Users/Robert/uncharted/src/data/values/rediscover.md",
       "fields": {
         "slug": "/values/rediscover/"
-      }
-    },
-    "/Users/Robert/uncharted/src/data/values/safe.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: 'value'\nheading: 'You’re in safe hands'\ntext: 'All adventure tours are accompanied by your group leader who is a specialist in activities. He will provide information on the places you are travelling through, suggest things to do and introduce you to local friends along the way. Your group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the area.'\n---\n",
-        "contentDigest": "d8534823dcf5b6d8d6c4ddd415e5f455",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "",
-        "templateKey": "value",
-        "heading": "You’re in safe hands",
-        "text": "All adventure tours are accompanied by your group leader who is a specialist in activities. He will provide information on the places you are travelling through, suggest things to do and introduce you to local friends along the way. Your group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the area.",
-        "_PARENT": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/values/safe.md",
-      "fields": {
-        "slug": "/values/safe/"
       }
     },
     "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file >>> MarkdownRemark": {
@@ -2730,7 +2939,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "24eb8c621264d4cc341bfe5084ee1f13",
+        "contentDigest": "67025596ef9455159fb3299b1b82a1d6",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2741,7 +2950,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-03-24T22:32:16.947Z",
-      "accessTime": "2018-04-29T16:47:22.004Z",
+      "accessTime": "2018-04-29T17:33:03.019Z",
       "changeTime": "2018-03-24T22:32:16.947Z",
       "birthTime": "2018-03-24T20:07:41.323Z",
       "root": "/",
@@ -2759,11 +2968,11 @@
       "blksize": 4194304,
       "ino": 8600035704,
       "blocks": 0,
-      "atimeMs": 1525020442003.7544,
+      "atimeMs": 1525023183019.4692,
       "mtimeMs": 1521930736947.124,
       "ctimeMs": 1521930736947.124,
       "birthtimeMs": 1521922061322.7996,
-      "atime": "2018-04-29T16:47:22.004Z",
+      "atime": "2018-04-29T17:33:03.019Z",
       "mtime": "2018-03-24T22:32:16.947Z",
       "ctime": "2018-03-24T22:32:16.947Z",
       "birthtime": "2018-03-24T20:07:41.323Z"
@@ -2785,7 +2994,7 @@
       "size": 6148,
       "prettySize": "6.15 kB",
       "modifiedTime": "2018-03-24T22:32:10.412Z",
-      "accessTime": "2018-04-23T21:31:32.973Z",
+      "accessTime": "2018-04-18T08:29:41.857Z",
       "changeTime": "2018-03-24T22:32:10.412Z",
       "birthTime": "2018-03-24T22:32:05.139Z",
       "root": "/",
@@ -2794,7 +3003,7 @@
       "ext": "",
       "name": ".DS_Store",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777223,
       "mode": 33188,
       "nlink": 1,
       "uid": 502,
@@ -2803,11 +3012,11 @@
       "blksize": 4194304,
       "ino": 8600231987,
       "blocks": 16,
-      "atimeMs": 1524519092972.9204,
+      "atimeMs": 1524040181857.315,
       "mtimeMs": 1521930730411.992,
       "ctimeMs": 1521930730411.992,
       "birthtimeMs": 1521930725138.738,
-      "atime": "2018-04-23T21:31:32.973Z",
+      "atime": "2018-04-18T08:29:41.857Z",
       "mtime": "2018-03-24T22:32:10.412Z",
       "ctime": "2018-03-24T22:32:10.412Z",
       "birthtime": "2018-03-24T22:32:05.139Z"
@@ -2831,7 +3040,7 @@
       "size": 8697889,
       "prettySize": "8.7 MB",
       "modifiedTime": "2018-03-02T11:06:04.000Z",
-      "accessTime": "2018-04-23T21:31:43.951Z",
+      "accessTime": "2018-04-26T17:25:47.557Z",
       "changeTime": "2018-03-24T22:32:19.528Z",
       "birthTime": "2018-03-02T11:06:04.000Z",
       "root": "/",
@@ -2840,7 +3049,7 @@
       "ext": ".jpg",
       "name": "hero1",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777223,
       "mode": 33188,
       "nlink": 1,
       "uid": 502,
@@ -2849,11 +3058,11 @@
       "blksize": 4194304,
       "ino": 8597870283,
       "blocks": 16992,
-      "atimeMs": 1524519103951.465,
+      "atimeMs": 1524763547556.988,
       "mtimeMs": 1519988764000,
       "ctimeMs": 1521930739527.9033,
       "birthtimeMs": 1519988764000,
-      "atime": "2018-04-23T21:31:43.951Z",
+      "atime": "2018-04-26T17:25:47.557Z",
       "mtime": "2018-03-02T11:06:04.000Z",
       "ctime": "2018-03-24T22:32:19.528Z",
       "birthtime": "2018-03-02T11:06:04.000Z"
@@ -2866,211 +3075,6 @@
         "contentDigest": "31b92e78cd26cb1a52fbb7172326c52b",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/Robert/uncharted/src/pages/confirmation.js absPath of file": {
-      "id": "/Users/Robert/uncharted/src/pages/confirmation.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "f2e46fd25c3e5f26f8c470b546a8efbc",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Robert/uncharted/src/pages/confirmation.js",
-      "relativePath": "confirmation.js",
-      "extension": "js",
-      "size": 216,
-      "prettySize": "216 B",
-      "modifiedTime": "2018-04-23T22:10:09.746Z",
-      "accessTime": "2018-04-23T22:11:13.600Z",
-      "changeTime": "2018-04-23T22:10:09.747Z",
-      "birthTime": "2018-04-23T22:08:10.996Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/pages",
-      "base": "confirmation.js",
-      "ext": ".js",
-      "name": "confirmation",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602351520,
-      "blocks": 8,
-      "atimeMs": 1524521473600.2358,
-      "mtimeMs": 1524521409746,
-      "ctimeMs": 1524521409746.93,
-      "birthtimeMs": 1524521290995.6768,
-      "atime": "2018-04-23T22:11:13.600Z",
-      "mtime": "2018-04-23T22:10:09.746Z",
-      "ctime": "2018-04-23T22:10:09.747Z",
-      "birthtime": "2018-04-23T22:08:10.996Z"
-    },
-    "/Users/Robert/uncharted/src/pages/faq.js absPath of file": {
-      "id": "/Users/Robert/uncharted/src/pages/faq.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "1e97e5ffb3198405269efca23093f441",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Robert/uncharted/src/pages/faq.js",
-      "relativePath": "faq.js",
-      "extension": "js",
-      "size": 3113,
-      "prettySize": "3.11 kB",
-      "modifiedTime": "2018-04-29T16:20:59.594Z",
-      "accessTime": "2018-04-29T16:20:59.594Z",
-      "changeTime": "2018-04-29T16:20:59.594Z",
-      "birthTime": "2018-04-29T15:57:05.096Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/pages",
-      "base": "faq.js",
-      "ext": ".js",
-      "name": "faq",
-      "relativeDirectory": "",
-      "dev": 16777223,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602514089,
-      "blocks": 8,
-      "atimeMs": 1525018859593.6443,
-      "mtimeMs": 1525018859594.0212,
-      "ctimeMs": 1525018859594.0212,
-      "birthtimeMs": 1525017425096.3462,
-      "atime": "2018-04-29T16:20:59.594Z",
-      "mtime": "2018-04-29T16:20:59.594Z",
-      "ctime": "2018-04-29T16:20:59.594Z",
-      "birthtime": "2018-04-29T15:57:05.096Z"
-    },
-    "/Users/Robert/uncharted/src/pages/terms.js absPath of file": {
-      "id": "/Users/Robert/uncharted/src/pages/terms.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "e8b280cf3028dd0ec3be3f61be52ebd3",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Robert/uncharted/src/pages/terms.js",
-      "relativePath": "terms.js",
-      "extension": "js",
-      "size": 1810,
-      "prettySize": "1.81 kB",
-      "modifiedTime": "2018-04-29T16:19:09.291Z",
-      "accessTime": "2018-04-29T16:19:09.282Z",
-      "changeTime": "2018-04-29T16:19:09.291Z",
-      "birthTime": "2018-04-29T15:57:17.264Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/pages",
-      "base": "terms.js",
-      "ext": ".js",
-      "name": "terms",
-      "relativeDirectory": "",
-      "dev": 16777223,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602514106,
-      "blocks": 8,
-      "atimeMs": 1525018749282.1658,
-      "mtimeMs": 1525018749290.7454,
-      "ctimeMs": 1525018749290.7454,
-      "birthtimeMs": 1525017437263.546,
-      "atime": "2018-04-29T16:19:09.282Z",
-      "mtime": "2018-04-29T16:19:09.291Z",
-      "ctime": "2018-04-29T16:19:09.291Z",
-      "birthtime": "2018-04-29T15:57:17.264Z"
-    },
-    "/Users/Robert/uncharted/src/data/terms.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/terms.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/terms.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "8f060d8ee7022c684c0a9ee52815f9cb",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/terms.md",
-      "relativePath": "terms.md",
-      "extension": "md",
-      "size": 15200,
-      "prettySize": "15.2 kB",
-      "modifiedTime": "2018-04-29T16:11:04.728Z",
-      "accessTime": "2018-04-29T16:11:04.728Z",
-      "changeTime": "2018-04-29T16:11:04.728Z",
-      "birthTime": "2018-04-29T16:09:41.402Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data",
-      "base": "terms.md",
-      "ext": ".md",
-      "name": "terms",
-      "relativeDirectory": "",
-      "dev": 16777223,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602514675,
-      "blocks": 32,
-      "atimeMs": 1525018264728.0107,
-      "mtimeMs": 1525018264728.4744,
-      "ctimeMs": 1525018264728.4744,
-      "birthtimeMs": 1525018181402.0989,
-      "atime": "2018-04-29T16:11:04.728Z",
-      "mtime": "2018-04-29T16:11:04.728Z",
-      "ctime": "2018-04-29T16:11:04.728Z",
-      "birthtime": "2018-04-29T16:09:41.402Z"
-    },
-    "/Users/Robert/uncharted/src/data/terms.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/terms.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/terms.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: 'terms'\nimage: /img/hero1.jpg\ntagline: Terms And Conditions\n---\n#### **Important notes:**\n\n  \n\n• All tours start and end in the city of Cluj-Napoca;\n\n• No matter the way chosen to reach Cluj-Napoca, the adventurer has to make sure he/she arrives at the starting point of the tour no later than 12:30 p.m. on the first day of the tour;\n\n• Your tour leader will welcome you at the airport and he will be with you all the time along the tour. He will be also the one who will make sure you get to the airport in time for your departure back to home;\n\n• Throughout each activity you will be accompanied by experts from that specific field;\n\n• All the specific gear for the activities will be provided by Uncharted. Still, the basic gear such as mountain boots, rain jackets, warm clothes for all seasons etc. have to be brought by the adventurer itself;\n\n• In case of external factors, such as bad weather, interfering with the plan, some of the activities might be replaced with more suitable ones for the weather conditions. These measures will be taken to ensure that you will have the best experience.\n\n  \n\n#### Deposit and Full Payment\n\n  \n\nAfter your request has been processed, you will receive an email confirming your booking and containing your invoice. To finalize your request for the offer and have a place booked within the tour, you will have 7 days to pay at least 50% of the amount received in the invoice. The rest of the amount must be paid latest 30 days due the trip’s departure. If the trip is due in less than 30 days, the full payment must be done at once. (Note: please check the invoice for due date as well as additional information regarding reminders)\n\n  \n\n#### Cancellation\n\n  \n\nSince the adventures that we offer are considered package tour, you, the adventurer are covered by the Package Travel Act – more info  \nAccording to it, the customer (adventurer) is entitled to cancellation. Should the adventurer cancel the package tour, the organizer (Uncharted) can only claim appropriate compensation as determined considering the timing of the cancellation and the nature of the package tour. If the upper paragraph applies, the customer (adventurer) is refunded as the following:  \n  \n• 100% of the package price refunded, if the customer (adventurer) cancels in the timeframe of > 30 days before the first day of the tour;  \n• 80% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 20-29 days before the first day of the tour;  \n• 50% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 10-19 days before the first day of the tour;  \n• 20% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 4-9 days before the first day of the tour;  \n• There is no refund, if the customer (adventurer) cancels in the timeframe of 3 or less days before the first day of the tour or for not showing up at all.  \n  \nThe right of cancellation may be limited or derogated from in the contract if the organizer has a limited right of cancellation in relation to a third party.  \nFurthermore, the customer (adventurer) may cancel a package tour if, within 14 days of the commencement of the package tour, war, natural disaster, lethal contagious diseases or other similar events occur at the destination or in areas adjacent to the destination. In that case, the customer (adventurer) shall be entitled to a refund of all amounts paid under the contract.  \nThe upper paragraph shall not apply if the event in question was known to the customer (adventurer) on the conclusion of the contract or if the event was generally known.  \nThe organizer (Uncharted) shall notify the customer (adventurer) of the cancellation terms prior to the conclusion of the contract.  \nPrior to the conclusion of the contract, the organizer shall notify the customer (adventurer) of the possibilities and terms of taking out insurance to cover the customer's non-participation in the package tour due to illness or similar.\n\n  \n\n#### Travel Insurance\n\n  \n\nBecause the outdoor activities imply a certain risk of injury, we strongly advise you to purchase travel insurance. We recommend that you contact your insurance broker and ask for the suitable insurance for the chosen tour.  \nTravel insurance is compulsory for all our trips. We require that, at a minimum, you are covered for medical expenses including emergency repatriation. We strongly recommend that the policy also covers personal liability, curtailment and loss of luggage and personal effects.  \nIt is the adventurer’s own responsibility to ensure they purchase a travel insurance. Uncharted IVS is not to be held liable in case of any accidents that could have been covered by the travel insurance.\n\n  \n\n#### Medical and health information\n\n  \n\nAll Uncharted adventurers need to be in a good physical health in order to fully participate on any of the activities. Please make sure you have read through the itinerary carefully when selecting your adventure and assess your ability to cope with our style of travel. Please note that if, in the opinion of our group leader or local guide, any adventurer is unable to complete the itinerary without undue risk to themselves and/or the rest of the group, Uncharted IVS reserves the right to exclude them from all or part of a trip without refund.  \nFor legal reasons our leaders and guides are prohibited from administering any type of drugs including headache tablets and antibiotics. Please ensure that you are adequately prepared.\n\n  \n\n#### Air & Lodging Reservations\n\n  \n\nWe urge you to make your travel plans as soon as possible. All tours are planned around the cheapest flight tickets to the departure city of Cluj-Napoca. We suggest you pick the route Billund – Cluj-Napoca, operating with the lowest cost flight company such as WIZZ Air. You may choose to arrange the transportation to the departure city as you please, but do take into account that you have to be there at 12:30, on the first day of the tour.  \nIn case of a flight delay or external issues that might delay your arrival, contact us as soon as possible to plan the departure from Cluj-Napoca. Uncharted is not to be held responsible for any issues derived from the consumers failing to comply with this terms.\n\n  \n\n#### Passport and visas\n\n  \n\n**Citizens of the European Union countries** can enter Romania with a **valid passport** or with their **National Identity Card**.  \nA valid passport is required for all overseas/non-EU visitors.Your passport must be valid for the entire duration of your visit (it will not expire sooner than your intended date of departure). However, please check the expiration date on your passport carefully before traveling to Europe.  \nTo apply for an extended stay visa please visit [eVisa.MAE.ro.](http://evisa.mae.ro/)  \nFor additional information please contact the [Romanian Immigration Office.](http://igi.mai.gov.ro/en)\n\n  \n\n#### Food and dietary requirements\n\n  \n\nYour tour includes meals as indicated in our brochure and online. Every day breakfast, lunch and dinner will be included. On some of the days, due to certain activities that require longer traveling distances, the lunch will be served either as a lunch-box or in a cosier manner such as a BBQ or a meal made by the shepherds.  \nAdventurers with special meal requirements or food allergies **MUST** ensure they or their travel agent has informed Uncharted IVS of this at the time of booking. We can make all the proper adjustments to ensure your dietary requirements are met, as long as we are informed in time.\n\n  \n\n#### Free Courses\n\n  \n\nSome of our activities might seem intimidating for people who never tried them before. Activities such as rock climbing for example. We want to help you overcome your fear and inhibitions and that is why we offer free courses for people who want to try this amazing activity.  \nIf you consider taking an adventure that has included rock climbing, but you are uncertain about it, write us an email and we will organise for you a free climbing session. There, you have an opportunity to try it out as well as to learn few basic techniques. Afterwards if you decide to buy the package, we throw in 4 more free climbing sessions where you will gain more experience and knowledge about the sport. All sessions will be held with our accredited trainer and instructor. (Note: This applies only for Aarhus commune residents)  \nFurthermore, in the winter season, for those of you who want to switch from skis to snowboard or simply want to learn how to slide down the mountain in the cool snowboarding way, we offer free snowboarding training for the period of your tour. You will be thought all the basics and who knows, maybe by the end of the adventure you will already be able to snowboard on your own.\n\n  \n\n#### Pocket Money\n\n  \n\nRomania still employs mostly cash payments; therefore, we recommend you do not fully rely on the possibility of paying with the credit card in all places.  \nThe currency in Romania is RON (1 RON = 1.62 DKK). Regarding pocket money, you have few options. The first one is to use your credit card and withdraw RON from the local ATM’s. Your tour guide will make sure to find the most suitable one for you with least exchange charges. The second option would be to bring cash (EURO) and change them at the exchange offices.  \nOur tours take us through villages and places where the only way to pay for souvenirs is with cash, therefore we strongly advise to have some cash with you at all time.\n\n  \n\n#### Equipment\n\n  \n\nDue to the fact that all tours consist of activities that involve nature and mountains, we strongly recommend that you have on you the following basic equipment at all times:  \n  \n• Hiking boots  \n• Rain jacket  \n• Warm clothes, no matter the season.  \n  \nSpecific equipment for the different activities will be provided by Uncharted IVS or the partners. Therefore, all you need to think of is the equipment presented above. If by any chance, extra equipment is necessary, we will inform you, and if you do not have it we will do our best to provide you with the best alternative in order for you to be properly equipped for your adventure.\n\n  \n\n#### Group Leader and travel guides\n\n  \n\nAll our adventure tours are accompanied by your group leader from Uncharted team. Your group leader is also your driver and on different activities he will be your instructor as well. The aim of the group leader is to take the hassle out of your travels and to help you have the best trip possible. The group leader will provide information on the places you are travelling through, offer suggestions for things to do and see and organise everything to ensure the best experience for you, the adventurer. He will also introduce you to our local friends along the way. While not being a guide in the traditional sense you can expect him to have a broad general knowledge of the areas visited on the trip, including historical, environmental, cultural and social aspects.  \n  \nYour group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the city of Sibiu. Moreover, he is a mountain sports enthusiast performing a variety of the mountain activities in the tour, in some of them being also specialised as a professional trainer and instructor:  \n  \n• Rock Climbing trainer and instructor (activating within Aarhus Klatreklub);  \n• Ski and Snowboard instructor.  \n  \nFor other activities, our partners will provide us with the appropriate mountain guides and specific activities travel guides. All of them are experts in their fields, with lots of years of experience on their back. You can find them on our partners’ list.\n\n  \n\n#### Travelling on a group trip\n\n  \n\nAs you travel on a group trip you will be exposed to all the pleasures and maybe some of the frustrations of travelling in a group. Your fellow adventurers will probably come from all corners of the world and likely a range of age groups too. We ask you to be understanding of the various needs and preferences of your group - patience with your fellow adventurers is sometimes required for the benefit of everyone's travel experience. Remember too that you have responsibilities to the group. If you are requested to be at a place at a certain time, ensure that you don't keep the rest of the group waiting.  \nTo ensure a great group environment, we will host an informal meeting, prior to the departure, where you will get the chance to know a bit about the people you will go on the adventure with. Due to privacy reasons however, we are unable to provide you with contact details and any personal information about your fellow adventurers booked on your trip prior to departure.\n\n  \n\n#### Sustainable traveling\n\n  \n\nUncharted is all about making simple choices to reduce the negative impact on the destinations. Individually, each one of these choices makes only a small difference. But collectively, becoming more conscious about these little things can have a huge impact.  \n  \nWhether you are passionate about supporting local communities or preserving wildlife and natural resources, there are plenty of ways you can do that. Here is a list of few ways you will make your impact, just by choosing our adventures:  \n  \n• Our tours consist of a lot of walking in both the nature and urban regions. Often, we may add some biking trails in order to cover more ground, while still remaining conscious about the environment. Therefore, the transportation by car will be reduced to a bare minimum, hence cutting down on gas usage and pollution;  \n• Throughout the tour we will always stick to the marked paths, that are there for a reason. And that is to avoid harming native flora;  \n• We always keep respectful distance from wildlife. Even though we understand that a selfie with a brown bear or a wild deer could make a great Instagram story, if you are too close to attract the animal’s attention, then you are way too close;  \n• Our adventurers are always encouraged and guided towards buying local products rather than those which have been imported. Local artisans, manufacturers and producers are the people we encourage the souvenirs to be brought from. By this we help to preserve the culture, give back to the community and show you, the adventurer, the authenticity of the traditions and the local customs. Think, whether at the end of the day you want to buy an authentic souvenir or one that came straight from the Asian assembly line?  \n• All the adventures are held in small groups, up to 16 people. The reason behind is not only to create a cosy environment for the adventurers, but also to lessen the negative impact on the environment. Together we can show that tourism can be done in a responsible, sustainable manner.  \n• All elements in every tour are created in such way that in helps to immerse yourself in the local culture. The true definition of a travelling adventure is to get the chance to try different foods, listen to different music and explore different cultures. That is what we do here at Uncharted.",
-        "contentDigest": "496af9d39dc7d7b2a259b74d1eb7cc58",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "",
-        "templateKey": "terms",
-        "image": "../../static/img/hero1.jpg",
-        "tagline": "Terms And Conditions",
-        "_PARENT": "/Users/Robert/uncharted/src/data/terms.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/terms.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/terms.md",
-      "fields": {
-        "slug": "/terms/"
       }
     },
     "SitePage /packages/fullnatureadventure/": {
@@ -3091,7 +3095,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "25884c1956c8d39edb78d5db1b475233",
+        "contentDigest": "42717c307bad8b830cf62f761352f7e9",
         "owner": "internal-data-bridge"
       }
     },
@@ -3113,7 +3117,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c37cdb315bb0dd8da1477840324f27e9",
+        "contentDigest": "e9017bed9907d967435be78a0bf0249d",
         "owner": "internal-data-bridge"
       }
     },
@@ -3135,73 +3139,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6f46988ab8227f5298190e567c11c63a",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/": {
-      "layout": "index",
-      "jsonName": "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json",
-      "internalComponentName": "ComponentBlog20161217MakingSenseOfTheScaasNewFlavorWheel",
-      "path": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
-      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "id": "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "465f21d3f7538bf3e9b10d4e999546b4",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/": {
-      "layout": "index",
-      "jsonName": "blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex.json",
-      "internalComponentName": "ComponentBlog20170104ABeginnersGuideToBrewingWithChemex",
-      "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
-      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "id": "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4ffb259913737cf5235668a554c608f2",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/": {
-      "layout": "index",
-      "jsonName": "blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.json",
-      "internalComponentName": "ComponentBlog20170104JustInSmallBatchOfJamaicanBlueMountainInStoreNextWeek",
-      "path": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
-      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "id": "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ed099c1c29bc66693ea83f728504b535",
+        "contentDigest": "2410049dd0bc41240fe990901ceb1145",
         "owner": "internal-data-bridge"
       }
     },
@@ -3223,7 +3161,73 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d2fb0a528688bbbed9238bc0c564db8c",
+        "contentDigest": "79bbab8ec6b54d65b0653ff81d0000c5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/": {
+      "layout": "index",
+      "jsonName": "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json",
+      "internalComponentName": "ComponentBlog20161217MakingSenseOfTheScaasNewFlavorWheel",
+      "path": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
+      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "id": "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4e94d6039d59cf16e72a1cd050836796",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/": {
+      "layout": "index",
+      "jsonName": "blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.json",
+      "internalComponentName": "ComponentBlog20170104JustInSmallBatchOfJamaicanBlueMountainInStoreNextWeek",
+      "path": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
+      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "id": "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "add853d16d3e1eff03f745aa7cc78e5e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/": {
+      "layout": "index",
+      "jsonName": "blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex.json",
+      "internalComponentName": "ComponentBlog20170104ABeginnersGuideToBrewingWithChemex",
+      "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
+      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "id": "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "da2f4d5e81b235fd4ea8875ebec77d12",
         "owner": "internal-data-bridge"
       }
     },
@@ -3245,7 +3249,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ac7f378bf124f99e00095d5067569542",
+        "contentDigest": "f0115c2dc40324dab0e2694e11cd4728",
         "owner": "internal-data-bridge"
       }
     },
@@ -3267,51 +3271,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8efc0da0ba91a8a269287bd1ffbdc694",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/brewing/": {
-      "layout": "index",
-      "jsonName": "tags-brewing.json",
-      "internalComponentName": "ComponentTagsBrewing",
-      "path": "/tags/brewing/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "brewing"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/brewing/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5c7962fd40ed21bb120477558fa1fc4c",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/chemex/": {
-      "layout": "index",
-      "jsonName": "tags-chemex.json",
-      "internalComponentName": "ComponentTagsChemex",
-      "path": "/tags/chemex/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "chemex"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/chemex/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9fa9e48b525411c2c7cf336281bfb602",
+        "contentDigest": "d9271faa3c61cc16d5ed7b1e3f265c28",
         "owner": "internal-data-bridge"
       }
     },
@@ -3333,7 +3293,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "38c37524f2fcc43ac0bb02c28ba58633",
+        "contentDigest": "f0eff3ce599c9e8784680a0ded4dac56",
         "owner": "internal-data-bridge"
       }
     },
@@ -3355,7 +3315,51 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fba7b1ad7d603a3101460190a77d1a33",
+        "contentDigest": "7fdf947f722cbf500693aa433f8ecfe1",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/brewing/": {
+      "layout": "index",
+      "jsonName": "tags-brewing.json",
+      "internalComponentName": "ComponentTagsBrewing",
+      "path": "/tags/brewing/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "brewing"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/brewing/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7d5128e75f807b91d1d8e9b77e3fea9c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/chemex/": {
+      "layout": "index",
+      "jsonName": "tags-chemex.json",
+      "internalComponentName": "ComponentTagsChemex",
+      "path": "/tags/chemex/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "chemex"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/chemex/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "aa2ce043b718aada9c74749f11ad6720",
         "owner": "internal-data-bridge"
       }
     },
@@ -3375,7 +3379,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "95b471f4a4a869eb5c2f5ff4a9b59da4",
+        "contentDigest": "ea5bac44193283bb65b9b13c4c952af2",
         "owner": "internal-data-bridge"
       }
     },
@@ -3395,7 +3399,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5ab3d6123a53cc8b04cd2097b674a24e",
+        "contentDigest": "421077cc51d9b0b5d746db0f084b2a29",
         "owner": "internal-data-bridge"
       }
     },
@@ -3415,7 +3419,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d05521e4f55ab7db82ad73504e6f2800",
+        "contentDigest": "abfb7ec06420a0198e57c9048a32da80",
         "owner": "internal-data-bridge"
       }
     },
@@ -3435,7 +3439,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4c34a6b99a9cdfdb4a5b7d1a29eb69d3",
+        "contentDigest": "3b175076f0c5f46ec3d549ed1b2ac98f",
         "owner": "internal-data-bridge"
       }
     },
@@ -3455,7 +3459,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bd5b852db4271e5375a58329c39bc0bb",
+        "contentDigest": "7dac9500a2e0a080670fdf2f9435b55e",
         "owner": "internal-data-bridge"
       }
     },
@@ -3475,7 +3479,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e67df31a8e929ba2cb195490619a8a12",
+        "contentDigest": "784843fd5ff4e199269fc809a8c6f846",
         "owner": "internal-data-bridge"
       }
     },
@@ -3495,7 +3499,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f9bedd86db660e8e862a9638c6ec10c2",
+        "contentDigest": "7fd1cef544c682d1fb9eb59d0eca2468",
         "owner": "internal-data-bridge"
       }
     },
@@ -3515,14 +3519,14 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e6a0e22a75fbab7755519cb6ab7a1317",
+        "contentDigest": "f24c0b46828aeea1640451198d71feb3",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "4056d58387dcdd8f5c9c06a7a2c0907b"
+    "PLUGINS_HASH": "81f753c29ee05a2bdcc055c9d162dfbc"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -3530,23 +3534,23 @@
         "/packages/weekendgetaway/"
       ],
       "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file": [
-        "/faq/",
+        "/packages/weekendgetaway/",
+        "/packages/senseofadventure/",
+        "/packages/fullnatureadventure/",
         "/concept/",
+        "/faq/",
         "/",
         "/stories/",
-        "/packages/fullnatureadventure/",
-        "/packages/senseofadventure/",
-        "/packages/weekendgetaway/",
         "/terms/"
       ],
       "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file >> ImageSharp": [
-        "/faq/",
+        "/packages/weekendgetaway/",
+        "/packages/senseofadventure/",
+        "/packages/fullnatureadventure/",
         "/concept/",
+        "/faq/",
         "/",
         "/stories/",
-        "/packages/fullnatureadventure/",
-        "/packages/senseofadventure/",
-        "/packages/weekendgetaway/",
         "/terms/"
       ],
       "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark": [
@@ -3555,29 +3559,29 @@
       "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark": [
         "/packages/fullnatureadventure/"
       ],
+      "/Users/Robert/uncharted/src/pages/about/index.md absPath of file >>> MarkdownRemark": [
+        "/about/"
+      ],
       "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": [
         "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
-      ],
-      "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark": [
-        "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"
       ],
       "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark": [
         "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"
       ],
-      "/Users/Robert/uncharted/src/pages/about/index.md absPath of file >>> MarkdownRemark": [
-        "/about/"
+      "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark": [
+        "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"
       ],
       "Site": [
         "/tags/flavor/",
         "/tags/tasting/",
-        "/tags/brewing/",
-        "/tags/chemex/",
         "/tags/jamaica/",
-        "/tags/green-beans/"
+        "/tags/green-beans/",
+        "/tags/brewing/",
+        "/tags/chemex/"
       ],
       "/Users/Robert/uncharted/src/data/concept.md absPath of file >>> MarkdownRemark": [
-        "/faq/",
-        "/concept/"
+        "/concept/",
+        "/faq/"
       ],
       "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark": [
         "/"
@@ -3591,20 +3595,17 @@
     },
     "connections": {
       "MarkdownRemark": [
-        "LAYOUT___index",
-        "/faq/",
-        "/concept/",
-        "/",
-        "/stories/",
         "/tags/flavor/",
         "/tags/tasting/",
+        "/tags/jamaica/",
+        "/tags/green-beans/",
         "/tags/brewing/",
         "/tags/chemex/",
-        "/tags/jamaica/",
-        "/tags/green-beans/"
-      ],
-      "SitePage": [
-        "/dev-404-page/"
+        "/concept/",
+        "/faq/",
+        "/",
+        "/stories/",
+        "LAYOUT___index"
       ]
     }
   }

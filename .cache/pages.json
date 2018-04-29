@@ -21,6 +21,13 @@
         "path": "/packages/weekendgetaway/"
     },
     {
+        "componentChunkName": "component---src-templates-about-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "about.json",
+        "path": "/about/"
+    },
+    {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -31,22 +38,15 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex.json",
-        "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"
+        "jsonName": "blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.json",
+        "path": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.json",
-        "path": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"
-    },
-    {
-        "componentChunkName": "component---src-templates-about-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "about.json",
-        "path": "/about/"
+        "jsonName": "blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex.json",
+        "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
@@ -66,20 +66,6 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-brewing.json",
-        "path": "/tags/brewing/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-chemex.json",
-        "path": "/tags/chemex/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-jamaica.json",
         "path": "/tags/jamaica/"
     },
@@ -89,6 +75,20 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-green-beans.json",
         "path": "/tags/green-beans/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-brewing.json",
+        "path": "/tags/brewing/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-chemex.json",
+        "path": "/tags/chemex/"
     },
     {
         "componentChunkName": "component---src-pages-404-js",
