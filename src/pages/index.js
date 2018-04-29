@@ -20,6 +20,19 @@ export default class IndexPage extends React.Component {
     document.body.appendChild(script);
   }
 
+  handleScriptLoad() {
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on('init', user => {
+        if (!user) {
+          window.netlifyIdentity.on('login', () => {
+            document.location.href = '/admin/';
+          });
+        }
+      });
+    }
+    window.netlifyIdentity.init();
+  }
+
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
@@ -30,6 +43,10 @@ export default class IndexPage extends React.Component {
 
     return (
       <Wrapper>
+          <Script
+            url="https://identity.netlify.com/v1/netlify-identity-widget.js"
+            onLoad={this.handleScriptLoad.bind(this)}
+          />
           <Header>
             <Image sizes={frontpage.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
             <Tagline>{frontpage.tagline}</Tagline>
