@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
 import Image from 'gatsby-image'
+import Script from 'react-load-script'
 
 import Form from '../components/Form'
 

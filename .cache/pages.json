@@ -1,26 +1,5 @@
 [
     {
-        "componentChunkName": "component---src-templates-package-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-fullnatureadventure.json",
-        "path": "/packages/fullnatureadventure/"
-    },
-    {
-        "componentChunkName": "component---src-templates-package-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-senseofadventure.json",
-        "path": "/packages/senseofadventure/"
-    },
-    {
-        "componentChunkName": "component---src-templates-package-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-weekendgetaway.json",
-        "path": "/packages/weekendgetaway/"
-    },
-    {
         "componentChunkName": "component---src-templates-about-page-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -47,6 +26,27 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex.json",
         "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"
+    },
+    {
+        "componentChunkName": "component---src-templates-package-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-fullnatureadventure.json",
+        "path": "/packages/fullnatureadventure/"
+    },
+    {
+        "componentChunkName": "component---src-templates-package-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-senseofadventure.json",
+        "path": "/packages/senseofadventure/"
+    },
+    {
+        "componentChunkName": "component---src-templates-package-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-weekendgetaway.json",
+        "path": "/packages/weekendgetaway/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
