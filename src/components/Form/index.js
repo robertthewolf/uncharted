@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
+import { navigateTo } from "gatsby-link";
 
 import Image from 'gatsby-image'
 
@@ -39,6 +40,10 @@ export default class Form extends React.Component {
 
     updatePrice = (event) => {
         this.setState({price: event.target.value})
+    }
+
+    handleChange = (e) => {
+        this.setState({[e.target.name]: e.target.value});
     }
 
     handleSubmit = e => {
@@ -94,7 +99,7 @@ export default class Form extends React.Component {
                 <Question>What do you want to do?</Question>
                     {this.props.activities.map(({node : post}) => (
                         <Activity key={post.id}>
-                            <Checkbox type="checkbox" name={post.frontmatter.name} />
+                            <Checkbox type="checkbox" name={post.frontmatter.name} onChange={this.handleChange} />
                             <FakeCheckbox />
                             <Image sizes={post.frontmatter.image.childImageSharp.sizes} />
                             <CheckboxName>{post.frontmatter.name}</CheckboxName>
@@ -102,17 +107,17 @@ export default class Form extends React.Component {
                     ))}
 
                 <Question>Any other wishes?</Question>
-                <Comments name="comments">
+                <Comments name="comments" onChange={this.handleChange}>
                 </Comments>
                 <EmailContainer>
 
                 <Question>Email</Question>
-                <input type="email" name="email" placeholder="required" required />
+                <input type="email" name="email" placeholder="required" required onChange={this.handleChange} />
                 </EmailContainer>
                 <PhoneContainer>
 
                 <Question>Phone</Question>
-                <input type="tel" name="phone" placeholder="optional" />
+                <input type="tel" name="phone" placeholder="optional" onChange={this.handleChange} />
                 </PhoneContainer>
                 <Submit type="submit">Submit</Submit>
             </Container>
