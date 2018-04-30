@@ -41,7 +41,14 @@ export const pageQuery = graphql`
         title
         description
         tags
-        image
+        image {
+          childImageSharp {
+            sizes(maxWidth: 1000) {
+              ...GatsbyImageSharpSizes
+              aspectRatio
+            }
+          }
+        }
       }
     }
   }
