@@ -9,6 +9,13 @@ import { DateRangePicker, SingleDatePicker, DayPickerRangeController } from 'rea
 import 'react-dates/lib/css/_datepicker.css';
 import './react_dates_overrides.css'
 
+function encode(data) {
+    return Object.keys(data)
+        .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
+        .join("&");
+}
+
+
 export default class Form extends React.Component {
     state = {
         startDate: null,
@@ -34,9 +41,27 @@ export default class Form extends React.Component {
         this.setState({price: event.target.value})
     }
 
+    handleSubmit = e => {
+        fetch("/", {
+          method: "POST",
+          headers: { "Content-Type": "application/x-www-form-urlencoded" },
+          body: encode({ "form-name": "contact", ...this.state })
+        })
+          .then(() => navigateTo('/confirmation/'))
+          .catch(error => alert(error));
+    
+        e.preventDefault();
+    };
+
     render() {
         return(
-            <Container name="createyourown" method="POST" data-netlify="true" action="/confirmation">
+            <Container
+                name="createyourown"
+                method="POST"
+                data-netlify="true"
+                action="/confirmation/"
+                onSubmit={this.handleSubmit}
+            >
                 <Question>When do you want to go?</Question>
                 <Date>
                 <DateRangePicker
