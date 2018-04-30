@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
+import Image from 'gatsby-image'
 import styled from 'styled-components'
 
 import Header from '../components/Header'
