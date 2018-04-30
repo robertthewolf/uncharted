@@ -8,28 +8,29 @@ import Image from 'gatsby-image'
 import styled from 'styled-components';
 
 const Package = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { frontmatter, html } = data.markdownRemark
 
   return (
     <section className="section">
-      <Helmet title={`${post.frontmatter.title} | Package`} />
+      <Helmet title={`${frontmatter.title} | Package`} />
       <Header>
-            <Image sizes={post.frontmatter.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
+            <Image sizes={frontmatter.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
             <Container>
-            <Feature>💰<br/>{post.frontmatter.price}</Feature>
-            <Feature>🗓️<br/>{post.frontmatter.lenght}</Feature>
-            <Title>{post.frontmatter.title}</Title>
-            <Tagline>{post.frontmatter.tagline}</Tagline>
-            <Description>{post.frontmatter.description}</Description>
+            <Feature>💰<br/>{frontmatter.price}</Feature>
+            <Feature>🗓️<br/>{frontmatter.lenght}</Feature>
+            <Title>{frontmatter.title}</Title>
+            <Tagline>{frontmatter.tagline}</Tagline>
+            <Description>{frontmatter.description}</Description>
             </Container>
       </Header>
       <Container>
       <IncludedList>
-        {post.frontmatter.included.map((item) => (
+        {frontmatter.included.map((item) => (
           <IncludedItem>{item}</IncludedItem>
         ))}
       </IncludedList>
       </Container>
+      <Content dangerouslySetInnerHTML={{ __html: html }} />
     </section>
   )
 }
@@ -124,3 +125,7 @@ column-count: 2
 const IncludedItem = styled.li`
 padding: 2rem 4rem
 `
+
+const Content = styled.div`
+max-width: 700px
+margin: 0 auto 5rem`

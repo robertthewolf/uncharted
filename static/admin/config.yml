@@ -23,6 +23,7 @@ collections:
         widget: "list"
         field:
           - {label: "Feature", name: "feature", widget: "string"}
+      - {label: "Other text", name: "body", widget: "markdown"}
 
   - name: "activities"
     label: "Activities"
