@@ -1,11 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import Image from 'gatsby-image'
-
 import styled from 'styled-components';
+
+import Header from '../components/Header'
 
 const Package = ({ data }) => {
   const { frontmatter, html } = data.markdownRemark
@@ -68,23 +68,7 @@ export const pageQuery = graphql`
   }
 `
 
-const Header =  styled.header`
-text-align: center
-width: 100%
-div.gatsby-image-outer-wrapper {
-  max-height: 60vh
-  overflow: hidden;
-  &:after {
-    content: "";
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    background: linear-gradient(to bottom, #EBD5D5 0%, transparent 50%, black 100%);
-  }
-}
-`
+
 
 const Container = styled.div`
 max-width: 1024px

@@ -92,11 +92,11 @@ input, textarea, button
   font-weight: 200
   transition: background-color .5s ease
   &::placeholder
-    color: darken(#1F233D, 30%)
+    color: mix(white, #1F233D, 50%)
   &:focus
     background-color: #464F8A
     &::placeholder
-      color: #1F233D
+      color: mix(white, #464F8A, 50%)
 
   
 
@@ -105,3 +105,12 @@ button
 
 
 @import 'range'
+
+
+//animations
+
+@keyframes fadeIn
+  from
+    opacity: 0
+  to:
+    opacity: 1

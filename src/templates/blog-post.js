@@ -3,68 +3,20 @@ import PropTypes from 'prop-types'
 import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
-import Content, { HTMLContent } from '../components/Content'
+import styled from 'styled-components'
 
-export const BlogPostTemplate = ({
-  content,
-  contentComponent,
-  description,
-  tags,
-  title,
-  helmet,
-}) => {
-  const PostContent = contentComponent || Content
+const BlogPost = ({ data }) => {
+  const { frontmatter, html } = data.markdownRemark
 
   return (
     <section className="section">
-      {helmet || ''}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
-            <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map(tag => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
-          </div>
-        </div>
-      </div>
+      <Helmet title={`${frontmatter.title} | Blog`} />
+      <Header>
+            <Image sizes={frontmatter.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
+            <Title>{frontmatter.title}</Title>
+      </Header>
+      <Content dangerouslySetInnerHTML={{ __html: html }} />
     </section>
-  )
-}
-
-BlogPostTemplate.propTypes = {
-  content: PropTypes.string.isRequired,
-  contentComponent: PropTypes.func,
-  description: PropTypes.string,
-  title: PropTypes.string,
-  helmet: PropTypes.instanceOf(Helmet),
-}
-
-const BlogPost = ({ data }) => {
-  const { markdownRemark: post } = data
-
-  return (
-    <BlogPostTemplate
-      content={post.html}
-      contentComponent={HTMLContent}
-      description={post.frontmatter.description}
-      helmet={<Helmet title={`${post.frontmatter.title} | Blog`} />}
-      tags={post.frontmatter.tags}
-      title={post.frontmatter.title}
-    />
   )
 }
 
@@ -90,3 +42,11 @@ export const pageQuery = graphql`
     }
   }
 `
+
+const Title = styled.h1`
+text-align: left
+`
+
+const Content = styled.div`
+max-width: 700px
+margin: 0 auto 5rem`

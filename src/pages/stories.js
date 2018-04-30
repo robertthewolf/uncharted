@@ -4,6 +4,8 @@ import Link from 'gatsby-link'
 import styled from 'styled-components'
 import Image from 'gatsby-image'
 
+import Header from '../components/Header'
+
 
 export default class StoriesPage extends React.Component {
   render() {
@@ -95,24 +97,6 @@ export const pageQuery = graphql`
 
 const Wrapper = styled.article`
 padding-bottom: 4rem`
-
-const Header =  styled.header`
-text-align: center
-width: 100%
-div.gatsby-image-outer-wrapper {
-  max-height: 60vh
-  overflow: hidden;
-  &:after {
-    content: "";
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    background: linear-gradient(to bottom, #EBD5D5 0%, transparent 50%, black 100%);
-  }
-}
-`
 
 const Tagline = styled.h1`
 `
