@@ -71,7 +71,7 @@ export default class Form extends React.Component {
                         <Activity key={post.id}>
                             <Checkbox type="checkbox" name={post.frontmatter.name} />
                             <FakeCheckbox />
-                            <Image sizes={post.frontmatter.image} />
+                            <Image sizes={post.frontmatter.image.childImageSharp.sizes} />
                             <CheckboxName>{post.frontmatter.name}</CheckboxName>
                         </Activity>
                     ))}
@@ -161,10 +161,19 @@ const Activity = styled.label`
 display: block;
 position: relative;
 margin: .5rem
-padding: .8rem 1rem
-height: 100px
 cursor: pointer;
 text-align: center
+img {
+    border-radius: .5rem .5rem 0 0
+}
+.gatsby-image-outer-wrapper {
+    > div {
+        opacity: .6
+        transition: opacity 1s ease
+    }
+    background-color: black
+    border-radius: .5rem .5rem 0 0
+}
 `
 
 const Checkbox = styled.input`
@@ -175,8 +184,14 @@ opacity: 0
 cursor: pointer
 width: 100%;
 height: 100%;
-&:checked ~ div {
+&:checked + div {
     background-color: #464F8A
+    transform: scale(1.05);
+    border-radius: .7rem;
+}
+
+&:checked ~ .gatsby-image-outer-wrapper > div {
+    opacity: 1
 }
 `
 
@@ -189,15 +204,17 @@ height: 100%
 background-color: #1F233D
 border-radius: .5rem
 transition: background-color .5s ease
+transition: transform .5s ease
 `
 const CheckboxName = styled.span`
 text-align: center
 text-transform: uppercase
 position: relative
-z-index: 20
-width: 100%
+z-index: 10
 font-size: 1rem
 font-weight: 200
+display: block
+margin: .5rem
 `
 
 const Comments = styled.textarea`
