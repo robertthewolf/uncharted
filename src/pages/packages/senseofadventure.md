@@ -1,7 +1,7 @@
 ---
 templateKey: package
 title: Medieval and Wild Adventure
-tagline: Find yourself in the natural wonders of Transylvania.
+tagline: A walk back in time
 image: /img/untitled-54.jpg
 description: >-
   This adventure represents a journey to explore relics of old times and
