@@ -32,7 +32,7 @@ included:
     from Travel Guarantee Fund (Rejsegarantifonden) 
   - Cancellation
 ---
-What is not included in the price:
+## What is not included in the price?
 
 •	Transport to the starting point of the tour, Cluj–Napoca t/r
 
@@ -40,9 +40,7 @@ What is not included in the price:
 
 •	Lunch and dinner, apart from the meals specified in the daily schedules
 
-
-
-Why we love this adventure?
+## Why we love this adventure?
 
 •	Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling
 
@@ -62,11 +60,7 @@ Why we love this adventure?
 
 •	We do not plan your time, we offer you the “tools” to discover Transylvania and make the most out of this adventure, so that at the end of the day you can say “I have done all that could be done in 1 week”
 
-
-
-
-
-Is this adventure right for you?
+## Is this adventure right for you?
 
 •	A minimum level of fitness is required as the hiking tour and rock climbing involve a fair amount of physical exercise
 
@@ -76,84 +70,48 @@ Is this adventure right for you?
 
 •	This tour includes a lot of traditional food tasting, therefore if you have any allergies or different choices in taste, please inform us beforehand so we make sure no unpleasantness will occur 
 
+## Itinerary
 
-
-
-
-
-
-Itinerary 
-
-Day 1 - Hiking in Turzii Gorges, Visit Salina Turda
+### Day 1 - Hiking in Turzii Gorges, Visit Salina Turda
 
 Before the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.
 
-
-
 In the morning we will Kick off the adventure with a visit to the biggest and oldest salt mine in Romania, 108m underground, dating from 1271. Here you will be able to discover the wonders that lie underneath Transylvanian hills and mountains.
-
-
 
 Our next stop will be Turzii gorges, where we will move from the underground wonders to the cliffs, valleys and rivers that lie in from of your eyes. We will hike throughout the canyon while at the same time discovering together the hidden caves inside the gorges.
 
-
-
 We will then travel to our accommodation in the Cindrel mountains, more precisely Arena Platos Resort. Once at the accommodation, all participants will be greeted with a traditional meal and the rest of the evening will be dedicated to resting and getting to know each other.
 
-
-
-Day 2 - Hiking in the 7 Ladder Canyon, Offroad 4x4
+### Day 2 - Hiking in the 7 Ladder Canyon, Offroad 4x4
 
 The second day will start by heading towards the Carpathian Mountains, more precisely the Bucegi Mountains Sector. We will start with an easy hike towards the 7 Ladders Canyon, followed by traversing the canyon in a unique style. The hike will end in a picnic on the top of the canyon, after we will continue discovering the Carpathians with a 4x4 off-road tour. We will travel over high ground, through forest and woodland on various difficulty tracks, making for a great experience. Along the way, we will stop for a cosy picnic in a breath-taking view spot. Make sure your phones and photo cameras are fully charged to take proper advantage of the amazing landscapes
 
-
-
 The day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. 
 
-
-
-Day 3 – Culture, Traditions and Gastronomy Tour
+### Day 3 – Culture, Traditions and Gastronomy Tour
 
 The food tour of today, goes through the typical cultural landscapes of the so called Transylvanian Highlands, an eco-touristic destination where we will visit some lovely villages. You’ll get to experience the specific rural gastronomy, meet some locals and try their best products or dishes. You will find out how nature and the territory influences the local products, we will talk about the characteristics of the cultural and gastronomical mosaic during a visit of the ruins of a Cistercian abbey in Cârța (Kerz).
 
 Get an insight in our local cuisine, we talk about 200 years old recipes, during a horse cart tour through the village or a walk on the hills above the village. At the end of the day we will meet the people of the Old Mill Project in Hosman (Holzmengen) and try their sweet pastry specialities from Luíza’s artisanal bakery.
 
-
-
-Day 4 – Horseback riding 
+### Day 4 – Horseback riding
 
 The fourth day is dedicated towards one of the most traditional ways of travelling from village to village and across the rolling hills, horseback riding. There will be a safety briefing including as well basic elements for beginners. Afterwards we will saddle up, and hop on for an unforgettable and memorable ride through the countryside, exploring the old Transylvanian lifestyle in the most genuine way.
 
-
-
 The afternoon is dedicated towards relaxation.
 
-
-
-
-
-Day 5 – Culture, Traditions and Gastronomy Tour
+### Day 5 – Culture, Traditions and Gastronomy Tour
 
 Today’s gastronomical tour takes you during the 4.5 hours from through the UNESCO protected citadel (Burg) and to the Lower old centre. You will have the chance to taste some exclusive local products and try our recipes. We will talk about the characteristics of our gastronomy in the oldest school of Sighișoara. You will have the chance to try some typical cheese, the local white wines as well as various sweet and sour soups.
 
-
-
 Experience an old Saxon recipe, reinterpreted by an open-minded chef from a local restaurant. Sample the local fruit alcoholic drinks, a must during a visit in Transylvania and visit some of the unseen corners of historical Sighișoara.
 
-
-
-Day 6 – Treasure Hunt and Cultural Heritages 
+### Day 6 – Treasure Hunt and Cultural Heritages
 
 The afternoon will be dedicated on experiencing the historical city of Sibiu in a fun and interactive way. A treasure hunt will be organized, where the participants will discover the historical city centre of the 2007 European Capital of Culture by following an interactive set of clues. Each clue will lead you to an emblematic place for the history of Sibiu.
 
-
-
 After lunch we will take a relaxing walk back in time, while visiting the The “ASTRA” Museum of Traditional Folk and Civilization which represents the largest open air ethnographic exhibition in Europe. You will be able to witness a display of 400 monuments folk architecture and technique in combination with a collection of ethnographic heritage objects.
 
-
-
-
-
-Day 7 - Free day, return to airport
+### Day 7 - Free day, return to airport
 
 On the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.
