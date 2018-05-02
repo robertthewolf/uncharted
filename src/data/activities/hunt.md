@@ -1,6 +1,6 @@
 ---
 templateKey: activity
 name: Treasure Hunt
-image: /img/hero1.jpg
+image: /img/untitled-59.jpg
 ---
 
