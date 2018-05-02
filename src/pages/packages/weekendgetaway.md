@@ -2,7 +2,7 @@
 templateKey: package
 title: Saxonia Getaway
 tagline: The mystery of Saxon Transylvania
-image: /img/untitled-65.jpg
+image: /img/untitled-61.jpg
 description: >
   Tired of the daily routine? Eager for an adventure? Time pressure is an issue?
   No need to worry, we have the answer to all your questions. We have prepared a
