@@ -2,7 +2,7 @@
 templateKey: package
 title: Medieval and Wild Adventure
 tagline: Find yourself in the natural wonders of Transylvania.
-image: /img/untitled-61.jpg
+image: /img/untitled-54.jpg
 description: >-
   This adventure represents a journey to explore relics of old times and
   traditions, a walk back in time as well as a taste of Transylvanian history.
@@ -12,13 +12,25 @@ description: >-
   nature surrounding it, through old cities full of history and mysteries, all
   the way to the rural environment where traditions and gastronomy were kept
   intact for ages.
-price: 5.500 DKK
+price: 6.600 DKK
 lenght: 7 days
 included:
-  - 6 nights Accommodation traditional modern guest house
-  - 1-night Accommodation in Cluj-Napoca
+  - 6 x nights Accommodation traditional modern guest house
+  - 1 x night Accommodation in Cluj-Napoca
   - 7 x breakfast
-  - null
+  - Meals mentioned in the daily description
+  - Transportation within the tour
+  - 'Airport transfer '
+  - 'Professional English speaking guides/mountain rangers '
+  - >-
+    Uncharted Team group leader that will assist you throughout the tour
+    (English speaking)
+  - Activities highlighted in the itinerary
+  - Entry fees to the objectives within the tour
+  - >-
+    This adventure is a package deal; therefore, it provides you with coverage
+    from Travel Guarantee Fund (Rejsegarantifonden) 
+  - Cancellation
 ---
 What is not included in the price:
 
