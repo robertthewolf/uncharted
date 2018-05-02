@@ -14,7 +14,20 @@ description: >
 price: 4.250 DKK
 lenght: 3 days
 included:
-  - "•\tAccommodation at traditional mountain chalet "
-  - null
+  - 'Accommodation at traditional mountain chalet '
+  - 3 x breakfast
+  - 2 x dinner
+  - 3 x lunch/ lunch box
+  - Activities
+  - Airport transfer
+  - All local transports within the program
+  - 'Professional English speaking guides/mountain rangers '
+  - >-
+    Uncharted Team group leader that will assist you throughout the tour
+    (English speaking)
+  - Entry fees to the objectives within the tour
+  - >-
+    This adventure is a package deal; therefore, it provides you with coverage
+    from Travel Guarantee Fund (Rejsegarantifonden) – see your benefits
 ---
 
