@@ -28,6 +28,7 @@ included:
   - Entry fees to the objectives within the tour
   - >-
     This adventure is a package deal; therefore, it provides you with coverage
-    from Travel Guarantee Fund (Rejsegarantifonden) – see your benefits
+    from Travel Guarantee Fund (Rejsegarantifonden) 
+  - 'Cancellation '
 ---
 
