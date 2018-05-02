@@ -3,6 +3,13 @@
         "componentChunkName": "component---src-templates-package-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-senseofadventure.json",
+        "path": "/packages/senseofadventure/"
+    },
+    {
+        "componentChunkName": "component---src-templates-package-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-fullnatureadventure.json",
         "path": "/packages/fullnatureadventure/"
     },
@@ -10,22 +17,22 @@
         "componentChunkName": "component---src-templates-package-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-senseofadventure.json",
-        "path": "/packages/senseofadventure/"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json",
-        "path": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
+        "jsonName": "packages-weekendgetaway.json",
+        "path": "/packages/weekendgetaway/"
     },
     {
         "componentChunkName": "component---src-templates-package-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-weekendgetaway.json",
-        "path": "/packages/weekendgetaway/"
+        "jsonName": "packages-the-wild-carpathians.json",
+        "path": "/packages/the-wild-carpathians/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex.json",
+        "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -38,22 +45,22 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex.json",
-        "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"
+        "jsonName": "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json",
+        "path": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-flavor.json",
-        "path": "/tags/flavor/"
+        "jsonName": "tags-brewing.json",
+        "path": "/tags/brewing/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-tasting.json",
-        "path": "/tags/tasting/"
+        "jsonName": "tags-chemex.json",
+        "path": "/tags/chemex/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
@@ -73,15 +80,15 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-brewing.json",
-        "path": "/tags/brewing/"
+        "jsonName": "tags-flavor.json",
+        "path": "/tags/flavor/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-chemex.json",
-        "path": "/tags/chemex/"
+        "jsonName": "tags-tasting.json",
+        "path": "/tags/tasting/"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",

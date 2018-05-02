@@ -139,7 +139,7 @@ padding: 1rem
 display: grid
 grid-template-columns: 1fr 1fr 1fr
 @media screen and (max-width: 600px) {
-    grid-template-columns: 1fr 1fr 1fr
+    grid-template-columns: 33% 33% 33%
     width: calc(100% - 2rem)
 }
 `
@@ -194,19 +194,31 @@ opacity: .5
 const PriceValue = styled.p`
 text-align: center`
 
+// activities
+
 const Activity = styled.label`
 display: block;
 position: relative;
 margin: .5rem
 cursor: pointer;
 text-align: center
+
+display: flex;
+flex-direction: column;
+justify-content: stretch;
+
+@media screen and (max-width: 600px) {
+
+}
 img {
     border-radius: .5rem .5rem 0 0
 }
 .gatsby-image-outer-wrapper {
+    flex: 10;
     > div {
         opacity: .6
         transition: opacity 1s ease
+        height: 100%
     }
     background-color: black
     border-radius: .5rem .5rem 0 0
