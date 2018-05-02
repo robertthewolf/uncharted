@@ -1,5 +1,6 @@
 ---
-templateKey: 'activity'
+templateKey: activity
+name: Treasure Hunt
 image: /img/hero1.jpg
-name: 'treasure hunt'
 ---
+
