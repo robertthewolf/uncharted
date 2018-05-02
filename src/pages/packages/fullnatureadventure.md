@@ -31,7 +31,7 @@ included:
     from Travel Guarantee Fund (Rejsegarantifonden) 
   - 'Cancellation '
 ---
-The Package does not include:
+## The Package does not include:
 
 •	Transportation to the starting point of the tour, Cluj-Napoca t/r
 
@@ -39,7 +39,7 @@ The Package does not include:
 
 
 
-Why we love this adventure?
+## Why we love this adventure?
 
 •	Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling;
 
@@ -57,7 +57,7 @@ Why we love this adventure?
 
 
 
-Is this adventure suitable for you?
+## Is this adventure suitable for you?
 
 •	A minimum level of fitness is required as the snowshoe hiking tour involves a fair amount of walking, allowing you to really get among nature;
 
@@ -66,8 +66,8 @@ Is this adventure suitable for you?
 
 
 
-
-Day 1 - Culture, Traditions and Gastronomy Tour
+## Itinerary
+### Day 1 - Culture, Traditions and Gastronomy Tour
 
 Welcome to the mysterious Transylvania. Kick off your adventure with your group leader, who is going to wait for you at the starting point of the tour, Cluj Napoca Airport. From there we will head towards the 2007 Capital of Culture, the city of Sibiu and all the way up to out mountain accommodation.
 
@@ -83,7 +83,7 @@ In the morning, we will start our adventure at the bottom of the Cindrel mounta
 
 
 
-Day 2 - Hike and lunch at traditional sheepfold
+### Day 2 - Hike and lunch at traditional sheepfold
 
 Our day trip takes you to some lovely villages around Sibiu, in the Mărginime area, at the foothill of the Cindrel Mountains, part of the Southern Carpathians. You’ll get to experience the specific rural gastronomy and taste some of the most representative products of our region. Find out how nature and the territory influences the local cuisine, we will talk about the characteristics of the cultural and gastronomical mosaic during a walk through the village of Sibiel. You will also experience a traditional lunch at a family in Rășinari where you also get to taste various specialities of cheese and local alcoholic drinks.
 
@@ -97,6 +97,6 @@ The day will end with a well deserved party or night out where we can celebrate 
 
 
 
-Day 3 - Free day, return to airport
+### Day 3 - Free day, return to airport
 
 On the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.
