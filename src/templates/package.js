@@ -30,13 +30,14 @@ const Package = ({ data }) => {
             </Container>
       </Header>
       <Container>
+        <h2>What's Included</h2>
       <Map>
         {frontmatter.included.map((item) => (
           <li>{item}</li>
         ))}
       </Map>
+        <div dangerouslySetInnerHTML={{ __html: html }} />
       </Container>
-      <Container dangerouslySetInnerHTML={{ __html: html }} />
     </Wrapper>
   )
 }

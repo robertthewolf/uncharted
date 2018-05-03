@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b27041ade05a3c8f670ee093ac4f3189",
+        "contentDigest": "4500b65637c9027c06ed9bfb72e52d8a",
         "owner": "internal-data-bridge"
       }
     },
@@ -1019,12 +1019,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-03T21:41:26.376Z",
+      "buildTime": "2018-05-03T22:11:50.999Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d8493f9099510b731e603c6a6ac2c927",
+        "contentDigest": "5b040d82de5042545b9befd07d0579c4",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1034,7 +1034,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8662cdea8990832dd6ba92746ae0a3e4",
+        "contentDigest": "0f856145496e26d2cdf0dba030f1bc4d",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1045,7 +1045,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2018-04-30T14:48:10.138Z",
-      "accessTime": "2018-05-03T21:41:31.179Z",
+      "accessTime": "2018-05-03T22:11:55.516Z",
       "changeTime": "2018-04-30T14:48:10.138Z",
       "birthTime": "2018-03-24T20:07:41.319Z",
       "root": "/",
@@ -1063,11 +1063,11 @@
       "blksize": 4194304,
       "ino": 8600035683,
       "blocks": 0,
-      "atimeMs": 1525383691179.2542,
+      "atimeMs": 1525385515516.4502,
       "mtimeMs": 1525099690137.7363,
       "ctimeMs": 1525099690137.7363,
       "birthtimeMs": 1521922061319.3135,
-      "atime": "2018-05-03T21:41:31.179Z",
+      "atime": "2018-05-03T22:11:55.516Z",
       "mtime": "2018-04-30T14:48:10.138Z",
       "ctime": "2018-04-30T14:48:10.138Z",
       "birthtime": "2018-03-24T20:07:41.319Z"
@@ -1077,7 +1077,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b079630ad6a4b9eb292d669831767a94",
+        "contentDigest": "f064a74a8a5c0deda57c11086e54323e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1088,7 +1088,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-03-24T20:07:41.321Z",
-      "accessTime": "2018-05-03T21:41:31.182Z",
+      "accessTime": "2018-05-03T22:11:55.519Z",
       "changeTime": "2018-03-24T20:07:41.321Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
@@ -1106,11 +1106,11 @@
       "blksize": 4194304,
       "ino": 8600035687,
       "blocks": 0,
-      "atimeMs": 1525383691181.5022,
+      "atimeMs": 1525385515519.2358,
       "mtimeMs": 1521922061320.7075,
       "ctimeMs": 1521922061320.7075,
       "birthtimeMs": 1521922061319.9465,
-      "atime": "2018-05-03T21:41:31.182Z",
+      "atime": "2018-05-03T22:11:55.519Z",
       "mtime": "2018-03-24T20:07:41.321Z",
       "ctime": "2018-03-24T20:07:41.321Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
@@ -1120,7 +1120,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5952ac233f4d514189b0b5dcf7d46e36",
+        "contentDigest": "bec936ffaedc3b51e08c0f2c5613896f",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1131,7 +1131,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-05-02T21:50:49.291Z",
-      "accessTime": "2018-05-03T21:41:31.181Z",
+      "accessTime": "2018-05-03T22:11:55.519Z",
       "changeTime": "2018-05-02T21:50:49.291Z",
       "birthTime": "2018-03-25T00:03:05.423Z",
       "root": "/",
@@ -1149,11 +1149,11 @@
       "blksize": 4194304,
       "ino": 8600232496,
       "blocks": 0,
-      "atimeMs": 1525383691181.4812,
+      "atimeMs": 1525385515519.2612,
       "mtimeMs": 1525297849291.3428,
       "ctimeMs": 1525297849291.3428,
       "birthtimeMs": 1521936185423.1204,
-      "atime": "2018-05-03T21:41:31.181Z",
+      "atime": "2018-05-03T22:11:55.519Z",
       "mtime": "2018-05-02T21:50:49.291Z",
       "ctime": "2018-05-02T21:50:49.291Z",
       "birthtime": "2018-03-25T00:03:05.423Z"
@@ -2066,7 +2066,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8eb2d882f7a86a68676cbcc43b18a222",
+        "contentDigest": "279c0a8cd7683c5e788215628f9b3199",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2077,7 +2077,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2018-04-29T16:09:45.522Z",
-      "accessTime": "2018-05-03T21:41:31.206Z",
+      "accessTime": "2018-05-03T22:11:55.540Z",
       "changeTime": "2018-04-29T16:09:45.522Z",
       "birthTime": "2018-04-12T20:04:15.413Z",
       "root": "/",
@@ -2095,11 +2095,11 @@
       "blksize": 4194304,
       "ino": 8601653181,
       "blocks": 0,
-      "atimeMs": 1525383691206.3533,
+      "atimeMs": 1525385515540.202,
       "mtimeMs": 1525018185521.9973,
       "ctimeMs": 1525018185521.9973,
       "birthtimeMs": 1523563455412.8713,
-      "atime": "2018-05-03T21:41:31.206Z",
+      "atime": "2018-05-03T22:11:55.540Z",
       "mtime": "2018-04-29T16:09:45.522Z",
       "ctime": "2018-04-29T16:09:45.522Z",
       "birthtime": "2018-04-12T20:04:15.413Z"
@@ -2109,7 +2109,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "065484219f11c474fdf230c3dceba66a",
+        "contentDigest": "009deb97957c98ad815537defda2fb5e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2120,7 +2120,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-05-02T21:50:49.289Z",
-      "accessTime": "2018-05-03T21:41:31.208Z",
+      "accessTime": "2018-05-03T22:11:55.542Z",
       "changeTime": "2018-05-02T21:50:49.289Z",
       "birthTime": "2018-04-14T06:51:58.905Z",
       "root": "/",
@@ -2138,11 +2138,11 @@
       "blksize": 4194304,
       "ino": 8601914063,
       "blocks": 0,
-      "atimeMs": 1525383691207.5935,
+      "atimeMs": 1525385515541.5508,
       "mtimeMs": 1525297849288.978,
       "ctimeMs": 1525297849288.978,
       "birthtimeMs": 1523688718905.1316,
-      "atime": "2018-05-03T21:41:31.208Z",
+      "atime": "2018-05-03T22:11:55.542Z",
       "mtime": "2018-05-02T21:50:49.289Z",
       "ctime": "2018-05-02T21:50:49.289Z",
       "birthtime": "2018-04-14T06:51:58.905Z"
@@ -2152,7 +2152,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5bfed688526176a9bf15f4790a5ad026",
+        "contentDigest": "0ccd9681a49cc89ae13308ea2760204d",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2163,7 +2163,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-04-14T08:00:13.675Z",
-      "accessTime": "2018-05-03T21:41:31.208Z",
+      "accessTime": "2018-05-03T22:11:55.542Z",
       "changeTime": "2018-04-14T08:00:13.675Z",
       "birthTime": "2018-04-14T07:57:28.444Z",
       "root": "/",
@@ -2181,11 +2181,11 @@
       "blksize": 4194304,
       "ino": 8601918034,
       "blocks": 0,
-      "atimeMs": 1525383691207.6147,
+      "atimeMs": 1525385515541.6091,
       "mtimeMs": 1523692813674.5247,
       "ctimeMs": 1523692813674.5247,
       "birthtimeMs": 1523692648443.6057,
-      "atime": "2018-05-03T21:41:31.208Z",
+      "atime": "2018-05-03T22:11:55.542Z",
       "mtime": "2018-04-14T08:00:13.675Z",
       "ctime": "2018-04-14T08:00:13.675Z",
       "birthtime": "2018-04-14T07:57:28.444Z"
@@ -2928,7 +2928,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b3300e1f2573e96bfcb9e3859a962ac5",
+        "contentDigest": "6aab6e606f2ffd999f714f5b91b6a452",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2939,7 +2939,7 @@
       "size": 480,
       "prettySize": "480 B",
       "modifiedTime": "2018-05-02T21:50:50.371Z",
-      "accessTime": "2018-05-03T21:41:31.221Z",
+      "accessTime": "2018-05-03T22:11:55.557Z",
       "changeTime": "2018-05-02T21:50:50.371Z",
       "birthTime": "2018-03-24T20:07:41.323Z",
       "root": "/",
@@ -2957,11 +2957,11 @@
       "blksize": 4194304,
       "ino": 8600035704,
       "blocks": 0,
-      "atimeMs": 1525383691221.0557,
+      "atimeMs": 1525385515556.7283,
       "mtimeMs": 1525297850370.5142,
       "ctimeMs": 1525297850370.5142,
       "birthtimeMs": 1521922061322.7996,
-      "atime": "2018-05-03T21:41:31.221Z",
+      "atime": "2018-05-03T22:11:55.557Z",
       "mtime": "2018-05-02T21:50:50.371Z",
       "ctime": "2018-05-02T21:50:50.371Z",
       "birthtime": "2018-03-24T20:07:41.323Z"
@@ -3700,7 +3700,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e735c79111409291cffcc05b17a46060",
+        "contentDigest": "c95d0ed407a10f3f2cdb574470e6bc9a",
         "owner": "internal-data-bridge"
       }
     },
@@ -3722,7 +3722,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c53fb2e88b77953f6553e81bd01b36d2",
+        "contentDigest": "ad30a141d8d38524d6735e4585f1dc4e",
         "owner": "internal-data-bridge"
       }
     },
@@ -3744,7 +3744,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6fb6bdef6194aac95df2c1a3834cd9cf",
+        "contentDigest": "d1a7fb1db52bf33dc6cab0733c37481f",
         "owner": "internal-data-bridge"
       }
     },
@@ -3766,7 +3766,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "06fdd1f3fabd52edb8115e82eb305fc7",
+        "contentDigest": "63c83778fecf1d7159f818ef6f3863e3",
         "owner": "internal-data-bridge"
       }
     },
@@ -3788,7 +3788,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3d8fffae2138d13086e373d1e77c69fc",
+        "contentDigest": "9de18c7af6d82e02c44eda448ac79673",
         "owner": "internal-data-bridge"
       }
     },
@@ -3810,7 +3810,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "73d286eefa13734282469d78c974cd76",
+        "contentDigest": "88228a8fc0a8f72a8555654665330572",
         "owner": "internal-data-bridge"
       }
     },
@@ -3832,7 +3832,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "717811fba242652a548a31cd3d8dcc5d",
+        "contentDigest": "7461f7eb271a109fac5596de0457f394",
         "owner": "internal-data-bridge"
       }
     },
@@ -3854,7 +3854,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1f6e9bc528b8e14d094aeb8775f37d2b",
+        "contentDigest": "036e599216cc5452c9adc08211427725",
         "owner": "internal-data-bridge"
       }
     },
@@ -3876,7 +3876,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b9c96ab903e37ba22419a531ce05fddf",
+        "contentDigest": "6c4b46002a1fc7d2bcad845f041df884",
         "owner": "internal-data-bridge"
       }
     },
@@ -3898,7 +3898,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3b8f1c272f0116c00a324c68644503fa",
+        "contentDigest": "f6466a043e563c9204119ee25894ede1",
         "owner": "internal-data-bridge"
       }
     },
@@ -3920,7 +3920,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "21de5124b414db8574f4c887eebeb171",
+        "contentDigest": "23b24990c106be6a99dab6f1dd8e7880",
         "owner": "internal-data-bridge"
       }
     },
@@ -3942,7 +3942,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9fc806d9463c91488a596fa22b5050c1",
+        "contentDigest": "6a84c44d4ff556445b54871576eda03b",
         "owner": "internal-data-bridge"
       }
     },
@@ -3964,7 +3964,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2d8625b0f3d26a10a94372eaee579de3",
+        "contentDigest": "46d5b6fbdab6ff62abca4c02a1434038",
         "owner": "internal-data-bridge"
       }
     },
@@ -3984,7 +3984,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e6475ee8765094de3b6a82d5cceafc40",
+        "contentDigest": "99f7668877e9974f70534ccd4787fd4f",
         "owner": "internal-data-bridge"
       }
     },
@@ -4004,7 +4004,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "290f496a0f5e76d8678dcf5f6b419095",
+        "contentDigest": "dadd845e579818859865e663b1d3bb28",
         "owner": "internal-data-bridge"
       }
     },
@@ -4024,7 +4024,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "449a5edf0f4369560da07994622b4418",
+        "contentDigest": "38481420a6b388afc45cf372251e2e1f",
         "owner": "internal-data-bridge"
       }
     },
@@ -4044,7 +4044,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7d0c962209095169c600e20a6133085d",
+        "contentDigest": "9d2f259fdd0edf75268b08fbcfdd82e0",
         "owner": "internal-data-bridge"
       }
     },
@@ -4064,7 +4064,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2c69fb8f7df8f87f53b3a06eb545515c",
+        "contentDigest": "06f0714dec370e93ee3810dd25057a45",
         "owner": "internal-data-bridge"
       }
     },
@@ -4084,7 +4084,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5708d3757eb885ecbce894104a9d9e39",
+        "contentDigest": "b4bf91260778e1603985b2f838f3c58f",
         "owner": "internal-data-bridge"
       }
     },
@@ -4104,7 +4104,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b3370e644e266ab9807eca9d33a2942d",
+        "contentDigest": "6dc22d913ee05ba046262e39cb6770df",
         "owner": "internal-data-bridge"
       }
     },
@@ -4124,7 +4124,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "42ab06d0df60c17b90bb90a5d8ca1262",
+        "contentDigest": "0971581f0692ebb85edf8feef8941217",
         "owner": "internal-data-bridge"
       }
     }
@@ -4139,18 +4139,18 @@
         "/packages/senseofadventure/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-54.jpg absPath of file": [
-        "/packages/senseofadventure/",
         "/concept/",
         "/faq/",
         "/",
-        "/stories/"
+        "/stories/",
+        "/packages/senseofadventure/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-54.jpg absPath of file >> ImageSharp": [
-        "/packages/senseofadventure/",
         "/concept/",
         "/faq/",
         "/",
-        "/stories/"
+        "/stories/",
+        "/packages/senseofadventure/"
       ],
       "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark": [
         "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"
@@ -4179,18 +4179,18 @@
         "/packages/fullnatureadventure/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-57.jpg absPath of file": [
-        "/packages/fullnatureadventure/",
         "/concept/",
         "/faq/",
         "/",
-        "/stories/"
+        "/stories/",
+        "/packages/fullnatureadventure/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-57.jpg absPath of file >> ImageSharp": [
-        "/packages/fullnatureadventure/",
         "/concept/",
         "/faq/",
         "/",
-        "/stories/"
+        "/stories/",
+        "/packages/fullnatureadventure/"
       ],
       "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark": [
         "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"
@@ -4199,18 +4199,18 @@
         "/packages/the-wild-carpathians/"
       ],
       "/Users/Robert/uncharted/static/img/dsc_0088.jpg absPath of file": [
-        "/packages/the-wild-carpathians/",
         "/concept/",
         "/faq/",
         "/",
-        "/stories/"
+        "/stories/",
+        "/packages/the-wild-carpathians/"
       ],
       "/Users/Robert/uncharted/static/img/dsc_0088.jpg absPath of file >> ImageSharp": [
-        "/packages/the-wild-carpathians/",
         "/concept/",
         "/faq/",
         "/",
-        "/stories/"
+        "/stories/",
+        "/packages/the-wild-carpathians/"
       ],
       "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": [
         "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
@@ -4219,18 +4219,18 @@
         "/packages/weekendgetaway/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-61.jpg absPath of file": [
-        "/packages/weekendgetaway/",
         "/concept/",
         "/faq/",
         "/",
-        "/stories/"
+        "/stories/",
+        "/packages/weekendgetaway/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-61.jpg absPath of file >> ImageSharp": [
-        "/packages/weekendgetaway/",
         "/concept/",
         "/faq/",
         "/",
-        "/stories/"
+        "/stories/",
+        "/packages/weekendgetaway/"
       ],
       "Site": [
         "/tags/brewing/",
