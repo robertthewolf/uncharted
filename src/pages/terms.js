@@ -5,6 +5,7 @@ import styled from 'styled-components'
 import Image from 'gatsby-image'
 
 import Header from '../components/Header'
+import Wrapper from '../components/Wrapper'
 
 export default class TermsPage extends React.Component {
   render() {
@@ -50,10 +51,6 @@ export const pageQuery = graphql`
       }
     }
   }
-`
-
-const Wrapper = styled.article`
-padding-bottom: 4rem
 `
 
 const Tagline = styled.h1`

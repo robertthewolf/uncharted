@@ -4,17 +4,23 @@ import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import Image from 'gatsby-image'
 import styled from 'styled-components';
+import Overdrive from 'react-overdrive'
 
 import Header from '../components/Header'
+import Wrapper from '../components/Wrapper'
+import Container from '../components/Container'
+import Map from '../components/Map'
 
 const Package = ({ data }) => {
   const { frontmatter, html } = data.markdownRemark
 
   return (
-    <section className="section">
+    <Wrapper>
       <Helmet title={`${frontmatter.title} | Package`} />
       <Header>
-            <Image sizes={frontmatter.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
+            <Overdrive id={data.markdownRemark.id} duration="0">
+              <Image sizes={frontmatter.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
+            </Overdrive>
             <Container>
             <Feature>💰<br/>{frontmatter.price}</Feature>
             <Feature>🗓️<br/>{frontmatter.lenght}</Feature>
@@ -24,14 +30,14 @@ const Package = ({ data }) => {
             </Container>
       </Header>
       <Container>
-      <IncludedList>
+      <Map>
         {frontmatter.included.map((item) => (
-          <IncludedItem>{item}</IncludedItem>
+          <li>{item}</li>
         ))}
-      </IncludedList>
+      </Map>
       </Container>
-      <Content dangerouslySetInnerHTML={{ __html: html }} />
-    </section>
+      <Container dangerouslySetInnerHTML={{ __html: html }} />
+    </Wrapper>
   )
 }
 
@@ -68,15 +74,14 @@ export const pageQuery = graphql`
   }
 `
 
-
-
-const Container = styled.div`
-max-width: 1024px
-margin: 0 auto
-text-align: left`
-
 const Feature = styled.div`
-float: right
+display: inline-block
+@media screen and (max-width: 600px) {
+  margin: 1rem 2rem 1rem 0
+}
+@media screen and (min-width: 600px) {
+  float: right;
+}
 text-align: center
 margin: 1rem
 &:first-letter {
@@ -93,23 +98,10 @@ margin-bottom: 3rem
 font-weight: 200
 `
 const Description = styled.p`
-opacity: .4
+opacity: .7
 transition: opacity 1s ease
 &:hover {
   opacity: .9
 }
 `
 
-const IncludedList = styled.ul`
-margin: 2rem 0
-column-count: 2
-
-`
-
-const IncludedItem = styled.li`
-padding: 2rem 4rem
-`
-
-const Content = styled.div`
-max-width: 700px
-margin: 0 auto 5rem`

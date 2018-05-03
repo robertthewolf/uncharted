@@ -5,6 +5,8 @@ import styled from 'styled-components'
 import Image from 'gatsby-image'
 
 import Header from '../components/Header'
+import Wrapper from '../components/Wrapper'
+import Map from '../components/Map'
 
 export default class ConceptPage extends React.Component {
   render() {
@@ -20,16 +22,16 @@ export default class ConceptPage extends React.Component {
             <Welcome>{frontpage.welcome}</Welcome>
 
           </Header>
-          <Values>
+          <Map>
           {posts
             .filter(post => post.node.frontmatter.templateKey === 'value')
             .map(({ node: post }) => (
-                  <Value key={post.id}>
+                  <li key={post.id}>
                     <Heading>{post.frontmatter.heading}</Heading>
                     <Text>{post.frontmatter.text}</Text>
-                  </Value>
+                  </li>
             ))}
-          </Values>
+          </Map>
       </Wrapper>
     )
   }
@@ -87,8 +89,6 @@ export const pageQuery = graphql`
   }
 `
 
-const Wrapper = styled.article`
-padding-bottom: 4rem`
 
 const Tagline = styled.h1`
 `
@@ -96,27 +96,6 @@ const Tagline = styled.h1`
 const Welcome = styled.p`
 max-width: 700px
 margin: 0 auto 5rem`
-
-const Values = styled.section`
-margin: 0 2rem
-padding: 3rem 0
-overflow-x: hidden
-display: flex`
-
-const Value = styled.figure`
-padding: 1.5rem
-position: relative
-background: linear-gradient(180deg, rgba(215, 202, 235, 0.9) 0%, rgba(165, 166, 133, 0.9) 104.78%);
-flex:1
-
-&:nth-of-type(even) {
-transform: skewY(5deg);
-}
-
-&:nth-of-type(odd) {
-transform: skewY(-5deg);
-}
-`
 
 const Heading = styled.h3`
 font-family: Sign

@@ -98,10 +98,13 @@ const MenuButton = styled.div`
 position: fixed
 top: 1rem
 right: 1rem
+width: 25px
+text-align: center
 background: white
 color: black
 font-size: 28px
 padding: 0 .4em .125em
+border-radius: .25rem;
 cursor: pointer
 &:after{
   content: ${props => props.open ? '"✕"' : '"☰"'};

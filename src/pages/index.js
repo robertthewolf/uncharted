@@ -4,8 +4,11 @@ import Link from 'gatsby-link'
 import styled from 'styled-components'
 import Image from 'gatsby-image'
 import Script from 'react-load-script'
+import Overdrive from 'react-overdrive'
 
 import Header from '../components/Header'
+import Wrapper from '../components/Wrapper'
+import Container from '../components/Container'
 import Form from '../components/Form'
 
 export default class IndexPage extends React.Component {
@@ -51,8 +54,10 @@ export default class IndexPage extends React.Component {
           />
           <Header>
             <Image sizes={frontpage.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
-            <Tagline>{frontpage.tagline}</Tagline>
-            <Welcome>{frontpage.welcome}</Welcome>
+            <Container>
+              <Tagline>{frontpage.tagline}</Tagline>
+              <Welcome>{frontpage.welcome}</Welcome>
+            </Container>
 
           </Header>
           <h2>Choose a themed trip</h2>
@@ -63,11 +68,13 @@ export default class IndexPage extends React.Component {
                   <Link to={post.fields.slug} key={post.id}>
                     <Trip>
                       <Thumbnail>
+                        <Overdrive id={post.id} duration="0">
                         <Image
                           sizes={post.frontmatter.image.childImageSharp.sizes}
                           alt={post.frontmatter.title}
                           style={{height: '100%'}}
                         />
+                        </Overdrive>
                       </Thumbnail>
                       <Caption>{post.frontmatter.title}</Caption>
                     </Trip>
@@ -132,10 +139,6 @@ export const pageQuery = graphql`
     }
   }
 `
-
-
-const Wrapper = styled.article`
-padding-bottom: 4rem`
 
 const Tagline = styled.h1`
 `
