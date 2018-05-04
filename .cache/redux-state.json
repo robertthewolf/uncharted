@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a1a2d1425179df0e13fb726540c9c172",
+        "contentDigest": "23bc105b089fa06a36e1e4b71a3eafa3",
         "owner": "internal-data-bridge"
       }
     },
@@ -1019,12 +1019,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-04T11:35:26.033Z",
+      "buildTime": "2018-05-04T11:39:06.237Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ba201c81722dc842d662511a8faaecb5",
+        "contentDigest": "c93df25d175f2702b7c0ad4317cfee73",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1034,7 +1034,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5e592ca87720735b37f56feaddf6ba93",
+        "contentDigest": "ca67ea76af0da1c4db3d91c76b72259e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1045,7 +1045,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2018-04-30T14:48:10.138Z",
-      "accessTime": "2018-05-04T11:35:30.850Z",
+      "accessTime": "2018-05-04T11:39:10.501Z",
       "changeTime": "2018-04-30T14:48:10.138Z",
       "birthTime": "2018-03-24T20:07:41.319Z",
       "root": "/",
@@ -1063,11 +1063,11 @@
       "blksize": 4194304,
       "ino": 8600035683,
       "blocks": 0,
-      "atimeMs": 1525433730850.4858,
+      "atimeMs": 1525433950500.8953,
       "mtimeMs": 1525099690137.7363,
       "ctimeMs": 1525099690137.7363,
       "birthtimeMs": 1521922061319.3135,
-      "atime": "2018-05-04T11:35:30.850Z",
+      "atime": "2018-05-04T11:39:10.501Z",
       "mtime": "2018-04-30T14:48:10.138Z",
       "ctime": "2018-04-30T14:48:10.138Z",
       "birthtime": "2018-03-24T20:07:41.319Z"
@@ -1077,7 +1077,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2273441a3fb3f430e5acffc471bd13e7",
+        "contentDigest": "222b2b65400bf59e91bab269e38bff9b",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1088,7 +1088,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-03-24T20:07:41.321Z",
-      "accessTime": "2018-05-04T11:35:30.853Z",
+      "accessTime": "2018-05-04T11:39:10.503Z",
       "changeTime": "2018-03-24T20:07:41.321Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
@@ -1106,11 +1106,11 @@
       "blksize": 4194304,
       "ino": 8600035687,
       "blocks": 0,
-      "atimeMs": 1525433730852.769,
+      "atimeMs": 1525433950503.3386,
       "mtimeMs": 1521922061320.7075,
       "ctimeMs": 1521922061320.7075,
       "birthtimeMs": 1521922061319.9465,
-      "atime": "2018-05-04T11:35:30.853Z",
+      "atime": "2018-05-04T11:39:10.503Z",
       "mtime": "2018-03-24T20:07:41.321Z",
       "ctime": "2018-03-24T20:07:41.321Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
@@ -1120,7 +1120,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "55c9c89af0cd2c1d5240c17e01f1efbb",
+        "contentDigest": "0a514b8f4ea236a53d300c2f7980df18",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1131,7 +1131,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-05-02T21:50:49.291Z",
-      "accessTime": "2018-05-04T11:35:30.853Z",
+      "accessTime": "2018-05-04T11:39:10.503Z",
       "changeTime": "2018-05-02T21:50:49.291Z",
       "birthTime": "2018-03-25T00:03:05.423Z",
       "root": "/",
@@ -1149,11 +1149,11 @@
       "blksize": 4194304,
       "ino": 8600232496,
       "blocks": 0,
-      "atimeMs": 1525433730852.7673,
+      "atimeMs": 1525433950503.3398,
       "mtimeMs": 1525297849291.3428,
       "ctimeMs": 1525297849291.3428,
       "birthtimeMs": 1521936185423.1204,
-      "atime": "2018-05-04T11:35:30.853Z",
+      "atime": "2018-05-04T11:39:10.503Z",
       "mtime": "2018-05-02T21:50:49.291Z",
       "ctime": "2018-05-02T21:50:49.291Z",
       "birthtime": "2018-03-25T00:03:05.423Z"
@@ -1295,7 +1295,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "986353eced479878ffd16ddfbe48bd20",
+        "contentDigest": "328535a6d2f039a1d61b66a18d89e25e",
         "mediaType": "application/javascript",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1304,11 +1304,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/pages/faq.js",
       "relativePath": "faq.js",
       "extension": "js",
-      "size": 2803,
-      "prettySize": "2.8 kB",
-      "modifiedTime": "2018-05-03T19:48:57.168Z",
-      "accessTime": "2018-05-03T20:20:36.935Z",
-      "changeTime": "2018-05-03T19:48:57.168Z",
+      "size": 1745,
+      "prettySize": "1.75 kB",
+      "modifiedTime": "2018-05-04T11:39:52.650Z",
+      "accessTime": "2018-05-04T11:39:52.650Z",
+      "changeTime": "2018-05-04T11:39:52.650Z",
       "birthTime": "2018-04-29T15:57:05.096Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages",
@@ -1325,13 +1325,13 @@
       "blksize": 4194304,
       "ino": 8602514089,
       "blocks": 8,
-      "atimeMs": 1525378836935.4668,
-      "mtimeMs": 1525376937167.635,
-      "ctimeMs": 1525376937167.635,
+      "atimeMs": 1525433992649.7903,
+      "mtimeMs": 1525433992650.1257,
+      "ctimeMs": 1525433992650.1257,
       "birthtimeMs": 1525017425096.3462,
-      "atime": "2018-05-03T20:20:36.935Z",
-      "mtime": "2018-05-03T19:48:57.168Z",
-      "ctime": "2018-05-03T19:48:57.168Z",
+      "atime": "2018-05-04T11:39:52.650Z",
+      "mtime": "2018-05-04T11:39:52.650Z",
+      "ctime": "2018-05-04T11:39:52.650Z",
       "birthtime": "2018-04-29T15:57:05.096Z"
     },
     "/Users/Robert/uncharted/src/pages/index.js absPath of file": {
@@ -1978,7 +1978,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8fe15c826ec9f5aeb574b626c2f40463",
+        "contentDigest": "2c28bfbd4c87bfdee87240740bfba8a8",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1986,11 +1986,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/data",
       "relativePath": "",
       "extension": "",
-      "size": 256,
-      "prettySize": "256 B",
-      "modifiedTime": "2018-04-29T16:09:45.522Z",
-      "accessTime": "2018-05-04T11:35:30.868Z",
-      "changeTime": "2018-04-29T16:09:45.522Z",
+      "size": 224,
+      "prettySize": "224 B",
+      "modifiedTime": "2018-05-04T11:38:46.432Z",
+      "accessTime": "2018-05-04T11:39:10.526Z",
+      "changeTime": "2018-05-04T11:38:46.432Z",
       "birthTime": "2018-04-12T20:04:15.413Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src",
@@ -2000,20 +2000,20 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 8,
+      "nlink": 7,
       "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 8601653181,
       "blocks": 0,
-      "atimeMs": 1525433730868.445,
-      "mtimeMs": 1525018185521.9973,
-      "ctimeMs": 1525018185521.9973,
+      "atimeMs": 1525433950526.3567,
+      "mtimeMs": 1525433926431.6228,
+      "ctimeMs": 1525433926431.6228,
       "birthtimeMs": 1523563455412.8713,
-      "atime": "2018-05-04T11:35:30.868Z",
-      "mtime": "2018-04-29T16:09:45.522Z",
-      "ctime": "2018-04-29T16:09:45.522Z",
+      "atime": "2018-05-04T11:39:10.526Z",
+      "mtime": "2018-05-04T11:38:46.432Z",
+      "ctime": "2018-05-04T11:38:46.432Z",
       "birthtime": "2018-04-12T20:04:15.413Z"
     },
     "/Users/Robert/uncharted/src/data/activities absPath of file": {
@@ -2021,7 +2021,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ec660f0b796da2faad1eb8c1df57651e",
+        "contentDigest": "6e5ed2bd3f779ce3435c183e60e29d6d",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2032,7 +2032,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-05-02T21:50:49.289Z",
-      "accessTime": "2018-05-04T11:35:30.869Z",
+      "accessTime": "2018-05-04T11:39:10.527Z",
       "changeTime": "2018-05-02T21:50:49.289Z",
       "birthTime": "2018-04-14T06:51:58.905Z",
       "root": "/",
@@ -2050,57 +2050,14 @@
       "blksize": 4194304,
       "ino": 8601914063,
       "blocks": 0,
-      "atimeMs": 1525433730869.4602,
+      "atimeMs": 1525433950527.1987,
       "mtimeMs": 1525297849288.978,
       "ctimeMs": 1525297849288.978,
       "birthtimeMs": 1523688718905.1316,
-      "atime": "2018-05-04T11:35:30.869Z",
+      "atime": "2018-05-04T11:39:10.527Z",
       "mtime": "2018-05-02T21:50:49.289Z",
       "ctime": "2018-05-02T21:50:49.289Z",
       "birthtime": "2018-04-14T06:51:58.905Z"
-    },
-    "/Users/Robert/uncharted/src/data/values absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/values absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "43266eb14bfa12eb6d9ed2e098a06ff9",
-        "type": "Directory",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/values",
-      "relativePath": "values",
-      "extension": "",
-      "size": 192,
-      "prettySize": "192 B",
-      "modifiedTime": "2018-04-14T08:00:13.675Z",
-      "accessTime": "2018-05-04T11:35:30.869Z",
-      "changeTime": "2018-04-14T08:00:13.675Z",
-      "birthTime": "2018-04-14T07:57:28.444Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data",
-      "base": "values",
-      "ext": "",
-      "name": "values",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 6,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8601918034,
-      "blocks": 0,
-      "atimeMs": 1525433730869.4648,
-      "mtimeMs": 1523692813674.5247,
-      "ctimeMs": 1523692813674.5247,
-      "birthtimeMs": 1523692648443.6057,
-      "atime": "2018-05-04T11:35:30.869Z",
-      "mtime": "2018-04-14T08:00:13.675Z",
-      "ctime": "2018-04-14T08:00:13.675Z",
-      "birthtime": "2018-04-14T07:57:28.444Z"
     },
     "/Users/Robert/uncharted/src/data/concept.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/concept.md absPath of file",
@@ -2109,7 +2066,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "871cd732a2d1afd77fd0795c2a7d0872",
+        "contentDigest": "0990511b0cb27579c84381dacb094d1c",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2118,11 +2075,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/data/concept.md",
       "relativePath": "concept.md",
       "extension": "md",
-      "size": 2208,
-      "prettySize": "2.21 kB",
-      "modifiedTime": "2018-05-04T11:31:24.963Z",
-      "accessTime": "2018-05-04T11:31:24.962Z",
-      "changeTime": "2018-05-04T11:31:24.963Z",
+      "size": 2225,
+      "prettySize": "2.23 kB",
+      "modifiedTime": "2018-05-04T11:45:08.169Z",
+      "accessTime": "2018-05-04T11:45:08.168Z",
+      "changeTime": "2018-05-04T11:45:08.169Z",
       "birthTime": "2018-04-12T20:21:16.129Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/data",
@@ -2139,13 +2096,13 @@
       "blksize": 4194304,
       "ino": 8601654136,
       "blocks": 8,
-      "atimeMs": 1525433484962.398,
-      "mtimeMs": 1525433484963.3962,
-      "ctimeMs": 1525433484963.3962,
+      "atimeMs": 1525434308168.1487,
+      "mtimeMs": 1525434308169.0198,
+      "ctimeMs": 1525434308169.0198,
       "birthtimeMs": 1523564476128.821,
-      "atime": "2018-05-04T11:31:24.962Z",
-      "mtime": "2018-05-04T11:31:24.963Z",
-      "ctime": "2018-05-04T11:31:24.963Z",
+      "atime": "2018-05-04T11:45:08.168Z",
+      "mtime": "2018-05-04T11:45:08.169Z",
+      "ctime": "2018-05-04T11:45:08.169Z",
       "birthtime": "2018-04-12T20:21:16.129Z"
     },
     "/Users/Robert/uncharted/src/data/index.md absPath of file": {
@@ -2378,190 +2335,6 @@
       "ctime": "2018-04-14T06:48:20.387Z",
       "birthtime": "2018-04-12T20:02:15.287Z"
     },
-    "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "8d0d39b26636aa2c5d22dc2d25f0e8fa",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/values/rediscover.md",
-      "relativePath": "values/rediscover.md",
-      "extension": "md",
-      "size": 346,
-      "prettySize": "346 B",
-      "modifiedTime": "2018-04-14T08:00:29.154Z",
-      "accessTime": "2018-05-03T19:42:47.607Z",
-      "changeTime": "2018-04-14T08:00:29.154Z",
-      "birthTime": "2018-04-14T08:00:04.392Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/values",
-      "base": "rediscover.md",
-      "ext": ".md",
-      "name": "rediscover",
-      "relativeDirectory": "values",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8601918194,
-      "blocks": 8,
-      "atimeMs": 1525376567606.909,
-      "mtimeMs": 1523692829154.028,
-      "ctimeMs": 1523692829154.028,
-      "birthtimeMs": 1523692804392.3994,
-      "atime": "2018-05-03T19:42:47.607Z",
-      "mtime": "2018-04-14T08:00:29.154Z",
-      "ctime": "2018-04-14T08:00:29.154Z",
-      "birthtime": "2018-04-14T08:00:04.392Z"
-    },
-    "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "1a7bc1fe06941ab1cc0a4bdc4963c9c3",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/values/genuine.md",
-      "relativePath": "values/genuine.md",
-      "extension": "md",
-      "size": 423,
-      "prettySize": "423 B",
-      "modifiedTime": "2018-04-14T07:59:21.453Z",
-      "accessTime": "2018-05-03T19:42:47.607Z",
-      "changeTime": "2018-04-14T07:59:21.453Z",
-      "birthTime": "2018-04-14T07:57:35.672Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/values",
-      "base": "genuine.md",
-      "ext": ".md",
-      "name": "genuine",
-      "relativeDirectory": "values",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8601918048,
-      "blocks": 8,
-      "atimeMs": 1525376567606.8997,
-      "mtimeMs": 1523692761453.3262,
-      "ctimeMs": 1523692761453.3262,
-      "birthtimeMs": 1523692655672.0955,
-      "atime": "2018-05-03T19:42:47.607Z",
-      "mtime": "2018-04-14T07:59:21.453Z",
-      "ctime": "2018-04-14T07:59:21.453Z",
-      "birthtime": "2018-04-14T07:57:35.672Z"
-    },
-    "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "76a3ae99abe4735c6ceff9b9dd1e7d98",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/values/sustainable.md",
-      "relativePath": "values/sustainable.md",
-      "extension": "md",
-      "size": 310,
-      "prettySize": "310 B",
-      "modifiedTime": "2018-04-14T07:59:51.118Z",
-      "accessTime": "2018-05-03T19:42:47.607Z",
-      "changeTime": "2018-04-14T07:59:51.118Z",
-      "birthTime": "2018-04-14T07:59:23.143Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/values",
-      "base": "sustainable.md",
-      "ext": ".md",
-      "name": "sustainable",
-      "relativeDirectory": "values",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8601918144,
-      "blocks": 8,
-      "atimeMs": 1525376567606.941,
-      "mtimeMs": 1523692791118.0103,
-      "ctimeMs": 1523692791118.0103,
-      "birthtimeMs": 1523692763142.7793,
-      "atime": "2018-05-03T19:42:47.607Z",
-      "mtime": "2018-04-14T07:59:51.118Z",
-      "ctime": "2018-04-14T07:59:51.118Z",
-      "birthtime": "2018-04-14T07:59:23.143Z"
-    },
-    "/Users/Robert/uncharted/src/data/values/safe.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/values/safe.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "c639e46e41372bea69439c0177b230f0",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/values/safe.md",
-      "relativePath": "values/safe.md",
-      "extension": "md",
-      "size": 444,
-      "prettySize": "444 B",
-      "modifiedTime": "2018-04-14T07:59:17.716Z",
-      "accessTime": "2018-05-03T19:42:47.607Z",
-      "changeTime": "2018-04-14T07:59:17.716Z",
-      "birthTime": "2018-04-14T07:58:38.399Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/values",
-      "base": "safe.md",
-      "ext": ".md",
-      "name": "safe",
-      "relativeDirectory": "values",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8601918094,
-      "blocks": 8,
-      "atimeMs": 1525376567606.9253,
-      "mtimeMs": 1523692757716.403,
-      "ctimeMs": 1523692757716.403,
-      "birthtimeMs": 1523692718398.7253,
-      "atime": "2018-05-03T19:42:47.607Z",
-      "mtime": "2018-04-14T07:59:17.716Z",
-      "ctime": "2018-04-14T07:59:17.716Z",
-      "birthtime": "2018-04-14T07:58:38.399Z"
-    },
     "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -2699,120 +2472,12 @@
         "slug": "/stories/"
       }
     },
-    "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: 'value'\nheading: 'rediscover yourself'\ntext: 'Uncharted challenges you to experience every small detail, as if it were for the first time. Except for the unexplored destinations and exciting activities, the adventure tours give you time to enjoy the silence, and reflect on your new discoveries, while enjoying the scenery.'\n---\n",
-        "contentDigest": "937562bbc816105891683f5674a90326",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "",
-        "templateKey": "value",
-        "heading": "rediscover yourself",
-        "text": "Uncharted challenges you to experience every small detail, as if it were for the first time. Except for the unexplored destinations and exciting activities, the adventure tours give you time to enjoy the silence, and reflect on your new discoveries, while enjoying the scenery.",
-        "_PARENT": "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/values/rediscover.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/values/rediscover.md",
-      "fields": {
-        "slug": "/values/rediscover/"
-      }
-    },
-    "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: 'value'\nheading: 'genuine adventures'\ntext: 'Discover locations with great beauty and history, but which are not known to everyone. The 3 day weekend getaway and the 8 days’ adventure combine special destinations with interesting activities, to create the perfect recipe for the Genuine Adventure tour. You can always build your own adventure and we make sure to tailor it suiting your preferences.'\n---\n",
-        "contentDigest": "ee4e4e00773883aabc13b3f3f1268efb",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "",
-        "templateKey": "value",
-        "heading": "genuine adventures",
-        "text": "Discover locations with great beauty and history, but which are not known to everyone. The 3 day weekend getaway and the 8 days’ adventure combine special destinations with interesting activities, to create the perfect recipe for the Genuine Adventure tour. You can always build your own adventure and we make sure to tailor it suiting your preferences.",
-        "_PARENT": "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/values/genuine.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/values/genuine.md",
-      "fields": {
-        "slug": "/values/genuine/"
-      }
-    },
-    "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: 'value'\nheading: 'sustainable travelling'\ntext: 'By choosing Uncharted you are supporting sustainable tourism. Whether you are passionate about supporting local communities or preserving wildlife and natural resources, there are plenty of ways you will support, when you travel with us. '\n---\n",
-        "contentDigest": "f59aa658d2d68af0034efbb3f68cacff",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "",
-        "templateKey": "value",
-        "heading": "sustainable travelling",
-        "text": "By choosing Uncharted you are supporting sustainable tourism. Whether you are passionate about supporting local communities or preserving wildlife and natural resources, there are plenty of ways you will support, when you travel with us. ",
-        "_PARENT": "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/values/sustainable.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/values/sustainable.md",
-      "fields": {
-        "slug": "/values/sustainable/"
-      }
-    },
-    "/Users/Robert/uncharted/src/data/values/safe.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: 'value'\nheading: 'You’re in safe hands'\ntext: 'All adventure tours are accompanied by your group leader who is a specialist in activities. He will provide information on the places you are travelling through, suggest things to do and introduce you to local friends along the way. Your group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the area.'\n---\n",
-        "contentDigest": "d8534823dcf5b6d8d6c4ddd415e5f455",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "",
-        "templateKey": "value",
-        "heading": "You’re in safe hands",
-        "text": "All adventure tours are accompanied by your group leader who is a specialist in activities. He will provide information on the places you are travelling through, suggest things to do and introduce you to local friends along the way. Your group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the area.",
-        "_PARENT": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/values/safe.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/values/safe.md",
-      "fields": {
-        "slug": "/values/safe/"
-      }
-    },
     "/Users/Robert/uncharted/static/img absPath of file": {
       "id": "/Users/Robert/uncharted/static/img absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5514ca1e674cbb823c80f9169da20b8b",
+        "contentDigest": "8e50c818366dc2ae5e6ac63b4d030b53",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2823,7 +2488,7 @@
       "size": 480,
       "prettySize": "480 B",
       "modifiedTime": "2018-05-02T21:50:50.371Z",
-      "accessTime": "2018-05-04T11:35:30.882Z",
+      "accessTime": "2018-05-04T11:39:10.534Z",
       "changeTime": "2018-05-02T21:50:50.371Z",
       "birthTime": "2018-03-24T20:07:41.323Z",
       "root": "/",
@@ -2841,11 +2506,11 @@
       "blksize": 4194304,
       "ino": 8600035704,
       "blocks": 0,
-      "atimeMs": 1525433730881.8438,
+      "atimeMs": 1525433950534.3418,
       "mtimeMs": 1525297850370.5142,
       "ctimeMs": 1525297850370.5142,
       "birthtimeMs": 1521922061322.7996,
-      "atime": "2018-05-04T11:35:30.882Z",
+      "atime": "2018-05-04T11:39:10.534Z",
       "mtime": "2018-05-02T21:50:50.371Z",
       "ctime": "2018-05-02T21:50:50.371Z",
       "birthtime": "2018-03-24T20:07:41.323Z"
@@ -3600,8 +3265,8 @@
       "children": [],
       "parent": "/Users/Robert/uncharted/src/data/concept.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: 'concept'\nimage: /img/hero1.jpg\ntagline: The concept\n---\n\nTransylvania Uncharted is the first project of the Uncharted company. Its aim is to create the best mix of mountain activities and old traditions. Each place and activity included in the tours was carefully chosen to provide you with a new experience and an original way to explore and discover the wonders of Transylvania’s history. A history that spreads from the Carpathian Mountains, to Transylvania’s Forests and settles in the old castles and cities, all full of tales ready to be shared. Uncharted puts a lot of emphasis on creating a friendly environment where small groups of 8 to 16 adventurers will embark on a new chapter of their traveling book, through the mesmerizing beauty of Transylvania, a magical place where memories are being formed while footsteps are left behind.\n\n* genuine adventures\nDiscover locations with great beauty and history, but which are not known to everyone. The 3 day weekend getaway and the 8 days’ adventure combine special destinations with interesting activities, to create the perfect recipe for the Genuine Adventure tour. You can always build your own adventure and we make sure to tailor it suiting your preferences.\n\n* rediscover yourself\nUncharted challenges you to experience every small detail, as if it were for the first time. Except for the unexplored destinations and exciting activities, the adventure tours give you time to enjoy the silence, and reflect on your new discoveries, while enjoying the scenery.\n\n* You’re in safe hands\nAll adventure tours are accompanied by your group leader who is a specialist in activities. He will provide information on the places you are travelling through, suggest things to do and introduce you to local friends along the way. Your group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the area.\n\n* sustainable travelling\nBy choosing Uncharted you are supporting sustainable tourism. Whether you are passionate about supporting local communities or preserving wildlife and natural resources, there are plenty of ways you will support, when you travel with us.",
-        "contentDigest": "1944b805e06df2b4ab41f376bbe81381",
+        "content": "---\ntemplateKey: 'concept'\nimage: /img/hero1.jpg\ntagline: The concept\n---\n\nTransylvania Uncharted is the first project of the Uncharted company. Its aim is to create the best mix of mountain activities and old traditions. Each place and activity included in the tours was carefully chosen to provide you with a new experience and an original way to explore and discover the wonders of Transylvania’s history. A history that spreads from the Carpathian Mountains, to Transylvania’s Forests and settles in the old castles and cities, all full of tales ready to be shared. Uncharted puts a lot of emphasis on creating a friendly environment where small groups of 8 to 16 adventurers will embark on a new chapter of their traveling book, through the mesmerizing beauty of Transylvania, a magical place where memories are being formed while footsteps are left behind.\n\n* ## Genuine adventures\n  Discover locations with great beauty and history, but which are not known to everyone. The 3 day weekend getaway and the 8 days’ adventure combine special destinations with interesting activities, to create the perfect recipe for the Genuine Adventure tour. You can always build your own adventure and we make sure to tailor it suiting your preferences.\n* ## Rediscover yourself\n  Uncharted challenges you to experience every small detail, as if it were for the first time. Except for the unexplored destinations and exciting activities, the adventure tours give you time to enjoy the silence, and reflect on your new discoveries, while enjoying the scenery.\n* ## You’re in safe hands\n  All adventure tours are accompanied by your group leader who is a specialist in activities. He will provide information on the places you are travelling through, suggest things to do and introduce you to local friends along the way. Your group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the area.\n* ## Sustainable travelling\n  By choosing Uncharted you are supporting sustainable tourism. Whether you are passionate about supporting local communities or preserving wildlife and natural resources, there are plenty of ways you will support, when you travel with us.",
+        "contentDigest": "23f6654485225d751bee60afb3f4c716",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -3640,7 +3305,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "52384488f474297777032125f77885f7",
+        "contentDigest": "b1ecc1bf444186cd8a2ba82dfc662cd2",
         "owner": "internal-data-bridge"
       }
     },
@@ -3662,7 +3327,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "140e10e3e388c9776841a75ec6aebadd",
+        "contentDigest": "cc8c00dc040dce3930abf743e8370da4",
         "owner": "internal-data-bridge"
       }
     },
@@ -3684,7 +3349,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3c644e3af40420a7f251db7afd724c21",
+        "contentDigest": "67bc151005a861c2d6e1ed6e3a2affc1",
         "owner": "internal-data-bridge"
       }
     },
@@ -3706,7 +3371,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fe6108e4f9efea6ae50c3072e088626f",
+        "contentDigest": "62e7b54e8c04f794723ec1788b2cb67d",
         "owner": "internal-data-bridge"
       }
     },
@@ -3728,7 +3393,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e7b51cc72834c87e6674208ca3f461af",
+        "contentDigest": "198e90a2b78c7b6d75393edae0f998c7",
         "owner": "internal-data-bridge"
       }
     },
@@ -3750,7 +3415,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "429f7b4fceb2037f2afa13e65bc962ec",
+        "contentDigest": "362a26454c52fc5bbca64507e441aa2d",
         "owner": "internal-data-bridge"
       }
     },
@@ -3772,7 +3437,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4a5ead8fff827344d306c6ff78f06597",
+        "contentDigest": "d971eb310e04b361a188c5191a962d76",
         "owner": "internal-data-bridge"
       }
     },
@@ -3794,7 +3459,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "72ab9f357502544b58513d0212975dce",
+        "contentDigest": "b9d562d179ce0ada2cc9afa6d4664cba",
         "owner": "internal-data-bridge"
       }
     },
@@ -3816,7 +3481,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "47d2df461318f5fe53043f8a05277d28",
+        "contentDigest": "99214319c132504dc45cd2fcef844da5",
         "owner": "internal-data-bridge"
       }
     },
@@ -3838,7 +3503,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dc5a70cc064c8d81546564edaee5e008",
+        "contentDigest": "0265f7bea59bcebbe29cd2ec62726b14",
         "owner": "internal-data-bridge"
       }
     },
@@ -3860,7 +3525,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4f9b1120fdab8a81606042ade1a1f911",
+        "contentDigest": "60581e7c81afa2cbe56dacacc0110d45",
         "owner": "internal-data-bridge"
       }
     },
@@ -3882,7 +3547,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "812ad99c91298e906f698f3fdcbec251",
+        "contentDigest": "a9921042409d9f6ec2e715b496f8d576",
         "owner": "internal-data-bridge"
       }
     },
@@ -3904,7 +3569,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "41fe608f5443ad522b757c1e8189c463",
+        "contentDigest": "daf26f0a1a9441a7c46b8d6a8a1384b6",
         "owner": "internal-data-bridge"
       }
     },
@@ -3924,7 +3589,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4e8ae1ce14d00ef49db6408ebe63486f",
+        "contentDigest": "174af267f8454bd83c78b1d811dc11a6",
         "owner": "internal-data-bridge"
       }
     },
@@ -3944,7 +3609,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "21fab66ef46f9a9c5cac4b718bb55c9c",
+        "contentDigest": "0500db9f45ffbdaf3d03af817e052b46",
         "owner": "internal-data-bridge"
       }
     },
@@ -3964,7 +3629,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "31e9f5f3c26f21dafc11e4a421e12199",
+        "contentDigest": "e1ccf2b1ee4c7e3f0bae0d818bd79969",
         "owner": "internal-data-bridge"
       }
     },
@@ -3984,7 +3649,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "95c0ea082f4a9db64c8d4ed590aac75e",
+        "contentDigest": "f49afaaaded805072ce73566d6e2956a",
         "owner": "internal-data-bridge"
       }
     },
@@ -4004,7 +3669,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a9b3c4b88166f8dfde6a606272b0cb3e",
+        "contentDigest": "1358f7397210423e3b2bcf4c6ed01423",
         "owner": "internal-data-bridge"
       }
     },
@@ -4024,7 +3689,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "90a250fe16abb2ca7d370a12aa85dae4",
+        "contentDigest": "5e9f3eb6dd4c087d03ffc4f50ba8a5bf",
         "owner": "internal-data-bridge"
       }
     },
@@ -4044,7 +3709,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7f3f935e3e8d38d4f32c0b2cb240758d",
+        "contentDigest": "aa4fbac0e99136ebe6501f42a10c13bf",
         "owner": "internal-data-bridge"
       }
     },
@@ -4064,7 +3729,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "17a2d3b7b63eb961c6d47d4626bc289d",
+        "contentDigest": "67fc2057365f7a0c482357478e8310c8",
         "owner": "internal-data-bridge"
       }
     }
