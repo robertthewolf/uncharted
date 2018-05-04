@@ -10,7 +10,6 @@ import Wrapper from '../components/Wrapper'
 export default class FaqPage extends React.Component {
   render() {
     const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark
     const { frontmatter: frontpage } = data.markdownRemark
 
     return (
@@ -48,30 +47,6 @@ export const pageQuery = graphql`
         }
         tagline
         welcome
-      }
-    }
-    allMarkdownRemark {
-      edges {
-        node {
-          excerpt(pruneLength: 400)
-          id
-          fields {
-            slug
-          }
-          frontmatter {
-            heading
-            text
-            templateKey
-            image {
-              childImageSharp {
-                sizes(maxWidth: 1000) {
-                  ...GatsbyImageSharpSizes
-                  aspectRatio
-                }
-              }
-            }
-          }
-        }
       }
     }
   }
