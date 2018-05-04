@@ -3,35 +3,38 @@ templateKey: package
 title: The Wild Carpathians
 tagline: 'Fully connect with nature '
 image: /img/dsc_0088.jpg
-description: >-
-  The Wild Carpathians Adventure will give you the perfect opportunity to fully
-  connect with nature and release the stress of urban life. Embark on an
-  adventure that will take you through the heart of the mountains, paved by
-  centuries of history and tradition. Discover the nature wonders of
-  Transylvania in a unique way, an adventure specially designed to offer the
-  most genuine discovery process. With high focus on various ways to explore the
-  mountains and enjoy the nature, numerous elements of culture and traditions
-  will still be present. In this way we ensure an experience where memories are
-  being formed, while footsteps are left behind.
 price: 7.350 DKK
 lenght: '7'
-included:
-  - 6 x nights Accommodation traditional mountain chalet
-  - 1 x night Accommodation in Cluj-Napoca
-  - 7 x breakfast
-  - Transportation within the tour
-  - 'Airport transfer '
-  - 'Professional English speaking guides/mountain rangers '
-  - >-
-    Uncharted Team group leader that will assist you throughout the tour
-    (English speaking)
-  - Activities highlighted in the itinerary
-  - Entry fees to the objectives within the tour
-  - >-
-    This adventure is a package deal; therefore, it provides you with coverage
-    from Travel Guarantee Fund (Rejsegarantifonden) 
-  - Cancellation
 ---
+
+The Wild Carpathians Adventure will give you the perfect opportunity to fully
+connect with nature and release the stress of urban life. Embark on an
+adventure that will take you through the heart of the mountains, paved by
+centuries of history and tradition. Discover the nature wonders of
+Transylvania in a unique way, an adventure specially designed to offer the
+most genuine discovery process. With high focus on various ways to explore the
+mountains and enjoy the nature, numerous elements of culture and traditions
+will still be present. In this way we ensure an experience where memories are
+being formed, while footsteps are left behind.
+
+##What is included in the price?
+
+* 6 x nights Accommodation traditional mountain chalet
+* 1 x night Accommodation in Cluj-Napoca
+* 7 x breakfast
+* Transportation within the tour
+* 'Airport transfer '
+* 'Professional English speaking guides/mountain rangers '
+* >-
+  Uncharted Team group leader that will assist you throughout the tour
+  (English speaking)
+* Activities highlighted in the itinerary
+* Entry fees to the objectives within the tour
+* >-
+  This adventure is a package deal; therefore, it provides you with coverage
+  from Travel Guarantee Fund (Rejsegarantifonden) 
+* Cancellation
+
 ##What is not included in the price?
 •	Transport to the starting point of the tour, Cluj–Napoca t/r
 •	Travel Insurance
@@ -59,7 +62,7 @@ included:
 •	The tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed
 
 ## Itinerary
-###Day 1 - Hiking in Turzii Gorges, Visit Salina Turda
+###Day 1 * Hiking in Turzii Gorges, Visit Salina Turda
 Before the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.
 
 In the morning we will Kick off the adventure with a visit to the biggest and oldest salt mine in Romania, 108m underground, dating from 1271. Here you will be able to discover the wonders that lie underneath Transylvanian hills and mountains.
@@ -68,7 +71,7 @@ Our next stop will be Turzii gorges, where we will move from the underground won
 
 We will then travel to our accommodation in the Cindrel mountains, more precisely Arena Platos Resort. Once at the accommodation, all participants will be greeted with a traditional meal and the rest of the evening will be dedicated to resting and getting to know each other.
 
-###Day 2 - Hiking in the 7 Ladder Canyon, Offroad 4x4
+###Day 2 * Hiking in the 7 Ladder Canyon, Offroad 4x4
 The second day will start by heading towards the Carpathian Mountains, more precisely the Bucegi Mountains Sector. We will start with an easy hike towards the 7 Ladders Canyon, followed by traversing the canyon in a unique style. The hike will end in a picnic on the top of the canyon, after we will continue discovering the Carpathians with a 4x4 off-road tour. We will travel over high ground, through forest and woodland on various difficulty tracks, making for a great experience. Along the way, we will stop for a cosy picnic in a breath-taking view spot. Make sure your phones and photo cameras are fully charged to take proper advantage of the amazing landscapes
 
 The day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. 
@@ -93,7 +96,7 @@ We will help you find out more about small gastronomy projects in our area whi
 The day will end with a well deserved party or night out where we can celebrate the amazing week we had together.
 
 
-###Day 6 - Mountain biking
+###Day 6 * Mountain biking
 We explored the Carpathian Mountains by foot, with an off-road vehicle, from tree to tree, all ways but one, mountain biking. Therefore, the 6th day is dedicated towards showing you another adventurous way of discovering the nature wonders, in a faster peace than hiking but as eco-friendly.
 
 The paths are not difficult and they provide wide variety of natural attractions and a different way of exploring the mountains in a healthy manner.

@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4500b65637c9027c06ed9bfb72e52d8a",
+        "contentDigest": "04db468e76fe159d85d6885b1ed8b74f",
         "owner": "internal-data-bridge"
       }
     },
@@ -1019,12 +1019,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-03T22:11:50.999Z",
+      "buildTime": "2018-05-04T10:44:29.752Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5b040d82de5042545b9befd07d0579c4",
+        "contentDigest": "7d4491d5e0de84d65decb5d03129acf4",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1034,7 +1034,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0f856145496e26d2cdf0dba030f1bc4d",
+        "contentDigest": "5d114199400659d4a7081440e93338ac",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1045,7 +1045,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2018-04-30T14:48:10.138Z",
-      "accessTime": "2018-05-03T22:11:55.516Z",
+      "accessTime": "2018-05-04T10:44:34.698Z",
       "changeTime": "2018-04-30T14:48:10.138Z",
       "birthTime": "2018-03-24T20:07:41.319Z",
       "root": "/",
@@ -1063,11 +1063,11 @@
       "blksize": 4194304,
       "ino": 8600035683,
       "blocks": 0,
-      "atimeMs": 1525385515516.4502,
+      "atimeMs": 1525430674697.607,
       "mtimeMs": 1525099690137.7363,
       "ctimeMs": 1525099690137.7363,
       "birthtimeMs": 1521922061319.3135,
-      "atime": "2018-05-03T22:11:55.516Z",
+      "atime": "2018-05-04T10:44:34.698Z",
       "mtime": "2018-04-30T14:48:10.138Z",
       "ctime": "2018-04-30T14:48:10.138Z",
       "birthtime": "2018-03-24T20:07:41.319Z"
@@ -1077,7 +1077,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f064a74a8a5c0deda57c11086e54323e",
+        "contentDigest": "6cc6382e4b3fa5fed04a23eefb913200",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1088,7 +1088,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-03-24T20:07:41.321Z",
-      "accessTime": "2018-05-03T22:11:55.519Z",
+      "accessTime": "2018-05-04T10:44:34.707Z",
       "changeTime": "2018-03-24T20:07:41.321Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
@@ -1106,11 +1106,11 @@
       "blksize": 4194304,
       "ino": 8600035687,
       "blocks": 0,
-      "atimeMs": 1525385515519.2358,
+      "atimeMs": 1525430674707.0525,
       "mtimeMs": 1521922061320.7075,
       "ctimeMs": 1521922061320.7075,
       "birthtimeMs": 1521922061319.9465,
-      "atime": "2018-05-03T22:11:55.519Z",
+      "atime": "2018-05-04T10:44:34.707Z",
       "mtime": "2018-03-24T20:07:41.321Z",
       "ctime": "2018-03-24T20:07:41.321Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
@@ -1120,7 +1120,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "bec936ffaedc3b51e08c0f2c5613896f",
+        "contentDigest": "6d7a33e8bf9fae4448e7fb21cd9911f8",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1131,7 +1131,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-05-02T21:50:49.291Z",
-      "accessTime": "2018-05-03T22:11:55.519Z",
+      "accessTime": "2018-05-04T10:44:34.707Z",
       "changeTime": "2018-05-02T21:50:49.291Z",
       "birthTime": "2018-03-25T00:03:05.423Z",
       "root": "/",
@@ -1149,11 +1149,11 @@
       "blksize": 4194304,
       "ino": 8600232496,
       "blocks": 0,
-      "atimeMs": 1525385515519.2612,
+      "atimeMs": 1525430674707.0247,
       "mtimeMs": 1525297849291.3428,
       "ctimeMs": 1525297849291.3428,
       "birthtimeMs": 1521936185423.1204,
-      "atime": "2018-05-03T22:11:55.519Z",
+      "atime": "2018-05-04T10:44:34.707Z",
       "mtime": "2018-05-02T21:50:49.291Z",
       "ctime": "2018-05-02T21:50:49.291Z",
       "birthtime": "2018-03-25T00:03:05.423Z"
@@ -1473,7 +1473,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f254ce8fc95d92d571defd9460ab1078",
+        "contentDigest": "9cf82ae0de44a3d42ad1aee050d36a3f",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1482,11 +1482,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md",
       "relativePath": "packages/fullnatureadventure.md",
       "extension": "md",
-      "size": 5075,
-      "prettySize": "5.08 kB",
-      "modifiedTime": "2018-05-02T21:50:49.290Z",
-      "accessTime": "2018-05-03T19:42:46.890Z",
-      "changeTime": "2018-05-02T21:50:49.290Z",
+      "size": 5018,
+      "prettySize": "5.02 kB",
+      "modifiedTime": "2018-05-04T11:03:13.745Z",
+      "accessTime": "2018-05-04T11:03:13.736Z",
+      "changeTime": "2018-05-04T11:03:13.745Z",
       "birthTime": "2018-05-02T21:50:49.290Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages/packages",
@@ -1503,13 +1503,13 @@
       "blksize": 4194304,
       "ino": 8602727631,
       "blocks": 16,
-      "atimeMs": 1525376566889.5344,
-      "mtimeMs": 1525297849289.7964,
-      "ctimeMs": 1525297849289.7964,
+      "atimeMs": 1525431793736.427,
+      "mtimeMs": 1525431793745.1262,
+      "ctimeMs": 1525431793745.1262,
       "birthtimeMs": 1525297849289.6694,
-      "atime": "2018-05-03T19:42:46.890Z",
-      "mtime": "2018-05-02T21:50:49.290Z",
-      "ctime": "2018-05-02T21:50:49.290Z",
+      "atime": "2018-05-04T11:03:13.736Z",
+      "mtime": "2018-05-04T11:03:13.745Z",
+      "ctime": "2018-05-04T11:03:13.745Z",
       "birthtime": "2018-05-02T21:50:49.290Z"
     },
     "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file": {
@@ -1519,7 +1519,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "688cc1e335d6cacd34d05b06c49cf38c",
+        "contentDigest": "3eaa315a90a47659a589768cbf897fb0",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1528,11 +1528,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md",
       "relativePath": "packages/senseofadventure.md",
       "extension": "md",
-      "size": 8763,
-      "prettySize": "8.76 kB",
-      "modifiedTime": "2018-05-02T21:50:49.291Z",
-      "accessTime": "2018-05-03T19:42:46.890Z",
-      "changeTime": "2018-05-02T21:50:49.291Z",
+      "size": 8685,
+      "prettySize": "8.69 kB",
+      "modifiedTime": "2018-05-04T10:59:02.430Z",
+      "accessTime": "2018-05-04T10:59:02.429Z",
+      "changeTime": "2018-05-04T10:59:02.430Z",
       "birthTime": "2018-05-02T21:50:49.290Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages/packages",
@@ -1549,13 +1549,13 @@
       "blksize": 4194304,
       "ino": 8602727632,
       "blocks": 24,
-      "atimeMs": 1525376566889.5576,
-      "mtimeMs": 1525297849290.611,
-      "ctimeMs": 1525297849290.611,
+      "atimeMs": 1525431542429.3203,
+      "mtimeMs": 1525431542429.7388,
+      "ctimeMs": 1525431542429.7388,
       "birthtimeMs": 1525297849290.3687,
-      "atime": "2018-05-03T19:42:46.890Z",
-      "mtime": "2018-05-02T21:50:49.291Z",
-      "ctime": "2018-05-02T21:50:49.291Z",
+      "atime": "2018-05-04T10:59:02.429Z",
+      "mtime": "2018-05-04T10:59:02.430Z",
+      "ctime": "2018-05-04T10:59:02.430Z",
       "birthtime": "2018-05-02T21:50:49.290Z"
     },
     "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file": {
@@ -1657,7 +1657,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "16fca2d2290ceb082ef158716486d3ef",
+        "contentDigest": "6ddd5fc60a2d5ea9aa9ba389d435e48d",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1666,11 +1666,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md",
       "relativePath": "packages/the-wild-carpathians.md",
       "extension": "md",
-      "size": 9054,
-      "prettySize": "9.05 kB",
-      "modifiedTime": "2018-05-02T21:50:49.291Z",
-      "accessTime": "2018-05-03T19:42:46.890Z",
-      "changeTime": "2018-05-02T21:50:49.291Z",
+      "size": 9017,
+      "prettySize": "9.02 kB",
+      "modifiedTime": "2018-05-04T11:03:57.257Z",
+      "accessTime": "2018-05-04T11:03:57.256Z",
+      "changeTime": "2018-05-04T11:03:57.257Z",
       "birthTime": "2018-05-02T21:50:49.291Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages/packages",
@@ -1687,13 +1687,13 @@
       "blksize": 4194304,
       "ino": 8602727633,
       "blocks": 24,
-      "atimeMs": 1525376566889.5771,
-      "mtimeMs": 1525297849291.0227,
-      "ctimeMs": 1525297849291.0227,
+      "atimeMs": 1525431837256.3552,
+      "mtimeMs": 1525431837257.0425,
+      "ctimeMs": 1525431837257.0425,
       "birthtimeMs": 1525297849290.876,
-      "atime": "2018-05-03T19:42:46.890Z",
-      "mtime": "2018-05-02T21:50:49.291Z",
-      "ctime": "2018-05-02T21:50:49.291Z",
+      "atime": "2018-05-04T11:03:57.256Z",
+      "mtime": "2018-05-04T11:03:57.257Z",
+      "ctime": "2018-05-04T11:03:57.257Z",
       "birthtime": "2018-05-02T21:50:49.291Z"
     },
     "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file": {
@@ -1749,7 +1749,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "cc453104850e7e6de6f75a0714023096",
+        "contentDigest": "cbbd729aa4b2d4462e48f1f3c60c1ddc",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1758,11 +1758,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md",
       "relativePath": "packages/weekendgetaway.md",
       "extension": "md",
-      "size": 4085,
-      "prettySize": "4.08 kB",
-      "modifiedTime": "2018-05-02T21:50:49.291Z",
-      "accessTime": "2018-05-03T19:42:46.890Z",
-      "changeTime": "2018-05-02T21:50:49.291Z",
+      "size": 4040,
+      "prettySize": "4.04 kB",
+      "modifiedTime": "2018-05-04T11:04:35.764Z",
+      "accessTime": "2018-05-04T11:04:35.745Z",
+      "changeTime": "2018-05-04T11:04:35.764Z",
       "birthTime": "2018-05-02T21:50:49.291Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages/packages",
@@ -1779,13 +1779,13 @@
       "blksize": 4194304,
       "ino": 8602727634,
       "blocks": 8,
-      "atimeMs": 1525376566889.6306,
-      "mtimeMs": 1525297849291.4685,
-      "ctimeMs": 1525297849291.4685,
+      "atimeMs": 1525431875745.337,
+      "mtimeMs": 1525431875763.9402,
+      "ctimeMs": 1525431875763.9402,
       "birthtimeMs": 1525297849291.3247,
-      "atime": "2018-05-03T19:42:46.890Z",
-      "mtime": "2018-05-02T21:50:49.291Z",
-      "ctime": "2018-05-02T21:50:49.291Z",
+      "atime": "2018-05-04T11:04:35.745Z",
+      "mtime": "2018-05-04T11:04:35.764Z",
+      "ctime": "2018-05-04T11:04:35.764Z",
       "birthtime": "2018-05-02T21:50:49.291Z"
     },
     "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark": {
@@ -1793,8 +1793,8 @@
       "children": [],
       "parent": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: package\ntitle: The Shepherd's Getaway\ntagline: Find yourself in the natural wonders of Transylvania.\nimage: /img/untitled-57.jpg\ndescription: >\n  The word shepherd stands for old traditions, mountain activities and of course\n  delicious and healthy food. That is exactly what you can expect from this\n  getaway. A genuine adventure which will take you on the mountain trails walked\n  by the shepherds, to their “castles” on top of the mountains, where an\n  exquisite culinary delight is waiting for you. So, all you need to do is bring\n  your appetite for both adventure and traditional products, and we take care of\n  the rest.\nprice: 4.250 DKK\nlenght: 3 days\nincluded:\n  - 'Accommodation at traditional mountain chalet '\n  - 3 x breakfast\n  - 2 x dinner\n  - 3 x lunch/ lunch box\n  - Activities\n  - Airport transfer\n  - All local transports within the program\n  - 'Professional English speaking guides/mountain rangers '\n  - >-\n    Uncharted Team group leader that will assist you throughout the tour\n    (English speaking)\n  - Entry fees to the objectives within the tour\n  - >-\n    This adventure is a package deal; therefore, it provides you with coverage\n    from Travel Guarantee Fund (Rejsegarantifonden) \n  - 'Cancellation '\n---\n## The Package does not include:\n\n•\tTransportation to the starting point of the tour, Cluj-Napoca t/r\n\n•\tTravel Insurance \n\n\n\n## Why we love this adventure?\n\n•\tYour adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling;\n\n•\tIt offers you a unique way to visit Transylvania in a getaway experience;\n\n•\tIt was designed for individual travellers, group of friends or co-workers as well as families;\n\n•\tThis getaway is the ideal opportunity to make the most out of an adventure in a new country when you have only few days to spare;\n\n•\tThe adventure is created in such way that it will not create any inconvenience with your work or university classes. You only need to skip Monday and on Tuesday morning you are back. And let’s be honest, wouldn’t you spend your Monday on an adventure rather than anywhere else?\n\n•\tIt combines mountain activities, culture and gastronomy, all in a 3-day adventure.\n\n•\tHigh emphasis on sustainable travelling\n\n\n\n## Is this adventure suitable for you?\n\n•\tA minimum level of fitness is required as the snowshoe hiking tour involves a fair amount of walking, allowing you to really get among nature;\n\n•\tThe tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed.\n\n\n\n\n## Itinerary\n### Day 1 - Culture, Traditions and Gastronomy Tour\n\nWelcome to the mysterious Transylvania. Kick off your adventure with your group leader, who is going to wait for you at the starting point of the tour, Cluj Napoca Airport. From there we will head towards the 2007 Capital of Culture, the city of Sibiu and all the way up to out mountain accommodation.\n\n\n\nIn the morning, we will start our adventure at the bottom of the Cindrel mountains, from where we will start climbing up on a narrow shady path that leads us to an alpine glade; from here, we’ll continue our route till we reach the imposing mountaintops of the Cindrel massif. On the edge of the soft summit lies a traditional picturesque sheepfold. \n\n It’s the perfect place to have a rest, enjoy the astonishing view and learn about the daily simple life of the shepherds. For lunch we will savour the delicious lamb and milk specialties skilfully prepared by the shepherds: different types of cheese (telemea, caş, urdă, burduf, jintiţă), pastrami and bacon, are just a few of the delicious products that, together with the “golden” polenta shall make you drool over.\n\n Of course, all of these shall be accompanied by a sip of schnapps or a glass of red wine.   \n\n\n\n\n\n### Day 2 - Hike and lunch at traditional sheepfold\n\nOur day trip takes you to some lovely villages around Sibiu, in the Mărginime area, at the foothill of the Cindrel Mountains, part of the Southern Carpathians. You’ll get to experience the specific rural gastronomy and taste some of the most representative products of our region. Find out how nature and the territory influences the local cuisine, we will talk about the characteristics of the cultural and gastronomical mosaic during a walk through the village of Sibiel. You will also experience a traditional lunch at a family in Rășinari where you also get to taste various specialities of cheese and local alcoholic drinks.\n\n\n\nWe will help you find out more about small gastronomy projects in our area which is getting ready for 2019, when Sibiu county holds the title of European Region of Gastronomy.\n\n\n\nThe day will end with a well deserved party or night out where we can celebrate the amazing week we had together.\n\n\n\n### Day 3 - Free day, return to airport\n\nOn the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n",
-        "contentDigest": "5ca3e28813cf9da9e5ddafa99d32d2fa",
+        "content": "---\ntemplateKey: package\ntitle: The Shepherd's Getaway\ntagline: Find yourself in the natural wonders of Transylvania.\nimage: /img/untitled-57.jpg\nprice: 4.250 DKK\nlenght: 3 days\n\n---\n\nThe word shepherd stands for old traditions, mountain activities and of course\ndelicious and healthy food. That is exactly what you can expect from this\ngetaway. A genuine adventure which will take you on the mountain trails walked\nby the shepherds, to their “castles” on top of the mountains, where an\nexquisite culinary delight is waiting for you. So, all you need to do is bring\nyour appetite for both adventure and traditional products, and we take care of\nthe rest.\n\n## What's Included\n\n* 'Accommodation at traditional mountain chalet '\n* 3 x breakfast\n* 2 x dinner\n* 3 x lunch/ lunch box\n* Activities\n* Airport transfer\n* All local transports within the program\n* 'Professional English speaking guides/mountain rangers '\n* Uncharted Team group leader that will assist you throughout the tour\n  (English speaking)\n* Entry fees to the objectives within the tour\n* This adventure is a package deal; therefore, it provides you with coverage\n  from Travel Guarantee Fund (Rejsegarantifonden) \n* 'Cancellation '\n\n## The Package does not include:\n\n•\tTransportation to the starting point of the tour, Cluj-Napoca t/r\n\n•\tTravel Insurance \n\n\n\n## Why we love this adventure?\n\n•\tYour adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling;\n\n•\tIt offers you a unique way to visit Transylvania in a getaway experience;\n\n•\tIt was designed for individual travellers, group of friends or co-workers as well as families;\n\n•\tThis getaway is the ideal opportunity to make the most out of an adventure in a new country when you have only few days to spare;\n\n•\tThe adventure is created in such way that it will not create any inconvenience with your work or university classes. You only need to skip Monday and on Tuesday morning you are back. And let’s be honest, wouldn’t you spend your Monday on an adventure rather than anywhere else?\n\n•\tIt combines mountain activities, culture and gastronomy, all in a 3-day adventure.\n\n•\tHigh emphasis on sustainable travelling\n\n\n\n## Is this adventure suitable for you?\n\n•\tA minimum level of fitness is required as the snowshoe hiking tour involves a fair amount of walking, allowing you to really get among nature;\n\n•\tThe tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed.\n\n\n\n\n## Itinerary\n### Day 1 * Culture, Traditions and Gastronomy Tour\n\nWelcome to the mysterious Transylvania. Kick off your adventure with your group leader, who is going to wait for you at the starting point of the tour, Cluj Napoca Airport. From there we will head towards the 2007 Capital of Culture, the city of Sibiu and all the way up to out mountain accommodation.\n\n\n\nIn the morning, we will start our adventure at the bottom of the Cindrel mountains, from where we will start climbing up on a narrow shady path that leads us to an alpine glade; from here, we’ll continue our route till we reach the imposing mountaintops of the Cindrel massif. On the edge of the soft summit lies a traditional picturesque sheepfold. \n\n It’s the perfect place to have a rest, enjoy the astonishing view and learn about the daily simple life of the shepherds. For lunch we will savour the delicious lamb and milk specialties skilfully prepared by the shepherds: different types of cheese (telemea, caş, urdă, burduf, jintiţă), pastrami and bacon, are just a few of the delicious products that, together with the “golden” polenta shall make you drool over.\n\n Of course, all of these shall be accompanied by a sip of schnapps or a glass of red wine.   \n\n\n\n\n\n### Day 2 * Hike and lunch at traditional sheepfold\n\nOur day trip takes you to some lovely villages around Sibiu, in the Mărginime area, at the foothill of the Cindrel Mountains, part of the Southern Carpathians. You’ll get to experience the specific rural gastronomy and taste some of the most representative products of our region. Find out how nature and the territory influences the local cuisine, we will talk about the characteristics of the cultural and gastronomical mosaic during a walk through the village of Sibiel. You will also experience a traditional lunch at a family in Rășinari where you also get to taste various specialities of cheese and local alcoholic drinks.\n\n\n\nWe will help you find out more about small gastronomy projects in our area which is getting ready for 2019, when Sibiu county holds the title of European Region of Gastronomy.\n\n\n\nThe day will end with a well deserved party or night out where we can celebrate the amazing week we had together.\n\n\n\n### Day 3 * Free day, return to airport\n\nOn the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n",
+        "contentDigest": "1135c10d41eb50e94bd7586cdbd6b9b6",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -1806,23 +1806,8 @@
         "templateKey": "package",
         "tagline": "Find yourself in the natural wonders of Transylvania.",
         "image": "../../../static/img/untitled-57.jpg",
-        "description": "The word shepherd stands for old traditions, mountain activities and of course delicious and healthy food. That is exactly what you can expect from this getaway. A genuine adventure which will take you on the mountain trails walked by the shepherds, to their “castles” on top of the mountains, where an exquisite culinary delight is waiting for you. So, all you need to do is bring your appetite for both adventure and traditional products, and we take care of the rest.\n",
         "price": "4.250 DKK",
         "lenght": "3 days",
-        "included": [
-          "Accommodation at traditional mountain chalet ",
-          "3 x breakfast",
-          "2 x dinner",
-          "3 x lunch/ lunch box",
-          "Activities",
-          "Airport transfer",
-          "All local transports within the program",
-          "Professional English speaking guides/mountain rangers ",
-          "Uncharted Team group leader that will assist you throughout the tour (English speaking)",
-          "Entry fees to the objectives within the tour",
-          "This adventure is a package deal; therefore, it provides you with coverage from Travel Guarantee Fund (Rejsegarantifonden) ",
-          "Cancellation "
-        ],
         "_PARENT": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file",
         "parent": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file"
       },
@@ -1864,50 +1849,6 @@
         "slug": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"
       }
     },
-    "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: package\ntitle: Medieval and Wild Adventure\ntagline: A walk back in time\nimage: /img/untitled-54.jpg\ndescription: >-\n  This adventure represents a journey to explore relics of old times and\n  traditions, a walk back in time as well as a taste of Transylvanian history.\n  It is a way to be part of the culture and traditions while stepping away from\n  the rudimental way of travelling and engaging in a unique discovery process.\n  You will experience the medieval and wild Transylvania, from the mountains and\n  nature surrounding it, through old cities full of history and mysteries, all\n  the way to the rural environment where traditions and gastronomy were kept\n  intact for ages.\nprice: 6.600 DKK\nlenght: 7 days\nincluded:\n  - 6 x nights Accommodation traditional modern guest house\n  - 1 x night Accommodation in Cluj-Napoca\n  - 7 x breakfast\n  - Meals mentioned in the daily description\n  - Transportation within the tour\n  - 'Airport transfer '\n  - 'Professional English speaking guides/mountain rangers '\n  - >-\n    Uncharted Team group leader that will assist you throughout the tour\n    (English speaking)\n  - Activities highlighted in the itinerary\n  - Entry fees to the objectives within the tour\n  - >-\n    This adventure is a package deal; therefore, it provides you with coverage\n    from Travel Guarantee Fund (Rejsegarantifonden) \n  - Cancellation\n---\n## What is not included in the price?\n\n•\tTransport to the starting point of the tour, Cluj–Napoca t/r\n\n•\tTravel Insurance\n\n•\tLunch and dinner, apart from the meals specified in the daily schedules\n\n## Why we love this adventure?\n\n•\tYour adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling\n\n•\tIt was designed for individual travellers, group of friends or co-workers as well as families\n\n•\tThe travellers have the chance to discover and visit the city in a new way, by engaging themselves in an interactive game of treasure-hunt\n\n•\tIt is suitable for a different variety of interests such as sports, sightseeing, gastronomy, culture, traditions\n\n•\tIt is the ideal opportunity to experience a genuine adventure if you have not done it before. \n\n•\tAll activities (even hiking, off-road, horseback riding) have as main focus discovering the genuine rural lifestyle, as well as the old customs and traditions of Transylvania\n\n•\tEvery day’s schedule and activities are designed in such way that you will get a unique experience and understanding of the culture, traditions, nature and history of Transylvania. Everything being done in an exciting way that will keep you engaged all the way through\n\n•\tBy joining this adventure, you will take part in ensuring sustainable travelling so that future generations can enjoy the places you help to preserve\n\n•\tWe do not plan your time, we offer you the “tools” to discover Transylvania and make the most out of this adventure, so that at the end of the day you can say “I have done all that could be done in 1 week”\n\n## Is this adventure right for you?\n\n•\tA minimum level of fitness is required as the hiking tour and rock climbing involve a fair amount of physical exercise\n\n•\tTemperatures in the spring – autumn interval can vary from ca. 15°C up to 35°C so make sure that apart from rain jackets and warm clothes you also bring sunscreen cream\n\n•\tThe tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed\n\n•\tThis tour includes a lot of traditional food tasting, therefore if you have any allergies or different choices in taste, please inform us beforehand so we make sure no unpleasantness will occur \n\n## Itinerary\n\n### Day 1 - Hiking in Turzii Gorges, Visit Salina Turda\n\nBefore the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.\n\nIn the morning we will Kick off the adventure with a visit to the biggest and oldest salt mine in Romania, 108m underground, dating from 1271. Here you will be able to discover the wonders that lie underneath Transylvanian hills and mountains.\n\nOur next stop will be Turzii gorges, where we will move from the underground wonders to the cliffs, valleys and rivers that lie in from of your eyes. We will hike throughout the canyon while at the same time discovering together the hidden caves inside the gorges.\n\nWe will then travel to our accommodation in the Cindrel mountains, more precisely Arena Platos Resort. Once at the accommodation, all participants will be greeted with a traditional meal and the rest of the evening will be dedicated to resting and getting to know each other.\n\n### Day 2 - Hiking in the 7 Ladder Canyon, Offroad 4x4\n\nThe second day will start by heading towards the Carpathian Mountains, more precisely the Bucegi Mountains Sector. We will start with an easy hike towards the 7 Ladders Canyon, followed by traversing the canyon in a unique style. The hike will end in a picnic on the top of the canyon, after we will continue discovering the Carpathians with a 4x4 off-road tour. We will travel over high ground, through forest and woodland on various difficulty tracks, making for a great experience. Along the way, we will stop for a cosy picnic in a breath-taking view spot. Make sure your phones and photo cameras are fully charged to take proper advantage of the amazing landscapes\n\nThe day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. \n\n### Day 3 – Culture, Traditions and Gastronomy Tour\n\nThe food tour of today, goes through the typical cultural landscapes of the so called Transylvanian Highlands, an eco-touristic destination where we will visit some lovely villages. You’ll get to experience the specific rural gastronomy, meet some locals and try their best products or dishes. You will find out how nature and the territory influences the local products, we will talk about the characteristics of the cultural and gastronomical mosaic during a visit of the ruins of a Cistercian abbey in Cârța (Kerz).\n\nGet an insight in our local cuisine, we talk about 200 years old recipes, during a horse cart tour through the village or a walk on the hills above the village. At the end of the day we will meet the people of the Old Mill Project in Hosman (Holzmengen) and try their sweet pastry specialities from Luíza’s artisanal bakery.\n\n### Day 4 – Horseback riding\n\nThe fourth day is dedicated towards one of the most traditional ways of travelling from village to village and across the rolling hills, horseback riding. There will be a safety briefing including as well basic elements for beginners. Afterwards we will saddle up, and hop on for an unforgettable and memorable ride through the countryside, exploring the old Transylvanian lifestyle in the most genuine way.\n\nThe afternoon is dedicated towards relaxation.\n\n### Day 5 – Culture, Traditions and Gastronomy Tour\n\nToday’s gastronomical tour takes you during the 4.5 hours from through the UNESCO protected citadel (Burg) and to the Lower old centre. You will have the chance to taste some exclusive local products and try our recipes. We will talk about the characteristics of our gastronomy in the oldest school of Sighișoara. You will have the chance to try some typical cheese, the local white wines as well as various sweet and sour soups.\n\nExperience an old Saxon recipe, reinterpreted by an open-minded chef from a local restaurant. Sample the local fruit alcoholic drinks, a must during a visit in Transylvania and visit some of the unseen corners of historical Sighișoara.\n\n### Day 6 – Treasure Hunt and Cultural Heritages\n\nThe afternoon will be dedicated on experiencing the historical city of Sibiu in a fun and interactive way. A treasure hunt will be organized, where the participants will discover the historical city centre of the 2007 European Capital of Culture by following an interactive set of clues. Each clue will lead you to an emblematic place for the history of Sibiu.\n\nAfter lunch we will take a relaxing walk back in time, while visiting the The “ASTRA” Museum of Traditional Folk and Civilization which represents the largest open air ethnographic exhibition in Europe. You will be able to witness a display of 400 monuments folk architecture and technique in combination with a collection of ethnographic heritage objects.\n\n### Day 7 - Free day, return to airport\n\nOn the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n",
-        "contentDigest": "513de4056bfd5246ded6eedbe5959887",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Medieval and Wild Adventure",
-        "templateKey": "package",
-        "tagline": "A walk back in time",
-        "image": "../../../static/img/untitled-54.jpg",
-        "description": "This adventure represents a journey to explore relics of old times and traditions, a walk back in time as well as a taste of Transylvanian history. It is a way to be part of the culture and traditions while stepping away from the rudimental way of travelling and engaging in a unique discovery process. You will experience the medieval and wild Transylvania, from the mountains and nature surrounding it, through old cities full of history and mysteries, all the way to the rural environment where traditions and gastronomy were kept intact for ages.",
-        "price": "6.600 DKK",
-        "lenght": "7 days",
-        "included": [
-          "6 x nights Accommodation traditional modern guest house",
-          "1 x night Accommodation in Cluj-Napoca",
-          "7 x breakfast",
-          "Meals mentioned in the daily description",
-          "Transportation within the tour",
-          "Airport transfer ",
-          "Professional English speaking guides/mountain rangers ",
-          "Uncharted Team group leader that will assist you throughout the tour (English speaking)",
-          "Activities highlighted in the itinerary",
-          "Entry fees to the objectives within the tour",
-          "This adventure is a package deal; therefore, it provides you with coverage from Travel Guarantee Fund (Rejsegarantifonden) ",
-          "Cancellation"
-        ],
-        "_PARENT": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md",
-      "fields": {
-        "slug": "/packages/senseofadventure/"
-      }
-    },
     "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -1947,8 +1888,8 @@
       "children": [],
       "parent": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: package\ntitle: The Wild Carpathians\ntagline: 'Fully connect with nature '\nimage: /img/dsc_0088.jpg\ndescription: >-\n  The Wild Carpathians Adventure will give you the perfect opportunity to fully\n  connect with nature and release the stress of urban life. Embark on an\n  adventure that will take you through the heart of the mountains, paved by\n  centuries of history and tradition. Discover the nature wonders of\n  Transylvania in a unique way, an adventure specially designed to offer the\n  most genuine discovery process. With high focus on various ways to explore the\n  mountains and enjoy the nature, numerous elements of culture and traditions\n  will still be present. In this way we ensure an experience where memories are\n  being formed, while footsteps are left behind.\nprice: 7.350 DKK\nlenght: '7'\nincluded:\n  - 6 x nights Accommodation traditional mountain chalet\n  - 1 x night Accommodation in Cluj-Napoca\n  - 7 x breakfast\n  - Transportation within the tour\n  - 'Airport transfer '\n  - 'Professional English speaking guides/mountain rangers '\n  - >-\n    Uncharted Team group leader that will assist you throughout the tour\n    (English speaking)\n  - Activities highlighted in the itinerary\n  - Entry fees to the objectives within the tour\n  - >-\n    This adventure is a package deal; therefore, it provides you with coverage\n    from Travel Guarantee Fund (Rejsegarantifonden) \n  - Cancellation\n---\n##What is not included in the price?\n•\tTransport to the starting point of the tour, Cluj–Napoca t/r\n•\tTravel Insurance\n•\tLunch and dinner, apart from the meals specified in the daily schedules\n\n##Why we love this adventure?\n•\tYour adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling\n•\tIt was designed for individual travellers, group of friends or co-workers as well as families\n•\tThis tour provides a wide variety of mountain activities that can be performed, all to ensure that you, the adventurer, are able to explore the nature beauty from all angles \n•\tIt is the ideal opportunity to experience an active trip if you have not done it before. The routes and activities are designed to make you enjoy adventure while at the same time not totally consume your energy\n•\tIdeal break from the daily routine\n•\tThe travellers have the chance to discover and visit the city in a new way, by engaging themselves in an interactive game of treasure-hunt\n•\tIt is suitable for a different variety of interests such as sports, sightseeing, gastronomy, culture, traditions\n•\tHoliday and Adventure are combined under the shape of healthy sports activities\n•\tThis adventure will fully immerse you into the natural beauty of Transylvania and the culture it represents\n•\tThe most important things you have to bring along are mountain boots, rain jacket and good vibes. All the rest such as gear for different activities will be provided either by us or our partners. \n•\tBy joining this adventure, you will take part in ensuring sustainable travelling so that future generations can enjoy the places you help to preserve\n\n\n\n##Is this adventure right for you?\n•\tA minimum level of fitness is required as the hiking tour and rock climbing involve a fair amount of physical exercise\n•\tTemperatures in the spring – autumn interval can vary from ca. 15°C up to 35°C so make sure that apart from rain jackets and warm clothes you also bring sunscreen cream\n•\tThe tour is suitable for families due to it’s high focus activities that fit perfectly the picture of “an active Sunday with the family”, but also for any other type of adventure enthusiast.\n•\tThe tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed\n\n## Itinerary\n###Day 1 - Hiking in Turzii Gorges, Visit Salina Turda\nBefore the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.\n\nIn the morning we will Kick off the adventure with a visit to the biggest and oldest salt mine in Romania, 108m underground, dating from 1271. Here you will be able to discover the wonders that lie underneath Transylvanian hills and mountains.\n\nOur next stop will be Turzii gorges, where we will move from the underground wonders to the cliffs, valleys and rivers that lie in from of your eyes. We will hike throughout the canyon while at the same time discovering together the hidden caves inside the gorges.\n\nWe will then travel to our accommodation in the Cindrel mountains, more precisely Arena Platos Resort. Once at the accommodation, all participants will be greeted with a traditional meal and the rest of the evening will be dedicated to resting and getting to know each other.\n\n###Day 2 - Hiking in the 7 Ladder Canyon, Offroad 4x4\nThe second day will start by heading towards the Carpathian Mountains, more precisely the Bucegi Mountains Sector. We will start with an easy hike towards the 7 Ladders Canyon, followed by traversing the canyon in a unique style. The hike will end in a picnic on the top of the canyon, after we will continue discovering the Carpathians with a 4x4 off-road tour. We will travel over high ground, through forest and woodland on various difficulty tracks, making for a great experience. Along the way, we will stop for a cosy picnic in a breath-taking view spot. Make sure your phones and photo cameras are fully charged to take proper advantage of the amazing landscapes\n\nThe day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. \n\n\n\n###Day 3 – Hike and lunch at traditional sheepfold\nOur day starts with the transfer to the bottom of the Cindrel mountains, from where we will start climbing up on a narrow shady path that leads us to an alpine glade; from here, we’ll continue our route till we reach the imposing mountaintops of the Cindrel massif. On the edge of the soft summit lies a traditional picturesque sheepfold. \n It’s the perfect place to have a rest, enjoy the astonishing view and learn about the daily simple life of the shepherds. For lunch we will savour the delicious lamb and milk specialties skilfully prepared by the shepherds: different types of cheese (telemea, caş, urdă, burduf, jintiţă), pastrami and bacon, are just a few of the delicious products that, together with the “golden” polenta shall make you drool over.\n Of course, all of these shall be accompanied by a sip of schnapps or a glass of red wine.   \n\n###Day 4 – Adventure park, Treasure Hunt, Spa\nThe morning will be a new kind of forest experience, as the participants will move from tree to tree, above the ground, in the famous adventurepark, Arka Park.  The afternoon will be dedicated on experiencing the historical city of Sibiu in a fun and interactive way. A treasure hunt will be organized, where the participants will discover the historical city centre of the 2007 European Capital of Culture by following an interactive set of clues. Each clue will lead you to an emblematic place for the history of Sibiu.\n\nAfter traversing the forest from tree to tree and discovering the city of Sibiu, the rest of the day will be dedicated towards a relaxing experience at a spa. \n\n###Day 5 – Culture, Traditions and Gastronomy Tour\nOur day trip takes you to some lovely villages around Sibiu, in the Mărginime area, at the foothill of the Cindrel Mountains, part of the Southern Carpathians. You’ll get to experience the specific rural gastronomy and taste some of the most representative products of our region. Find out how nature and the territory influences the local cuisine, we will talk about the characteristics of the cultural and gastronomical mosaic during a walk through the village of Sibiel. You will also experience a traditional lunch at a family in Rășinari where you also get to taste various specialities of cheese and local alcoholic drinks.\n\nWe will help you find out more about small gastronomy projects in our area which is getting ready for 2019, when Sibiu county holds the title of European Region of Gastronomy.\n\nThe day will end with a well deserved party or night out where we can celebrate the amazing week we had together.\n\n\n###Day 6 - Mountain biking\nWe explored the Carpathian Mountains by foot, with an off-road vehicle, from tree to tree, all ways but one, mountain biking. Therefore, the 6th day is dedicated towards showing you another adventurous way of discovering the nature wonders, in a faster peace than hiking but as eco-friendly.\n\nThe paths are not difficult and they provide wide variety of natural attractions and a different way of exploring the mountains in a healthy manner.\n\n\n###Day 7 – Free day, return to airport\nOn the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n\n",
-        "contentDigest": "cde7794e840e75f4b1aeaabdcec5e02a",
+        "content": "---\ntemplateKey: package\ntitle: The Wild Carpathians\ntagline: 'Fully connect with nature '\nimage: /img/dsc_0088.jpg\nprice: 7.350 DKK\nlenght: '7'\n---\n\nThe Wild Carpathians Adventure will give you the perfect opportunity to fully\nconnect with nature and release the stress of urban life. Embark on an\nadventure that will take you through the heart of the mountains, paved by\ncenturies of history and tradition. Discover the nature wonders of\nTransylvania in a unique way, an adventure specially designed to offer the\nmost genuine discovery process. With high focus on various ways to explore the\nmountains and enjoy the nature, numerous elements of culture and traditions\nwill still be present. In this way we ensure an experience where memories are\nbeing formed, while footsteps are left behind.\n\n##What is included in the price?\n\n* 6 x nights Accommodation traditional mountain chalet\n* 1 x night Accommodation in Cluj-Napoca\n* 7 x breakfast\n* Transportation within the tour\n* 'Airport transfer '\n* 'Professional English speaking guides/mountain rangers '\n* >-\n  Uncharted Team group leader that will assist you throughout the tour\n  (English speaking)\n* Activities highlighted in the itinerary\n* Entry fees to the objectives within the tour\n* >-\n  This adventure is a package deal; therefore, it provides you with coverage\n  from Travel Guarantee Fund (Rejsegarantifonden) \n* Cancellation\n\n##What is not included in the price?\n•\tTransport to the starting point of the tour, Cluj–Napoca t/r\n•\tTravel Insurance\n•\tLunch and dinner, apart from the meals specified in the daily schedules\n\n##Why we love this adventure?\n•\tYour adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling\n•\tIt was designed for individual travellers, group of friends or co-workers as well as families\n•\tThis tour provides a wide variety of mountain activities that can be performed, all to ensure that you, the adventurer, are able to explore the nature beauty from all angles \n•\tIt is the ideal opportunity to experience an active trip if you have not done it before. The routes and activities are designed to make you enjoy adventure while at the same time not totally consume your energy\n•\tIdeal break from the daily routine\n•\tThe travellers have the chance to discover and visit the city in a new way, by engaging themselves in an interactive game of treasure-hunt\n•\tIt is suitable for a different variety of interests such as sports, sightseeing, gastronomy, culture, traditions\n•\tHoliday and Adventure are combined under the shape of healthy sports activities\n•\tThis adventure will fully immerse you into the natural beauty of Transylvania and the culture it represents\n•\tThe most important things you have to bring along are mountain boots, rain jacket and good vibes. All the rest such as gear for different activities will be provided either by us or our partners. \n•\tBy joining this adventure, you will take part in ensuring sustainable travelling so that future generations can enjoy the places you help to preserve\n\n\n\n##Is this adventure right for you?\n•\tA minimum level of fitness is required as the hiking tour and rock climbing involve a fair amount of physical exercise\n•\tTemperatures in the spring – autumn interval can vary from ca. 15°C up to 35°C so make sure that apart from rain jackets and warm clothes you also bring sunscreen cream\n•\tThe tour is suitable for families due to it’s high focus activities that fit perfectly the picture of “an active Sunday with the family”, but also for any other type of adventure enthusiast.\n•\tThe tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed\n\n## Itinerary\n###Day 1 * Hiking in Turzii Gorges, Visit Salina Turda\nBefore the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.\n\nIn the morning we will Kick off the adventure with a visit to the biggest and oldest salt mine in Romania, 108m underground, dating from 1271. Here you will be able to discover the wonders that lie underneath Transylvanian hills and mountains.\n\nOur next stop will be Turzii gorges, where we will move from the underground wonders to the cliffs, valleys and rivers that lie in from of your eyes. We will hike throughout the canyon while at the same time discovering together the hidden caves inside the gorges.\n\nWe will then travel to our accommodation in the Cindrel mountains, more precisely Arena Platos Resort. Once at the accommodation, all participants will be greeted with a traditional meal and the rest of the evening will be dedicated to resting and getting to know each other.\n\n###Day 2 * Hiking in the 7 Ladder Canyon, Offroad 4x4\nThe second day will start by heading towards the Carpathian Mountains, more precisely the Bucegi Mountains Sector. We will start with an easy hike towards the 7 Ladders Canyon, followed by traversing the canyon in a unique style. The hike will end in a picnic on the top of the canyon, after we will continue discovering the Carpathians with a 4x4 off-road tour. We will travel over high ground, through forest and woodland on various difficulty tracks, making for a great experience. Along the way, we will stop for a cosy picnic in a breath-taking view spot. Make sure your phones and photo cameras are fully charged to take proper advantage of the amazing landscapes\n\nThe day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. \n\n\n\n###Day 3 – Hike and lunch at traditional sheepfold\nOur day starts with the transfer to the bottom of the Cindrel mountains, from where we will start climbing up on a narrow shady path that leads us to an alpine glade; from here, we’ll continue our route till we reach the imposing mountaintops of the Cindrel massif. On the edge of the soft summit lies a traditional picturesque sheepfold. \n It’s the perfect place to have a rest, enjoy the astonishing view and learn about the daily simple life of the shepherds. For lunch we will savour the delicious lamb and milk specialties skilfully prepared by the shepherds: different types of cheese (telemea, caş, urdă, burduf, jintiţă), pastrami and bacon, are just a few of the delicious products that, together with the “golden” polenta shall make you drool over.\n Of course, all of these shall be accompanied by a sip of schnapps or a glass of red wine.   \n\n###Day 4 – Adventure park, Treasure Hunt, Spa\nThe morning will be a new kind of forest experience, as the participants will move from tree to tree, above the ground, in the famous adventurepark, Arka Park.  The afternoon will be dedicated on experiencing the historical city of Sibiu in a fun and interactive way. A treasure hunt will be organized, where the participants will discover the historical city centre of the 2007 European Capital of Culture by following an interactive set of clues. Each clue will lead you to an emblematic place for the history of Sibiu.\n\nAfter traversing the forest from tree to tree and discovering the city of Sibiu, the rest of the day will be dedicated towards a relaxing experience at a spa. \n\n###Day 5 – Culture, Traditions and Gastronomy Tour\nOur day trip takes you to some lovely villages around Sibiu, in the Mărginime area, at the foothill of the Cindrel Mountains, part of the Southern Carpathians. You’ll get to experience the specific rural gastronomy and taste some of the most representative products of our region. Find out how nature and the territory influences the local cuisine, we will talk about the characteristics of the cultural and gastronomical mosaic during a walk through the village of Sibiel. You will also experience a traditional lunch at a family in Rășinari where you also get to taste various specialities of cheese and local alcoholic drinks.\n\nWe will help you find out more about small gastronomy projects in our area which is getting ready for 2019, when Sibiu county holds the title of European Region of Gastronomy.\n\nThe day will end with a well deserved party or night out where we can celebrate the amazing week we had together.\n\n\n###Day 6 * Mountain biking\nWe explored the Carpathian Mountains by foot, with an off-road vehicle, from tree to tree, all ways but one, mountain biking. Therefore, the 6th day is dedicated towards showing you another adventurous way of discovering the nature wonders, in a faster peace than hiking but as eco-friendly.\n\nThe paths are not difficult and they provide wide variety of natural attractions and a different way of exploring the mountains in a healthy manner.\n\n\n###Day 7 – Free day, return to airport\nOn the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n\n",
+        "contentDigest": "41d228c4995cd01243daf59ff7f36ae9",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -1960,22 +1901,8 @@
         "templateKey": "package",
         "tagline": "Fully connect with nature ",
         "image": "../../../static/img/dsc_0088.jpg",
-        "description": "The Wild Carpathians Adventure will give you the perfect opportunity to fully connect with nature and release the stress of urban life. Embark on an adventure that will take you through the heart of the mountains, paved by centuries of history and tradition. Discover the nature wonders of Transylvania in a unique way, an adventure specially designed to offer the most genuine discovery process. With high focus on various ways to explore the mountains and enjoy the nature, numerous elements of culture and traditions will still be present. In this way we ensure an experience where memories are being formed, while footsteps are left behind.",
         "price": "7.350 DKK",
         "lenght": "7",
-        "included": [
-          "6 x nights Accommodation traditional mountain chalet",
-          "1 x night Accommodation in Cluj-Napoca",
-          "7 x breakfast",
-          "Transportation within the tour",
-          "Airport transfer ",
-          "Professional English speaking guides/mountain rangers ",
-          "Uncharted Team group leader that will assist you throughout the tour (English speaking)",
-          "Activities highlighted in the itinerary",
-          "Entry fees to the objectives within the tour",
-          "This adventure is a package deal; therefore, it provides you with coverage from Travel Guarantee Fund (Rejsegarantifonden) ",
-          "Cancellation"
-        ],
         "_PARENT": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file",
         "parent": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file"
       },
@@ -2022,8 +1949,8 @@
       "children": [],
       "parent": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: package\ntitle: Saxonia Getaway\ntagline: The mystery of Saxon Transylvania\nimage: /img/untitled-61.jpg\ndescription: >\n  Tired of the daily routine? Eager for an adventure? Time pressure is an issue?\n  No need to worry, we have the answer to all your questions. We have prepared a\n  unique 3-day weekend getaway for you in the mysterious Saxon Transylvania. All\n  you need to do is to leave a reminder Friday afternoon on your work or\n  university desk saying “Gone on an adventure, see you in 3 days”, the rest we\n  take care of.\nprice: 4.250 DKK\nlenght: 3 days\nincluded:\n  - Accommodation traditional guesthouse\n  - 3 x breakfast\n  - 2 x dinner\n  - 3 x lunch\n  - 'Activities highlighted in the itinerary '\n  - All local transports within the program\n  - Airport transfer\n  - Entry fees to the objectives within the tour\n  - >-\n    Uncharted Team group leader that will assist you throughout the tour\n    (English speaking)\n  - >-\n    This adventure is a package deal; therefore, it provides you with coverage\n    from Travel Guarantee Fund (Rejsegarantifonden) \n  - Cancellation\n  - null\n---\n## Why we love this adventure?\n\n•\tYour adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling; \n\n•\tTour is suitable for families, couples, friends or individual, all with the same interest to discover a new culture in an interactive way;\n\n•\tYou get to experience the culture and traditions of Transylvania, as well as the landscapes surrounding it;\n\n•\tThe gastronomical experience consists not only of tasting the traditional products, but also learning how they are made and see where they come from\n\n•\tIt is an active way to discover a new culture, through a weekend getaway;\n\n•\tHigh emphasis on sustainable travelling.\n\n## Is this adventure suitable for you?\n\n•\tIf you love food, drinks and discovering new cultures and traditions, then this adventure is the ideal getaway with you\n\n\n\n## Daily schedule\n\n### Day 1\n\nBefore the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Sibiu to get a proper rest before the first day.\n\nIn the morning we will start the first gastronomical tour that goes through the typical cultural landscapes of the Transylvanian Highlands, an eco-touristic destination where we will visit some lovely villages. You’ll get to experience the specific rural gastronomy, meet some locals and try their best products or dishes. You will find out how nature and the territory influences the local products, we will talk about the characteristics of the cultural and gastronomical mosaic during a visit of the ruins of a Cistercian abbey in Cârța (Kerz).\n\nGet an insight in our local cuisine, we talk about 200 years old recipes, during a horse cart tour through the village or a walk on the hills above the village. At the end of the day we will meet the people of the Old Mill Project in Hosman (Holzmengen) and try their sweet pastry specialities from Luíza’s artisanal bakery.\n\n\n\n### Day 2\n\nToday’s gastronomical tour takes you during the 4.5 hours from through the UNESCO protected citadel (Burg) and to the Lower old centre. You will have the chance to taste some exclusive local products and try our recipes. We will talk about the characteristics of our gastronomy in the oldest school of Sighișoara. You will have the chance to try some typical cheese, the local white wines as well as various sweet and sour soups.\n\nExperience an old Saxon recipe, reinterpreted by an open-minded chef from a local restaurant. Sample the local fruit alcoholic drinks, a must during a visit in Transylvania and visit some of the unseen corners of historical Sighișoara.\n\n\n\n### Day 3\n\nOn the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n\n**\\*For more details and insights of the tours, please check the [Essential Information](planning.html) page.**\n",
-        "contentDigest": "8786c7225b1ae577a0970c6e40d5c750",
+        "content": "---\ntemplateKey: package\ntitle: Saxonia Getaway\ntagline: The mystery of Saxon Transylvania\nimage: /img/untitled-61.jpg\nprice: 4.250 DKK\nlenght: 3 days\n---\n\nTired of the daily routine? Eager for an adventure? Time pressure is an issue?\nNo need to worry, we have the answer to all your questions. We have prepared a\nunique 3-day weekend getaway for you in the mysterious Saxon Transylvania. All\nyou need to do is to leave a reminder Friday afternoon on your work or\nuniversity desk saying “Gone on an adventure, see you in 3 days”, the rest we\ntake care of.\n\n## What's Included?\n\n* Accommodation traditional guesthouse\n* 3 x breakfast\n* 2 x dinner\n* 3 x lunch\n* 'Activities highlighted in the itinerary '\n* All local transports within the program\n* Airport transfer\n* Entry fees to the objectives within the tour\n* >-\n  Uncharted Team group leader that will assist you throughout the tour\n  (English speaking)\n* >-\n  This adventure is a package deal; therefore, it provides you with coverage\n  from Travel Guarantee Fund (Rejsegarantifonden) \n* Cancellation\n* null\n\n## Why we love this adventure?\n\n•\tYour adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling; \n\n•\tTour is suitable for families, couples, friends or individual, all with the same interest to discover a new culture in an interactive way;\n\n•\tYou get to experience the culture and traditions of Transylvania, as well as the landscapes surrounding it;\n\n•\tThe gastronomical experience consists not only of tasting the traditional products, but also learning how they are made and see where they come from\n\n•\tIt is an active way to discover a new culture, through a weekend getaway;\n\n•\tHigh emphasis on sustainable travelling.\n\n## Is this adventure suitable for you?\n\n•\tIf you love food, drinks and discovering new cultures and traditions, then this adventure is the ideal getaway with you\n\n\n\n## Daily schedule\n\n### Day 1\n\nBefore the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Sibiu to get a proper rest before the first day.\n\nIn the morning we will start the first gastronomical tour that goes through the typical cultural landscapes of the Transylvanian Highlands, an eco-touristic destination where we will visit some lovely villages. You’ll get to experience the specific rural gastronomy, meet some locals and try their best products or dishes. You will find out how nature and the territory influences the local products, we will talk about the characteristics of the cultural and gastronomical mosaic during a visit of the ruins of a Cistercian abbey in Cârța (Kerz).\n\nGet an insight in our local cuisine, we talk about 200 years old recipes, during a horse cart tour through the village or a walk on the hills above the village. At the end of the day we will meet the people of the Old Mill Project in Hosman (Holzmengen) and try their sweet pastry specialities from Luíza’s artisanal bakery.\n\n\n\n### Day 2\n\nToday’s gastronomical tour takes you during the 4.5 hours from through the UNESCO protected citadel (Burg) and to the Lower old centre. You will have the chance to taste some exclusive local products and try our recipes. We will talk about the characteristics of our gastronomy in the oldest school of Sighișoara. You will have the chance to try some typical cheese, the local white wines as well as various sweet and sour soups.\n\nExperience an old Saxon recipe, reinterpreted by an open-minded chef from a local restaurant. Sample the local fruit alcoholic drinks, a must during a visit in Transylvania and visit some of the unseen corners of historical Sighișoara.\n\n\n\n### Day 3\n\nOn the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n\n**\\*For more details and insights of the tours, please check the [Essential Information](planning.html) page.**\n",
+        "contentDigest": "f64462afeb514a73d66b7a5ad7594b39",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -2035,23 +1962,8 @@
         "templateKey": "package",
         "tagline": "The mystery of Saxon Transylvania",
         "image": "../../../static/img/untitled-61.jpg",
-        "description": "Tired of the daily routine? Eager for an adventure? Time pressure is an issue? No need to worry, we have the answer to all your questions. We have prepared a unique 3-day weekend getaway for you in the mysterious Saxon Transylvania. All you need to do is to leave a reminder Friday afternoon on your work or university desk saying “Gone on an adventure, see you in 3 days”, the rest we take care of.\n",
         "price": "4.250 DKK",
         "lenght": "3 days",
-        "included": [
-          "Accommodation traditional guesthouse",
-          "3 x breakfast",
-          "2 x dinner",
-          "3 x lunch",
-          "Activities highlighted in the itinerary ",
-          "All local transports within the program",
-          "Airport transfer",
-          "Entry fees to the objectives within the tour",
-          "Uncharted Team group leader that will assist you throughout the tour (English speaking)",
-          "This adventure is a package deal; therefore, it provides you with coverage from Travel Guarantee Fund (Rejsegarantifonden) ",
-          "Cancellation",
-          null
-        ],
         "_PARENT": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file",
         "parent": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file"
       },
@@ -2066,7 +1978,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "279c0a8cd7683c5e788215628f9b3199",
+        "contentDigest": "f07ea0bf017f84a5392407502c8fffc2",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2077,7 +1989,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2018-04-29T16:09:45.522Z",
-      "accessTime": "2018-05-03T22:11:55.540Z",
+      "accessTime": "2018-05-04T10:44:34.843Z",
       "changeTime": "2018-04-29T16:09:45.522Z",
       "birthTime": "2018-04-12T20:04:15.413Z",
       "root": "/",
@@ -2095,11 +2007,11 @@
       "blksize": 4194304,
       "ino": 8601653181,
       "blocks": 0,
-      "atimeMs": 1525385515540.202,
+      "atimeMs": 1525430674842.9067,
       "mtimeMs": 1525018185521.9973,
       "ctimeMs": 1525018185521.9973,
       "birthtimeMs": 1523563455412.8713,
-      "atime": "2018-05-03T22:11:55.540Z",
+      "atime": "2018-05-04T10:44:34.843Z",
       "mtime": "2018-04-29T16:09:45.522Z",
       "ctime": "2018-04-29T16:09:45.522Z",
       "birthtime": "2018-04-12T20:04:15.413Z"
@@ -2109,7 +2021,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "009deb97957c98ad815537defda2fb5e",
+        "contentDigest": "a1166c982c6deef6779dfc53c4a05266",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2120,7 +2032,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-05-02T21:50:49.289Z",
-      "accessTime": "2018-05-03T22:11:55.542Z",
+      "accessTime": "2018-05-04T10:44:34.845Z",
       "changeTime": "2018-05-02T21:50:49.289Z",
       "birthTime": "2018-04-14T06:51:58.905Z",
       "root": "/",
@@ -2138,11 +2050,11 @@
       "blksize": 4194304,
       "ino": 8601914063,
       "blocks": 0,
-      "atimeMs": 1525385515541.5508,
+      "atimeMs": 1525430674844.5557,
       "mtimeMs": 1525297849288.978,
       "ctimeMs": 1525297849288.978,
       "birthtimeMs": 1523688718905.1316,
-      "atime": "2018-05-03T22:11:55.542Z",
+      "atime": "2018-05-04T10:44:34.845Z",
       "mtime": "2018-05-02T21:50:49.289Z",
       "ctime": "2018-05-02T21:50:49.289Z",
       "birthtime": "2018-04-14T06:51:58.905Z"
@@ -2152,7 +2064,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0ccd9681a49cc89ae13308ea2760204d",
+        "contentDigest": "bd4089d847dc4cfbcac065e5835cea30",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2163,7 +2075,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-04-14T08:00:13.675Z",
-      "accessTime": "2018-05-03T22:11:55.542Z",
+      "accessTime": "2018-05-04T10:44:34.845Z",
       "changeTime": "2018-04-14T08:00:13.675Z",
       "birthTime": "2018-04-14T07:57:28.444Z",
       "root": "/",
@@ -2181,11 +2093,11 @@
       "blksize": 4194304,
       "ino": 8601918034,
       "blocks": 0,
-      "atimeMs": 1525385515541.6091,
+      "atimeMs": 1525430674844.5923,
       "mtimeMs": 1523692813674.5247,
       "ctimeMs": 1523692813674.5247,
       "birthtimeMs": 1523692648443.6057,
-      "atime": "2018-05-03T22:11:55.542Z",
+      "atime": "2018-05-04T10:44:34.845Z",
       "mtime": "2018-04-14T08:00:13.675Z",
       "ctime": "2018-04-14T08:00:13.675Z",
       "birthtime": "2018-04-14T07:57:28.444Z"
@@ -2928,7 +2840,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6aab6e606f2ffd999f714f5b91b6a452",
+        "contentDigest": "75e586928c3537c5c869ed777cb45d98",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2939,7 +2851,7 @@
       "size": 480,
       "prettySize": "480 B",
       "modifiedTime": "2018-05-02T21:50:50.371Z",
-      "accessTime": "2018-05-03T22:11:55.557Z",
+      "accessTime": "2018-05-04T10:44:34.858Z",
       "changeTime": "2018-05-02T21:50:50.371Z",
       "birthTime": "2018-03-24T20:07:41.323Z",
       "root": "/",
@@ -2957,11 +2869,11 @@
       "blksize": 4194304,
       "ino": 8600035704,
       "blocks": 0,
-      "atimeMs": 1525385515556.7283,
+      "atimeMs": 1525430674858.3318,
       "mtimeMs": 1525297850370.5142,
       "ctimeMs": 1525297850370.5142,
       "birthtimeMs": 1521922061322.7996,
-      "atime": "2018-05-03T22:11:55.557Z",
+      "atime": "2018-05-04T10:44:34.858Z",
       "mtime": "2018-05-02T21:50:50.371Z",
       "ctime": "2018-05-02T21:50:50.371Z",
       "birthtime": "2018-03-24T20:07:41.323Z"
@@ -3700,7 +3612,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c95d0ed407a10f3f2cdb574470e6bc9a",
+        "contentDigest": "86f12f2d6033e729a7b918c142e2dc47",
         "owner": "internal-data-bridge"
       }
     },
@@ -3722,7 +3634,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ad30a141d8d38524d6735e4585f1dc4e",
+        "contentDigest": "567b48ad306de34f91f308f2e4f932f9",
         "owner": "internal-data-bridge"
       }
     },
@@ -3744,7 +3656,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d1a7fb1db52bf33dc6cab0733c37481f",
+        "contentDigest": "346398efb8e0a074bc7bd303224e6c5c",
         "owner": "internal-data-bridge"
       }
     },
@@ -3766,7 +3678,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "63c83778fecf1d7159f818ef6f3863e3",
+        "contentDigest": "29d585990608d916420f213e471402b7",
         "owner": "internal-data-bridge"
       }
     },
@@ -3788,7 +3700,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9de18c7af6d82e02c44eda448ac79673",
+        "contentDigest": "822679985fa082496d5a5bed8fad5800",
         "owner": "internal-data-bridge"
       }
     },
@@ -3810,7 +3722,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "88228a8fc0a8f72a8555654665330572",
+        "contentDigest": "9fd340cf70d255cad78cf9acdb5ed629",
         "owner": "internal-data-bridge"
       }
     },
@@ -3832,7 +3744,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7461f7eb271a109fac5596de0457f394",
+        "contentDigest": "1794a60956f5e4f7391b1b8a66555109",
         "owner": "internal-data-bridge"
       }
     },
@@ -3854,7 +3766,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "036e599216cc5452c9adc08211427725",
+        "contentDigest": "ba18287aff759ce54268fc6c7726053d",
         "owner": "internal-data-bridge"
       }
     },
@@ -3876,7 +3788,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6c4b46002a1fc7d2bcad845f041df884",
+        "contentDigest": "b4ce3eb30a6fbb6a379f31e26a1149b7",
         "owner": "internal-data-bridge"
       }
     },
@@ -3898,7 +3810,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f6466a043e563c9204119ee25894ede1",
+        "contentDigest": "a82f456c60aa19f911b6c24c4496cdc4",
         "owner": "internal-data-bridge"
       }
     },
@@ -3920,7 +3832,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "23b24990c106be6a99dab6f1dd8e7880",
+        "contentDigest": "1ed4d243bd068d2cb69a50c53048aa86",
         "owner": "internal-data-bridge"
       }
     },
@@ -3942,7 +3854,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6a84c44d4ff556445b54871576eda03b",
+        "contentDigest": "20633ba866ee012de2078ee92d8956fd",
         "owner": "internal-data-bridge"
       }
     },
@@ -3964,7 +3876,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "46d5b6fbdab6ff62abca4c02a1434038",
+        "contentDigest": "bf1ecc900da1b4ed46541519a1fbf82c",
         "owner": "internal-data-bridge"
       }
     },
@@ -3984,7 +3896,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "99f7668877e9974f70534ccd4787fd4f",
+        "contentDigest": "200664df88e974cf1e754c430ce2accb",
         "owner": "internal-data-bridge"
       }
     },
@@ -4004,7 +3916,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dadd845e579818859865e663b1d3bb28",
+        "contentDigest": "a0514d3229adc764b3b674a28b70daa7",
         "owner": "internal-data-bridge"
       }
     },
@@ -4024,7 +3936,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "38481420a6b388afc45cf372251e2e1f",
+        "contentDigest": "34ea01b72617be46fd566282b8f1c399",
         "owner": "internal-data-bridge"
       }
     },
@@ -4044,7 +3956,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9d2f259fdd0edf75268b08fbcfdd82e0",
+        "contentDigest": "7b0dc05fc7fa30cde52860757e86641e",
         "owner": "internal-data-bridge"
       }
     },
@@ -4064,7 +3976,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "06f0714dec370e93ee3810dd25057a45",
+        "contentDigest": "785d6dc14dd32370cfd5daf4e2398349",
         "owner": "internal-data-bridge"
       }
     },
@@ -4084,7 +3996,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b4bf91260778e1603985b2f838f3c58f",
+        "contentDigest": "c1da3d1084fd865dd4d6cc519ee29be8",
         "owner": "internal-data-bridge"
       }
     },
@@ -4104,7 +4016,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6dc22d913ee05ba046262e39cb6770df",
+        "contentDigest": "2ac4ef5f0e1c9ceaf6abfa8e49f2eac7",
         "owner": "internal-data-bridge"
       }
     },
@@ -4124,8 +4036,37 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0971581f0692ebb85edf8feef8941217",
+        "contentDigest": "df9a06a44925c4c7edcf91e82bb7907d",
         "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: package\ntitle: Medieval and Wild Adventure\ntagline: A walk back in time\nimage: /img/untitled-54.jpg\nprice: 6.600 DKK\nlenght: 7 days\n---\n\nThis adventure represents a journey to explore relics of old times and\ntraditions, a walk back in time as well as a taste of Transylvanian history.\nIt is a way to be part of the culture and traditions while stepping away from\nthe rudimental way of travelling and engaging in a unique discovery process.\nYou will experience the medieval and wild Transylvania, from the mountains and\nnature surrounding it, through old cities full of history and mysteries, all\nthe way to the rural environment where traditions and gastronomy were kept\nintact for ages.\n\n## What is included in the price?\n\n* 6 x nights Accommodation traditional modern guest house\n* 1 x night Accommodation in Cluj-Napoca\n* 7 x breakfast\n* Meals mentioned in the daily description\n* Transportation within the tour\n* 'Airport transfer '\n* 'Professional English speaking guides/mountain rangers '\n* Uncharted Team group leader that will assist you throughout the tour\n  (English speaking)\n* Activities highlighted in the itinerary\n* Entry fees to the objectives within the tour\n* This adventure is a package deal; therefore, it provides you with coverage\n  from Travel Guarantee Fund (Rejsegarantifonden) \n* Cancellation\n\n## What is not included in the price?\n\n* Transport to the starting point of the tour, Cluj–Napoca t/r\n\n* Travel Insurance\n\n* Lunch and dinner, apart from the meals specified in the daily schedules\n\n## Why we love this adventure?\n\n* Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling\n\n* It was designed for individual travellers, group of friends or co-workers as well as families\n\n* The travellers have the chance to discover and visit the city in a new way, by engaging themselves in an interactive game of treasure-hunt\n\n* It is suitable for a different variety of interests such as sports, sightseeing, gastronomy, culture, traditions\n\n* It is the ideal opportunity to experience a genuine adventure if you have not done it before. \n\n* All activities (even hiking, off-road, horseback riding) have as main focus discovering the genuine rural lifestyle, as well as the old customs and traditions of Transylvania\n\n* Every day’s schedule and activities are designed in such way that you will get a unique experience and understanding of the culture, traditions, nature and history of Transylvania. Everything being done in an exciting way that will keep you engaged all the way through\n\n* By joining this adventure, you will take part in ensuring sustainable travelling so that future generations can enjoy the places you help to preserve\n\n* We do not plan your time, we offer you the “tools” to discover Transylvania and make the most out of this adventure, so that at the end of the day you can say “I have done all that could be done in 1 week”\n\n## Is this adventure right for you?\n\n* A minimum level of fitness is required as the hiking tour and rock climbing involve a fair amount of physical exercise\n\n* Temperatures in the spring – autumn interval can vary from ca. 15°C up to 35°C so make sure that apart from rain jackets and warm clothes you also bring sunscreen cream\n\n* The tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed\n\n* This tour includes a lot of traditional food tasting, therefore if you have any allergies or different choices in taste, please inform us beforehand so we make sure no unpleasantness will occur \n\n## Itinerary\n\n### Day 1 * Hiking in Turzii Gorges, Visit Salina Turda\n\nBefore the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.\n\nIn the morning we will Kick off the adventure with a visit to the biggest and oldest salt mine in Romania, 108m underground, dating from 1271. Here you will be able to discover the wonders that lie underneath Transylvanian hills and mountains.\n\nOur next stop will be Turzii gorges, where we will move from the underground wonders to the cliffs, valleys and rivers that lie in from of your eyes. We will hike throughout the canyon while at the same time discovering together the hidden caves inside the gorges.\n\nWe will then travel to our accommodation in the Cindrel mountains, more precisely Arena Platos Resort. Once at the accommodation, all participants will be greeted with a traditional meal and the rest of the evening will be dedicated to resting and getting to know each other.\n\n### Day 2 * Hiking in the 7 Ladder Canyon, Offroad 4x4\n\nThe second day will start by heading towards the Carpathian Mountains, more precisely the Bucegi Mountains Sector. We will start with an easy hike towards the 7 Ladders Canyon, followed by traversing the canyon in a unique style. The hike will end in a picnic on the top of the canyon, after we will continue discovering the Carpathians with a 4x4 off-road tour. We will travel over high ground, through forest and woodland on various difficulty tracks, making for a great experience. Along the way, we will stop for a cosy picnic in a breath-taking view spot. Make sure your phones and photo cameras are fully charged to take proper advantage of the amazing landscapes\n\nThe day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. \n\n### Day 3 – Culture, Traditions and Gastronomy Tour\n\nThe food tour of today, goes through the typical cultural landscapes of the so called Transylvanian Highlands, an eco-touristic destination where we will visit some lovely villages. You’ll get to experience the specific rural gastronomy, meet some locals and try their best products or dishes. You will find out how nature and the territory influences the local products, we will talk about the characteristics of the cultural and gastronomical mosaic during a visit of the ruins of a Cistercian abbey in Cârța (Kerz).\n\nGet an insight in our local cuisine, we talk about 200 years old recipes, during a horse cart tour through the village or a walk on the hills above the village. At the end of the day we will meet the people of the Old Mill Project in Hosman (Holzmengen) and try their sweet pastry specialities from Luíza’s artisanal bakery.\n\n### Day 4 – Horseback riding\n\nThe fourth day is dedicated towards one of the most traditional ways of travelling from village to village and across the rolling hills, horseback riding. There will be a safety briefing including as well basic elements for beginners. Afterwards we will saddle up, and hop on for an unforgettable and memorable ride through the countryside, exploring the old Transylvanian lifestyle in the most genuine way.\n\nThe afternoon is dedicated towards relaxation.\n\n### Day 5 – Culture, Traditions and Gastronomy Tour\n\nToday’s gastronomical tour takes you during the 4.5 hours from through the UNESCO protected citadel (Burg) and to the Lower old centre. You will have the chance to taste some exclusive local products and try our recipes. We will talk about the characteristics of our gastronomy in the oldest school of Sighișoara. You will have the chance to try some typical cheese, the local white wines as well as various sweet and sour soups.\n\nExperience an old Saxon recipe, reinterpreted by an open-minded chef from a local restaurant. Sample the local fruit alcoholic drinks, a must during a visit in Transylvania and visit some of the unseen corners of historical Sighișoara.\n\n### Day 6 – Treasure Hunt and Cultural Heritages\n\nThe afternoon will be dedicated on experiencing the historical city of Sibiu in a fun and interactive way. A treasure hunt will be organized, where the participants will discover the historical city centre of the 2007 European Capital of Culture by following an interactive set of clues. Each clue will lead you to an emblematic place for the history of Sibiu.\n\nAfter lunch we will take a relaxing walk back in time, while visiting the The “ASTRA” Museum of Traditional Folk and Civilization which represents the largest open air ethnographic exhibition in Europe. You will be able to witness a display of 400 monuments folk architecture and technique in combination with a collection of ethnographic heritage objects.\n\n### Day 7 * Free day, return to airport\n\nOn the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n",
+        "contentDigest": "28234a0be904590fbadb556188ed0610",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Medieval and Wild Adventure",
+        "templateKey": "package",
+        "tagline": "A walk back in time",
+        "image": "../../../static/img/untitled-54.jpg",
+        "price": "6.600 DKK",
+        "lenght": "7 days",
+        "_PARENT": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md",
+      "fields": {
+        "slug": "/packages/senseofadventure/"
       }
     }
   },

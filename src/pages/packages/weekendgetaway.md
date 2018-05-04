@@ -3,33 +3,36 @@ templateKey: package
 title: Saxonia Getaway
 tagline: The mystery of Saxon Transylvania
 image: /img/untitled-61.jpg
-description: >
-  Tired of the daily routine? Eager for an adventure? Time pressure is an issue?
-  No need to worry, we have the answer to all your questions. We have prepared a
-  unique 3-day weekend getaway for you in the mysterious Saxon Transylvania. All
-  you need to do is to leave a reminder Friday afternoon on your work or
-  university desk saying “Gone on an adventure, see you in 3 days”, the rest we
-  take care of.
 price: 4.250 DKK
 lenght: 3 days
-included:
-  - Accommodation traditional guesthouse
-  - 3 x breakfast
-  - 2 x dinner
-  - 3 x lunch
-  - 'Activities highlighted in the itinerary '
-  - All local transports within the program
-  - Airport transfer
-  - Entry fees to the objectives within the tour
-  - >-
-    Uncharted Team group leader that will assist you throughout the tour
-    (English speaking)
-  - >-
-    This adventure is a package deal; therefore, it provides you with coverage
-    from Travel Guarantee Fund (Rejsegarantifonden) 
-  - Cancellation
-  - null
 ---
+
+Tired of the daily routine? Eager for an adventure? Time pressure is an issue?
+No need to worry, we have the answer to all your questions. We have prepared a
+unique 3-day weekend getaway for you in the mysterious Saxon Transylvania. All
+you need to do is to leave a reminder Friday afternoon on your work or
+university desk saying “Gone on an adventure, see you in 3 days”, the rest we
+take care of.
+
+## What's Included?
+
+* Accommodation traditional guesthouse
+* 3 x breakfast
+* 2 x dinner
+* 3 x lunch
+* 'Activities highlighted in the itinerary '
+* All local transports within the program
+* Airport transfer
+* Entry fees to the objectives within the tour
+* >-
+  Uncharted Team group leader that will assist you throughout the tour
+  (English speaking)
+* >-
+  This adventure is a package deal; therefore, it provides you with coverage
+  from Travel Guarantee Fund (Rejsegarantifonden) 
+* Cancellation
+* null
+
 ## Why we love this adventure?
 
 •	Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling; 

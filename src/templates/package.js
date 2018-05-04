@@ -9,6 +9,7 @@ import Overdrive from 'react-overdrive'
 import Header from '../components/Header'
 import Wrapper from '../components/Wrapper'
 import Container from '../components/Container'
+import Content from '../components/Content'
 import Map from '../components/Map'
 
 const Package = ({ data }) => {
@@ -26,17 +27,10 @@ const Package = ({ data }) => {
             <Feature>🗓️<br/>{frontmatter.lenght}</Feature>
             <Title>{frontmatter.title}</Title>
             <Tagline>{frontmatter.tagline}</Tagline>
-            <Description>{frontmatter.description}</Description>
             </Container>
       </Header>
       <Container>
-        <h2>What's Included</h2>
-      <Map>
-        {frontmatter.included.map((item) => (
-          <li>{item}</li>
-        ))}
-      </Map>
-        <div dangerouslySetInnerHTML={{ __html: html }} />
+        <Content><div dangerouslySetInnerHTML={{ __html: html }}  /></Content>
       </Container>
     </Wrapper>
   )

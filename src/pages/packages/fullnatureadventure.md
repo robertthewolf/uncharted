@@ -3,34 +3,36 @@ templateKey: package
 title: The Shepherd's Getaway
 tagline: Find yourself in the natural wonders of Transylvania.
 image: /img/untitled-57.jpg
-description: >
-  The word shepherd stands for old traditions, mountain activities and of course
-  delicious and healthy food. That is exactly what you can expect from this
-  getaway. A genuine adventure which will take you on the mountain trails walked
-  by the shepherds, to their “castles” on top of the mountains, where an
-  exquisite culinary delight is waiting for you. So, all you need to do is bring
-  your appetite for both adventure and traditional products, and we take care of
-  the rest.
 price: 4.250 DKK
 lenght: 3 days
-included:
-  - 'Accommodation at traditional mountain chalet '
-  - 3 x breakfast
-  - 2 x dinner
-  - 3 x lunch/ lunch box
-  - Activities
-  - Airport transfer
-  - All local transports within the program
-  - 'Professional English speaking guides/mountain rangers '
-  - >-
-    Uncharted Team group leader that will assist you throughout the tour
-    (English speaking)
-  - Entry fees to the objectives within the tour
-  - >-
-    This adventure is a package deal; therefore, it provides you with coverage
-    from Travel Guarantee Fund (Rejsegarantifonden) 
-  - 'Cancellation '
+
 ---
+
+The word shepherd stands for old traditions, mountain activities and of course
+delicious and healthy food. That is exactly what you can expect from this
+getaway. A genuine adventure which will take you on the mountain trails walked
+by the shepherds, to their “castles” on top of the mountains, where an
+exquisite culinary delight is waiting for you. So, all you need to do is bring
+your appetite for both adventure and traditional products, and we take care of
+the rest.
+
+## What's Included
+
+* 'Accommodation at traditional mountain chalet '
+* 3 x breakfast
+* 2 x dinner
+* 3 x lunch/ lunch box
+* Activities
+* Airport transfer
+* All local transports within the program
+* 'Professional English speaking guides/mountain rangers '
+* Uncharted Team group leader that will assist you throughout the tour
+  (English speaking)
+* Entry fees to the objectives within the tour
+* This adventure is a package deal; therefore, it provides you with coverage
+  from Travel Guarantee Fund (Rejsegarantifonden) 
+* 'Cancellation '
+
 ## The Package does not include:
 
 •	Transportation to the starting point of the tour, Cluj-Napoca t/r
@@ -67,7 +69,7 @@ included:
 
 
 ## Itinerary
-### Day 1 - Culture, Traditions and Gastronomy Tour
+### Day 1 * Culture, Traditions and Gastronomy Tour
 
 Welcome to the mysterious Transylvania. Kick off your adventure with your group leader, who is going to wait for you at the starting point of the tour, Cluj Napoca Airport. From there we will head towards the 2007 Capital of Culture, the city of Sibiu and all the way up to out mountain accommodation.
 
@@ -83,7 +85,7 @@ In the morning, we will start our adventure at the bottom of the Cindrel mounta
 
 
 
-### Day 2 - Hike and lunch at traditional sheepfold
+### Day 2 * Hike and lunch at traditional sheepfold
 
 Our day trip takes you to some lovely villages around Sibiu, in the Mărginime area, at the foothill of the Cindrel Mountains, part of the Southern Carpathians. You’ll get to experience the specific rural gastronomy and taste some of the most representative products of our region. Find out how nature and the territory influences the local cuisine, we will talk about the characteristics of the cultural and gastronomical mosaic during a walk through the village of Sibiel. You will also experience a traditional lunch at a family in Rășinari where you also get to taste various specialities of cheese and local alcoholic drinks.
 
@@ -97,6 +99,6 @@ The day will end with a well deserved party or night out where we can celebrate 
 
 
 
-### Day 3 - Free day, return to airport
+### Day 3 * Free day, return to airport
 
 On the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.
