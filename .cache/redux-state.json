@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "04db468e76fe159d85d6885b1ed8b74f",
+        "contentDigest": "aa43fc56657247dfe1be36aa070305bd",
         "owner": "internal-data-bridge"
       }
     },
@@ -1019,12 +1019,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-04T10:44:29.752Z",
+      "buildTime": "2018-05-04T11:06:04.154Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7d4491d5e0de84d65decb5d03129acf4",
+        "contentDigest": "ab8597464f889b370906a5ebaad3baca",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1034,7 +1034,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5d114199400659d4a7081440e93338ac",
+        "contentDigest": "8d7f9b217f1039f2505754c09e26d9e4",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1045,7 +1045,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2018-04-30T14:48:10.138Z",
-      "accessTime": "2018-05-04T10:44:34.698Z",
+      "accessTime": "2018-05-04T11:06:08.205Z",
       "changeTime": "2018-04-30T14:48:10.138Z",
       "birthTime": "2018-03-24T20:07:41.319Z",
       "root": "/",
@@ -1063,11 +1063,11 @@
       "blksize": 4194304,
       "ino": 8600035683,
       "blocks": 0,
-      "atimeMs": 1525430674697.607,
+      "atimeMs": 1525431968205.0708,
       "mtimeMs": 1525099690137.7363,
       "ctimeMs": 1525099690137.7363,
       "birthtimeMs": 1521922061319.3135,
-      "atime": "2018-05-04T10:44:34.698Z",
+      "atime": "2018-05-04T11:06:08.205Z",
       "mtime": "2018-04-30T14:48:10.138Z",
       "ctime": "2018-04-30T14:48:10.138Z",
       "birthtime": "2018-03-24T20:07:41.319Z"
@@ -1077,7 +1077,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6cc6382e4b3fa5fed04a23eefb913200",
+        "contentDigest": "a918e8a1e107cfa4f24e16957bdcedd4",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1088,7 +1088,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-03-24T20:07:41.321Z",
-      "accessTime": "2018-05-04T10:44:34.707Z",
+      "accessTime": "2018-05-04T11:06:08.207Z",
       "changeTime": "2018-03-24T20:07:41.321Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
@@ -1106,11 +1106,11 @@
       "blksize": 4194304,
       "ino": 8600035687,
       "blocks": 0,
-      "atimeMs": 1525430674707.0525,
+      "atimeMs": 1525431968207.363,
       "mtimeMs": 1521922061320.7075,
       "ctimeMs": 1521922061320.7075,
       "birthtimeMs": 1521922061319.9465,
-      "atime": "2018-05-04T10:44:34.707Z",
+      "atime": "2018-05-04T11:06:08.207Z",
       "mtime": "2018-03-24T20:07:41.321Z",
       "ctime": "2018-03-24T20:07:41.321Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
@@ -1120,7 +1120,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6d7a33e8bf9fae4448e7fb21cd9911f8",
+        "contentDigest": "fdf4020dbfbe872f6412ab455541a3ae",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1131,7 +1131,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-05-02T21:50:49.291Z",
-      "accessTime": "2018-05-04T10:44:34.707Z",
+      "accessTime": "2018-05-04T11:06:08.207Z",
       "changeTime": "2018-05-02T21:50:49.291Z",
       "birthTime": "2018-03-25T00:03:05.423Z",
       "root": "/",
@@ -1149,11 +1149,11 @@
       "blksize": 4194304,
       "ino": 8600232496,
       "blocks": 0,
-      "atimeMs": 1525430674707.0247,
+      "atimeMs": 1525431968207.3608,
       "mtimeMs": 1525297849291.3428,
       "ctimeMs": 1525297849291.3428,
       "birthtimeMs": 1521936185423.1204,
-      "atime": "2018-05-04T10:44:34.707Z",
+      "atime": "2018-05-04T11:06:08.207Z",
       "mtime": "2018-05-02T21:50:49.291Z",
       "ctime": "2018-05-02T21:50:49.291Z",
       "birthtime": "2018-03-25T00:03:05.423Z"
@@ -1473,7 +1473,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9cf82ae0de44a3d42ad1aee050d36a3f",
+        "contentDigest": "20ddb678f67f340dfdb0d713479a86dc",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1482,11 +1482,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md",
       "relativePath": "packages/fullnatureadventure.md",
       "extension": "md",
-      "size": 5018,
-      "prettySize": "5.02 kB",
-      "modifiedTime": "2018-05-04T11:03:13.745Z",
-      "accessTime": "2018-05-04T11:03:13.736Z",
-      "changeTime": "2018-05-04T11:03:13.745Z",
+      "size": 4996,
+      "prettySize": "5 kB",
+      "modifiedTime": "2018-05-04T11:09:47.132Z",
+      "accessTime": "2018-05-04T11:09:47.131Z",
+      "changeTime": "2018-05-04T11:09:47.132Z",
       "birthTime": "2018-05-02T21:50:49.290Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages/packages",
@@ -1503,13 +1503,13 @@
       "blksize": 4194304,
       "ino": 8602727631,
       "blocks": 16,
-      "atimeMs": 1525431793736.427,
-      "mtimeMs": 1525431793745.1262,
-      "ctimeMs": 1525431793745.1262,
+      "atimeMs": 1525432187131.1582,
+      "mtimeMs": 1525432187132.076,
+      "ctimeMs": 1525432187132.076,
       "birthtimeMs": 1525297849289.6694,
-      "atime": "2018-05-04T11:03:13.736Z",
-      "mtime": "2018-05-04T11:03:13.745Z",
-      "ctime": "2018-05-04T11:03:13.745Z",
+      "atime": "2018-05-04T11:09:47.131Z",
+      "mtime": "2018-05-04T11:09:47.132Z",
+      "ctime": "2018-05-04T11:09:47.132Z",
       "birthtime": "2018-05-02T21:50:49.290Z"
     },
     "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file": {
@@ -1793,8 +1793,8 @@
       "children": [],
       "parent": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: package\ntitle: The Shepherd's Getaway\ntagline: Find yourself in the natural wonders of Transylvania.\nimage: /img/untitled-57.jpg\nprice: 4.250 DKK\nlenght: 3 days\n\n---\n\nThe word shepherd stands for old traditions, mountain activities and of course\ndelicious and healthy food. That is exactly what you can expect from this\ngetaway. A genuine adventure which will take you on the mountain trails walked\nby the shepherds, to their “castles” on top of the mountains, where an\nexquisite culinary delight is waiting for you. So, all you need to do is bring\nyour appetite for both adventure and traditional products, and we take care of\nthe rest.\n\n## What's Included\n\n* 'Accommodation at traditional mountain chalet '\n* 3 x breakfast\n* 2 x dinner\n* 3 x lunch/ lunch box\n* Activities\n* Airport transfer\n* All local transports within the program\n* 'Professional English speaking guides/mountain rangers '\n* Uncharted Team group leader that will assist you throughout the tour\n  (English speaking)\n* Entry fees to the objectives within the tour\n* This adventure is a package deal; therefore, it provides you with coverage\n  from Travel Guarantee Fund (Rejsegarantifonden) \n* 'Cancellation '\n\n## The Package does not include:\n\n•\tTransportation to the starting point of the tour, Cluj-Napoca t/r\n\n•\tTravel Insurance \n\n\n\n## Why we love this adventure?\n\n•\tYour adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling;\n\n•\tIt offers you a unique way to visit Transylvania in a getaway experience;\n\n•\tIt was designed for individual travellers, group of friends or co-workers as well as families;\n\n•\tThis getaway is the ideal opportunity to make the most out of an adventure in a new country when you have only few days to spare;\n\n•\tThe adventure is created in such way that it will not create any inconvenience with your work or university classes. You only need to skip Monday and on Tuesday morning you are back. And let’s be honest, wouldn’t you spend your Monday on an adventure rather than anywhere else?\n\n•\tIt combines mountain activities, culture and gastronomy, all in a 3-day adventure.\n\n•\tHigh emphasis on sustainable travelling\n\n\n\n## Is this adventure suitable for you?\n\n•\tA minimum level of fitness is required as the snowshoe hiking tour involves a fair amount of walking, allowing you to really get among nature;\n\n•\tThe tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed.\n\n\n\n\n## Itinerary\n### Day 1 * Culture, Traditions and Gastronomy Tour\n\nWelcome to the mysterious Transylvania. Kick off your adventure with your group leader, who is going to wait for you at the starting point of the tour, Cluj Napoca Airport. From there we will head towards the 2007 Capital of Culture, the city of Sibiu and all the way up to out mountain accommodation.\n\n\n\nIn the morning, we will start our adventure at the bottom of the Cindrel mountains, from where we will start climbing up on a narrow shady path that leads us to an alpine glade; from here, we’ll continue our route till we reach the imposing mountaintops of the Cindrel massif. On the edge of the soft summit lies a traditional picturesque sheepfold. \n\n It’s the perfect place to have a rest, enjoy the astonishing view and learn about the daily simple life of the shepherds. For lunch we will savour the delicious lamb and milk specialties skilfully prepared by the shepherds: different types of cheese (telemea, caş, urdă, burduf, jintiţă), pastrami and bacon, are just a few of the delicious products that, together with the “golden” polenta shall make you drool over.\n\n Of course, all of these shall be accompanied by a sip of schnapps or a glass of red wine.   \n\n\n\n\n\n### Day 2 * Hike and lunch at traditional sheepfold\n\nOur day trip takes you to some lovely villages around Sibiu, in the Mărginime area, at the foothill of the Cindrel Mountains, part of the Southern Carpathians. You’ll get to experience the specific rural gastronomy and taste some of the most representative products of our region. Find out how nature and the territory influences the local cuisine, we will talk about the characteristics of the cultural and gastronomical mosaic during a walk through the village of Sibiel. You will also experience a traditional lunch at a family in Rășinari where you also get to taste various specialities of cheese and local alcoholic drinks.\n\n\n\nWe will help you find out more about small gastronomy projects in our area which is getting ready for 2019, when Sibiu county holds the title of European Region of Gastronomy.\n\n\n\nThe day will end with a well deserved party or night out where we can celebrate the amazing week we had together.\n\n\n\n### Day 3 * Free day, return to airport\n\nOn the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n",
-        "contentDigest": "1135c10d41eb50e94bd7586cdbd6b9b6",
+        "content": "---\ntemplateKey: package\ntitle: The Shepherd's Getaway\ntagline: Find yourself in the natural wonders of Transylvania.\nimage: /img/untitled-57.jpg\nprice: 4.250 DKK\nlenght: 3 days\n\n---\n\nThe word shepherd stands for old traditions, mountain activities and of course\ndelicious and healthy food. That is exactly what you can expect from this\ngetaway. A genuine adventure which will take you on the mountain trails walked\nby the shepherds, to their “castles” on top of the mountains, where an\nexquisite culinary delight is waiting for you. So, all you need to do is bring\nyour appetite for both adventure and traditional products, and we take care of\nthe rest.\n\n## What's Included\n\n* 'Accommodation at traditional mountain chalet '\n* 3 x breakfast\n* 2 x dinner\n* 3 x lunch/ lunch box\n* Activities\n* Airport transfer\n* All local transports within the program\n* 'Professional English speaking guides/mountain rangers '\n* Uncharted Team group leader that will assist you throughout the tour\n  (English speaking)\n* Entry fees to the objectives within the tour\n* This adventure is a package deal; therefore, it provides you with coverage\n  from Travel Guarantee Fund (Rejsegarantifonden) \n* 'Cancellation '\n\n## The Package does not include:\n\n* Transportation to the starting point of the tour, Cluj-Napoca t/r\n\n* Travel Insurance \n\n\n\n## Why we love this adventure?\n\n* Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling;\n\n* It offers you a unique way to visit Transylvania in a getaway experience;\n\n* It was designed for individual travellers, group of friends or co-workers as well as families;\n\n* This getaway is the ideal opportunity to make the most out of an adventure in a new country when you have only few days to spare;\n\n* The adventure is created in such way that it will not create any inconvenience with your work or university classes. You only need to skip Monday and on Tuesday morning you are back. And let’s be honest, wouldn’t you spend your Monday on an adventure rather than anywhere else?\n\n* It combines mountain activities, culture and gastronomy, all in a 3-day adventure.\n\n* High emphasis on sustainable travelling\n\n\n\n## Is this adventure suitable for you?\n\n* A minimum level of fitness is required as the snowshoe hiking tour involves a fair amount of walking, allowing you to really get among nature;\n\n* The tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed.\n\n\n\n\n## Itinerary\n### Day 1 * Culture, Traditions and Gastronomy Tour\n\nWelcome to the mysterious Transylvania. Kick off your adventure with your group leader, who is going to wait for you at the starting point of the tour, Cluj Napoca Airport. From there we will head towards the 2007 Capital of Culture, the city of Sibiu and all the way up to out mountain accommodation.\n\n\n\nIn the morning, we will start our adventure at the bottom of the Cindrel mountains, from where we will start climbing up on a narrow shady path that leads us to an alpine glade; from here, we’ll continue our route till we reach the imposing mountaintops of the Cindrel massif. On the edge of the soft summit lies a traditional picturesque sheepfold. \n\n It’s the perfect place to have a rest, enjoy the astonishing view and learn about the daily simple life of the shepherds. For lunch we will savour the delicious lamb and milk specialties skilfully prepared by the shepherds: different types of cheese (telemea, caş, urdă, burduf, jintiţă), pastrami and bacon, are just a few of the delicious products that, together with the “golden” polenta shall make you drool over.\n\n Of course, all of these shall be accompanied by a sip of schnapps or a glass of red wine.   \n\n\n\n\n\n### Day 2 * Hike and lunch at traditional sheepfold\n\nOur day trip takes you to some lovely villages around Sibiu, in the Mărginime area, at the foothill of the Cindrel Mountains, part of the Southern Carpathians. You’ll get to experience the specific rural gastronomy and taste some of the most representative products of our region. Find out how nature and the territory influences the local cuisine, we will talk about the characteristics of the cultural and gastronomical mosaic during a walk through the village of Sibiel. You will also experience a traditional lunch at a family in Rășinari where you also get to taste various specialities of cheese and local alcoholic drinks.\n\n\n\nWe will help you find out more about small gastronomy projects in our area which is getting ready for 2019, when Sibiu county holds the title of European Region of Gastronomy.\n\n\n\nThe day will end with a well deserved party or night out where we can celebrate the amazing week we had together.\n\n\n\n### Day 3 * Free day, return to airport\n\nOn the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n",
+        "contentDigest": "b63d83a99263c073c3fdf27a50483cfa",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -1978,7 +1978,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f07ea0bf017f84a5392407502c8fffc2",
+        "contentDigest": "863471088b0a6bc8005f58d10b64394e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1989,7 +1989,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2018-04-29T16:09:45.522Z",
-      "accessTime": "2018-05-04T10:44:34.843Z",
+      "accessTime": "2018-05-04T11:06:08.225Z",
       "changeTime": "2018-04-29T16:09:45.522Z",
       "birthTime": "2018-04-12T20:04:15.413Z",
       "root": "/",
@@ -2007,11 +2007,11 @@
       "blksize": 4194304,
       "ino": 8601653181,
       "blocks": 0,
-      "atimeMs": 1525430674842.9067,
+      "atimeMs": 1525431968224.7231,
       "mtimeMs": 1525018185521.9973,
       "ctimeMs": 1525018185521.9973,
       "birthtimeMs": 1523563455412.8713,
-      "atime": "2018-05-04T10:44:34.843Z",
+      "atime": "2018-05-04T11:06:08.225Z",
       "mtime": "2018-04-29T16:09:45.522Z",
       "ctime": "2018-04-29T16:09:45.522Z",
       "birthtime": "2018-04-12T20:04:15.413Z"
@@ -2021,7 +2021,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a1166c982c6deef6779dfc53c4a05266",
+        "contentDigest": "16fdc8381fc7313daa264474fe92333d",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2032,7 +2032,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-05-02T21:50:49.289Z",
-      "accessTime": "2018-05-04T10:44:34.845Z",
+      "accessTime": "2018-05-04T11:06:08.226Z",
       "changeTime": "2018-05-02T21:50:49.289Z",
       "birthTime": "2018-04-14T06:51:58.905Z",
       "root": "/",
@@ -2050,11 +2050,11 @@
       "blksize": 4194304,
       "ino": 8601914063,
       "blocks": 0,
-      "atimeMs": 1525430674844.5557,
+      "atimeMs": 1525431968225.5427,
       "mtimeMs": 1525297849288.978,
       "ctimeMs": 1525297849288.978,
       "birthtimeMs": 1523688718905.1316,
-      "atime": "2018-05-04T10:44:34.845Z",
+      "atime": "2018-05-04T11:06:08.226Z",
       "mtime": "2018-05-02T21:50:49.289Z",
       "ctime": "2018-05-02T21:50:49.289Z",
       "birthtime": "2018-04-14T06:51:58.905Z"
@@ -2064,7 +2064,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "bd4089d847dc4cfbcac065e5835cea30",
+        "contentDigest": "db9760972ee0a5c537e84c1052dfed66",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2075,7 +2075,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-04-14T08:00:13.675Z",
-      "accessTime": "2018-05-04T10:44:34.845Z",
+      "accessTime": "2018-05-04T11:06:08.226Z",
       "changeTime": "2018-04-14T08:00:13.675Z",
       "birthTime": "2018-04-14T07:57:28.444Z",
       "root": "/",
@@ -2093,11 +2093,11 @@
       "blksize": 4194304,
       "ino": 8601918034,
       "blocks": 0,
-      "atimeMs": 1525430674844.5923,
+      "atimeMs": 1525431968225.5615,
       "mtimeMs": 1523692813674.5247,
       "ctimeMs": 1523692813674.5247,
       "birthtimeMs": 1523692648443.6057,
-      "atime": "2018-05-04T10:44:34.845Z",
+      "atime": "2018-05-04T11:06:08.226Z",
       "mtime": "2018-04-14T08:00:13.675Z",
       "ctime": "2018-04-14T08:00:13.675Z",
       "birthtime": "2018-04-14T07:57:28.444Z"
@@ -2293,7 +2293,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8f060d8ee7022c684c0a9ee52815f9cb",
+        "contentDigest": "c6322d21dc0d48ab38063ea187f8fdd2",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2302,11 +2302,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/data/terms.md",
       "relativePath": "terms.md",
       "extension": "md",
-      "size": 15200,
+      "size": 15156,
       "prettySize": "15.2 kB",
-      "modifiedTime": "2018-04-29T16:11:04.728Z",
-      "accessTime": "2018-05-03T19:42:47.576Z",
-      "changeTime": "2018-04-29T16:11:04.728Z",
+      "modifiedTime": "2018-05-04T11:08:53.216Z",
+      "accessTime": "2018-05-04T11:08:53.202Z",
+      "changeTime": "2018-05-04T11:08:53.216Z",
       "birthTime": "2018-04-29T16:09:41.402Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/data",
@@ -2323,13 +2323,13 @@
       "blksize": 4194304,
       "ino": 8602514675,
       "blocks": 32,
-      "atimeMs": 1525376567575.9275,
-      "mtimeMs": 1525018264728.4744,
-      "ctimeMs": 1525018264728.4744,
+      "atimeMs": 1525432133202.3303,
+      "mtimeMs": 1525432133215.7778,
+      "ctimeMs": 1525432133215.7778,
       "birthtimeMs": 1525018181402.0989,
-      "atime": "2018-05-03T19:42:47.576Z",
-      "mtime": "2018-04-29T16:11:04.728Z",
-      "ctime": "2018-04-29T16:11:04.728Z",
+      "atime": "2018-05-04T11:08:53.202Z",
+      "mtime": "2018-05-04T11:08:53.216Z",
+      "ctime": "2018-05-04T11:08:53.216Z",
       "birthtime": "2018-04-29T16:09:41.402Z"
     },
     "/Users/Robert/uncharted/src/data/stories.md absPath of file": {
@@ -2677,8 +2677,8 @@
       "children": [],
       "parent": "/Users/Robert/uncharted/src/data/terms.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: 'terms'\nimage: /img/hero1.jpg\ntagline: Terms And Conditions\n---\n#### **Important notes:**\n\n  \n\n• All tours start and end in the city of Cluj-Napoca;\n\n• No matter the way chosen to reach Cluj-Napoca, the adventurer has to make sure he/she arrives at the starting point of the tour no later than 12:30 p.m. on the first day of the tour;\n\n• Your tour leader will welcome you at the airport and he will be with you all the time along the tour. He will be also the one who will make sure you get to the airport in time for your departure back to home;\n\n• Throughout each activity you will be accompanied by experts from that specific field;\n\n• All the specific gear for the activities will be provided by Uncharted. Still, the basic gear such as mountain boots, rain jackets, warm clothes for all seasons etc. have to be brought by the adventurer itself;\n\n• In case of external factors, such as bad weather, interfering with the plan, some of the activities might be replaced with more suitable ones for the weather conditions. These measures will be taken to ensure that you will have the best experience.\n\n  \n\n#### Deposit and Full Payment\n\n  \n\nAfter your request has been processed, you will receive an email confirming your booking and containing your invoice. To finalize your request for the offer and have a place booked within the tour, you will have 7 days to pay at least 50% of the amount received in the invoice. The rest of the amount must be paid latest 30 days due the trip’s departure. If the trip is due in less than 30 days, the full payment must be done at once. (Note: please check the invoice for due date as well as additional information regarding reminders)\n\n  \n\n#### Cancellation\n\n  \n\nSince the adventures that we offer are considered package tour, you, the adventurer are covered by the Package Travel Act – more info  \nAccording to it, the customer (adventurer) is entitled to cancellation. Should the adventurer cancel the package tour, the organizer (Uncharted) can only claim appropriate compensation as determined considering the timing of the cancellation and the nature of the package tour. If the upper paragraph applies, the customer (adventurer) is refunded as the following:  \n  \n• 100% of the package price refunded, if the customer (adventurer) cancels in the timeframe of > 30 days before the first day of the tour;  \n• 80% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 20-29 days before the first day of the tour;  \n• 50% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 10-19 days before the first day of the tour;  \n• 20% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 4-9 days before the first day of the tour;  \n• There is no refund, if the customer (adventurer) cancels in the timeframe of 3 or less days before the first day of the tour or for not showing up at all.  \n  \nThe right of cancellation may be limited or derogated from in the contract if the organizer has a limited right of cancellation in relation to a third party.  \nFurthermore, the customer (adventurer) may cancel a package tour if, within 14 days of the commencement of the package tour, war, natural disaster, lethal contagious diseases or other similar events occur at the destination or in areas adjacent to the destination. In that case, the customer (adventurer) shall be entitled to a refund of all amounts paid under the contract.  \nThe upper paragraph shall not apply if the event in question was known to the customer (adventurer) on the conclusion of the contract or if the event was generally known.  \nThe organizer (Uncharted) shall notify the customer (adventurer) of the cancellation terms prior to the conclusion of the contract.  \nPrior to the conclusion of the contract, the organizer shall notify the customer (adventurer) of the possibilities and terms of taking out insurance to cover the customer's non-participation in the package tour due to illness or similar.\n\n  \n\n#### Travel Insurance\n\n  \n\nBecause the outdoor activities imply a certain risk of injury, we strongly advise you to purchase travel insurance. We recommend that you contact your insurance broker and ask for the suitable insurance for the chosen tour.  \nTravel insurance is compulsory for all our trips. We require that, at a minimum, you are covered for medical expenses including emergency repatriation. We strongly recommend that the policy also covers personal liability, curtailment and loss of luggage and personal effects.  \nIt is the adventurer’s own responsibility to ensure they purchase a travel insurance. Uncharted IVS is not to be held liable in case of any accidents that could have been covered by the travel insurance.\n\n  \n\n#### Medical and health information\n\n  \n\nAll Uncharted adventurers need to be in a good physical health in order to fully participate on any of the activities. Please make sure you have read through the itinerary carefully when selecting your adventure and assess your ability to cope with our style of travel. Please note that if, in the opinion of our group leader or local guide, any adventurer is unable to complete the itinerary without undue risk to themselves and/or the rest of the group, Uncharted IVS reserves the right to exclude them from all or part of a trip without refund.  \nFor legal reasons our leaders and guides are prohibited from administering any type of drugs including headache tablets and antibiotics. Please ensure that you are adequately prepared.\n\n  \n\n#### Air & Lodging Reservations\n\n  \n\nWe urge you to make your travel plans as soon as possible. All tours are planned around the cheapest flight tickets to the departure city of Cluj-Napoca. We suggest you pick the route Billund – Cluj-Napoca, operating with the lowest cost flight company such as WIZZ Air. You may choose to arrange the transportation to the departure city as you please, but do take into account that you have to be there at 12:30, on the first day of the tour.  \nIn case of a flight delay or external issues that might delay your arrival, contact us as soon as possible to plan the departure from Cluj-Napoca. Uncharted is not to be held responsible for any issues derived from the consumers failing to comply with this terms.\n\n  \n\n#### Passport and visas\n\n  \n\n**Citizens of the European Union countries** can enter Romania with a **valid passport** or with their **National Identity Card**.  \nA valid passport is required for all overseas/non-EU visitors.Your passport must be valid for the entire duration of your visit (it will not expire sooner than your intended date of departure). However, please check the expiration date on your passport carefully before traveling to Europe.  \nTo apply for an extended stay visa please visit [eVisa.MAE.ro.](http://evisa.mae.ro/)  \nFor additional information please contact the [Romanian Immigration Office.](http://igi.mai.gov.ro/en)\n\n  \n\n#### Food and dietary requirements\n\n  \n\nYour tour includes meals as indicated in our brochure and online. Every day breakfast, lunch and dinner will be included. On some of the days, due to certain activities that require longer traveling distances, the lunch will be served either as a lunch-box or in a cosier manner such as a BBQ or a meal made by the shepherds.  \nAdventurers with special meal requirements or food allergies **MUST** ensure they or their travel agent has informed Uncharted IVS of this at the time of booking. We can make all the proper adjustments to ensure your dietary requirements are met, as long as we are informed in time.\n\n  \n\n#### Free Courses\n\n  \n\nSome of our activities might seem intimidating for people who never tried them before. Activities such as rock climbing for example. We want to help you overcome your fear and inhibitions and that is why we offer free courses for people who want to try this amazing activity.  \nIf you consider taking an adventure that has included rock climbing, but you are uncertain about it, write us an email and we will organise for you a free climbing session. There, you have an opportunity to try it out as well as to learn few basic techniques. Afterwards if you decide to buy the package, we throw in 4 more free climbing sessions where you will gain more experience and knowledge about the sport. All sessions will be held with our accredited trainer and instructor. (Note: This applies only for Aarhus commune residents)  \nFurthermore, in the winter season, for those of you who want to switch from skis to snowboard or simply want to learn how to slide down the mountain in the cool snowboarding way, we offer free snowboarding training for the period of your tour. You will be thought all the basics and who knows, maybe by the end of the adventure you will already be able to snowboard on your own.\n\n  \n\n#### Pocket Money\n\n  \n\nRomania still employs mostly cash payments; therefore, we recommend you do not fully rely on the possibility of paying with the credit card in all places.  \nThe currency in Romania is RON (1 RON = 1.62 DKK). Regarding pocket money, you have few options. The first one is to use your credit card and withdraw RON from the local ATM’s. Your tour guide will make sure to find the most suitable one for you with least exchange charges. The second option would be to bring cash (EURO) and change them at the exchange offices.  \nOur tours take us through villages and places where the only way to pay for souvenirs is with cash, therefore we strongly advise to have some cash with you at all time.\n\n  \n\n#### Equipment\n\n  \n\nDue to the fact that all tours consist of activities that involve nature and mountains, we strongly recommend that you have on you the following basic equipment at all times:  \n  \n• Hiking boots  \n• Rain jacket  \n• Warm clothes, no matter the season.  \n  \nSpecific equipment for the different activities will be provided by Uncharted IVS or the partners. Therefore, all you need to think of is the equipment presented above. If by any chance, extra equipment is necessary, we will inform you, and if you do not have it we will do our best to provide you with the best alternative in order for you to be properly equipped for your adventure.\n\n  \n\n#### Group Leader and travel guides\n\n  \n\nAll our adventure tours are accompanied by your group leader from Uncharted team. Your group leader is also your driver and on different activities he will be your instructor as well. The aim of the group leader is to take the hassle out of your travels and to help you have the best trip possible. The group leader will provide information on the places you are travelling through, offer suggestions for things to do and see and organise everything to ensure the best experience for you, the adventurer. He will also introduce you to our local friends along the way. While not being a guide in the traditional sense you can expect him to have a broad general knowledge of the areas visited on the trip, including historical, environmental, cultural and social aspects.  \n  \nYour group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the city of Sibiu. Moreover, he is a mountain sports enthusiast performing a variety of the mountain activities in the tour, in some of them being also specialised as a professional trainer and instructor:  \n  \n• Rock Climbing trainer and instructor (activating within Aarhus Klatreklub);  \n• Ski and Snowboard instructor.  \n  \nFor other activities, our partners will provide us with the appropriate mountain guides and specific activities travel guides. All of them are experts in their fields, with lots of years of experience on their back. You can find them on our partners’ list.\n\n  \n\n#### Travelling on a group trip\n\n  \n\nAs you travel on a group trip you will be exposed to all the pleasures and maybe some of the frustrations of travelling in a group. Your fellow adventurers will probably come from all corners of the world and likely a range of age groups too. We ask you to be understanding of the various needs and preferences of your group - patience with your fellow adventurers is sometimes required for the benefit of everyone's travel experience. Remember too that you have responsibilities to the group. If you are requested to be at a place at a certain time, ensure that you don't keep the rest of the group waiting.  \nTo ensure a great group environment, we will host an informal meeting, prior to the departure, where you will get the chance to know a bit about the people you will go on the adventure with. Due to privacy reasons however, we are unable to provide you with contact details and any personal information about your fellow adventurers booked on your trip prior to departure.\n\n  \n\n#### Sustainable traveling\n\n  \n\nUncharted is all about making simple choices to reduce the negative impact on the destinations. Individually, each one of these choices makes only a small difference. But collectively, becoming more conscious about these little things can have a huge impact.  \n  \nWhether you are passionate about supporting local communities or preserving wildlife and natural resources, there are plenty of ways you can do that. Here is a list of few ways you will make your impact, just by choosing our adventures:  \n  \n• Our tours consist of a lot of walking in both the nature and urban regions. Often, we may add some biking trails in order to cover more ground, while still remaining conscious about the environment. Therefore, the transportation by car will be reduced to a bare minimum, hence cutting down on gas usage and pollution;  \n• Throughout the tour we will always stick to the marked paths, that are there for a reason. And that is to avoid harming native flora;  \n• We always keep respectful distance from wildlife. Even though we understand that a selfie with a brown bear or a wild deer could make a great Instagram story, if you are too close to attract the animal’s attention, then you are way too close;  \n• Our adventurers are always encouraged and guided towards buying local products rather than those which have been imported. Local artisans, manufacturers and producers are the people we encourage the souvenirs to be brought from. By this we help to preserve the culture, give back to the community and show you, the adventurer, the authenticity of the traditions and the local customs. Think, whether at the end of the day you want to buy an authentic souvenir or one that came straight from the Asian assembly line?  \n• All the adventures are held in small groups, up to 16 people. The reason behind is not only to create a cosy environment for the adventurers, but also to lessen the negative impact on the environment. Together we can show that tourism can be done in a responsible, sustainable manner.  \n• All elements in every tour are created in such way that in helps to immerse yourself in the local culture. The true definition of a travelling adventure is to get the chance to try different foods, listen to different music and explore different cultures. That is what we do here at Uncharted.",
-        "contentDigest": "496af9d39dc7d7b2a259b74d1eb7cc58",
+        "content": "---\ntemplateKey: 'terms'\nimage: /img/hero1.jpg\ntagline: Terms And Conditions\n---\n#### **Important notes:**\n\n  \n\n* All tours start and end in the city of Cluj-Napoca;\n\n* No matter the way chosen to reach Cluj-Napoca, the adventurer has to make sure he/she arrives at the starting point of the tour no later than 12:30 p.m. on the first day of the tour;\n\n* Your tour leader will welcome you at the airport and he will be with you all the time along the tour. He will be also the one who will make sure you get to the airport in time for your departure back to home;\n\n* Throughout each activity you will be accompanied by experts from that specific field;\n\n* All the specific gear for the activities will be provided by Uncharted. Still, the basic gear such as mountain boots, rain jackets, warm clothes for all seasons etc. have to be brought by the adventurer itself;\n\n* In case of external factors, such as bad weather, interfering with the plan, some of the activities might be replaced with more suitable ones for the weather conditions. These measures will be taken to ensure that you will have the best experience.\n\n  \n\n#### Deposit and Full Payment\n\n  \n\nAfter your request has been processed, you will receive an email confirming your booking and containing your invoice. To finalize your request for the offer and have a place booked within the tour, you will have 7 days to pay at least 50% of the amount received in the invoice. The rest of the amount must be paid latest 30 days due the trip’s departure. If the trip is due in less than 30 days, the full payment must be done at once. (Note: please check the invoice for due date as well as additional information regarding reminders)\n\n  \n\n#### Cancellation\n\n  \n\nSince the adventures that we offer are considered package tour, you, the adventurer are covered by the Package Travel Act – more info  \nAccording to it, the customer (adventurer) is entitled to cancellation. Should the adventurer cancel the package tour, the organizer (Uncharted) can only claim appropriate compensation as determined considering the timing of the cancellation and the nature of the package tour. If the upper paragraph applies, the customer (adventurer) is refunded as the following:  \n  \n* 100% of the package price refunded, if the customer (adventurer) cancels in the timeframe of > 30 days before the first day of the tour;  \n* 80% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 20-29 days before the first day of the tour;  \n* 50% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 10-19 days before the first day of the tour;  \n* 20% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 4-9 days before the first day of the tour;  \n* There is no refund, if the customer (adventurer) cancels in the timeframe of 3 or less days before the first day of the tour or for not showing up at all.  \n  \nThe right of cancellation may be limited or derogated from in the contract if the organizer has a limited right of cancellation in relation to a third party.  \nFurthermore, the customer (adventurer) may cancel a package tour if, within 14 days of the commencement of the package tour, war, natural disaster, lethal contagious diseases or other similar events occur at the destination or in areas adjacent to the destination. In that case, the customer (adventurer) shall be entitled to a refund of all amounts paid under the contract.  \nThe upper paragraph shall not apply if the event in question was known to the customer (adventurer) on the conclusion of the contract or if the event was generally known.  \nThe organizer (Uncharted) shall notify the customer (adventurer) of the cancellation terms prior to the conclusion of the contract.  \nPrior to the conclusion of the contract, the organizer shall notify the customer (adventurer) of the possibilities and terms of taking out insurance to cover the customer's non-participation in the package tour due to illness or similar.\n\n  \n\n#### Travel Insurance\n\n  \n\nBecause the outdoor activities imply a certain risk of injury, we strongly advise you to purchase travel insurance. We recommend that you contact your insurance broker and ask for the suitable insurance for the chosen tour.  \nTravel insurance is compulsory for all our trips. We require that, at a minimum, you are covered for medical expenses including emergency repatriation. We strongly recommend that the policy also covers personal liability, curtailment and loss of luggage and personal effects.  \nIt is the adventurer’s own responsibility to ensure they purchase a travel insurance. Uncharted IVS is not to be held liable in case of any accidents that could have been covered by the travel insurance.\n\n  \n\n#### Medical and health information\n\n  \n\nAll Uncharted adventurers need to be in a good physical health in order to fully participate on any of the activities. Please make sure you have read through the itinerary carefully when selecting your adventure and assess your ability to cope with our style of travel. Please note that if, in the opinion of our group leader or local guide, any adventurer is unable to complete the itinerary without undue risk to themselves and/or the rest of the group, Uncharted IVS reserves the right to exclude them from all or part of a trip without refund.  \nFor legal reasons our leaders and guides are prohibited from administering any type of drugs including headache tablets and antibiotics. Please ensure that you are adequately prepared.\n\n  \n\n#### Air & Lodging Reservations\n\n  \n\nWe urge you to make your travel plans as soon as possible. All tours are planned around the cheapest flight tickets to the departure city of Cluj-Napoca. We suggest you pick the route Billund – Cluj-Napoca, operating with the lowest cost flight company such as WIZZ Air. You may choose to arrange the transportation to the departure city as you please, but do take into account that you have to be there at 12:30, on the first day of the tour.  \nIn case of a flight delay or external issues that might delay your arrival, contact us as soon as possible to plan the departure from Cluj-Napoca. Uncharted is not to be held responsible for any issues derived from the consumers failing to comply with this terms.\n\n  \n\n#### Passport and visas\n\n  \n\n**Citizens of the European Union countries** can enter Romania with a **valid passport** or with their **National Identity Card**.  \nA valid passport is required for all overseas/non-EU visitors.Your passport must be valid for the entire duration of your visit (it will not expire sooner than your intended date of departure). However, please check the expiration date on your passport carefully before traveling to Europe.  \nTo apply for an extended stay visa please visit [eVisa.MAE.ro.](http://evisa.mae.ro/)  \nFor additional information please contact the [Romanian Immigration Office.](http://igi.mai.gov.ro/en)\n\n  \n\n#### Food and dietary requirements\n\n  \n\nYour tour includes meals as indicated in our brochure and online. Every day breakfast, lunch and dinner will be included. On some of the days, due to certain activities that require longer traveling distances, the lunch will be served either as a lunch-box or in a cosier manner such as a BBQ or a meal made by the shepherds.  \nAdventurers with special meal requirements or food allergies **MUST** ensure they or their travel agent has informed Uncharted IVS of this at the time of booking. We can make all the proper adjustments to ensure your dietary requirements are met, as long as we are informed in time.\n\n  \n\n#### Free Courses\n\n  \n\nSome of our activities might seem intimidating for people who never tried them before. Activities such as rock climbing for example. We want to help you overcome your fear and inhibitions and that is why we offer free courses for people who want to try this amazing activity.  \nIf you consider taking an adventure that has included rock climbing, but you are uncertain about it, write us an email and we will organise for you a free climbing session. There, you have an opportunity to try it out as well as to learn few basic techniques. Afterwards if you decide to buy the package, we throw in 4 more free climbing sessions where you will gain more experience and knowledge about the sport. All sessions will be held with our accredited trainer and instructor. (Note: This applies only for Aarhus commune residents)  \nFurthermore, in the winter season, for those of you who want to switch from skis to snowboard or simply want to learn how to slide down the mountain in the cool snowboarding way, we offer free snowboarding training for the period of your tour. You will be thought all the basics and who knows, maybe by the end of the adventure you will already be able to snowboard on your own.\n\n  \n\n#### Pocket Money\n\n  \n\nRomania still employs mostly cash payments; therefore, we recommend you do not fully rely on the possibility of paying with the credit card in all places.  \nThe currency in Romania is RON (1 RON = 1.62 DKK). Regarding pocket money, you have few options. The first one is to use your credit card and withdraw RON from the local ATM’s. Your tour guide will make sure to find the most suitable one for you with least exchange charges. The second option would be to bring cash (EURO) and change them at the exchange offices.  \nOur tours take us through villages and places where the only way to pay for souvenirs is with cash, therefore we strongly advise to have some cash with you at all time.\n\n  \n\n#### Equipment\n\n  \n\nDue to the fact that all tours consist of activities that involve nature and mountains, we strongly recommend that you have on you the following basic equipment at all times:  \n  \n* Hiking boots  \n* Rain jacket  \n* Warm clothes, no matter the season.  \n  \nSpecific equipment for the different activities will be provided by Uncharted IVS or the partners. Therefore, all you need to think of is the equipment presented above. If by any chance, extra equipment is necessary, we will inform you, and if you do not have it we will do our best to provide you with the best alternative in order for you to be properly equipped for your adventure.\n\n  \n\n#### Group Leader and travel guides\n\n  \n\nAll our adventure tours are accompanied by your group leader from Uncharted team. Your group leader is also your driver and on different activities he will be your instructor as well. The aim of the group leader is to take the hassle out of your travels and to help you have the best trip possible. The group leader will provide information on the places you are travelling through, offer suggestions for things to do and see and organise everything to ensure the best experience for you, the adventurer. He will also introduce you to our local friends along the way. While not being a guide in the traditional sense you can expect him to have a broad general knowledge of the areas visited on the trip, including historical, environmental, cultural and social aspects.  \n  \nYour group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the city of Sibiu. Moreover, he is a mountain sports enthusiast performing a variety of the mountain activities in the tour, in some of them being also specialised as a professional trainer and instructor:  \n  \n* Rock Climbing trainer and instructor (activating within Aarhus Klatreklub);  \n* Ski and Snowboard instructor.  \n  \nFor other activities, our partners will provide us with the appropriate mountain guides and specific activities travel guides. All of them are experts in their fields, with lots of years of experience on their back. You can find them on our partners’ list.\n\n  \n\n#### Travelling on a group trip\n\n  \n\nAs you travel on a group trip you will be exposed to all the pleasures and maybe some of the frustrations of travelling in a group. Your fellow adventurers will probably come from all corners of the world and likely a range of age groups too. We ask you to be understanding of the various needs and preferences of your group - patience with your fellow adventurers is sometimes required for the benefit of everyone's travel experience. Remember too that you have responsibilities to the group. If you are requested to be at a place at a certain time, ensure that you don't keep the rest of the group waiting.  \nTo ensure a great group environment, we will host an informal meeting, prior to the departure, where you will get the chance to know a bit about the people you will go on the adventure with. Due to privacy reasons however, we are unable to provide you with contact details and any personal information about your fellow adventurers booked on your trip prior to departure.\n\n  \n\n#### Sustainable traveling\n\n  \n\nUncharted is all about making simple choices to reduce the negative impact on the destinations. Individually, each one of these choices makes only a small difference. But collectively, becoming more conscious about these little things can have a huge impact.  \n  \nWhether you are passionate about supporting local communities or preserving wildlife and natural resources, there are plenty of ways you can do that. Here is a list of few ways you will make your impact, just by choosing our adventures:  \n  \n* Our tours consist of a lot of walking in both the nature and urban regions. Often, we may add some biking trails in order to cover more ground, while still remaining conscious about the environment. Therefore, the transportation by car will be reduced to a bare minimum, hence cutting down on gas usage and pollution;  \n* Throughout the tour we will always stick to the marked paths, that are there for a reason. And that is to avoid harming native flora;  \n* We always keep respectful distance from wildlife. Even though we understand that a selfie with a brown bear or a wild deer could make a great Instagram story, if you are too close to attract the animal’s attention, then you are way too close;  \n* Our adventurers are always encouraged and guided towards buying local products rather than those which have been imported. Local artisans, manufacturers and producers are the people we encourage the souvenirs to be brought from. By this we help to preserve the culture, give back to the community and show you, the adventurer, the authenticity of the traditions and the local customs. Think, whether at the end of the day you want to buy an authentic souvenir or one that came straight from the Asian assembly line?  \n* All the adventures are held in small groups, up to 16 people. The reason behind is not only to create a cosy environment for the adventurers, but also to lessen the negative impact on the environment. Together we can show that tourism can be done in a responsible, sustainable manner.  \n* All elements in every tour are created in such way that in helps to immerse yourself in the local culture. The true definition of a travelling adventure is to get the chance to try different foods, listen to different music and explore different cultures. That is what we do here at Uncharted.",
+        "contentDigest": "207c72f0d02c0dbc5a12a823df82ab59",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -2840,7 +2840,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "75e586928c3537c5c869ed777cb45d98",
+        "contentDigest": "fa6e4b2e38eb9de1d62f7fb9fcac2495",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2851,7 +2851,7 @@
       "size": 480,
       "prettySize": "480 B",
       "modifiedTime": "2018-05-02T21:50:50.371Z",
-      "accessTime": "2018-05-04T10:44:34.858Z",
+      "accessTime": "2018-05-04T11:06:08.238Z",
       "changeTime": "2018-05-02T21:50:50.371Z",
       "birthTime": "2018-03-24T20:07:41.323Z",
       "root": "/",
@@ -2869,11 +2869,11 @@
       "blksize": 4194304,
       "ino": 8600035704,
       "blocks": 0,
-      "atimeMs": 1525430674858.3318,
+      "atimeMs": 1525431968238.0264,
       "mtimeMs": 1525297850370.5142,
       "ctimeMs": 1525297850370.5142,
       "birthtimeMs": 1521922061322.7996,
-      "atime": "2018-05-04T10:44:34.858Z",
+      "atime": "2018-05-04T11:06:08.238Z",
       "mtime": "2018-05-02T21:50:50.371Z",
       "ctime": "2018-05-02T21:50:50.371Z",
       "birthtime": "2018-03-24T20:07:41.323Z"
@@ -3594,452 +3594,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "SitePage /packages/fullnatureadventure/": {
-      "layout": "index",
-      "jsonName": "packages-fullnatureadventure.json",
-      "internalComponentName": "ComponentPackagesFullnatureadventure",
-      "path": "/packages/fullnatureadventure/",
-      "component": "/Users/Robert/uncharted/src/templates/package.js",
-      "componentChunkName": "component---src-templates-package-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
-      "id": "SitePage /packages/fullnatureadventure/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "86f12f2d6033e729a7b918c142e2dc47",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/": {
-      "layout": "index",
-      "jsonName": "blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex.json",
-      "internalComponentName": "ComponentBlog20170104ABeginnersGuideToBrewingWithChemex",
-      "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
-      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "id": "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "567b48ad306de34f91f308f2e4f932f9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /packages/senseofadventure/": {
-      "layout": "index",
-      "jsonName": "packages-senseofadventure.json",
-      "internalComponentName": "ComponentPackagesSenseofadventure",
-      "path": "/packages/senseofadventure/",
-      "component": "/Users/Robert/uncharted/src/templates/package.js",
-      "componentChunkName": "component---src-templates-package-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
-      "id": "SitePage /packages/senseofadventure/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "346398efb8e0a074bc7bd303224e6c5c",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/": {
-      "layout": "index",
-      "jsonName": "blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.json",
-      "internalComponentName": "ComponentBlog20170104JustInSmallBatchOfJamaicanBlueMountainInStoreNextWeek",
-      "path": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
-      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "id": "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "29d585990608d916420f213e471402b7",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /packages/the-wild-carpathians/": {
-      "layout": "index",
-      "jsonName": "packages-the-wild-carpathians.json",
-      "internalComponentName": "ComponentPackagesTheWildCarpathians",
-      "path": "/packages/the-wild-carpathians/",
-      "component": "/Users/Robert/uncharted/src/templates/package.js",
-      "componentChunkName": "component---src-templates-package-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
-      "id": "SitePage /packages/the-wild-carpathians/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "822679985fa082496d5a5bed8fad5800",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/": {
-      "layout": "index",
-      "jsonName": "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json",
-      "internalComponentName": "ComponentBlog20161217MakingSenseOfTheScaasNewFlavorWheel",
-      "path": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
-      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "id": "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9fd340cf70d255cad78cf9acdb5ed629",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /packages/weekendgetaway/": {
-      "layout": "index",
-      "jsonName": "packages-weekendgetaway.json",
-      "internalComponentName": "ComponentPackagesWeekendgetaway",
-      "path": "/packages/weekendgetaway/",
-      "component": "/Users/Robert/uncharted/src/templates/package.js",
-      "componentChunkName": "component---src-templates-package-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
-      "id": "SitePage /packages/weekendgetaway/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "1794a60956f5e4f7391b1b8a66555109",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/brewing/": {
-      "layout": "index",
-      "jsonName": "tags-brewing.json",
-      "internalComponentName": "ComponentTagsBrewing",
-      "path": "/tags/brewing/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "brewing"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/brewing/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ba18287aff759ce54268fc6c7726053d",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/chemex/": {
-      "layout": "index",
-      "jsonName": "tags-chemex.json",
-      "internalComponentName": "ComponentTagsChemex",
-      "path": "/tags/chemex/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "chemex"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/chemex/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b4ce3eb30a6fbb6a379f31e26a1149b7",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/jamaica/": {
-      "layout": "index",
-      "jsonName": "tags-jamaica.json",
-      "internalComponentName": "ComponentTagsJamaica",
-      "path": "/tags/jamaica/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "jamaica"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/jamaica/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "a82f456c60aa19f911b6c24c4496cdc4",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/green-beans/": {
-      "layout": "index",
-      "jsonName": "tags-green-beans.json",
-      "internalComponentName": "ComponentTagsGreenBeans",
-      "path": "/tags/green-beans/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "green beans"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/green-beans/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "1ed4d243bd068d2cb69a50c53048aa86",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/flavor/": {
-      "layout": "index",
-      "jsonName": "tags-flavor.json",
-      "internalComponentName": "ComponentTagsFlavor",
-      "path": "/tags/flavor/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "flavor"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/flavor/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "20633ba866ee012de2078ee92d8956fd",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags/tasting/": {
-      "layout": "index",
-      "jsonName": "tags-tasting.json",
-      "internalComponentName": "ComponentTagsTasting",
-      "path": "/tags/tasting/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
-      "context": {
-        "tag": "tasting"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/tasting/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "bf1ecc900da1b4ed46541519a1fbf82c",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404/": {
-      "layout": "index",
-      "jsonName": "404.json",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/Users/Robert/uncharted/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/uncharted/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "200664df88e974cf1e754c430ce2accb",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /concept/": {
-      "layout": "index",
-      "jsonName": "concept.json",
-      "internalComponentName": "ComponentConcept",
-      "path": "/concept/",
-      "component": "/Users/Robert/uncharted/src/pages/concept.js",
-      "componentChunkName": "component---src-pages-concept-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/uncharted/src/pages/concept.js",
-      "id": "SitePage /concept/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "a0514d3229adc764b3b674a28b70daa7",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /confirmation/": {
-      "layout": "index",
-      "jsonName": "confirmation.json",
-      "internalComponentName": "ComponentConfirmation",
-      "path": "/confirmation/",
-      "component": "/Users/Robert/uncharted/src/pages/confirmation.js",
-      "componentChunkName": "component---src-pages-confirmation-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/uncharted/src/pages/confirmation.js",
-      "id": "SitePage /confirmation/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "34ea01b72617be46fd566282b8f1c399",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /faq/": {
-      "layout": "index",
-      "jsonName": "faq.json",
-      "internalComponentName": "ComponentFaq",
-      "path": "/faq/",
-      "component": "/Users/Robert/uncharted/src/pages/faq.js",
-      "componentChunkName": "component---src-pages-faq-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/uncharted/src/pages/faq.js",
-      "id": "SitePage /faq/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7b0dc05fc7fa30cde52860757e86641e",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/Robert/uncharted/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/uncharted/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "785d6dc14dd32370cfd5daf4e2398349",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /stories/": {
-      "layout": "index",
-      "jsonName": "stories.json",
-      "internalComponentName": "ComponentStories",
-      "path": "/stories/",
-      "component": "/Users/Robert/uncharted/src/pages/stories.js",
-      "componentChunkName": "component---src-pages-stories-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/uncharted/src/pages/stories.js",
-      "id": "SitePage /stories/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "c1da3d1084fd865dd4d6cc519ee29be8",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /terms/": {
-      "layout": "index",
-      "jsonName": "terms.json",
-      "internalComponentName": "ComponentTerms",
-      "path": "/terms/",
-      "component": "/Users/Robert/uncharted/src/pages/terms.js",
-      "componentChunkName": "component---src-pages-terms-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/uncharted/src/pages/terms.js",
-      "id": "SitePage /terms/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "2ac4ef5f0e1c9ceaf6abfa8e49f2eac7",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/Robert/uncharted/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/Robert/uncharted/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "df9a06a44925c4c7edcf91e82bb7907d",
-        "owner": "internal-data-bridge"
-      }
-    },
     "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -4068,6 +3622,452 @@
       "fields": {
         "slug": "/packages/senseofadventure/"
       }
+    },
+    "SitePage /packages/fullnatureadventure/": {
+      "layout": "index",
+      "jsonName": "packages-fullnatureadventure.json",
+      "internalComponentName": "ComponentPackagesFullnatureadventure",
+      "path": "/packages/fullnatureadventure/",
+      "component": "/Users/Robert/uncharted/src/templates/package.js",
+      "componentChunkName": "component---src-templates-package-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
+      "id": "SitePage /packages/fullnatureadventure/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "42b945bf40af22a7c4e1ed95106f0814",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/": {
+      "layout": "index",
+      "jsonName": "blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex.json",
+      "internalComponentName": "ComponentBlog20170104ABeginnersGuideToBrewingWithChemex",
+      "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
+      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "id": "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "dc960bf13df8c2a7aa8a2d175df00784",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/": {
+      "layout": "index",
+      "jsonName": "blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.json",
+      "internalComponentName": "ComponentBlog20170104JustInSmallBatchOfJamaicanBlueMountainInStoreNextWeek",
+      "path": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
+      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "id": "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2404c78229ab0a8ba6572036589d74ad",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /packages/the-wild-carpathians/": {
+      "layout": "index",
+      "jsonName": "packages-the-wild-carpathians.json",
+      "internalComponentName": "ComponentPackagesTheWildCarpathians",
+      "path": "/packages/the-wild-carpathians/",
+      "component": "/Users/Robert/uncharted/src/templates/package.js",
+      "componentChunkName": "component---src-templates-package-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
+      "id": "SitePage /packages/the-wild-carpathians/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "53232986d65e4a9d0d1c300bcbdc6734",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/": {
+      "layout": "index",
+      "jsonName": "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json",
+      "internalComponentName": "ComponentBlog20161217MakingSenseOfTheScaasNewFlavorWheel",
+      "path": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
+      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "id": "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7331cdc72a6bd74f0879b3bc2e0f74ea",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /packages/weekendgetaway/": {
+      "layout": "index",
+      "jsonName": "packages-weekendgetaway.json",
+      "internalComponentName": "ComponentPackagesWeekendgetaway",
+      "path": "/packages/weekendgetaway/",
+      "component": "/Users/Robert/uncharted/src/templates/package.js",
+      "componentChunkName": "component---src-templates-package-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
+      "id": "SitePage /packages/weekendgetaway/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ee97aa31f345e2f01e5c4952246726b0",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /packages/senseofadventure/": {
+      "layout": "index",
+      "jsonName": "packages-senseofadventure.json",
+      "internalComponentName": "ComponentPackagesSenseofadventure",
+      "path": "/packages/senseofadventure/",
+      "component": "/Users/Robert/uncharted/src/templates/package.js",
+      "componentChunkName": "component---src-templates-package-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
+      "id": "SitePage /packages/senseofadventure/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1782493a12dc759330a92706655ba58c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/brewing/": {
+      "layout": "index",
+      "jsonName": "tags-brewing.json",
+      "internalComponentName": "ComponentTagsBrewing",
+      "path": "/tags/brewing/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "brewing"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/brewing/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "41539b862fada05b06beda827a65bc9c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/chemex/": {
+      "layout": "index",
+      "jsonName": "tags-chemex.json",
+      "internalComponentName": "ComponentTagsChemex",
+      "path": "/tags/chemex/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "chemex"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/chemex/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ca433811f1c0457d788bf3d02178e106",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/jamaica/": {
+      "layout": "index",
+      "jsonName": "tags-jamaica.json",
+      "internalComponentName": "ComponentTagsJamaica",
+      "path": "/tags/jamaica/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "jamaica"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/jamaica/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "403cd96c17ef2c9f638e2c9e1ffc9fc0",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/green-beans/": {
+      "layout": "index",
+      "jsonName": "tags-green-beans.json",
+      "internalComponentName": "ComponentTagsGreenBeans",
+      "path": "/tags/green-beans/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "green beans"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/green-beans/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "51990ce79c383ebac9ec39bf99d3fd0d",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/flavor/": {
+      "layout": "index",
+      "jsonName": "tags-flavor.json",
+      "internalComponentName": "ComponentTagsFlavor",
+      "path": "/tags/flavor/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "flavor"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/flavor/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b50cc05b177905f176252649ade6a39f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/tasting/": {
+      "layout": "index",
+      "jsonName": "tags-tasting.json",
+      "internalComponentName": "ComponentTagsTasting",
+      "path": "/tags/tasting/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "tasting"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/tasting/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ca855b56a1a0fe374975adff42d85e65",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/Robert/uncharted/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/uncharted/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4368d2422d2052f18cbe352c5989a1e5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /concept/": {
+      "layout": "index",
+      "jsonName": "concept.json",
+      "internalComponentName": "ComponentConcept",
+      "path": "/concept/",
+      "component": "/Users/Robert/uncharted/src/pages/concept.js",
+      "componentChunkName": "component---src-pages-concept-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/uncharted/src/pages/concept.js",
+      "id": "SitePage /concept/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "095a992e91fbf2acd4dca7a17cd01c84",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /confirmation/": {
+      "layout": "index",
+      "jsonName": "confirmation.json",
+      "internalComponentName": "ComponentConfirmation",
+      "path": "/confirmation/",
+      "component": "/Users/Robert/uncharted/src/pages/confirmation.js",
+      "componentChunkName": "component---src-pages-confirmation-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/uncharted/src/pages/confirmation.js",
+      "id": "SitePage /confirmation/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "408ad4b157d7203a26b30434d518d641",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /faq/": {
+      "layout": "index",
+      "jsonName": "faq.json",
+      "internalComponentName": "ComponentFaq",
+      "path": "/faq/",
+      "component": "/Users/Robert/uncharted/src/pages/faq.js",
+      "componentChunkName": "component---src-pages-faq-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/uncharted/src/pages/faq.js",
+      "id": "SitePage /faq/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "faf280b94107c0154c96a3e8017a4990",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/Robert/uncharted/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/uncharted/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "74eacbd1b70c818595471a3bc27b801a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /stories/": {
+      "layout": "index",
+      "jsonName": "stories.json",
+      "internalComponentName": "ComponentStories",
+      "path": "/stories/",
+      "component": "/Users/Robert/uncharted/src/pages/stories.js",
+      "componentChunkName": "component---src-pages-stories-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/uncharted/src/pages/stories.js",
+      "id": "SitePage /stories/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b0fa8f51bd5d8dabb4f21807fe757fb6",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /terms/": {
+      "layout": "index",
+      "jsonName": "terms.json",
+      "internalComponentName": "ComponentTerms",
+      "path": "/terms/",
+      "component": "/Users/Robert/uncharted/src/pages/terms.js",
+      "componentChunkName": "component---src-pages-terms-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/uncharted/src/pages/terms.js",
+      "id": "SitePage /terms/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "89b4dcd1d919eff4c17a03920e5f7f9b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/Robert/uncharted/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/Robert/uncharted/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c0c1ce58577f2a3d4e6b421a686f70c3",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -4080,15 +4080,15 @@
         "/packages/senseofadventure/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-54.jpg absPath of file": [
-        "/concept/",
         "/faq/",
+        "/concept/",
         "/",
         "/stories/",
         "/packages/senseofadventure/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-54.jpg absPath of file >> ImageSharp": [
-        "/concept/",
         "/faq/",
+        "/concept/",
         "/",
         "/stories/",
         "/packages/senseofadventure/"
@@ -4097,38 +4097,38 @@
         "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"
       ],
       "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file": [
+        "/faq/",
+        "/concept/",
+        "/",
+        "/terms/",
+        "/stories/",
         "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
         "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
-        "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
-        "/concept/",
-        "/faq/",
-        "/",
-        "/stories/",
-        "/terms/"
+        "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
       ],
       "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file >> ImageSharp": [
+        "/faq/",
+        "/concept/",
+        "/",
+        "/terms/",
+        "/stories/",
         "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
         "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
-        "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
-        "/concept/",
-        "/faq/",
-        "/",
-        "/stories/",
-        "/terms/"
+        "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
       ],
       "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark": [
         "/packages/fullnatureadventure/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-57.jpg absPath of file": [
-        "/concept/",
         "/faq/",
+        "/concept/",
         "/",
         "/stories/",
         "/packages/fullnatureadventure/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-57.jpg absPath of file >> ImageSharp": [
-        "/concept/",
         "/faq/",
+        "/concept/",
         "/",
         "/stories/",
         "/packages/fullnatureadventure/"
@@ -4140,15 +4140,15 @@
         "/packages/the-wild-carpathians/"
       ],
       "/Users/Robert/uncharted/static/img/dsc_0088.jpg absPath of file": [
-        "/concept/",
         "/faq/",
+        "/concept/",
         "/",
         "/stories/",
         "/packages/the-wild-carpathians/"
       ],
       "/Users/Robert/uncharted/static/img/dsc_0088.jpg absPath of file >> ImageSharp": [
-        "/concept/",
         "/faq/",
+        "/concept/",
         "/",
         "/stories/",
         "/packages/the-wild-carpathians/"
@@ -4160,54 +4160,54 @@
         "/packages/weekendgetaway/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-61.jpg absPath of file": [
-        "/concept/",
         "/faq/",
+        "/concept/",
         "/",
         "/stories/",
         "/packages/weekendgetaway/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-61.jpg absPath of file >> ImageSharp": [
-        "/concept/",
         "/faq/",
+        "/concept/",
         "/",
         "/stories/",
         "/packages/weekendgetaway/"
       ],
       "Site": [
-        "/tags/brewing/",
         "/tags/chemex/",
+        "/tags/brewing/",
         "/tags/jamaica/",
-        "/tags/green-beans/",
         "/tags/flavor/",
+        "/tags/green-beans/",
         "/tags/tasting/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-59.jpg absPath of file": [
-        "/concept/",
         "/faq/",
+        "/concept/",
         "/",
         "/stories/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-59.jpg absPath of file >> ImageSharp": [
-        "/concept/",
         "/faq/",
+        "/concept/",
         "/",
         "/stories/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-60.jpg absPath of file": [
-        "/concept/",
         "/faq/",
+        "/concept/",
         "/",
         "/stories/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-60.jpg absPath of file >> ImageSharp": [
-        "/concept/",
         "/faq/",
+        "/concept/",
         "/",
         "/stories/"
       ],
       "/Users/Robert/uncharted/src/data/concept.md absPath of file >>> MarkdownRemark": [
-        "/concept/",
-        "/faq/"
+        "/faq/",
+        "/concept/"
       ],
       "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark": [
         "/"
@@ -4221,17 +4221,17 @@
     },
     "connections": {
       "MarkdownRemark": [
-        "/tags/brewing/",
-        "/tags/chemex/",
-        "/tags/jamaica/",
-        "/tags/green-beans/",
-        "/tags/flavor/",
-        "/tags/tasting/",
-        "/concept/",
+        "LAYOUT___index",
         "/faq/",
+        "/concept/",
         "/",
         "/stories/",
-        "LAYOUT___index"
+        "/tags/chemex/",
+        "/tags/brewing/",
+        "/tags/jamaica/",
+        "/tags/flavor/",
+        "/tags/green-beans/",
+        "/tags/tasting/"
       ],
       "SitePage": [
         "/dev-404-page/"

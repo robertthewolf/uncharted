@@ -35,35 +35,35 @@ the rest.
 
 ## The Package does not include:
 
-•	Transportation to the starting point of the tour, Cluj-Napoca t/r
+* Transportation to the starting point of the tour, Cluj-Napoca t/r
 
-•	Travel Insurance 
+* Travel Insurance 
 
 
 
 ## Why we love this adventure?
 
-•	Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling;
+* Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling;
 
-•	It offers you a unique way to visit Transylvania in a getaway experience;
+* It offers you a unique way to visit Transylvania in a getaway experience;
 
-•	It was designed for individual travellers, group of friends or co-workers as well as families;
+* It was designed for individual travellers, group of friends or co-workers as well as families;
 
-•	This getaway is the ideal opportunity to make the most out of an adventure in a new country when you have only few days to spare;
+* This getaway is the ideal opportunity to make the most out of an adventure in a new country when you have only few days to spare;
 
-•	The adventure is created in such way that it will not create any inconvenience with your work or university classes. You only need to skip Monday and on Tuesday morning you are back. And let’s be honest, wouldn’t you spend your Monday on an adventure rather than anywhere else?
+* The adventure is created in such way that it will not create any inconvenience with your work or university classes. You only need to skip Monday and on Tuesday morning you are back. And let’s be honest, wouldn’t you spend your Monday on an adventure rather than anywhere else?
 
-•	It combines mountain activities, culture and gastronomy, all in a 3-day adventure.
+* It combines mountain activities, culture and gastronomy, all in a 3-day adventure.
 
-•	High emphasis on sustainable travelling
+* High emphasis on sustainable travelling
 
 
 
 ## Is this adventure suitable for you?
 
-•	A minimum level of fitness is required as the snowshoe hiking tour involves a fair amount of walking, allowing you to really get among nature;
+* A minimum level of fitness is required as the snowshoe hiking tour involves a fair amount of walking, allowing you to really get among nature;
 
-•	The tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed.
+* The tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed.
 
 
 

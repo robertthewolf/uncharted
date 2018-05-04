@@ -60,10 +60,8 @@ export const pageQuery = graphql`
         }
         title
         tagline
-        description
         price
         lenght
-        included
       }
     }
   }

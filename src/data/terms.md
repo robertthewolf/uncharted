@@ -7,17 +7,17 @@ tagline: Terms And Conditions
 
   
 
-• All tours start and end in the city of Cluj-Napoca;
+* All tours start and end in the city of Cluj-Napoca;
 
-• No matter the way chosen to reach Cluj-Napoca, the adventurer has to make sure he/she arrives at the starting point of the tour no later than 12:30 p.m. on the first day of the tour;
+* No matter the way chosen to reach Cluj-Napoca, the adventurer has to make sure he/she arrives at the starting point of the tour no later than 12:30 p.m. on the first day of the tour;
 
-• Your tour leader will welcome you at the airport and he will be with you all the time along the tour. He will be also the one who will make sure you get to the airport in time for your departure back to home;
+* Your tour leader will welcome you at the airport and he will be with you all the time along the tour. He will be also the one who will make sure you get to the airport in time for your departure back to home;
 
-• Throughout each activity you will be accompanied by experts from that specific field;
+* Throughout each activity you will be accompanied by experts from that specific field;
 
-• All the specific gear for the activities will be provided by Uncharted. Still, the basic gear such as mountain boots, rain jackets, warm clothes for all seasons etc. have to be brought by the adventurer itself;
+* All the specific gear for the activities will be provided by Uncharted. Still, the basic gear such as mountain boots, rain jackets, warm clothes for all seasons etc. have to be brought by the adventurer itself;
 
-• In case of external factors, such as bad weather, interfering with the plan, some of the activities might be replaced with more suitable ones for the weather conditions. These measures will be taken to ensure that you will have the best experience.
+* In case of external factors, such as bad weather, interfering with the plan, some of the activities might be replaced with more suitable ones for the weather conditions. These measures will be taken to ensure that you will have the best experience.
 
   
 
@@ -36,11 +36,11 @@ After your request has been processed, you will receive an email confirming your
 Since the adventures that we offer are considered package tour, you, the adventurer are covered by the Package Travel Act – more info  
 According to it, the customer (adventurer) is entitled to cancellation. Should the adventurer cancel the package tour, the organizer (Uncharted) can only claim appropriate compensation as determined considering the timing of the cancellation and the nature of the package tour. If the upper paragraph applies, the customer (adventurer) is refunded as the following:  
   
-• 100% of the package price refunded, if the customer (adventurer) cancels in the timeframe of > 30 days before the first day of the tour;  
-• 80% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 20-29 days before the first day of the tour;  
-• 50% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 10-19 days before the first day of the tour;  
-• 20% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 4-9 days before the first day of the tour;  
-• There is no refund, if the customer (adventurer) cancels in the timeframe of 3 or less days before the first day of the tour or for not showing up at all.  
+* 100% of the package price refunded, if the customer (adventurer) cancels in the timeframe of > 30 days before the first day of the tour;  
+* 80% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 20-29 days before the first day of the tour;  
+* 50% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 10-19 days before the first day of the tour;  
+* 20% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 4-9 days before the first day of the tour;  
+* There is no refund, if the customer (adventurer) cancels in the timeframe of 3 or less days before the first day of the tour or for not showing up at all.  
   
 The right of cancellation may be limited or derogated from in the contract if the organizer has a limited right of cancellation in relation to a third party.  
 Furthermore, the customer (adventurer) may cancel a package tour if, within 14 days of the commencement of the package tour, war, natural disaster, lethal contagious diseases or other similar events occur at the destination or in areas adjacent to the destination. In that case, the customer (adventurer) shall be entitled to a refund of all amounts paid under the contract.  
@@ -124,9 +124,9 @@ Our tours take us through villages and places where the only way to pay for souv
 
 Due to the fact that all tours consist of activities that involve nature and mountains, we strongly recommend that you have on you the following basic equipment at all times:  
   
-• Hiking boots  
-• Rain jacket  
-• Warm clothes, no matter the season.  
+* Hiking boots  
+* Rain jacket  
+* Warm clothes, no matter the season.  
   
 Specific equipment for the different activities will be provided by Uncharted IVS or the partners. Therefore, all you need to think of is the equipment presented above. If by any chance, extra equipment is necessary, we will inform you, and if you do not have it we will do our best to provide you with the best alternative in order for you to be properly equipped for your adventure.
 
@@ -140,8 +140,8 @@ All our adventure tours are accompanied by your group leader from Uncharted team
   
 Your group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the city of Sibiu. Moreover, he is a mountain sports enthusiast performing a variety of the mountain activities in the tour, in some of them being also specialised as a professional trainer and instructor:  
   
-• Rock Climbing trainer and instructor (activating within Aarhus Klatreklub);  
-• Ski and Snowboard instructor.  
+* Rock Climbing trainer and instructor (activating within Aarhus Klatreklub);  
+* Ski and Snowboard instructor.  
   
 For other activities, our partners will provide us with the appropriate mountain guides and specific activities travel guides. All of them are experts in their fields, with lots of years of experience on their back. You can find them on our partners’ list.
 
@@ -164,9 +164,9 @@ Uncharted is all about making simple choices to reduce the negative impact on th
   
 Whether you are passionate about supporting local communities or preserving wildlife and natural resources, there are plenty of ways you can do that. Here is a list of few ways you will make your impact, just by choosing our adventures:  
   
-• Our tours consist of a lot of walking in both the nature and urban regions. Often, we may add some biking trails in order to cover more ground, while still remaining conscious about the environment. Therefore, the transportation by car will be reduced to a bare minimum, hence cutting down on gas usage and pollution;  
-• Throughout the tour we will always stick to the marked paths, that are there for a reason. And that is to avoid harming native flora;  
-• We always keep respectful distance from wildlife. Even though we understand that a selfie with a brown bear or a wild deer could make a great Instagram story, if you are too close to attract the animal’s attention, then you are way too close;  
-• Our adventurers are always encouraged and guided towards buying local products rather than those which have been imported. Local artisans, manufacturers and producers are the people we encourage the souvenirs to be brought from. By this we help to preserve the culture, give back to the community and show you, the adventurer, the authenticity of the traditions and the local customs. Think, whether at the end of the day you want to buy an authentic souvenir or one that came straight from the Asian assembly line?  
-• All the adventures are held in small groups, up to 16 people. The reason behind is not only to create a cosy environment for the adventurers, but also to lessen the negative impact on the environment. Together we can show that tourism can be done in a responsible, sustainable manner.  
-• All elements in every tour are created in such way that in helps to immerse yourself in the local culture. The true definition of a travelling adventure is to get the chance to try different foods, listen to different music and explore different cultures. That is what we do here at Uncharted.
+* Our tours consist of a lot of walking in both the nature and urban regions. Often, we may add some biking trails in order to cover more ground, while still remaining conscious about the environment. Therefore, the transportation by car will be reduced to a bare minimum, hence cutting down on gas usage and pollution;  
+* Throughout the tour we will always stick to the marked paths, that are there for a reason. And that is to avoid harming native flora;  
+* We always keep respectful distance from wildlife. Even though we understand that a selfie with a brown bear or a wild deer could make a great Instagram story, if you are too close to attract the animal’s attention, then you are way too close;  
+* Our adventurers are always encouraged and guided towards buying local products rather than those which have been imported. Local artisans, manufacturers and producers are the people we encourage the souvenirs to be brought from. By this we help to preserve the culture, give back to the community and show you, the adventurer, the authenticity of the traditions and the local customs. Think, whether at the end of the day you want to buy an authentic souvenir or one that came straight from the Asian assembly line?  
+* All the adventures are held in small groups, up to 16 people. The reason behind is not only to create a cosy environment for the adventurers, but also to lessen the negative impact on the environment. Together we can show that tourism can be done in a responsible, sustainable manner.  
+* All elements in every tour are created in such way that in helps to immerse yourself in the local culture. The true definition of a travelling adventure is to get the chance to try different foods, listen to different music and explore different cultures. That is what we do here at Uncharted.
