@@ -85,8 +85,6 @@ const Column = styled.div`
 margin: 2rem .5rem;
 `
 const Heading = styled.h3`
-font-weight: 200
-margin-bottom: 1em
 `
 const Image = styled.img`
 width: 100%

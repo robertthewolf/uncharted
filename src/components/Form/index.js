@@ -104,6 +104,7 @@ export default class Form extends React.Component {
                     
 
                 <Question>What do you want to do?</Question>
+                <Activities>
                     {this.props.activities.map(({node : post}) => (
                         <Activity key={post.id}>
                             <Checkbox type="checkbox" name={post.frontmatter.name} onChange={this.handleChange} />
@@ -112,6 +113,7 @@ export default class Form extends React.Component {
                             <CheckboxName>{post.frontmatter.name}</CheckboxName>
                         </Activity>
                     ))}
+                </Activities>
 
                 <Question>Any other wishes?</Question>
                 <Comments name="comments" onChange={this.handleChange}>
@@ -196,7 +198,16 @@ text-align: center`
 
 // activities
 
+const Activities = styled.div`
+grid-column: 1 / 4;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between
+`
+
 const Activity = styled.label`
+min-width: 150px;
+flex: 1;
 display: block;
 position: relative;
 margin: .5rem
@@ -235,8 +246,8 @@ width: 100%;
 height: 100%;
 &:checked + div {
     background-color: #464F8A
-    transform: scale(1.05);
-    border-radius: .7rem;
+    box-shadow: 0 0 0 5px #1F233D;
+    border-radius: calc(.5rem * 1.05);
 }
 
 &:checked ~ .gatsby-image-outer-wrapper > div {
@@ -252,8 +263,7 @@ width: 100%;
 height: 100%
 background-color: #1F233D
 border-radius: .5rem
-transition: background-color .5s ease
-transition: transform .5s ease
+transition: background-color .5s ease-out;
 `
 const CheckboxName = styled.span`
 text-align: center

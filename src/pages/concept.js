@@ -12,8 +12,7 @@ import Map from '../components/Map'
 
 export default class ConceptPage extends React.Component {
   render() {
-    const { data } = this.props
-    const { frontmatter, html } = data.markdownRemark
+    const { frontmatter, html } = this.props.data.markdownRemark
 
     return (
       <Wrapper>
@@ -43,6 +42,7 @@ query ConceptQuery {
   markdownRemark(frontmatter: {templateKey: { eq: "concept" }}) {
     html
     frontmatter {
+      templateKey
       image {
         childImageSharp {
           sizes(maxWidth: 1000) {

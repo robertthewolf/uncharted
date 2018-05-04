@@ -15,6 +15,18 @@ const Map = ({ children }) => (
 export default Map
 
 const Outer = styled.ul`
+h3, h4 {
+
+    margin-top: 2rem
+    max-width: 700px
+    margin: 0 auto
+  text-align: center
+}
+
+h3 {
+  font-size: 1.5rem
+}
+
 ul {
     margin: 0 2rem
     padding: 3rem 0

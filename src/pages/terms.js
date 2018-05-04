@@ -4,13 +4,16 @@ import Link from 'gatsby-link'
 import styled from 'styled-components'
 import Image from 'gatsby-image'
 
+
 import Header from '../components/Header'
 import Wrapper from '../components/Wrapper'
+import Container from '../components/Container'
+import Content from '../components/Content'
+import Map from '../components/Map'
 
 export default class TermsPage extends React.Component {
   render() {
-    const { data } = this.props
-    const { frontmatter, html } = data.markdownRemark
+    const { frontmatter, html } = this.props.data.markdownRemark
 
     return (
       <Wrapper>
@@ -18,7 +21,9 @@ export default class TermsPage extends React.Component {
             <Image sizes={frontmatter.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
             <Tagline>{frontmatter.tagline}</Tagline>
           </Header>
-          <Content dangerouslySetInnerHTML={{ __html: html }} />
+          <Content>
+            <div dangerouslySetInnerHTML={{ __html: html }} />
+          </Content>
       </Wrapper>
     )
   }
@@ -53,11 +58,3 @@ export const pageQuery = graphql`
 
 const Tagline = styled.h1`
 `
-
-const Welcome = styled.p`
-max-width: 700px
-margin: 0 auto 5rem`
-
-const Content = styled.div`
-max-width: 700px
-margin: 0 auto 5rem`

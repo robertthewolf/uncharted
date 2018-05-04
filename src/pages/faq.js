@@ -4,21 +4,27 @@ import Link from 'gatsby-link'
 import styled from 'styled-components'
 import Image from 'gatsby-image'
 
+
 import Header from '../components/Header'
 import Wrapper from '../components/Wrapper'
+import Container from '../components/Container'
+import Content from '../components/Content'
+import Map from '../components/Map'
 
 export default class FaqPage extends React.Component {
   render() {
-    const { data } = this.props
-    const { frontmatter: frontpage } = data.markdownRemark
+    const { frontmatter, html } = this.props.data.markdownRemark
 
     return (
       <Wrapper>
           <Header>
-            <Image sizes={frontpage.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
-            <Tagline>{frontpage.tagline}</Tagline>
+            <Image sizes={frontmatter.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
+            <Tagline>{frontmatter.tagline}</Tagline>
 
           </Header>
+          <Container>
+            <Content><div dangerouslySetInnerHTML={{ __html: html }}  /></Content>
+          </Container>
       </Wrapper>
     )
   }
@@ -34,7 +40,7 @@ FaqPage.propTypes = {
 
 export const pageQuery = graphql`
   query FaqQuery {
-    markdownRemark(frontmatter: {templateKey: { eq: "concept" }}) {
+    markdownRemark(frontmatter: {templateKey: { eq: "faq" }}) {
       html
       frontmatter {
         image {
@@ -46,7 +52,6 @@ export const pageQuery = graphql`
           }
         }
         tagline
-        welcome
       }
     }
   }
