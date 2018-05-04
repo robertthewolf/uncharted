@@ -15,9 +15,11 @@ const Wrapper = styled.div`
 position: absolute
 right: 1em
 padding-top: 1em;
+perspective: 100px;
 `
 
 const Container = styled.div`
+animation: popUp .5s ease;
 background-color: #222
 color: white
 line-height: 2em

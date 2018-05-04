@@ -3,9 +3,9 @@ templateKey: 'terms'
 image: /img/hero1.jpg
 tagline: Terms And Conditions
 ---
+
 #### **Important notes:**
 
-  
 
 * All tours start and end in the city of Cluj-Napoca;
 

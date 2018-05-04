@@ -56,7 +56,6 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "concept"}
           - {label: "Tagline", name: "tagline", widget: "string"}
-          - {label: "Welcoming paragraph", name: "welcome", widget: "text"}
           - {label: "Cover image", name: "image", widget: "image"}
           - {label: "Body text", name: "body", widget: "markdown"}
       - file: "src/data/stories.md"
@@ -73,7 +72,6 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "terms"}
           - {label: "Tagline", name: "tagline", widget: "string"}
-          - {label: "Welcoming paragraph", name: "welcome", widget: "text"}
           - {label: "Cover image", name: "image", widget: "image"}
           - {label: "Body text", name: "body", widget: "markdown"}
     

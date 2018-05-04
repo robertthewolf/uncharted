@@ -6,32 +6,25 @@ import Image from 'gatsby-image'
 
 import Header from '../components/Header'
 import Wrapper from '../components/Wrapper'
+import Container from '../components/Container'
+import Content from '../components/Content'
 import Map from '../components/Map'
 
 export default class ConceptPage extends React.Component {
   render() {
     const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark
-    const { frontmatter: frontpage } = data.markdownRemark
+    const { frontmatter, html } = data.markdownRemark
 
     return (
       <Wrapper>
           <Header>
-            <Image sizes={frontpage.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
-            <Tagline>{frontpage.tagline}</Tagline>
-            <Welcome>{frontpage.welcome}</Welcome>
+            <Image sizes={frontmatter.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
+            <Tagline>{frontmatter.tagline}</Tagline>
 
           </Header>
-          <Map>
-          {posts
-            .filter(post => post.node.frontmatter.templateKey === 'value')
-            .map(({ node: post }) => (
-                  <li key={post.id}>
-                    <Heading>{post.frontmatter.heading}</Heading>
-                    <Text>{post.frontmatter.text}</Text>
-                  </li>
-            ))}
-          </Map>
+          <Container>
+            <Content><div dangerouslySetInnerHTML={{ __html: html }}  /></Content>
+          </Container>
       </Wrapper>
     )
   }
@@ -46,47 +39,22 @@ ConceptPage.propTypes = {
 }
 
 export const pageQuery = graphql`
-  query ConceptQuery {
-    markdownRemark(frontmatter: {templateKey: { eq: "concept" }}) {
-      html
-      frontmatter {
-        image {
-          childImageSharp {
-            sizes(maxWidth: 1000) {
-              ...GatsbyImageSharpSizes
-              aspectRatio
-            }
-          }
-        }
-        tagline
-        welcome
-      }
-    }
-    allMarkdownRemark {
-      edges {
-        node {
-          excerpt(pruneLength: 400)
-          id
-          fields {
-            slug
-          }
-          frontmatter {
-            heading
-            text
-            templateKey
-            image {
-              childImageSharp {
-                sizes(maxWidth: 1000) {
-                  ...GatsbyImageSharpSizes
-                  aspectRatio
-                }
-              }
-            }
+query ConceptQuery {
+  markdownRemark(frontmatter: {templateKey: { eq: "concept" }}) {
+    html
+    frontmatter {
+      image {
+        childImageSharp {
+          sizes(maxWidth: 1000) {
+            ...GatsbyImageSharpSizes
+            aspectRatio
           }
         }
       }
+      tagline
     }
   }
+}
 `
 
 

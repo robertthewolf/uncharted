@@ -17,7 +17,6 @@ export default class TermsPage extends React.Component {
           <Header white>
             <Image sizes={frontmatter.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
             <Tagline>{frontmatter.tagline}</Tagline>
-            <Welcome>{frontmatter.welcome}</Welcome>
           </Header>
           <Content dangerouslySetInnerHTML={{ __html: html }} />
       </Wrapper>
@@ -47,7 +46,6 @@ export const pageQuery = graphql`
           }
         }
         tagline
-        welcome
       }
     }
   }
