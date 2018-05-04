@@ -36,30 +36,30 @@ being formed, while footsteps are left behind.
 * Cancellation
 
 ##What is not included in the price?
-•	Transport to the starting point of the tour, Cluj–Napoca t/r
-•	Travel Insurance
-•	Lunch and dinner, apart from the meals specified in the daily schedules
+* Transport to the starting point of the tour, Cluj–Napoca t/r
+* Travel Insurance
+* Lunch and dinner, apart from the meals specified in the daily schedules
 
 ##Why we love this adventure?
-•	Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling
-•	It was designed for individual travellers, group of friends or co-workers as well as families
-•	This tour provides a wide variety of mountain activities that can be performed, all to ensure that you, the adventurer, are able to explore the nature beauty from all angles 
-•	It is the ideal opportunity to experience an active trip if you have not done it before. The routes and activities are designed to make you enjoy adventure while at the same time not totally consume your energy
-•	Ideal break from the daily routine
-•	The travellers have the chance to discover and visit the city in a new way, by engaging themselves in an interactive game of treasure-hunt
-•	It is suitable for a different variety of interests such as sports, sightseeing, gastronomy, culture, traditions
-•	Holiday and Adventure are combined under the shape of healthy sports activities
-•	This adventure will fully immerse you into the natural beauty of Transylvania and the culture it represents
-•	The most important things you have to bring along are mountain boots, rain jacket and good vibes. All the rest such as gear for different activities will be provided either by us or our partners. 
-•	By joining this adventure, you will take part in ensuring sustainable travelling so that future generations can enjoy the places you help to preserve
+* Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling
+* It was designed for individual travellers, group of friends or co-workers as well as families
+* This tour provides a wide variety of mountain activities that can be performed, all to ensure that you, the adventurer, are able to explore the nature beauty from all angles 
+* It is the ideal opportunity to experience an active trip if you have not done it before. The routes and activities are designed to make you enjoy adventure while at the same time not totally consume your energy
+* Ideal break from the daily routine
+* The travellers have the chance to discover and visit the city in a new way, by engaging themselves in an interactive game of treasure-hunt
+* It is suitable for a different variety of interests such as sports, sightseeing, gastronomy, culture, traditions
+* Holiday and Adventure are combined under the shape of healthy sports activities
+* This adventure will fully immerse you into the natural beauty of Transylvania and the culture it represents
+* The most important things you have to bring along are mountain boots, rain jacket and good vibes. All the rest such as gear for different activities will be provided either by us or our partners. 
+* By joining this adventure, you will take part in ensuring sustainable travelling so that future generations can enjoy the places you help to preserve
 
 
 
 ##Is this adventure right for you?
-•	A minimum level of fitness is required as the hiking tour and rock climbing involve a fair amount of physical exercise
-•	Temperatures in the spring – autumn interval can vary from ca. 15°C up to 35°C so make sure that apart from rain jackets and warm clothes you also bring sunscreen cream
-•	The tour is suitable for families due to it’s high focus activities that fit perfectly the picture of “an active Sunday with the family”, but also for any other type of adventure enthusiast.
-•	The tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed
+* A minimum level of fitness is required as the hiking tour and rock climbing involve a fair amount of physical exercise
+* Temperatures in the spring – autumn interval can vary from ca. 15°C up to 35°C so make sure that apart from rain jackets and warm clothes you also bring sunscreen cream
+* The tour is suitable for families due to it’s high focus activities that fit perfectly the picture of “an active Sunday with the family”, but also for any other type of adventure enthusiast.
+* The tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed
 
 ## Itinerary
 ###Day 1 * Hiking in Turzii Gorges, Visit Salina Turda

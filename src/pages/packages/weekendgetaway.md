@@ -35,21 +35,21 @@ take care of.
 
 ## Why we love this adventure?
 
-•	Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling; 
+* Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling; 
 
-•	Tour is suitable for families, couples, friends or individual, all with the same interest to discover a new culture in an interactive way;
+* Tour is suitable for families, couples, friends or individual, all with the same interest to discover a new culture in an interactive way;
 
-•	You get to experience the culture and traditions of Transylvania, as well as the landscapes surrounding it;
+* You get to experience the culture and traditions of Transylvania, as well as the landscapes surrounding it;
 
-•	The gastronomical experience consists not only of tasting the traditional products, but also learning how they are made and see where they come from
+* The gastronomical experience consists not only of tasting the traditional products, but also learning how they are made and see where they come from
 
-•	It is an active way to discover a new culture, through a weekend getaway;
+* It is an active way to discover a new culture, through a weekend getaway;
 
-•	High emphasis on sustainable travelling.
+* High emphasis on sustainable travelling.
 
 ## Is this adventure suitable for you?
 
-•	If you love food, drinks and discovering new cultures and traditions, then this adventure is the ideal getaway with you
+* If you love food, drinks and discovering new cultures and traditions, then this adventure is the ideal getaway with you
 
 
 
