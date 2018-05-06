@@ -124,7 +124,6 @@ export const pageQuery = graphql`
           frontmatter {
             title
             templateKey
-            name
             image {
               childImageSharp {
                 sizes(maxWidth: 1000) {

@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "88e70efa48450f4bccb93ec346c89a33",
+        "contentDigest": "b6bbbacfdacdbb5c9693b2f5f34eb4f8",
         "owner": "internal-data-bridge"
       }
     },
@@ -1019,12 +1019,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-06T10:02:04.338Z",
+      "buildTime": "2018-05-06T21:33:52.341Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e8b452393f50ae3efa9bb847f75025f7",
+        "contentDigest": "7b7c9506f9efb7affa2f08a9de67a537",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1034,7 +1034,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "731b80f05cd1c4ff35f2144b512e81cd",
+        "contentDigest": "1e3449e337e423af72aa532bf8dff622",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1042,11 +1042,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/pages",
       "relativePath": "",
       "extension": "",
-      "size": 352,
-      "prettySize": "352 B",
-      "modifiedTime": "2018-04-30T14:48:10.138Z",
-      "accessTime": "2018-05-06T10:02:09.138Z",
-      "changeTime": "2018-04-30T14:48:10.138Z",
+      "size": 384,
+      "prettySize": "384 B",
+      "modifiedTime": "2018-05-06T21:27:07.109Z",
+      "accessTime": "2018-05-06T21:33:54.601Z",
+      "changeTime": "2018-05-06T21:27:07.109Z",
       "birthTime": "2018-03-24T20:07:41.319Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src",
@@ -1056,20 +1056,20 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 11,
+      "nlink": 12,
       "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 8600035683,
       "blocks": 0,
-      "atimeMs": 1525600929137.8281,
-      "mtimeMs": 1525099690137.7363,
-      "ctimeMs": 1525099690137.7363,
+      "atimeMs": 1525642434600.9275,
+      "mtimeMs": 1525642027109.001,
+      "ctimeMs": 1525642027109.001,
       "birthtimeMs": 1521922061319.3135,
-      "atime": "2018-05-06T10:02:09.138Z",
-      "mtime": "2018-04-30T14:48:10.138Z",
-      "ctime": "2018-04-30T14:48:10.138Z",
+      "atime": "2018-05-06T21:33:54.601Z",
+      "mtime": "2018-05-06T21:27:07.109Z",
+      "ctime": "2018-05-06T21:27:07.109Z",
       "birthtime": "2018-03-24T20:07:41.319Z"
     },
     "/Users/Robert/uncharted/src/pages/blog absPath of file": {
@@ -1077,7 +1077,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "abd4a9bc34124a6e31c852cf74650403",
+        "contentDigest": "dc7b20065142f8f7c9fa2d787dd126b7",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1088,7 +1088,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-03-24T20:07:41.321Z",
-      "accessTime": "2018-05-06T10:02:09.140Z",
+      "accessTime": "2018-05-06T21:33:54.605Z",
       "changeTime": "2018-03-24T20:07:41.321Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
@@ -1106,11 +1106,11 @@
       "blksize": 4194304,
       "ino": 8600035687,
       "blocks": 0,
-      "atimeMs": 1525600929140.247,
+      "atimeMs": 1525642434604.8982,
       "mtimeMs": 1521922061320.7075,
       "ctimeMs": 1521922061320.7075,
       "birthtimeMs": 1521922061319.9465,
-      "atime": "2018-05-06T10:02:09.140Z",
+      "atime": "2018-05-06T21:33:54.605Z",
       "mtime": "2018-03-24T20:07:41.321Z",
       "ctime": "2018-03-24T20:07:41.321Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
@@ -1120,7 +1120,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f9dd800d87dc0c9f52d0fef6ac81ee0c",
+        "contentDigest": "036a2626b8438e560a3f24dac66a426d",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1130,9 +1130,9 @@
       "extension": "",
       "size": 192,
       "prettySize": "192 B",
-      "modifiedTime": "2018-05-06T10:01:57.867Z",
-      "accessTime": "2018-05-06T10:02:09.140Z",
-      "changeTime": "2018-05-06T10:01:57.867Z",
+      "modifiedTime": "2018-05-06T21:24:44.473Z",
+      "accessTime": "2018-05-06T21:33:54.605Z",
+      "changeTime": "2018-05-06T21:24:44.473Z",
       "birthTime": "2018-03-25T00:03:05.423Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages",
@@ -1149,13 +1149,13 @@
       "blksize": 4194304,
       "ino": 8600232496,
       "blocks": 0,
-      "atimeMs": 1525600929140.1858,
-      "mtimeMs": 1525600917866.784,
-      "ctimeMs": 1525600917866.784,
+      "atimeMs": 1525642434604.8247,
+      "mtimeMs": 1525641884473.2761,
+      "ctimeMs": 1525641884473.2761,
       "birthtimeMs": 1521936185423.1204,
-      "atime": "2018-05-06T10:02:09.140Z",
-      "mtime": "2018-05-06T10:01:57.867Z",
-      "ctime": "2018-05-06T10:01:57.867Z",
+      "atime": "2018-05-06T21:33:54.605Z",
+      "mtime": "2018-05-06T21:24:44.473Z",
+      "ctime": "2018-05-06T21:24:44.473Z",
       "birthtime": "2018-03-25T00:03:05.423Z"
     },
     "/Users/Robert/uncharted/src/pages/404.js absPath of file": {
@@ -1175,7 +1175,7 @@
       "size": 198,
       "prettySize": "198 B",
       "modifiedTime": "2018-03-24T20:07:41.319Z",
-      "accessTime": "2018-05-03T20:20:36.935Z",
+      "accessTime": "2018-05-06T21:32:56.974Z",
       "changeTime": "2018-03-24T20:07:41.319Z",
       "birthTime": "2018-03-24T20:07:41.319Z",
       "root": "/",
@@ -1193,11 +1193,11 @@
       "blksize": 4194304,
       "ino": 8600035684,
       "blocks": 8,
-      "atimeMs": 1525378836935.4077,
+      "atimeMs": 1525642376973.5876,
       "mtimeMs": 1521922061319.4634,
       "ctimeMs": 1521922061319.4634,
       "birthtimeMs": 1521922061319.3723,
-      "atime": "2018-05-03T20:20:36.935Z",
+      "atime": "2018-05-06T21:32:56.974Z",
       "mtime": "2018-03-24T20:07:41.319Z",
       "ctime": "2018-03-24T20:07:41.319Z",
       "birthtime": "2018-03-24T20:07:41.319Z"
@@ -1219,7 +1219,7 @@
       "size": 1688,
       "prettySize": "1.69 kB",
       "modifiedTime": "2018-05-04T21:52:40.896Z",
-      "accessTime": "2018-05-04T21:52:40.896Z",
+      "accessTime": "2018-05-06T21:32:56.974Z",
       "changeTime": "2018-05-04T21:52:40.896Z",
       "birthTime": "2018-04-12T20:23:07.016Z",
       "root": "/",
@@ -1237,11 +1237,11 @@
       "blksize": 4194304,
       "ino": 8601654282,
       "blocks": 8,
-      "atimeMs": 1525470760895.8293,
+      "atimeMs": 1525642376973.6042,
       "mtimeMs": 1525470760896.27,
       "ctimeMs": 1525470760896.27,
       "birthtimeMs": 1523564587015.696,
-      "atime": "2018-05-04T21:52:40.896Z",
+      "atime": "2018-05-06T21:32:56.974Z",
       "mtime": "2018-05-04T21:52:40.896Z",
       "ctime": "2018-05-04T21:52:40.896Z",
       "birthtime": "2018-04-12T20:23:07.016Z"
@@ -1263,7 +1263,7 @@
       "size": 216,
       "prettySize": "216 B",
       "modifiedTime": "2018-04-23T22:10:09.746Z",
-      "accessTime": "2018-05-03T20:20:36.935Z",
+      "accessTime": "2018-05-06T21:32:56.974Z",
       "changeTime": "2018-04-23T22:10:09.747Z",
       "birthTime": "2018-04-23T22:08:10.996Z",
       "root": "/",
@@ -1281,14 +1281,58 @@
       "blksize": 4194304,
       "ino": 8602351520,
       "blocks": 8,
-      "atimeMs": 1525378836935.458,
+      "atimeMs": 1525642376973.6392,
       "mtimeMs": 1524521409746,
       "ctimeMs": 1524521409746.93,
       "birthtimeMs": 1524521290995.6768,
-      "atime": "2018-05-03T20:20:36.935Z",
+      "atime": "2018-05-06T21:32:56.974Z",
       "mtime": "2018-04-23T22:10:09.746Z",
       "ctime": "2018-04-23T22:10:09.747Z",
       "birthtime": "2018-04-23T22:08:10.996Z"
+    },
+    "/Users/Robert/uncharted/src/pages/contact.js absPath of file": {
+      "id": "/Users/Robert/uncharted/src/pages/contact.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4be023a35331c170a545c6cdbf0dba2c",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Robert/uncharted/src/pages/contact.js",
+      "relativePath": "contact.js",
+      "extension": "js",
+      "size": 1607,
+      "prettySize": "1.61 kB",
+      "modifiedTime": "2018-05-06T21:43:36.960Z",
+      "accessTime": "2018-05-06T21:43:36.959Z",
+      "changeTime": "2018-05-06T21:43:36.960Z",
+      "birthTime": "2018-05-06T21:27:03.307Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/pages",
+      "base": "contact.js",
+      "ext": ".js",
+      "name": "contact",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8603117481,
+      "blocks": 8,
+      "atimeMs": 1525643016959.2632,
+      "mtimeMs": 1525643016960.1997,
+      "ctimeMs": 1525643016960.1997,
+      "birthtimeMs": 1525642023307.4207,
+      "atime": "2018-05-06T21:43:36.959Z",
+      "mtime": "2018-05-06T21:43:36.960Z",
+      "ctime": "2018-05-06T21:43:36.960Z",
+      "birthtime": "2018-05-06T21:27:03.307Z"
     },
     "/Users/Robert/uncharted/src/pages/faq.js absPath of file": {
       "id": "/Users/Robert/uncharted/src/pages/faq.js absPath of file",
@@ -1307,7 +1351,7 @@
       "size": 1424,
       "prettySize": "1.42 kB",
       "modifiedTime": "2018-05-04T22:05:23.752Z",
-      "accessTime": "2018-05-04T22:05:23.752Z",
+      "accessTime": "2018-05-06T21:32:56.974Z",
       "changeTime": "2018-05-04T22:05:23.752Z",
       "birthTime": "2018-04-29T15:57:05.096Z",
       "root": "/",
@@ -1325,11 +1369,11 @@
       "blksize": 4194304,
       "ino": 8602514089,
       "blocks": 8,
-      "atimeMs": 1525471523751.549,
+      "atimeMs": 1525642376973.705,
       "mtimeMs": 1525471523751.8599,
       "ctimeMs": 1525471523751.8599,
       "birthtimeMs": 1525017425096.3462,
-      "atime": "2018-05-04T22:05:23.752Z",
+      "atime": "2018-05-06T21:32:56.974Z",
       "mtime": "2018-05-04T22:05:23.752Z",
       "ctime": "2018-05-04T22:05:23.752Z",
       "birthtime": "2018-04-29T15:57:05.096Z"
@@ -1339,7 +1383,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "14a90d9a735b9a3c1882a4c22e501dbe",
+        "contentDigest": "e2a6bfd95d085f009af307bd712ed6f0",
         "mediaType": "application/javascript",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1348,11 +1392,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/pages/index.js",
       "relativePath": "index.js",
       "extension": "js",
-      "size": 4999,
-      "prettySize": "5 kB",
-      "modifiedTime": "2018-05-03T20:32:23.522Z",
-      "accessTime": "2018-05-03T20:32:23.520Z",
-      "changeTime": "2018-05-03T20:32:23.522Z",
+      "size": 4982,
+      "prettySize": "4.98 kB",
+      "modifiedTime": "2018-05-06T21:24:09.349Z",
+      "accessTime": "2018-05-06T21:32:56.974Z",
+      "changeTime": "2018-05-06T21:24:09.349Z",
       "birthTime": "2018-03-24T20:07:41.321Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages",
@@ -1369,13 +1413,13 @@
       "blksize": 4194304,
       "ino": 8600035691,
       "blocks": 16,
-      "atimeMs": 1525379543520.4124,
-      "mtimeMs": 1525379543521.9172,
-      "ctimeMs": 1525379543521.9172,
+      "atimeMs": 1525642376973.7068,
+      "mtimeMs": 1525641849348.9636,
+      "ctimeMs": 1525641849348.9636,
       "birthtimeMs": 1521922061320.8904,
-      "atime": "2018-05-03T20:32:23.520Z",
-      "mtime": "2018-05-03T20:32:23.522Z",
-      "ctime": "2018-05-03T20:32:23.522Z",
+      "atime": "2018-05-06T21:32:56.974Z",
+      "mtime": "2018-05-06T21:24:09.349Z",
+      "ctime": "2018-05-06T21:24:09.349Z",
       "birthtime": "2018-03-24T20:07:41.321Z"
     },
     "/Users/Robert/uncharted/src/pages/stories.js absPath of file": {
@@ -1395,7 +1439,7 @@
       "size": 3372,
       "prettySize": "3.37 kB",
       "modifiedTime": "2018-05-03T19:48:41.620Z",
-      "accessTime": "2018-05-03T20:20:36.936Z",
+      "accessTime": "2018-05-06T21:32:57.071Z",
       "changeTime": "2018-05-03T19:48:41.620Z",
       "birthTime": "2018-04-12T19:48:35.625Z",
       "root": "/",
@@ -1413,11 +1457,11 @@
       "blksize": 4194304,
       "ino": 8601652565,
       "blocks": 8,
-      "atimeMs": 1525378836935.525,
+      "atimeMs": 1525642377071.1863,
       "mtimeMs": 1525376921619.8496,
       "ctimeMs": 1525376921619.8496,
       "birthtimeMs": 1523562515624.7998,
-      "atime": "2018-05-03T20:20:36.936Z",
+      "atime": "2018-05-06T21:32:57.071Z",
       "mtime": "2018-05-03T19:48:41.620Z",
       "ctime": "2018-05-03T19:48:41.620Z",
       "birthtime": "2018-04-12T19:48:35.625Z"
@@ -1439,7 +1483,7 @@
       "size": 1414,
       "prettySize": "1.41 kB",
       "modifiedTime": "2018-05-04T22:07:10.153Z",
-      "accessTime": "2018-05-04T22:07:10.152Z",
+      "accessTime": "2018-05-06T21:32:57.071Z",
       "changeTime": "2018-05-04T22:07:10.153Z",
       "birthTime": "2018-04-29T15:57:17.264Z",
       "root": "/",
@@ -1457,11 +1501,11 @@
       "blksize": 4194304,
       "ino": 8602514106,
       "blocks": 8,
-      "atimeMs": 1525471630152.3203,
+      "atimeMs": 1525642377071.1606,
       "mtimeMs": 1525471630152.6506,
       "ctimeMs": 1525471630152.6506,
       "birthtimeMs": 1525017437263.546,
-      "atime": "2018-05-04T22:07:10.152Z",
+      "atime": "2018-05-06T21:32:57.071Z",
       "mtime": "2018-05-04T22:07:10.153Z",
       "ctime": "2018-05-04T22:07:10.153Z",
       "birthtime": "2018-04-29T15:57:17.264Z"
@@ -1473,7 +1517,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "20ddb678f67f340dfdb0d713479a86dc",
+        "contentDigest": "ab8a2a48384c73ea73d8bbb78544db89",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1482,12 +1526,12 @@
       "absolutePath": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md",
       "relativePath": "packages/fullnatureadventure.md",
       "extension": "md",
-      "size": 4996,
-      "prettySize": "5 kB",
-      "modifiedTime": "2018-05-04T11:09:47.132Z",
-      "accessTime": "2018-05-04T11:09:47.131Z",
-      "changeTime": "2018-05-04T11:09:47.132Z",
-      "birthTime": "2018-05-02T21:50:49.290Z",
+      "size": 5012,
+      "prettySize": "5.01 kB",
+      "modifiedTime": "2018-05-06T21:24:44.469Z",
+      "accessTime": "2018-05-06T21:32:56.763Z",
+      "changeTime": "2018-05-06T21:24:44.469Z",
+      "birthTime": "2018-05-06T21:24:44.469Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages/packages",
       "base": "fullnatureadventure.md",
@@ -1501,16 +1545,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602727631,
+      "ino": 8603117414,
       "blocks": 16,
-      "atimeMs": 1525432187131.1582,
-      "mtimeMs": 1525432187132.076,
-      "ctimeMs": 1525432187132.076,
-      "birthtimeMs": 1525297849289.6694,
-      "atime": "2018-05-04T11:09:47.131Z",
-      "mtime": "2018-05-04T11:09:47.132Z",
-      "ctime": "2018-05-04T11:09:47.132Z",
-      "birthtime": "2018-05-02T21:50:49.290Z"
+      "atimeMs": 1525642376762.7205,
+      "mtimeMs": 1525641884469.346,
+      "ctimeMs": 1525641884469.346,
+      "birthtimeMs": 1525641884469.0442,
+      "atime": "2018-05-06T21:32:56.763Z",
+      "mtime": "2018-05-06T21:24:44.469Z",
+      "ctime": "2018-05-06T21:24:44.469Z",
+      "birthtime": "2018-05-06T21:24:44.469Z"
     },
     "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file",
@@ -1519,7 +1563,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3eaa315a90a47659a589768cbf897fb0",
+        "contentDigest": "bf00d67db3ddbe893d97259cb78d5be3",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1528,12 +1572,12 @@
       "absolutePath": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md",
       "relativePath": "packages/senseofadventure.md",
       "extension": "md",
-      "size": 8685,
-      "prettySize": "8.69 kB",
-      "modifiedTime": "2018-05-04T10:59:02.430Z",
-      "accessTime": "2018-05-04T10:59:02.429Z",
-      "changeTime": "2018-05-04T10:59:02.430Z",
-      "birthTime": "2018-05-02T21:50:49.290Z",
+      "size": 8739,
+      "prettySize": "8.74 kB",
+      "modifiedTime": "2018-05-06T21:24:44.471Z",
+      "accessTime": "2018-05-06T21:32:56.763Z",
+      "changeTime": "2018-05-06T21:24:44.471Z",
+      "birthTime": "2018-05-06T21:24:44.470Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages/packages",
       "base": "senseofadventure.md",
@@ -1547,16 +1591,154 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602727632,
+      "ino": 8603117415,
       "blocks": 24,
-      "atimeMs": 1525431542429.3203,
-      "mtimeMs": 1525431542429.7388,
-      "ctimeMs": 1525431542429.7388,
-      "birthtimeMs": 1525297849290.3687,
-      "atime": "2018-05-04T10:59:02.429Z",
-      "mtime": "2018-05-04T10:59:02.430Z",
-      "ctime": "2018-05-04T10:59:02.430Z",
-      "birthtime": "2018-05-02T21:50:49.290Z"
+      "atimeMs": 1525642376762.723,
+      "mtimeMs": 1525641884470.918,
+      "ctimeMs": 1525641884470.918,
+      "birthtimeMs": 1525641884470.39,
+      "atime": "2018-05-06T21:32:56.763Z",
+      "mtime": "2018-05-06T21:24:44.471Z",
+      "ctime": "2018-05-06T21:24:44.471Z",
+      "birthtime": "2018-05-06T21:24:44.470Z"
+    },
+    "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2a8eeee41be930858cc32b0b9fc24536",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md",
+      "relativePath": "packages/the-wild-carpathians.md",
+      "extension": "md",
+      "size": 9059,
+      "prettySize": "9.06 kB",
+      "modifiedTime": "2018-05-06T21:24:44.473Z",
+      "accessTime": "2018-05-06T21:32:56.763Z",
+      "changeTime": "2018-05-06T21:24:44.473Z",
+      "birthTime": "2018-05-06T21:24:44.472Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/pages/packages",
+      "base": "the-wild-carpathians.md",
+      "ext": ".md",
+      "name": "the-wild-carpathians",
+      "relativeDirectory": "packages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8603117416,
+      "blocks": 24,
+      "atimeMs": 1525642376762.7617,
+      "mtimeMs": 1525641884472.5288,
+      "ctimeMs": 1525641884472.5288,
+      "birthtimeMs": 1525641884472.1414,
+      "atime": "2018-05-06T21:32:56.763Z",
+      "mtime": "2018-05-06T21:24:44.473Z",
+      "ctime": "2018-05-06T21:24:44.473Z",
+      "birthtime": "2018-05-06T21:24:44.472Z"
+    },
+    "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "607517e1a6330fcaeb4285da52c3cad4",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md",
+      "relativePath": "packages/weekendgetaway.md",
+      "extension": "md",
+      "size": 3986,
+      "prettySize": "3.99 kB",
+      "modifiedTime": "2018-05-06T21:24:44.474Z",
+      "accessTime": "2018-05-06T21:32:56.763Z",
+      "changeTime": "2018-05-06T21:24:44.474Z",
+      "birthTime": "2018-05-06T21:24:44.473Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/pages/packages",
+      "base": "weekendgetaway.md",
+      "ext": ".md",
+      "name": "weekendgetaway",
+      "relativeDirectory": "packages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8603117417,
+      "blocks": 8,
+      "atimeMs": 1525642376762.809,
+      "mtimeMs": 1525641884473.599,
+      "ctimeMs": 1525641884473.599,
+      "birthtimeMs": 1525641884473.2625,
+      "atime": "2018-05-06T21:32:56.763Z",
+      "mtime": "2018-05-06T21:24:44.474Z",
+      "ctime": "2018-05-06T21:24:44.474Z",
+      "birthtime": "2018-05-06T21:24:44.473Z"
+    },
+    "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "86cc7010deb4202b8177d394dfc9edc7",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "relativePath": "blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "extension": "md",
+      "size": 2231,
+      "prettySize": "2.23 kB",
+      "modifiedTime": "2018-04-12T19:56:53.402Z",
+      "accessTime": "2018-05-06T21:32:56.763Z",
+      "changeTime": "2018-04-12T19:56:53.402Z",
+      "birthTime": "2018-03-24T20:07:41.320Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/pages/blog",
+      "base": "2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "ext": ".md",
+      "name": "2016-12-17-making-sense-of-the-scaas-new-flavor-wheel",
+      "relativeDirectory": "blog",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8600035688,
+      "blocks": 8,
+      "atimeMs": 1525642376762.6638,
+      "mtimeMs": 1523563013402.4001,
+      "ctimeMs": 1523563013402.4001,
+      "birthtimeMs": 1521922061320.0696,
+      "atime": "2018-05-06T21:32:56.763Z",
+      "mtime": "2018-04-12T19:56:53.402Z",
+      "ctime": "2018-04-12T19:56:53.402Z",
+      "birthtime": "2018-03-24T20:07:41.320Z"
     },
     "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file",
@@ -1577,7 +1759,7 @@
       "size": 2476,
       "prettySize": "2.48 kB",
       "modifiedTime": "2018-04-12T19:56:50.436Z",
-      "accessTime": "2018-05-03T19:42:46.889Z",
+      "accessTime": "2018-05-06T21:32:56.763Z",
       "changeTime": "2018-04-12T19:56:50.436Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
@@ -1595,11 +1777,11 @@
       "blksize": 4194304,
       "ino": 8600035689,
       "blocks": 8,
-      "atimeMs": 1525376566889.438,
+      "atimeMs": 1525642376762.705,
       "mtimeMs": 1523563010436.246,
       "ctimeMs": 1523563010436.246,
       "birthtimeMs": 1521922061320.4092,
-      "atime": "2018-05-03T19:42:46.889Z",
+      "atime": "2018-05-06T21:32:56.763Z",
       "mtime": "2018-04-12T19:56:50.436Z",
       "ctime": "2018-04-12T19:56:50.436Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
@@ -1623,7 +1805,7 @@
       "size": 2757,
       "prettySize": "2.76 kB",
       "modifiedTime": "2018-04-12T19:56:57.986Z",
-      "accessTime": "2018-05-03T19:42:46.889Z",
+      "accessTime": "2018-05-06T21:32:56.763Z",
       "changeTime": "2018-04-12T19:56:57.986Z",
       "birthTime": "2018-03-24T20:07:41.321Z",
       "root": "/",
@@ -1641,160 +1823,22 @@
       "blksize": 4194304,
       "ino": 8600035690,
       "blocks": 8,
-      "atimeMs": 1525376566889.4724,
+      "atimeMs": 1525642376762.7146,
       "mtimeMs": 1523563017986.0679,
       "ctimeMs": 1523563017986.0679,
       "birthtimeMs": 1521922061320.7004,
-      "atime": "2018-05-03T19:42:46.889Z",
+      "atime": "2018-05-06T21:32:56.763Z",
       "mtime": "2018-04-12T19:56:57.986Z",
       "ctime": "2018-04-12T19:56:57.986Z",
       "birthtime": "2018-03-24T20:07:41.321Z"
-    },
-    "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "d332cb6c55fe7c4491003fac772dd41a",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md",
-      "relativePath": "packages/the-wild-carpathians.md",
-      "extension": "md",
-      "size": 8981,
-      "prettySize": "8.98 kB",
-      "modifiedTime": "2018-05-04T11:46:18.346Z",
-      "accessTime": "2018-05-04T11:46:31.731Z",
-      "changeTime": "2018-05-04T11:46:18.346Z",
-      "birthTime": "2018-05-02T21:50:49.291Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/pages/packages",
-      "base": "the-wild-carpathians.md",
-      "ext": ".md",
-      "name": "the-wild-carpathians",
-      "relativeDirectory": "packages",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602727633,
-      "blocks": 24,
-      "atimeMs": 1525434391731.2114,
-      "mtimeMs": 1525434378346.187,
-      "ctimeMs": 1525434378346.187,
-      "birthtimeMs": 1525297849290.876,
-      "atime": "2018-05-04T11:46:31.731Z",
-      "mtime": "2018-05-04T11:46:18.346Z",
-      "ctime": "2018-05-04T11:46:18.346Z",
-      "birthtime": "2018-05-02T21:50:49.291Z"
-    },
-    "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "86cc7010deb4202b8177d394dfc9edc7",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
-      "relativePath": "blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
-      "extension": "md",
-      "size": 2231,
-      "prettySize": "2.23 kB",
-      "modifiedTime": "2018-04-12T19:56:53.402Z",
-      "accessTime": "2018-05-03T19:42:46.889Z",
-      "changeTime": "2018-04-12T19:56:53.402Z",
-      "birthTime": "2018-03-24T20:07:41.320Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/pages/blog",
-      "base": "2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
-      "ext": ".md",
-      "name": "2016-12-17-making-sense-of-the-scaas-new-flavor-wheel",
-      "relativeDirectory": "blog",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8600035688,
-      "blocks": 8,
-      "atimeMs": 1525376566889.3726,
-      "mtimeMs": 1523563013402.4001,
-      "ctimeMs": 1523563013402.4001,
-      "birthtimeMs": 1521922061320.0696,
-      "atime": "2018-05-03T19:42:46.889Z",
-      "mtime": "2018-04-12T19:56:53.402Z",
-      "ctime": "2018-04-12T19:56:53.402Z",
-      "birthtime": "2018-03-24T20:07:41.320Z"
-    },
-    "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "05eedc072544b7b433ee7d38fc5d936f",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md",
-      "relativePath": "packages/weekendgetaway.md",
-      "extension": "md",
-      "size": 4051,
-      "prettySize": "4.05 kB",
-      "modifiedTime": "2018-05-06T10:29:07.820Z",
-      "accessTime": "2018-05-06T10:29:07.819Z",
-      "changeTime": "2018-05-06T10:29:07.820Z",
-      "birthTime": "2018-05-06T10:01:57.867Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/pages/packages",
-      "base": "weekendgetaway.md",
-      "ext": ".md",
-      "name": "weekendgetaway",
-      "relativeDirectory": "packages",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602994513,
-      "blocks": 8,
-      "atimeMs": 1525602547819.2126,
-      "mtimeMs": 1525602547819.5688,
-      "ctimeMs": 1525602547819.5688,
-      "birthtimeMs": 1525600917866.7732,
-      "atime": "2018-05-06T10:29:07.819Z",
-      "mtime": "2018-05-06T10:29:07.820Z",
-      "ctime": "2018-05-06T10:29:07.820Z",
-      "birthtime": "2018-05-06T10:01:57.867Z"
     },
     "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark",
       "children": [],
       "parent": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: package\ntitle: The Shepherd's Getaway\ntagline: Find yourself in the natural wonders of Transylvania.\nimage: /img/untitled-57.jpg\nprice: 4.250 DKK\nlenght: 3 days\n\n---\n\nThe word shepherd stands for old traditions, mountain activities and of course\ndelicious and healthy food. That is exactly what you can expect from this\ngetaway. A genuine adventure which will take you on the mountain trails walked\nby the shepherds, to their “castles” on top of the mountains, where an\nexquisite culinary delight is waiting for you. So, all you need to do is bring\nyour appetite for both adventure and traditional products, and we take care of\nthe rest.\n\n## What's Included\n\n* 'Accommodation at traditional mountain chalet '\n* 3 x breakfast\n* 2 x dinner\n* 3 x lunch/ lunch box\n* Activities\n* Airport transfer\n* All local transports within the program\n* 'Professional English speaking guides/mountain rangers '\n* Uncharted Team group leader that will assist you throughout the tour\n  (English speaking)\n* Entry fees to the objectives within the tour\n* This adventure is a package deal; therefore, it provides you with coverage\n  from Travel Guarantee Fund (Rejsegarantifonden) \n* 'Cancellation '\n\n## The Package does not include:\n\n* Transportation to the starting point of the tour, Cluj-Napoca t/r\n\n* Travel Insurance \n\n\n\n## Why we love this adventure?\n\n* Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling;\n\n* It offers you a unique way to visit Transylvania in a getaway experience;\n\n* It was designed for individual travellers, group of friends or co-workers as well as families;\n\n* This getaway is the ideal opportunity to make the most out of an adventure in a new country when you have only few days to spare;\n\n* The adventure is created in such way that it will not create any inconvenience with your work or university classes. You only need to skip Monday and on Tuesday morning you are back. And let’s be honest, wouldn’t you spend your Monday on an adventure rather than anywhere else?\n\n* It combines mountain activities, culture and gastronomy, all in a 3-day adventure.\n\n* High emphasis on sustainable travelling\n\n\n\n## Is this adventure suitable for you?\n\n* A minimum level of fitness is required as the snowshoe hiking tour involves a fair amount of walking, allowing you to really get among nature;\n\n* The tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed.\n\n\n\n\n## Itinerary\n### Day 1 * Culture, Traditions and Gastronomy Tour\n\nWelcome to the mysterious Transylvania. Kick off your adventure with your group leader, who is going to wait for you at the starting point of the tour, Cluj Napoca Airport. From there we will head towards the 2007 Capital of Culture, the city of Sibiu and all the way up to out mountain accommodation.\n\n\n\nIn the morning, we will start our adventure at the bottom of the Cindrel mountains, from where we will start climbing up on a narrow shady path that leads us to an alpine glade; from here, we’ll continue our route till we reach the imposing mountaintops of the Cindrel massif. On the edge of the soft summit lies a traditional picturesque sheepfold. \n\n It’s the perfect place to have a rest, enjoy the astonishing view and learn about the daily simple life of the shepherds. For lunch we will savour the delicious lamb and milk specialties skilfully prepared by the shepherds: different types of cheese (telemea, caş, urdă, burduf, jintiţă), pastrami and bacon, are just a few of the delicious products that, together with the “golden” polenta shall make you drool over.\n\n Of course, all of these shall be accompanied by a sip of schnapps or a glass of red wine.   \n\n\n\n\n\n### Day 2 * Hike and lunch at traditional sheepfold\n\nOur day trip takes you to some lovely villages around Sibiu, in the Mărginime area, at the foothill of the Cindrel Mountains, part of the Southern Carpathians. You’ll get to experience the specific rural gastronomy and taste some of the most representative products of our region. Find out how nature and the territory influences the local cuisine, we will talk about the characteristics of the cultural and gastronomical mosaic during a walk through the village of Sibiel. You will also experience a traditional lunch at a family in Rășinari where you also get to taste various specialities of cheese and local alcoholic drinks.\n\n\n\nWe will help you find out more about small gastronomy projects in our area which is getting ready for 2019, when Sibiu county holds the title of European Region of Gastronomy.\n\n\n\nThe day will end with a well deserved party or night out where we can celebrate the amazing week we had together.\n\n\n\n### Day 3 * Free day, return to airport\n\nOn the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n",
-        "contentDigest": "b63d83a99263c073c3fdf27a50483cfa",
+        "content": "---\ntemplateKey: package\ntitle: The Shepherd's Getaway\ntagline: Find yourself in the natural wonders of Transylvania.\nimage: /img/untitled-57.jpg\nprice: 4.250 DKK\nlenght: 3 days\n---\nThe word shepherd stands for old traditions, mountain activities and of course\ndelicious and healthy food. That is exactly what you can expect from this\ngetaway. A genuine adventure which will take you on the mountain trails walked\nby the shepherds, to their “castles” on top of the mountains, where an\nexquisite culinary delight is waiting for you. So, all you need to do is bring\nyour appetite for both adventure and traditional products, and we take care of\nthe rest.\n\n## What's Included\n\n* 'Accommodation at traditional mountain chalet '\n* 3 x breakfast\n* 2 x dinner\n* 3 x lunch/ lunch box\n* Activities\n* Airport transfer\n* All local transports within the program\n* 'Professional English speaking guides/mountain rangers '\n* Uncharted Team group leader that will assist you throughout the tour\n  (English speaking)\n* Entry fees to the objectives within the tour\n* This adventure is a package deal; therefore, it provides you with coverage\n  from Travel Guarantee Fund (Rejsegarantifonden) \n* 'Cancellation '\n\n## The Package does not include:\n\n* Transportation to the starting point of the tour, Cluj-Napoca t/r\n* Travel Insurance \n\n## Why we love this adventure?\n\n* Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling;\n* It offers you a unique way to visit Transylvania in a getaway experience;\n* It was designed for individual travellers, group of friends or co-workers as well as families;\n* This getaway is the ideal opportunity to make the most out of an adventure in a new country when you have only few days to spare;\n* The adventure is created in such way that it will not create any inconvenience with your work or university classes. You only need to skip Monday and on Tuesday morning you are back. And let’s be honest, wouldn’t you spend your Monday on an adventure rather than anywhere else?\n* It combines mountain activities, culture and gastronomy, all in a 3-day adventure.\n* High emphasis on sustainable travelling\n\n## Is this adventure suitable for you?\n\n* A minimum level of fitness is required as the snowshoe hiking tour involves a fair amount of walking, allowing you to really get among nature;\n* The tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed.\n\n## Itinerary\n\n1. **Culture, Traditions and Gastronomy Tour**\\\n   \\\n   Welcome to the mysterious Transylvania. Kick off your adventure with your group leader, who is going to wait for you at the starting point of the tour, Cluj Napoca Airport. From there we will head towards the 2007 Capital of Culture, the city of Sibiu and all the way up to out mountain accommodation.\\\n   \\\n   In the morning, we will start our adventure at the bottom of the Cindrel mountains, from where we will start climbing up on a narrow shady path that leads us to an alpine glade; from here, we’ll continue our route till we reach the imposing mountaintops of the Cindrel massif. On the edge of the soft summit lies a traditional picturesque sheepfold. \\\n   \\\n    It’s the perfect place to have a rest, enjoy the astonishing view and learn about the daily simple life of the shepherds. For lunch we will savour the delicious lamb and milk specialties skilfully prepared by the shepherds: different types of cheese (telemea, caş, urdă, burduf, jintiţă), pastrami and bacon, are just a few of the delicious products that, together with the “golden” polenta shall make you drool over.\\\n   \\\n   Of course, all of these shall be accompanied by a sip of schnapps or a glass of red wine.   \n2. **Hike and lunch at traditional sheepfold**\\\n   \\\n   Our day trip takes you to some lovely villages around Sibiu, in the Mărginime area, at the foothill of the Cindrel Mountains, part of the Southern Carpathians. You’ll get to experience the specific rural gastronomy and taste some of the most representative products of our region. Find out how nature and the territory influences the local cuisine, we will talk about the characteristics of the cultural and gastronomical mosaic during a walk through the village of Sibiel. You will also experience a traditional lunch at a family in Rășinari where you also get to taste various specialities of cheese and local alcoholic drinks.\\\n   \\\n   We will help you find out more about small gastronomy projects in our area which is getting ready for 2019, when Sibiu county holds the title of European Region of Gastronomy.\\\n   \\\n   The day will end with a well deserved party or night out where we can celebrate the amazing week we had together.\n3. **Free day, return to airport**\\\n   \\\n   On the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n",
+        "contentDigest": "b09ab77905a7c53d3ff9a4cc3c7e0bdb",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -1815,6 +1859,125 @@
       "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md",
       "fields": {
         "slug": "/packages/fullnatureadventure/"
+      }
+    },
+    "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: package\ntitle: Medieval and Wild Adventure\ntagline: A walk back in time\nimage: /img/untitled-54.jpg\nprice: 6.600 DKK\nlenght: 7 days\n---\nThis adventure represents a journey to explore relics of old times and\ntraditions, a walk back in time as well as a taste of Transylvanian history.\nIt is a way to be part of the culture and traditions while stepping away from\nthe rudimental way of travelling and engaging in a unique discovery process.\nYou will experience the medieval and wild Transylvania, from the mountains and\nnature surrounding it, through old cities full of history and mysteries, all\nthe way to the rural environment where traditions and gastronomy were kept\nintact for ages.\n\n## What is included in the price?\n\n* 6 x nights Accommodation traditional modern guest house\n* 1 x night Accommodation in Cluj-Napoca\n* 7 x breakfast\n* Meals mentioned in the daily description\n* Transportation within the tour\n* 'Airport transfer '\n* 'Professional English speaking guides/mountain rangers '\n* Uncharted Team group leader that will assist you throughout the tour\n  (English speaking)\n* Activities highlighted in the itinerary\n* Entry fees to the objectives within the tour\n* This adventure is a package deal; therefore, it provides you with coverage\n  from Travel Guarantee Fund (Rejsegarantifonden) \n* Cancellation\n\n## What is not included in the price?\n\n* Transport to the starting point of the tour, Cluj–Napoca t/r\n* Travel Insurance\n* Lunch and dinner, apart from the meals specified in the daily schedules\n\n## Why we love this adventure?\n\n* Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling\n* It was designed for individual travellers, group of friends or co-workers as well as families\n* The travellers have the chance to discover and visit the city in a new way, by engaging themselves in an interactive game of treasure-hunt\n* It is suitable for a different variety of interests such as sports, sightseeing, gastronomy, culture, traditions\n* It is the ideal opportunity to experience a genuine adventure if you have not done it before. \n* All activities (even hiking, off-road, horseback riding) have as main focus discovering the genuine rural lifestyle, as well as the old customs and traditions of Transylvania\n* Every day’s schedule and activities are designed in such way that you will get a unique experience and understanding of the culture, traditions, nature and history of Transylvania. Everything being done in an exciting way that will keep you engaged all the way through\n* By joining this adventure, you will take part in ensuring sustainable travelling so that future generations can enjoy the places you help to preserve\n* We do not plan your time, we offer you the “tools” to discover Transylvania and make the most out of this adventure, so that at the end of the day you can say “I have done all that could be done in 1 week”\n\n## Is this adventure right for you?\n\n* A minimum level of fitness is required as the hiking tour and rock climbing involve a fair amount of physical exercise\n* Temperatures in the spring – autumn interval can vary from ca. 15°C up to 35°C so make sure that apart from rain jackets and warm clothes you also bring sunscreen cream\n* The tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed\n* This tour includes a lot of traditional food tasting, therefore if you have any allergies or different choices in taste, please inform us beforehand so we make sure no unpleasantness will occur \n\n## Itinerary\n\n1. **Hiking in Turzii Gorges, Visit Salina Turda**\n\n   Before the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.\\\n   \\\n   In the morning we will Kick off the adventure with a visit to the biggest and oldest salt mine in Romania, 108m underground, dating from 1271. Here you will be able to discover the wonders that lie underneath Transylvanian hills and mountains.\\\n   \\\n   Our next stop will be Turzii gorges, where we will move from the underground wonders to the cliffs, valleys and rivers that lie in from of your eyes. We will hike throughout the canyon while at the same time discovering together the hidden caves inside the gorges.\\\n   \\\n   We will then travel to our accommodation in the Cindrel mountains, more precisely Arena Platos Resort. Once at the accommodation, all participants will be greeted with a traditional meal and the rest of the evening will be dedicated to resting and getting to know each other.\n2. **Hiking in the 7 Ladder Canyon, Offroad 4x4**\\\n   \\\n   The second day will start by heading towards the Carpathian Mountains, more precisely the Bucegi Mountains Sector. We will start with an easy hike towards the 7 Ladders Canyon, followed by traversing the canyon in a unique style. The hike will end in a picnic on the top of the canyon, after we will continue discovering the Carpathians with a 4x4 off-road tour. We will travel over high ground, through forest and woodland on various difficulty tracks, making for a great experience. Along the way, we will stop for a cosy picnic in a breath-taking view spot. Make sure your phones and photo cameras are fully charged to take proper advantage of the amazing landscapes\\\n   \\\n   The day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. \n3. **Culture, Traditions and Gastronomy Tour**\\\n   \\\n   The food tour of today, goes through the typical cultural landscapes of the so called Transylvanian Highlands, an eco-touristic destination where we will visit some lovely villages. You’ll get to experience the specific rural gastronomy, meet some locals and try their best products or dishes. You will find out how nature and the territory influences the local products, we will talk about the characteristics of the cultural and gastronomical mosaic during a visit of the ruins of a Cistercian abbey in Cârța (Kerz).\\\n   \\\n   Get an insight in our local cuisine, we talk about 200 years old recipes, during a horse cart tour through the village or a walk on the hills above the village. At the end of the day we will meet the people of the Old Mill Project in Hosman (Holzmengen) and try their sweet pastry specialities from Luíza’s artisanal bakery.\n4. **Horseback riding**\\\n   \\\n   The fourth day is dedicated towards one of the most traditional ways of travelling from village to village and across the rolling hills, horseback riding. There will be a safety briefing including as well basic elements for beginners. Afterwards we will saddle up, and hop on for an unforgettable and memorable ride through the countryside, exploring the old Transylvanian lifestyle in the most genuine way.\\\n   \\\n   The afternoon is dedicated towards relaxation.\n5. **Culture, Traditions and Gastronomy Tour**\\\n   \\\n   Today’s gastronomical tour takes you during the 4.5 hours from through the UNESCO protected citadel (Burg) and to the Lower old centre. You will have the chance to taste some exclusive local products and try our recipes. We will talk about the characteristics of our gastronomy in the oldest school of Sighișoara. You will have the chance to try some typical cheese, the local white wines as well as various sweet and sour soups.\\\n   \\\n   Experience an old Saxon recipe, reinterpreted by an open-minded chef from a local restaurant. Sample the local fruit alcoholic drinks, a must during a visit in Transylvania and visit some of the unseen corners of historical Sighișoara.\n6. **Treasure Hunt and Cultural Heritages**\\\n   \\\n   The afternoon will be dedicated on experiencing the historical city of Sibiu in a fun and interactive way. A treasure hunt will be organized, where the participants will discover the historical city centre of the 2007 European Capital of Culture by following an interactive set of clues. Each clue will lead you to an emblematic place for the history of Sibiu.\\\n   \\\n   After lunch we will take a relaxing walk back in time, while visiting the The “ASTRA” Museum of Traditional Folk and Civilization which represents the largest open air ethnographic exhibition in Europe. You will be able to witness a display of 400 monuments folk architecture and technique in combination with a collection of ethnographic heritage objects.\n7. **Day 7 * Free day, return to airport**\n   On the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n",
+        "contentDigest": "5760db474a8d221fbb0e2b1917728386",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Medieval and Wild Adventure",
+        "templateKey": "package",
+        "tagline": "A walk back in time",
+        "image": "../../../static/img/untitled-54.jpg",
+        "price": "6.600 DKK",
+        "lenght": "7 days",
+        "_PARENT": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md",
+      "fields": {
+        "slug": "/packages/senseofadventure/"
+      }
+    },
+    "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: package\ntitle: The Wild Carpathians\ntagline: 'Fully connect with nature '\nimage: /img/dsc_0088.jpg\nprice: 7.350 DKK\nlenght: '7'\n---\nThe Wild Carpathians Adventure will give you the perfect opportunity to fully\nconnect with nature and release the stress of urban life. Embark on an\nadventure that will take you through the heart of the mountains, paved by\ncenturies of history and tradition. Discover the nature wonders of\nTransylvania in a unique way, an adventure specially designed to offer the\nmost genuine discovery process. With high focus on various ways to explore the\nmountains and enjoy the nature, numerous elements of culture and traditions\nwill still be present. In this way we ensure an experience where memories are\nbeing formed, while footsteps are left behind.\n\n## What is included in the price?\n\n* 6 x nights Accommodation traditional mountain chalet\n* 1 x night Accommodation in Cluj-Napoca\n* 7 x breakfast\n* Transportation within the tour\n* 'Airport transfer '\n* 'Professional English speaking guides/mountain rangers '\n* > \\-\n  > Uncharted Team group leader that will assist you throughout the tour\n  > (English speaking)\n* Activities highlighted in the itinerary\n* Entry fees to the objectives within the tour\n* > \\-\n  > This adventure is a package deal; therefore, it provides you with coverage\n  > from Travel Guarantee Fund (Rejsegarantifonden) \n* Cancellation\n\n## What is not included in the price?\n\nTransport to the starting point of the tour, Cluj–Napoca t/r\n\nTravel Insurance\n\nLunch and dinner, apart from the meals specified in the daily schedules\n\n## Why we love this adventure?\n\n* Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling\n* It was designed for individual travellers, group of friends or co-workers as well as families\n* This tour provides a wide variety of mountain activities that can be performed, all to ensure that you, the adventurer, are able to explore the nature beauty from all angles \n* It is the ideal opportunity to experience an active trip if you have not done it before. The routes and activities are designed to make you enjoy adventure while at the same time not totally consume your energy\n* Ideal break from the daily routine\n* The travellers have the chance to discover and visit the city in a new way, by engaging themselves in an interactive game of treasure-hunt\n* It is suitable for a different variety of interests such as sports, sightseeing, gastronomy, culture, traditions\n* Holiday and Adventure are combined under the shape of healthy sports activities\n* This adventure will fully immerse you into the natural beauty of Transylvania and the culture it represents\n* The most important things you have to bring along are mountain boots, rain jacket and good vibes. All the rest such as gear for different activities will be provided either by us or our partners. \n* By joining this adventure, you will take part in ensuring sustainable travelling so that future generations can enjoy the places you help to preserve\n\n## Is this adventure right for you?\n\n* A minimum level of fitness is required as the hiking tour and rock climbing involve a fair amount of physical exercise\n* Temperatures in the spring – autumn interval can vary from ca. 15°C up to 35°C so make sure that apart from rain jackets and warm clothes you also bring sunscreen cream\n* The tour is suitable for families due to it’s high focus activities that fit perfectly the picture of “an active Sunday with the family”, but also for any other type of adventure enthusiast.\n* The tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed\n\n## Itinerary\n\n1. **Hiking in Turzii Gorges, Visit Salina Turda**\\\n   Before the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.\\\n   \\\n   In the morning we will Kick off the adventure with a visit to the biggest and oldest salt mine in Romania, 108m underground, dating from 1271. Here you will be able to discover the wonders that lie underneath Transylvanian hills and mountains.\\\n   \\\n   Our next stop will be Turzii gorges, where we will move from the underground wonders to the cliffs, valleys and rivers that lie in from of your eyes. We will hike throughout the canyon while at the same time discovering together the hidden caves inside the gorges.\\\n   \\\n   We will then travel to our accommodation in the Cindrel mountains, more precisely Arena Platos Resort. Once at the accommodation, all participants will be greeted with a traditional meal and the rest of the evening will be dedicated to resting and getting to know each other.\n2. **Hiking in the 7 Ladder Canyon, Offroad 4x4**\\\n   \\*\\*\n   \\*\\*The second day will start by heading towards the Carpathian Mountains, more precisely the Bucegi Mountains Sector. We will start with an easy hike towards the 7 Ladders Canyon, followed by traversing the canyon in a unique style. The hike will end in a picnic on the top of the canyon, after we will continue discovering the Carpathians with a 4x4 off-road tour. We will travel over high ground, through forest and woodland on various difficulty tracks, making for a great experience. Along the way, we will stop for a cosy picnic in a breath-taking view spot. Make sure your phones and photo cameras are fully charged to take proper advantage of the amazing landscapes\\\n   \\\n   The day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. \n3. **Hike and lunch at traditional sheepfold**\\\n   Our day starts with the transfer to the bottom of the Cindrel mountains, from where we will start climbing up on a narrow shady path that leads us to an alpine glade; from here, we’ll continue our route till we reach the imposing mountaintops of the Cindrel massif. On the edge of the soft summit lies a traditional picturesque sheepfold. \\\n    It’s the perfect place to have a rest, enjoy the astonishing view and learn about the daily simple life of the shepherds. For lunch we will savour the delicious lamb and milk specialties skilfully prepared by the shepherds: different types of cheese (telemea, caş, urdă, burduf, jintiţă), pastrami and bacon, are just a few of the delicious products that, together with the “golden” polenta shall make you drool over.\\\n    Of course, all of these shall be accompanied by a sip of schnapps or a glass of red wine.   \n4. **Adventure park, Treasure Hunt, Spa**\\\n   The morning will be a new kind of forest experience, as the participants will move from tree to tree, above the ground, in the famous adventurepark, Arka Park.  The afternoon will be dedicated on experiencing the historical city of Sibiu in a fun and interactive way. A treasure hunt will be organized, where the participants will discover the historical city centre of the 2007 European Capital of Culture by following an interactive set of clues. Each clue will lead you to an emblematic place for the history of Sibiu.\\\n   \\\n   After traversing the forest from tree to tree and discovering the city of Sibiu, the rest of the day will be dedicated towards a relaxing experience at a spa. \n5. **Culture, Traditions and Gastronomy Tour**\\\n   Our day trip takes you to some lovely villages around Sibiu, in the Mărginime area, at the foothill of the Cindrel Mountains, part of the Southern Carpathians. You’ll get to experience the specific rural gastronomy and taste some of the most representative products of our region. Find out how nature and the territory influences the local cuisine, we will talk about the characteristics of the cultural and gastronomical mosaic during a walk through the village of Sibiel. You will also experience a traditional lunch at a family in Rășinari where you also get to taste various specialities of cheese and local alcoholic drinks.\\\n   \\\n   We will help you find out more about small gastronomy projects in our area which is getting ready for 2019, when Sibiu county holds the title of European Region of Gastronomy.\\\n   \\\n   The day will end with a well deserved party or night out where we can celebrate the amazing week we had together.\n6. **Mountain biking**\\\n   We explored the Carpathian Mountains by foot, with an off-road vehicle, from tree to tree, all ways but one, mountain biking. Therefore, the 6th day is dedicated towards showing you another adventurous way of discovering the nature wonders, in a faster peace than hiking but as eco-friendly.\\\n   \\\n   The paths are not difficult and they provide wide variety of natural attractions and a different way of exploring the mountains in a healthy manner.\n7. **Free day, return to airport**\\\n   On the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n",
+        "contentDigest": "6a7a7a3a7090564551843653e441e621",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "The Wild Carpathians",
+        "templateKey": "package",
+        "tagline": "Fully connect with nature ",
+        "image": "../../../static/img/dsc_0088.jpg",
+        "price": "7.350 DKK",
+        "lenght": "7",
+        "_PARENT": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md",
+      "fields": {
+        "slug": "/packages/the-wild-carpathians/"
+      }
+    },
+    "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: package\ntitle: Saxonia Getaway\ntagline: The mystery of Saxon Transylvania\nimage: /img/untitled-61.jpg\nprice: 4.250 DKK\nlenght: 3 days\n---\nTired of the daily routine? Eager for an adventure? Time pressure is an issue?\nNo need to worry, we have the answer to all your questions. We have prepared a unique 3-day weekend getaway for you in the mysterious Saxon Transylvania. All you need to do is to leave a reminder Friday afternoon on your work or university desk saying “Gone on an adventure, see you in 3 days”, the rest we take care of.\n\n## What's Included?\n\n* Accommodation traditional guesthouse\n* 3 x breakfast\n* 2 x dinner\n* 3 x lunch\n* 'Activities highlighted in the itinerary '\n* All local transports within the program\n* Airport transfer\n* Entry fees to the objectives within the tour\n* Uncharted Team group leader that will assist you throughout the tour\n  (English speaking)\n* This adventure is a package deal; therefore, it provides you with coverage\n  from Travel Guarantee Fund (Rejsegarantifonden) \n* Cancellation\n* null\n\n## Why we love this adventure?\n\n* Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling; \n* Tour is suitable for families, couples, friends or individual, all with the same interest to discover a new culture in an interactive way;\n* You get to experience the culture and traditions of Transylvania, as well as the landscapes surrounding it;\n* The gastronomical experience consists not only of tasting the traditional products, but also learning how they are made and see where they come from\n* It is an active way to discover a new culture, through a weekend getaway;\n* High emphasis on sustainable travelling.\n\n## Is this adventure suitable for you?\n\n* If you love food, drinks and discovering new cultures and traditions, then this adventure is the ideal getaway with you\n\n## Daily schedule\n\n1. Before the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Sibiu to get a proper rest before the first day.\n   In the morning we will start the first gastronomical tour that goes through the typical cultural landscapes of the Transylvanian Highlands, an eco-touristic destination where we will visit some lovely villages. You’ll get to experience the specific rural gastronomy, meet some locals and try their best products or dishes. You will find out how nature and the territory influences the local products, we will talk about the characteristics of the cultural and gastronomical mosaic during a visit of the ruins of a Cistercian abbey in Cârța (Kerz).\\\n\n   Get an insight in our local cuisine, we talk about 200 years old recipes, during a horse cart tour through the village or a walk on the hills above the village. At the end of the day we will meet the people of the Old Mill Project in Hosman (Holzmengen) and try their sweet pastry specialities from Luíza’s artisanal bakery.\n2. Today’s gastronomical tour takes you during the 4.5 hours from through the UNESCO protected citadel (Burg) and to the Lower old centre. You will have the chance to taste some exclusive local products and try our recipes. We will talk about the characteristics of our gastronomy in the oldest school of Sighișoara. You will have the chance to try some typical cheese, the local white wines as well as various sweet and sour soups.\n   Experience an old Saxon recipe, reinterpreted by an open-minded chef from a local restaurant. Sample the local fruit alcoholic drinks, a must during a visit in Transylvania and visit some of the unseen corners of historical Sighișoara.\n3. On the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n\n**\\*For more details and insights of the tours, please check the [Essential Information](planning.html) page.**\n",
+        "contentDigest": "b02d0a88d1fb8cdc9afbf83699aa4e08",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Saxonia Getaway",
+        "templateKey": "package",
+        "tagline": "The mystery of Saxon Transylvania",
+        "image": "../../../static/img/untitled-61.jpg",
+        "price": "4.250 DKK",
+        "lenght": "3 days",
+        "_PARENT": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md",
+      "fields": {
+        "slug": "/packages/weekendgetaway/"
+      }
+    },
+    "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: blog-post\nimage: /img/hero1.jpg\ntitle: Making sense of the SCAA’s new Flavor Wheel\ndate: 2016-12-17T15:04:10.000Z\ndescription: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.\ntags:\n  - flavor\n  - tasting\n---\n\n![flavor wheel](/img/flavor_wheel.jpg)\n\nThe SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.\n\nWhile this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.\n\n## What the updates mean to you\n\nThe Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:\n\n* producers\n* roasters\n* importers/exporters\n* retailers\n* manufacturers\n* baristas\n\nFor over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.\n\nCoffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as \"Q Graders\". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.\n\nThe coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.\n",
+        "contentDigest": "f6ab6fa2cbd8b99a4c71eeb028135014",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Making sense of the SCAA’s new Flavor Wheel",
+        "templateKey": "blog-post",
+        "image": "../../../static/img/hero1.jpg",
+        "date": "2016-12-17T15:04:10.000Z",
+        "description": "The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.",
+        "tags": [
+          "flavor",
+          "tasting"
+        ],
+        "_PARENT": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "fields": {
+        "slug": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
       }
     },
     "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark": {
@@ -1883,73 +2046,12 @@
         "slug": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"
       }
     },
-    "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: package\ntitle: The Wild Carpathians\ntagline: 'Fully connect with nature '\nimage: /img/dsc_0088.jpg\nprice: 7.350 DKK\nlenght: '7'\n---\n\nThe Wild Carpathians Adventure will give you the perfect opportunity to fully\nconnect with nature and release the stress of urban life. Embark on an\nadventure that will take you through the heart of the mountains, paved by\ncenturies of history and tradition. Discover the nature wonders of\nTransylvania in a unique way, an adventure specially designed to offer the\nmost genuine discovery process. With high focus on various ways to explore the\nmountains and enjoy the nature, numerous elements of culture and traditions\nwill still be present. In this way we ensure an experience where memories are\nbeing formed, while footsteps are left behind.\n\n##What is included in the price?\n\n* 6 x nights Accommodation traditional mountain chalet\n* 1 x night Accommodation in Cluj-Napoca\n* 7 x breakfast\n* Transportation within the tour\n* 'Airport transfer '\n* 'Professional English speaking guides/mountain rangers '\n* >-\n  Uncharted Team group leader that will assist you throughout the tour\n  (English speaking)\n* Activities highlighted in the itinerary\n* Entry fees to the objectives within the tour\n* >-\n  This adventure is a package deal; therefore, it provides you with coverage\n  from Travel Guarantee Fund (Rejsegarantifonden) \n* Cancellation\n\n##What is not included in the price?\n* Transport to the starting point of the tour, Cluj–Napoca t/r\n* Travel Insurance\n* Lunch and dinner, apart from the meals specified in the daily schedules\n\n##Why we love this adventure?\n* Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling\n* It was designed for individual travellers, group of friends or co-workers as well as families\n* This tour provides a wide variety of mountain activities that can be performed, all to ensure that you, the adventurer, are able to explore the nature beauty from all angles \n* It is the ideal opportunity to experience an active trip if you have not done it before. The routes and activities are designed to make you enjoy adventure while at the same time not totally consume your energy\n* Ideal break from the daily routine\n* The travellers have the chance to discover and visit the city in a new way, by engaging themselves in an interactive game of treasure-hunt\n* It is suitable for a different variety of interests such as sports, sightseeing, gastronomy, culture, traditions\n* Holiday and Adventure are combined under the shape of healthy sports activities\n* This adventure will fully immerse you into the natural beauty of Transylvania and the culture it represents\n* The most important things you have to bring along are mountain boots, rain jacket and good vibes. All the rest such as gear for different activities will be provided either by us or our partners. \n* By joining this adventure, you will take part in ensuring sustainable travelling so that future generations can enjoy the places you help to preserve\n\n\n\n##Is this adventure right for you?\n* A minimum level of fitness is required as the hiking tour and rock climbing involve a fair amount of physical exercise\n* Temperatures in the spring – autumn interval can vary from ca. 15°C up to 35°C so make sure that apart from rain jackets and warm clothes you also bring sunscreen cream\n* The tour is suitable for families due to it’s high focus activities that fit perfectly the picture of “an active Sunday with the family”, but also for any other type of adventure enthusiast.\n* The tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed\n\n## Itinerary\n###Day 1 * Hiking in Turzii Gorges, Visit Salina Turda\nBefore the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.\n\nIn the morning we will Kick off the adventure with a visit to the biggest and oldest salt mine in Romania, 108m underground, dating from 1271. Here you will be able to discover the wonders that lie underneath Transylvanian hills and mountains.\n\nOur next stop will be Turzii gorges, where we will move from the underground wonders to the cliffs, valleys and rivers that lie in from of your eyes. We will hike throughout the canyon while at the same time discovering together the hidden caves inside the gorges.\n\nWe will then travel to our accommodation in the Cindrel mountains, more precisely Arena Platos Resort. Once at the accommodation, all participants will be greeted with a traditional meal and the rest of the evening will be dedicated to resting and getting to know each other.\n\n###Day 2 * Hiking in the 7 Ladder Canyon, Offroad 4x4\nThe second day will start by heading towards the Carpathian Mountains, more precisely the Bucegi Mountains Sector. We will start with an easy hike towards the 7 Ladders Canyon, followed by traversing the canyon in a unique style. The hike will end in a picnic on the top of the canyon, after we will continue discovering the Carpathians with a 4x4 off-road tour. We will travel over high ground, through forest and woodland on various difficulty tracks, making for a great experience. Along the way, we will stop for a cosy picnic in a breath-taking view spot. Make sure your phones and photo cameras are fully charged to take proper advantage of the amazing landscapes\n\nThe day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. \n\n\n\n###Day 3 – Hike and lunch at traditional sheepfold\nOur day starts with the transfer to the bottom of the Cindrel mountains, from where we will start climbing up on a narrow shady path that leads us to an alpine glade; from here, we’ll continue our route till we reach the imposing mountaintops of the Cindrel massif. On the edge of the soft summit lies a traditional picturesque sheepfold. \n It’s the perfect place to have a rest, enjoy the astonishing view and learn about the daily simple life of the shepherds. For lunch we will savour the delicious lamb and milk specialties skilfully prepared by the shepherds: different types of cheese (telemea, caş, urdă, burduf, jintiţă), pastrami and bacon, are just a few of the delicious products that, together with the “golden” polenta shall make you drool over.\n Of course, all of these shall be accompanied by a sip of schnapps or a glass of red wine.   \n\n###Day 4 – Adventure park, Treasure Hunt, Spa\nThe morning will be a new kind of forest experience, as the participants will move from tree to tree, above the ground, in the famous adventurepark, Arka Park.  The afternoon will be dedicated on experiencing the historical city of Sibiu in a fun and interactive way. A treasure hunt will be organized, where the participants will discover the historical city centre of the 2007 European Capital of Culture by following an interactive set of clues. Each clue will lead you to an emblematic place for the history of Sibiu.\n\nAfter traversing the forest from tree to tree and discovering the city of Sibiu, the rest of the day will be dedicated towards a relaxing experience at a spa. \n\n###Day 5 – Culture, Traditions and Gastronomy Tour\nOur day trip takes you to some lovely villages around Sibiu, in the Mărginime area, at the foothill of the Cindrel Mountains, part of the Southern Carpathians. You’ll get to experience the specific rural gastronomy and taste some of the most representative products of our region. Find out how nature and the territory influences the local cuisine, we will talk about the characteristics of the cultural and gastronomical mosaic during a walk through the village of Sibiel. You will also experience a traditional lunch at a family in Rășinari where you also get to taste various specialities of cheese and local alcoholic drinks.\n\nWe will help you find out more about small gastronomy projects in our area which is getting ready for 2019, when Sibiu county holds the title of European Region of Gastronomy.\n\nThe day will end with a well deserved party or night out where we can celebrate the amazing week we had together.\n\n\n###Day 6 * Mountain biking\nWe explored the Carpathian Mountains by foot, with an off-road vehicle, from tree to tree, all ways but one, mountain biking. Therefore, the 6th day is dedicated towards showing you another adventurous way of discovering the nature wonders, in a faster peace than hiking but as eco-friendly.\n\nThe paths are not difficult and they provide wide variety of natural attractions and a different way of exploring the mountains in a healthy manner.\n\n\n###Day 7 – Free day, return to airport\nOn the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n\n",
-        "contentDigest": "bf41c1822d56e63983b35fb0a692c319",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "The Wild Carpathians",
-        "templateKey": "package",
-        "tagline": "Fully connect with nature ",
-        "image": "../../../static/img/dsc_0088.jpg",
-        "price": "7.350 DKK",
-        "lenght": "7",
-        "_PARENT": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md",
-      "fields": {
-        "slug": "/packages/the-wild-carpathians/"
-      }
-    },
-    "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: blog-post\nimage: /img/hero1.jpg\ntitle: Making sense of the SCAA’s new Flavor Wheel\ndate: 2016-12-17T15:04:10.000Z\ndescription: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.\ntags:\n  - flavor\n  - tasting\n---\n\n![flavor wheel](/img/flavor_wheel.jpg)\n\nThe SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.\n\nWhile this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.\n\n## What the updates mean to you\n\nThe Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:\n\n* producers\n* roasters\n* importers/exporters\n* retailers\n* manufacturers\n* baristas\n\nFor over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.\n\nCoffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as \"Q Graders\". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.\n\nThe coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.\n",
-        "contentDigest": "f6ab6fa2cbd8b99a4c71eeb028135014",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Making sense of the SCAA’s new Flavor Wheel",
-        "templateKey": "blog-post",
-        "image": "../../../static/img/hero1.jpg",
-        "date": "2016-12-17T15:04:10.000Z",
-        "description": "The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.",
-        "tags": [
-          "flavor",
-          "tasting"
-        ],
-        "_PARENT": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
-      "fields": {
-        "slug": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
-      }
-    },
     "/Users/Robert/uncharted/src/data absPath of file": {
       "id": "/Users/Robert/uncharted/src/data absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6f3ff5cf097a48944d7ab59c219ed000",
+        "contentDigest": "ad63310f309cb1938cdaa0f74d9e637e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1959,9 +2061,9 @@
       "extension": "",
       "size": 256,
       "prettySize": "256 B",
-      "modifiedTime": "2018-05-04T21:57:21.095Z",
-      "accessTime": "2018-05-06T10:02:09.167Z",
-      "changeTime": "2018-05-04T21:57:21.095Z",
+      "modifiedTime": "2018-05-06T21:24:44.468Z",
+      "accessTime": "2018-05-06T21:33:54.655Z",
+      "changeTime": "2018-05-06T21:24:44.468Z",
       "birthTime": "2018-04-12T20:04:15.413Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src",
@@ -1978,13 +2080,13 @@
       "blksize": 4194304,
       "ino": 8601653181,
       "blocks": 0,
-      "atimeMs": 1525600929166.623,
-      "mtimeMs": 1525471041094.5012,
-      "ctimeMs": 1525471041094.5012,
+      "atimeMs": 1525642434654.9246,
+      "mtimeMs": 1525641884468.1895,
+      "ctimeMs": 1525641884468.1895,
       "birthtimeMs": 1523563455412.8713,
-      "atime": "2018-05-06T10:02:09.167Z",
-      "mtime": "2018-05-04T21:57:21.095Z",
-      "ctime": "2018-05-04T21:57:21.095Z",
+      "atime": "2018-05-06T21:33:54.655Z",
+      "mtime": "2018-05-06T21:24:44.468Z",
+      "ctime": "2018-05-06T21:24:44.468Z",
       "birthtime": "2018-04-12T20:04:15.413Z"
     },
     "/Users/Robert/uncharted/src/data/activities absPath of file": {
@@ -1992,7 +2094,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "81ffac679987b829fa89352018b1daf6",
+        "contentDigest": "5e593de92b8d4c90565f162b0047f36a",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2003,7 +2105,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-05-02T21:50:49.289Z",
-      "accessTime": "2018-05-06T10:02:09.168Z",
+      "accessTime": "2018-05-06T21:33:54.656Z",
       "changeTime": "2018-05-02T21:50:49.289Z",
       "birthTime": "2018-04-14T06:51:58.905Z",
       "root": "/",
@@ -2021,11 +2123,11 @@
       "blksize": 4194304,
       "ino": 8601914063,
       "blocks": 0,
-      "atimeMs": 1525600929167.6663,
+      "atimeMs": 1525642434656.4202,
       "mtimeMs": 1525297849288.978,
       "ctimeMs": 1525297849288.978,
       "birthtimeMs": 1523688718905.1316,
-      "atime": "2018-05-06T10:02:09.168Z",
+      "atime": "2018-05-06T21:33:54.656Z",
       "mtime": "2018-05-02T21:50:49.289Z",
       "ctime": "2018-05-02T21:50:49.289Z",
       "birthtime": "2018-04-14T06:51:58.905Z"
@@ -2049,7 +2151,7 @@
       "size": 2225,
       "prettySize": "2.23 kB",
       "modifiedTime": "2018-05-04T11:45:08.169Z",
-      "accessTime": "2018-05-04T11:45:08.168Z",
+      "accessTime": "2018-05-06T21:32:56.957Z",
       "changeTime": "2018-05-04T11:45:08.169Z",
       "birthTime": "2018-04-12T20:21:16.129Z",
       "root": "/",
@@ -2067,14 +2169,60 @@
       "blksize": 4194304,
       "ino": 8601654136,
       "blocks": 8,
-      "atimeMs": 1525434308168.1487,
+      "atimeMs": 1525642376957.0164,
       "mtimeMs": 1525434308169.0198,
       "ctimeMs": 1525434308169.0198,
       "birthtimeMs": 1523564476128.821,
-      "atime": "2018-05-04T11:45:08.168Z",
+      "atime": "2018-05-06T21:32:56.957Z",
       "mtime": "2018-05-04T11:45:08.169Z",
       "ctime": "2018-05-04T11:45:08.169Z",
       "birthtime": "2018-04-12T20:21:16.129Z"
+    },
+    "/Users/Robert/uncharted/src/data/faq.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/data/faq.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/data/faq.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9f20f77bc3d2cb0aecb645778d82de80",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/uncharted/src/data/faq.md",
+      "relativePath": "faq.md",
+      "extension": "md",
+      "size": 93,
+      "prettySize": "93 B",
+      "modifiedTime": "2018-05-04T21:57:55.447Z",
+      "accessTime": "2018-05-06T21:32:56.957Z",
+      "changeTime": "2018-05-04T21:57:55.447Z",
+      "birthTime": "2018-05-04T21:57:15.970Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/data",
+      "base": "faq.md",
+      "ext": ".md",
+      "name": "faq",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602817262,
+      "blocks": 8,
+      "atimeMs": 1525642376957.0522,
+      "mtimeMs": 1525471075447.1816,
+      "ctimeMs": 1525471075447.1816,
+      "birthtimeMs": 1525471035969.501,
+      "atime": "2018-05-06T21:32:56.957Z",
+      "mtime": "2018-05-04T21:57:55.447Z",
+      "ctime": "2018-05-04T21:57:55.447Z",
+      "birthtime": "2018-05-04T21:57:15.970Z"
     },
     "/Users/Robert/uncharted/src/data/index.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/index.md absPath of file",
@@ -2083,7 +2231,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f3a4849f02bdb5125768f478ec5288d4",
+        "contentDigest": "9f494b024ffcc7a79dcca49e18190254",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2092,12 +2240,12 @@
       "absolutePath": "/Users/Robert/uncharted/src/data/index.md",
       "relativePath": "index.md",
       "extension": "md",
-      "size": 343,
-      "prettySize": "343 B",
-      "modifiedTime": "2018-04-14T06:48:15.099Z",
-      "accessTime": "2018-05-03T19:42:47.576Z",
-      "changeTime": "2018-04-14T06:48:15.099Z",
-      "birthTime": "2018-03-24T22:13:24.296Z",
+      "size": 357,
+      "prettySize": "357 B",
+      "modifiedTime": "2018-05-06T21:24:44.468Z",
+      "accessTime": "2018-05-06T21:32:56.957Z",
+      "changeTime": "2018-05-06T21:24:44.468Z",
+      "birthTime": "2018-05-06T21:24:44.468Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/data",
       "base": "index.md",
@@ -2111,154 +2259,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8600229499,
+      "ino": 8603117413,
       "blocks": 8,
-      "atimeMs": 1525376567575.9006,
-      "mtimeMs": 1523688495099.2993,
-      "ctimeMs": 1523688495099.2993,
-      "birthtimeMs": 1521929604296.0662,
-      "atime": "2018-05-03T19:42:47.576Z",
-      "mtime": "2018-04-14T06:48:15.099Z",
-      "ctime": "2018-04-14T06:48:15.099Z",
-      "birthtime": "2018-03-24T22:13:24.296Z"
-    },
-    "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "96d7b86769a6e5029bebdf483243a512",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/activities/hunt.md",
-      "relativePath": "activities/hunt.md",
-      "extension": "md",
-      "size": 79,
-      "prettySize": "79 B",
-      "modifiedTime": "2018-05-02T21:50:49.289Z",
-      "accessTime": "2018-05-03T19:42:47.607Z",
-      "changeTime": "2018-05-02T21:50:49.289Z",
-      "birthTime": "2018-05-02T21:50:49.289Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/activities",
-      "base": "hunt.md",
-      "ext": ".md",
-      "name": "hunt",
-      "relativeDirectory": "activities",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602727630,
-      "blocks": 8,
-      "atimeMs": 1525376567606.866,
-      "mtimeMs": 1525297849289.0623,
-      "ctimeMs": 1525297849289.0623,
-      "birthtimeMs": 1525297849288.9688,
-      "atime": "2018-05-03T19:42:47.607Z",
-      "mtime": "2018-05-02T21:50:49.289Z",
-      "ctime": "2018-05-02T21:50:49.289Z",
-      "birthtime": "2018-05-02T21:50:49.289Z"
-    },
-    "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "2918e698268e074fd4c4bb64e1a1549a",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/activities/hiking.md",
-      "relativePath": "activities/hiking.md",
-      "extension": "md",
-      "size": 72,
-      "prettySize": "72 B",
-      "modifiedTime": "2018-05-02T21:50:49.289Z",
-      "accessTime": "2018-05-03T19:42:47.607Z",
-      "changeTime": "2018-05-02T21:50:49.289Z",
-      "birthTime": "2018-05-02T21:50:49.289Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/activities",
-      "base": "hiking.md",
-      "ext": ".md",
-      "name": "hiking",
-      "relativeDirectory": "activities",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602727629,
-      "blocks": 8,
-      "atimeMs": 1525376567606.8567,
-      "mtimeMs": 1525297849288.6475,
-      "ctimeMs": 1525297849288.6475,
-      "birthtimeMs": 1525297849288.5635,
-      "atime": "2018-05-03T19:42:47.607Z",
-      "mtime": "2018-05-02T21:50:49.289Z",
-      "ctime": "2018-05-02T21:50:49.289Z",
-      "birthtime": "2018-05-02T21:50:49.289Z"
-    },
-    "/Users/Robert/uncharted/src/data/terms.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/terms.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/terms.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "fcb43b7088c44649029654388085008e",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/terms.md",
-      "relativePath": "terms.md",
-      "extension": "md",
-      "size": 15154,
-      "prettySize": "15.2 kB",
-      "modifiedTime": "2018-05-04T11:29:27.030Z",
-      "accessTime": "2018-05-04T11:29:27.012Z",
-      "changeTime": "2018-05-04T11:29:27.030Z",
-      "birthTime": "2018-04-29T16:09:41.402Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data",
-      "base": "terms.md",
-      "ext": ".md",
-      "name": "terms",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602514675,
-      "blocks": 32,
-      "atimeMs": 1525433367012.4448,
-      "mtimeMs": 1525433367030.1816,
-      "ctimeMs": 1525433367030.1816,
-      "birthtimeMs": 1525018181402.0989,
-      "atime": "2018-05-04T11:29:27.012Z",
-      "mtime": "2018-05-04T11:29:27.030Z",
-      "ctime": "2018-05-04T11:29:27.030Z",
-      "birthtime": "2018-04-29T16:09:41.402Z"
+      "atimeMs": 1525642376957.0825,
+      "mtimeMs": 1525641884468.4595,
+      "ctimeMs": 1525641884468.4595,
+      "birthtimeMs": 1525641884468.1714,
+      "atime": "2018-05-06T21:32:56.957Z",
+      "mtime": "2018-05-06T21:24:44.468Z",
+      "ctime": "2018-05-06T21:24:44.468Z",
+      "birthtime": "2018-05-06T21:24:44.468Z"
     },
     "/Users/Robert/uncharted/src/data/stories.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/stories.md absPath of file",
@@ -2279,7 +2289,7 @@
       "size": 337,
       "prettySize": "337 B",
       "modifiedTime": "2018-04-14T06:48:20.387Z",
-      "accessTime": "2018-05-03T19:42:47.576Z",
+      "accessTime": "2018-05-06T21:32:56.957Z",
       "changeTime": "2018-04-14T06:48:20.387Z",
       "birthTime": "2018-04-12T20:02:15.287Z",
       "root": "/",
@@ -2297,22 +2307,214 @@
       "blksize": 4194304,
       "ino": 8601653079,
       "blocks": 8,
-      "atimeMs": 1525376567575.919,
+      "atimeMs": 1525642376957.1328,
       "mtimeMs": 1523688500387.3276,
       "ctimeMs": 1523688500387.3276,
       "birthtimeMs": 1523563335286.836,
-      "atime": "2018-05-03T19:42:47.576Z",
+      "atime": "2018-05-06T21:32:56.957Z",
       "mtime": "2018-04-14T06:48:20.387Z",
       "ctime": "2018-04-14T06:48:20.387Z",
       "birthtime": "2018-04-12T20:02:15.287Z"
+    },
+    "/Users/Robert/uncharted/src/data/terms.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/data/terms.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/data/terms.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "fcb43b7088c44649029654388085008e",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/uncharted/src/data/terms.md",
+      "relativePath": "terms.md",
+      "extension": "md",
+      "size": 15154,
+      "prettySize": "15.2 kB",
+      "modifiedTime": "2018-05-05T07:09:31.941Z",
+      "accessTime": "2018-05-06T21:32:56.957Z",
+      "changeTime": "2018-05-05T07:09:31.941Z",
+      "birthTime": "2018-04-29T16:09:41.402Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/data",
+      "base": "terms.md",
+      "ext": ".md",
+      "name": "terms",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602514675,
+      "blocks": 32,
+      "atimeMs": 1525642376957.1802,
+      "mtimeMs": 1525504171941.1436,
+      "ctimeMs": 1525504171941.1436,
+      "birthtimeMs": 1525018181402.0989,
+      "atime": "2018-05-06T21:32:56.957Z",
+      "mtime": "2018-05-05T07:09:31.941Z",
+      "ctime": "2018-05-05T07:09:31.941Z",
+      "birthtime": "2018-04-29T16:09:41.402Z"
+    },
+    "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f40cb0effc2a6137a869e3e215a27617",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/uncharted/src/data/activities/hiking.md",
+      "relativePath": "activities/hiking.md",
+      "extension": "md",
+      "size": 73,
+      "prettySize": "73 B",
+      "modifiedTime": "2018-05-06T21:21:57.659Z",
+      "accessTime": "2018-05-06T21:32:56.957Z",
+      "changeTime": "2018-05-06T21:21:57.659Z",
+      "birthTime": "2018-05-02T21:50:49.289Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/data/activities",
+      "base": "hiking.md",
+      "ext": ".md",
+      "name": "hiking",
+      "relativeDirectory": "activities",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602727629,
+      "blocks": 8,
+      "atimeMs": 1525642376956.9087,
+      "mtimeMs": 1525641717658.6843,
+      "ctimeMs": 1525641717658.6843,
+      "birthtimeMs": 1525297849288.5635,
+      "atime": "2018-05-06T21:32:56.957Z",
+      "mtime": "2018-05-06T21:21:57.659Z",
+      "ctime": "2018-05-06T21:21:57.659Z",
+      "birthtime": "2018-05-02T21:50:49.289Z"
+    },
+    "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b8feb1e63c3671d392a02ae18a321483",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/uncharted/src/data/activities/hunt.md",
+      "relativePath": "activities/hunt.md",
+      "extension": "md",
+      "size": 80,
+      "prettySize": "80 B",
+      "modifiedTime": "2018-05-06T21:22:07.569Z",
+      "accessTime": "2018-05-06T21:32:56.957Z",
+      "changeTime": "2018-05-06T21:22:07.569Z",
+      "birthTime": "2018-05-02T21:50:49.289Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/data/activities",
+      "base": "hunt.md",
+      "ext": ".md",
+      "name": "hunt",
+      "relativeDirectory": "activities",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602727630,
+      "blocks": 8,
+      "atimeMs": 1525642376956.97,
+      "mtimeMs": 1525641727569.0623,
+      "ctimeMs": 1525641727569.0623,
+      "birthtimeMs": 1525297849288.9688,
+      "atime": "2018-05-06T21:32:56.957Z",
+      "mtime": "2018-05-06T21:22:07.569Z",
+      "ctime": "2018-05-06T21:22:07.569Z",
+      "birthtime": "2018-05-02T21:50:49.289Z"
+    },
+    "/Users/Robert/uncharted/src/data/concept.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/data/concept.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/data/concept.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'concept'\nimage: /img/hero1.jpg\ntagline: The concept\n---\n\nTransylvania Uncharted is the first project of the Uncharted company. Its aim is to create the best mix of mountain activities and old traditions. Each place and activity included in the tours was carefully chosen to provide you with a new experience and an original way to explore and discover the wonders of Transylvania’s history. A history that spreads from the Carpathian Mountains, to Transylvania’s Forests and settles in the old castles and cities, all full of tales ready to be shared. Uncharted puts a lot of emphasis on creating a friendly environment where small groups of 8 to 16 adventurers will embark on a new chapter of their traveling book, through the mesmerizing beauty of Transylvania, a magical place where memories are being formed while footsteps are left behind.\n\n* ## Genuine adventures\n  Discover locations with great beauty and history, but which are not known to everyone. The 3 day weekend getaway and the 8 days’ adventure combine special destinations with interesting activities, to create the perfect recipe for the Genuine Adventure tour. You can always build your own adventure and we make sure to tailor it suiting your preferences.\n* ## Rediscover yourself\n  Uncharted challenges you to experience every small detail, as if it were for the first time. Except for the unexplored destinations and exciting activities, the adventure tours give you time to enjoy the silence, and reflect on your new discoveries, while enjoying the scenery.\n* ## You’re in safe hands\n  All adventure tours are accompanied by your group leader who is a specialist in activities. He will provide information on the places you are travelling through, suggest things to do and introduce you to local friends along the way. Your group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the area.\n* ## Sustainable travelling\n  By choosing Uncharted you are supporting sustainable tourism. Whether you are passionate about supporting local communities or preserving wildlife and natural resources, there are plenty of ways you will support, when you travel with us.",
+        "contentDigest": "23f6654485225d751bee60afb3f4c716",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "",
+        "templateKey": "concept",
+        "image": "../../static/img/hero1.jpg",
+        "tagline": "The concept",
+        "_PARENT": "/Users/Robert/uncharted/src/data/concept.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/data/concept.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/concept.md",
+      "fields": {
+        "slug": "/concept/"
+      }
+    },
+    "/Users/Robert/uncharted/src/data/faq.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/data/faq.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/data/faq.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'faq'\nimage: /img/hero1.jpg\ntagline: FAQ's\n---\n\n\n## Add some content here...",
+        "contentDigest": "9cf6252851fceae54c50b064ce0bc561",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "",
+        "templateKey": "faq",
+        "image": "../../static/img/hero1.jpg",
+        "tagline": "FAQ's",
+        "_PARENT": "/Users/Robert/uncharted/src/data/faq.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/data/faq.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/faq.md",
+      "fields": {
+        "slug": "/faq/"
+      }
     },
     "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark",
       "children": [],
       "parent": "/Users/Robert/uncharted/src/data/index.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: 'frontpage'\nimage: /img/hero1.jpg\ntagline: A new way of travelling!\nwelcome: 'Welcome to your new travelling chapter. In this chapter you are the one to decide if you want to be taken into a special themed adventure, or tailor your own. What’s guaranteed is that with each uncharted path, you will rediscover yourself.'\n---\n",
-        "contentDigest": "c3c7960848aa0b72d3ba8597f21a6e79",
+        "content": "---\ntemplateKey: frontpage\ntagline: A new way of travelling!\nwelcome: >-\n  Welcome to your new travelling chapter. In this chapter you are the one to\n  decide if you want to be taken into a special themed adventure, or tailor your\n  own. What’s guaranteed is that with each uncharted path, you will rediscover\n  yourself.\nimage: /img/untitled-58.jpg\n---\n\n",
+        "contentDigest": "0d3ce18f99db7e6421bc9f8faa07b4c0",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -2322,9 +2524,9 @@
       "frontmatter": {
         "title": "",
         "templateKey": "frontpage",
-        "image": "../../static/img/hero1.jpg",
         "tagline": "A new way of travelling!",
         "welcome": "Welcome to your new travelling chapter. In this chapter you are the one to decide if you want to be taken into a special themed adventure, or tailor your own. What’s guaranteed is that with each uncharted path, you will rediscover yourself.",
+        "image": "../../static/img/untitled-58.jpg",
         "_PARENT": "/Users/Robert/uncharted/src/data/index.md absPath of file",
         "parent": "/Users/Robert/uncharted/src/data/index.md absPath of file"
       },
@@ -2334,13 +2536,13 @@
         "slug": "/"
       }
     },
-    "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file >>> MarkdownRemark",
+    "/Users/Robert/uncharted/src/data/stories.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/data/stories.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file",
+      "parent": "/Users/Robert/uncharted/src/data/stories.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: activity\nname: Treasure Hunt\nimage: /img/untitled-59.jpg\n---\n\n",
-        "contentDigest": "3795517d66f60cbc182bfe57f3407d29",
+        "content": "---\ntemplateKey: 'stories'\nimage: /img/hero1.jpg\ntagline: Stories of Uncharted\nwelcome: 'Welcome to your new travelling chapter. In this chapter you are the one to decide if you want to be taken into a special themed adventure, or tailor your own. What’s guaranteed is that with each uncharted path, you will rediscover yourself.'\n---\n",
+        "contentDigest": "e4882e4f13aae76316bed3e43026588f",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -2349,16 +2551,17 @@
       },
       "frontmatter": {
         "title": "",
-        "templateKey": "activity",
-        "name": "Treasure Hunt",
-        "image": "../../../static/img/untitled-59.jpg",
-        "_PARENT": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file"
+        "templateKey": "stories",
+        "image": "../../static/img/hero1.jpg",
+        "tagline": "Stories of Uncharted",
+        "welcome": "Welcome to your new travelling chapter. In this chapter you are the one to decide if you want to be taken into a special themed adventure, or tailor your own. What’s guaranteed is that with each uncharted path, you will rediscover yourself.",
+        "_PARENT": "/Users/Robert/uncharted/src/data/stories.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/data/stories.md absPath of file"
       },
       "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/activities/hunt.md",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/stories.md",
       "fields": {
-        "slug": "/activities/hunt/"
+        "slug": "/stories/"
       }
     },
     "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file >>> MarkdownRemark": {
@@ -2366,8 +2569,8 @@
       "children": [],
       "parent": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: activity\nname: Hiking\nimage: /img/untitled-60.jpg\n---\n\n",
-        "contentDigest": "4dc33685d889198ae6351bf195fb5073",
+        "content": "---\ntemplateKey: activity\ntitle: Hiking\nimage: /img/untitled-60.jpg\n---\n\n",
+        "contentDigest": "dca48a66271afca283c65d5b25115977",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -2375,9 +2578,8 @@
         }
       },
       "frontmatter": {
-        "title": "",
+        "title": "Hiking",
         "templateKey": "activity",
-        "name": "Hiking",
         "image": "../../../static/img/untitled-60.jpg",
         "_PARENT": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file",
         "parent": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file"
@@ -2415,13 +2617,13 @@
         "slug": "/terms/"
       }
     },
-    "/Users/Robert/uncharted/src/data/stories.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/stories.md absPath of file >>> MarkdownRemark",
+    "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/stories.md absPath of file",
+      "parent": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: 'stories'\nimage: /img/hero1.jpg\ntagline: Stories of Uncharted\nwelcome: 'Welcome to your new travelling chapter. In this chapter you are the one to decide if you want to be taken into a special themed adventure, or tailor your own. What’s guaranteed is that with each uncharted path, you will rediscover yourself.'\n---\n",
-        "contentDigest": "e4882e4f13aae76316bed3e43026588f",
+        "content": "---\ntemplateKey: activity\ntitle: Treasure Hunt\nimage: /img/untitled-59.jpg\n---\n\n",
+        "contentDigest": "0f4bb9828b96c43c2aca9c363acfe022",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -2429,18 +2631,16 @@
         }
       },
       "frontmatter": {
-        "title": "",
-        "templateKey": "stories",
-        "image": "../../static/img/hero1.jpg",
-        "tagline": "Stories of Uncharted",
-        "welcome": "Welcome to your new travelling chapter. In this chapter you are the one to decide if you want to be taken into a special themed adventure, or tailor your own. What’s guaranteed is that with each uncharted path, you will rediscover yourself.",
-        "_PARENT": "/Users/Robert/uncharted/src/data/stories.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/stories.md absPath of file"
+        "title": "Treasure Hunt",
+        "templateKey": "activity",
+        "image": "../../../static/img/untitled-59.jpg",
+        "_PARENT": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file"
       },
       "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/stories.md",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/activities/hunt.md",
       "fields": {
-        "slug": "/stories/"
+        "slug": "/activities/hunt/"
       }
     },
     "/Users/Robert/uncharted/static/img absPath of file": {
@@ -2448,7 +2648,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "18290938d3307bf9847ebf565d7bd454",
+        "contentDigest": "f347bbf62c0a6c9f3f7c7ff1c08feeef",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2459,7 +2659,7 @@
       "size": 480,
       "prettySize": "480 B",
       "modifiedTime": "2018-05-02T21:50:50.371Z",
-      "accessTime": "2018-05-06T10:02:09.180Z",
+      "accessTime": "2018-05-06T21:33:54.694Z",
       "changeTime": "2018-05-02T21:50:50.371Z",
       "birthTime": "2018-03-24T20:07:41.323Z",
       "root": "/",
@@ -2477,11 +2677,11 @@
       "blksize": 4194304,
       "ino": 8600035704,
       "blocks": 0,
-      "atimeMs": 1525600929179.985,
+      "atimeMs": 1525642434694.367,
       "mtimeMs": 1525297850370.5142,
       "ctimeMs": 1525297850370.5142,
       "birthtimeMs": 1521922061322.7996,
-      "atime": "2018-05-06T10:02:09.180Z",
+      "atime": "2018-05-06T21:33:54.694Z",
       "mtime": "2018-05-02T21:50:50.371Z",
       "ctime": "2018-05-02T21:50:50.371Z",
       "birthtime": "2018-03-24T20:07:41.323Z"
@@ -2503,7 +2703,7 @@
       "size": 6148,
       "prettySize": "6.15 kB",
       "modifiedTime": "2018-03-24T22:32:10.412Z",
-      "accessTime": "2018-05-03T19:43:09.136Z",
+      "accessTime": "2018-05-06T21:33:04.828Z",
       "changeTime": "2018-03-24T22:32:10.412Z",
       "birthTime": "2018-03-24T22:32:05.139Z",
       "root": "/",
@@ -2521,11 +2721,11 @@
       "blksize": 4194304,
       "ino": 8600231987,
       "blocks": 16,
-      "atimeMs": 1525376589136.3901,
+      "atimeMs": 1525642384827.5322,
       "mtimeMs": 1521930730411.992,
       "ctimeMs": 1521930730411.992,
       "birthtimeMs": 1521930725138.738,
-      "atime": "2018-05-03T19:43:09.136Z",
+      "atime": "2018-05-06T21:33:04.828Z",
       "mtime": "2018-03-24T22:32:10.412Z",
       "ctime": "2018-03-24T22:32:10.412Z",
       "birthtime": "2018-03-24T22:32:05.139Z"
@@ -2549,7 +2749,7 @@
       "size": 103774,
       "prettySize": "104 kB",
       "modifiedTime": "2018-05-02T21:50:49.293Z",
-      "accessTime": "2018-05-03T19:43:09.136Z",
+      "accessTime": "2018-05-06T21:33:04.828Z",
       "changeTime": "2018-05-02T21:50:49.293Z",
       "birthTime": "2018-05-02T21:50:49.292Z",
       "root": "/",
@@ -2567,11 +2767,11 @@
       "blksize": 4194304,
       "ino": 8602727635,
       "blocks": 208,
-      "atimeMs": 1525376589136.3975,
+      "atimeMs": 1525642384827.5405,
       "mtimeMs": 1525297849292.5476,
       "ctimeMs": 1525297849292.5476,
       "birthtimeMs": 1525297849291.7305,
-      "atime": "2018-05-03T19:43:09.136Z",
+      "atime": "2018-05-06T21:33:04.828Z",
       "mtime": "2018-05-02T21:50:49.293Z",
       "ctime": "2018-05-02T21:50:49.293Z",
       "birthtime": "2018-05-02T21:50:49.292Z"
@@ -2605,7 +2805,7 @@
       "size": 331123,
       "prettySize": "331 kB",
       "modifiedTime": "2018-05-02T21:50:49.295Z",
-      "accessTime": "2018-05-03T19:43:09.136Z",
+      "accessTime": "2018-05-06T21:33:04.828Z",
       "changeTime": "2018-05-02T21:50:49.295Z",
       "birthTime": "2018-05-02T21:50:49.293Z",
       "root": "/",
@@ -2623,11 +2823,11 @@
       "blksize": 4194304,
       "ino": 8602727636,
       "blocks": 648,
-      "atimeMs": 1525376589136.4053,
+      "atimeMs": 1525642384827.544,
       "mtimeMs": 1525297849294.8523,
       "ctimeMs": 1525297849294.8523,
       "birthtimeMs": 1525297849292.987,
-      "atime": "2018-05-03T19:43:09.136Z",
+      "atime": "2018-05-06T21:33:04.828Z",
       "mtime": "2018-05-02T21:50:49.295Z",
       "ctime": "2018-05-02T21:50:49.295Z",
       "birthtime": "2018-05-02T21:50:49.293Z"
@@ -2638,62 +2838,6 @@
       "parent": "/Users/Robert/uncharted/static/img/dsc_0088.jpg absPath of file",
       "internal": {
         "contentDigest": "f9b100b8a2fd268d0afa695b165c2edb",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/Robert/uncharted/static/img/untitled-65.jpg absPath of file": {
-      "id": "/Users/Robert/uncharted/static/img/untitled-65.jpg absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/static/img/untitled-65.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "bac4cc3c6c8f7c852afeef4850fbf41c",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/Robert/uncharted/static/img/untitled-65.jpg",
-      "relativePath": "untitled-65.jpg",
-      "extension": "jpg",
-      "size": 4314339,
-      "prettySize": "4.31 MB",
-      "modifiedTime": "2018-05-02T21:50:50.329Z",
-      "accessTime": "2018-05-03T19:43:09.136Z",
-      "changeTime": "2018-05-02T21:50:50.329Z",
-      "birthTime": "2018-05-02T21:50:50.287Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/static/img",
-      "base": "untitled-65.jpg",
-      "ext": ".jpg",
-      "name": "untitled-65",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602727655,
-      "blocks": 8432,
-      "atimeMs": 1525376589136.4634,
-      "mtimeMs": 1525297850329.0386,
-      "ctimeMs": 1525297850329.0386,
-      "birthtimeMs": 1525297850286.7842,
-      "atime": "2018-05-03T19:43:09.136Z",
-      "mtime": "2018-05-02T21:50:50.329Z",
-      "ctime": "2018-05-02T21:50:50.329Z",
-      "birthtime": "2018-05-02T21:50:50.287Z"
-    },
-    "/Users/Robert/uncharted/static/img/untitled-65.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/Robert/uncharted/static/img/untitled-65.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/static/img/untitled-65.jpg absPath of file",
-      "internal": {
-        "contentDigest": "bac4cc3c6c8f7c852afeef4850fbf41c",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2717,7 +2861,7 @@
       "size": 4136549,
       "prettySize": "4.14 MB",
       "modifiedTime": "2018-04-30T14:08:26.332Z",
-      "accessTime": "2018-05-03T19:43:09.136Z",
+      "accessTime": "2018-05-06T21:33:04.828Z",
       "changeTime": "2018-04-30T14:08:26.332Z",
       "birthTime": "2018-04-30T14:08:26.320Z",
       "root": "/",
@@ -2735,11 +2879,11 @@
       "blksize": 4194304,
       "ino": 8602537062,
       "blocks": 8080,
-      "atimeMs": 1525376589136.4702,
+      "atimeMs": 1525642384827.5786,
       "mtimeMs": 1525097306331.6077,
       "ctimeMs": 1525097306331.6077,
       "birthtimeMs": 1525097306319.9246,
-      "atime": "2018-05-03T19:43:09.136Z",
+      "atime": "2018-05-06T21:33:04.828Z",
       "mtime": "2018-04-30T14:08:26.332Z",
       "ctime": "2018-04-30T14:08:26.332Z",
       "birthtime": "2018-04-30T14:08:26.320Z"
@@ -2750,6 +2894,62 @@
       "parent": "/Users/Robert/uncharted/static/img/untitled-69.jpg absPath of file",
       "internal": {
         "contentDigest": "44f10afc1792ca29d361390a1f4a37ee",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Robert/uncharted/static/img/untitled-65.jpg absPath of file": {
+      "id": "/Users/Robert/uncharted/static/img/untitled-65.jpg absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/static/img/untitled-65.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "bac4cc3c6c8f7c852afeef4850fbf41c",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/uncharted/static/img/untitled-65.jpg",
+      "relativePath": "untitled-65.jpg",
+      "extension": "jpg",
+      "size": 4314339,
+      "prettySize": "4.31 MB",
+      "modifiedTime": "2018-05-02T21:50:50.329Z",
+      "accessTime": "2018-05-06T21:33:04.828Z",
+      "changeTime": "2018-05-02T21:50:50.329Z",
+      "birthTime": "2018-05-02T21:50:50.287Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/static/img",
+      "base": "untitled-65.jpg",
+      "ext": ".jpg",
+      "name": "untitled-65",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602727655,
+      "blocks": 8432,
+      "atimeMs": 1525642384827.5789,
+      "mtimeMs": 1525297850329.0386,
+      "ctimeMs": 1525297850329.0386,
+      "birthtimeMs": 1525297850286.7842,
+      "atime": "2018-05-06T21:33:04.828Z",
+      "mtime": "2018-05-02T21:50:50.329Z",
+      "ctime": "2018-05-02T21:50:50.329Z",
+      "birthtime": "2018-05-02T21:50:50.287Z"
+    },
+    "/Users/Robert/uncharted/static/img/untitled-65.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Robert/uncharted/static/img/untitled-65.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/static/img/untitled-65.jpg absPath of file",
+      "internal": {
+        "contentDigest": "bac4cc3c6c8f7c852afeef4850fbf41c",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2773,7 +2973,7 @@
       "size": 5504593,
       "prettySize": "5.5 MB",
       "modifiedTime": "2018-05-02T21:50:50.450Z",
-      "accessTime": "2018-05-03T19:43:09.136Z",
+      "accessTime": "2018-05-06T21:33:04.828Z",
       "changeTime": "2018-05-02T21:50:50.450Z",
       "birthTime": "2018-05-02T21:50:50.370Z",
       "root": "/",
@@ -2791,11 +2991,11 @@
       "blksize": 4194304,
       "ino": 8602727656,
       "blocks": 10752,
-      "atimeMs": 1525376589136.4783,
+      "atimeMs": 1525642384827.5864,
       "mtimeMs": 1525297850449.6475,
       "ctimeMs": 1525297850449.6475,
       "birthtimeMs": 1525297850370.4863,
-      "atime": "2018-05-03T19:43:09.136Z",
+      "atime": "2018-05-06T21:33:04.828Z",
       "mtime": "2018-05-02T21:50:50.450Z",
       "ctime": "2018-05-02T21:50:50.450Z",
       "birthtime": "2018-05-02T21:50:50.370Z"
@@ -2829,7 +3029,7 @@
       "size": 8063586,
       "prettySize": "8.06 MB",
       "modifiedTime": "2018-04-30T14:08:26.270Z",
-      "accessTime": "2018-05-03T19:43:09.136Z",
+      "accessTime": "2018-05-06T21:33:04.828Z",
       "changeTime": "2018-04-30T14:08:26.270Z",
       "birthTime": "2018-04-30T14:08:26.243Z",
       "root": "/",
@@ -2847,24 +3047,14 @@
       "blksize": 4194304,
       "ino": 8602537061,
       "blocks": 15752,
-      "atimeMs": 1525376589136.4268,
+      "atimeMs": 1525642384827.5554,
       "mtimeMs": 1525097306270.4814,
       "ctimeMs": 1525097306270.4814,
       "birthtimeMs": 1525097306243.142,
-      "atime": "2018-05-03T19:43:09.136Z",
+      "atime": "2018-05-06T21:33:04.828Z",
       "mtime": "2018-04-30T14:08:26.270Z",
       "ctime": "2018-04-30T14:08:26.270Z",
       "birthtime": "2018-04-30T14:08:26.243Z"
-    },
-    "/Users/Robert/uncharted/static/img/untitled-57.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/Robert/uncharted/static/img/untitled-57.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/static/img/untitled-57.jpg absPath of file",
-      "internal": {
-        "contentDigest": "cff2b7f60af23e92f9aa233d366cd937",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "/Users/Robert/uncharted/static/img/untitled-58.jpg absPath of file": {
       "id": "/Users/Robert/uncharted/static/img/untitled-58.jpg absPath of file",
@@ -2885,7 +3075,7 @@
       "size": 8064601,
       "prettySize": "8.06 MB",
       "modifiedTime": "2018-05-02T21:50:49.470Z",
-      "accessTime": "2018-05-03T19:43:09.136Z",
+      "accessTime": "2018-05-06T21:33:04.828Z",
       "changeTime": "2018-05-02T21:50:49.470Z",
       "birthTime": "2018-05-02T21:50:49.441Z",
       "root": "/",
@@ -2903,14 +3093,24 @@
       "blksize": 4194304,
       "ino": 8602727641,
       "blocks": 15752,
-      "atimeMs": 1525376589136.4353,
+      "atimeMs": 1525642384827.5596,
       "mtimeMs": 1525297849470.2175,
       "ctimeMs": 1525297849470.2175,
       "birthtimeMs": 1525297849440.5916,
-      "atime": "2018-05-03T19:43:09.136Z",
+      "atime": "2018-05-06T21:33:04.828Z",
       "mtime": "2018-05-02T21:50:49.470Z",
       "ctime": "2018-05-02T21:50:49.470Z",
       "birthtime": "2018-05-02T21:50:49.441Z"
+    },
+    "/Users/Robert/uncharted/static/img/untitled-57.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Robert/uncharted/static/img/untitled-57.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/static/img/untitled-57.jpg absPath of file",
+      "internal": {
+        "contentDigest": "cff2b7f60af23e92f9aa233d366cd937",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "/Users/Robert/uncharted/static/img/untitled-58.jpg absPath of file >> ImageSharp": {
       "id": "/Users/Robert/uncharted/static/img/untitled-58.jpg absPath of file >> ImageSharp",
@@ -2941,7 +3141,7 @@
       "size": 8697889,
       "prettySize": "8.7 MB",
       "modifiedTime": "2018-03-02T11:06:04.000Z",
-      "accessTime": "2018-05-03T19:43:09.136Z",
+      "accessTime": "2018-05-06T21:33:04.828Z",
       "changeTime": "2018-03-24T22:32:19.528Z",
       "birthTime": "2018-03-02T11:06:04.000Z",
       "root": "/",
@@ -2959,11 +3159,11 @@
       "blksize": 4194304,
       "ino": 8597870283,
       "blocks": 16992,
-      "atimeMs": 1525376589136.4124,
+      "atimeMs": 1525642384827.5479,
       "mtimeMs": 1519988764000,
       "ctimeMs": 1521930739527.9033,
       "birthtimeMs": 1519988764000,
-      "atime": "2018-05-03T19:43:09.136Z",
+      "atime": "2018-05-06T21:33:04.828Z",
       "mtime": "2018-03-02T11:06:04.000Z",
       "ctime": "2018-03-24T22:32:19.528Z",
       "birthtime": "2018-03-02T11:06:04.000Z"
@@ -2997,7 +3197,7 @@
       "size": 8938941,
       "prettySize": "8.94 MB",
       "modifiedTime": "2018-05-02T21:50:49.592Z",
-      "accessTime": "2018-05-03T19:43:09.136Z",
+      "accessTime": "2018-05-06T21:33:04.828Z",
       "changeTime": "2018-05-02T21:50:49.592Z",
       "birthTime": "2018-05-02T21:50:49.540Z",
       "root": "/",
@@ -3015,11 +3215,11 @@
       "blksize": 4194304,
       "ino": 8602727642,
       "blocks": 17464,
-      "atimeMs": 1525376589136.4429,
+      "atimeMs": 1525642384827.5632,
       "mtimeMs": 1525297849592.0886,
       "ctimeMs": 1525297849592.0886,
       "birthtimeMs": 1525297849540.321,
-      "atime": "2018-05-03T19:43:09.136Z",
+      "atime": "2018-05-06T21:33:04.828Z",
       "mtime": "2018-05-02T21:50:49.592Z",
       "ctime": "2018-05-02T21:50:49.592Z",
       "birthtime": "2018-05-02T21:50:49.540Z"
@@ -3053,7 +3253,7 @@
       "size": 10555432,
       "prettySize": "10.6 MB",
       "modifiedTime": "2018-05-02T21:50:49.737Z",
-      "accessTime": "2018-05-03T19:43:09.136Z",
+      "accessTime": "2018-05-06T21:33:04.828Z",
       "changeTime": "2018-05-02T21:50:49.737Z",
       "birthTime": "2018-05-02T21:50:49.676Z",
       "root": "/",
@@ -3071,11 +3271,11 @@
       "blksize": 4194304,
       "ino": 8602727643,
       "blocks": 20624,
-      "atimeMs": 1525376589136.4495,
+      "atimeMs": 1525642384827.5674,
       "mtimeMs": 1525297849737.4187,
       "ctimeMs": 1525297849737.4187,
       "birthtimeMs": 1525297849675.9612,
-      "atime": "2018-05-03T19:43:09.136Z",
+      "atime": "2018-05-06T21:33:04.828Z",
       "mtime": "2018-05-02T21:50:49.737Z",
       "ctime": "2018-05-02T21:50:49.737Z",
       "birthtime": "2018-05-02T21:50:49.676Z"
@@ -3109,7 +3309,7 @@
       "size": 13178917,
       "prettySize": "13.2 MB",
       "modifiedTime": "2018-05-02T21:50:49.439Z",
-      "accessTime": "2018-05-03T19:43:09.136Z",
+      "accessTime": "2018-05-06T21:33:04.828Z",
       "changeTime": "2018-05-02T21:50:49.439Z",
       "birthTime": "2018-05-02T21:50:49.295Z",
       "root": "/",
@@ -3127,11 +3327,11 @@
       "blksize": 4194304,
       "ino": 8602727637,
       "blocks": 25744,
-      "atimeMs": 1525376589136.42,
+      "atimeMs": 1525642384827.5522,
       "mtimeMs": 1525297849438.9287,
       "ctimeMs": 1525297849438.9287,
       "birthtimeMs": 1525297849295.2085,
-      "atime": "2018-05-03T19:43:09.136Z",
+      "atime": "2018-05-06T21:33:04.828Z",
       "mtime": "2018-05-02T21:50:49.439Z",
       "ctime": "2018-05-02T21:50:49.439Z",
       "birthtime": "2018-05-02T21:50:49.295Z"
@@ -3165,7 +3365,7 @@
       "size": 14903896,
       "prettySize": "14.9 MB",
       "modifiedTime": "2018-05-02T21:50:50.191Z",
-      "accessTime": "2018-05-03T19:43:09.136Z",
+      "accessTime": "2018-05-06T21:33:04.828Z",
       "changeTime": "2018-05-02T21:50:50.191Z",
       "birthTime": "2018-05-02T21:50:49.811Z",
       "root": "/",
@@ -3183,11 +3383,11 @@
       "blksize": 4194304,
       "ino": 8602727645,
       "blocks": 29112,
-      "atimeMs": 1525376589136.4565,
+      "atimeMs": 1525642384827.5708,
       "mtimeMs": 1525297850191.3403,
       "ctimeMs": 1525297850191.3403,
       "birthtimeMs": 1525297849810.8564,
-      "atime": "2018-05-03T19:43:09.136Z",
+      "atime": "2018-05-06T21:33:04.828Z",
       "mtime": "2018-05-02T21:50:50.191Z",
       "ctime": "2018-05-02T21:50:50.191Z",
       "birthtime": "2018-05-02T21:50:49.811Z"
@@ -3200,135 +3400,6 @@
         "contentDigest": "2516f3b15cb3d2ada01e832ec243d521",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: package\ntitle: Medieval and Wild Adventure\ntagline: A walk back in time\nimage: /img/untitled-54.jpg\nprice: 6.600 DKK\nlenght: 7 days\n---\n\nThis adventure represents a journey to explore relics of old times and\ntraditions, a walk back in time as well as a taste of Transylvanian history.\nIt is a way to be part of the culture and traditions while stepping away from\nthe rudimental way of travelling and engaging in a unique discovery process.\nYou will experience the medieval and wild Transylvania, from the mountains and\nnature surrounding it, through old cities full of history and mysteries, all\nthe way to the rural environment where traditions and gastronomy were kept\nintact for ages.\n\n## What is included in the price?\n\n* 6 x nights Accommodation traditional modern guest house\n* 1 x night Accommodation in Cluj-Napoca\n* 7 x breakfast\n* Meals mentioned in the daily description\n* Transportation within the tour\n* 'Airport transfer '\n* 'Professional English speaking guides/mountain rangers '\n* Uncharted Team group leader that will assist you throughout the tour\n  (English speaking)\n* Activities highlighted in the itinerary\n* Entry fees to the objectives within the tour\n* This adventure is a package deal; therefore, it provides you with coverage\n  from Travel Guarantee Fund (Rejsegarantifonden) \n* Cancellation\n\n## What is not included in the price?\n\n* Transport to the starting point of the tour, Cluj–Napoca t/r\n\n* Travel Insurance\n\n* Lunch and dinner, apart from the meals specified in the daily schedules\n\n## Why we love this adventure?\n\n* Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling\n\n* It was designed for individual travellers, group of friends or co-workers as well as families\n\n* The travellers have the chance to discover and visit the city in a new way, by engaging themselves in an interactive game of treasure-hunt\n\n* It is suitable for a different variety of interests such as sports, sightseeing, gastronomy, culture, traditions\n\n* It is the ideal opportunity to experience a genuine adventure if you have not done it before. \n\n* All activities (even hiking, off-road, horseback riding) have as main focus discovering the genuine rural lifestyle, as well as the old customs and traditions of Transylvania\n\n* Every day’s schedule and activities are designed in such way that you will get a unique experience and understanding of the culture, traditions, nature and history of Transylvania. Everything being done in an exciting way that will keep you engaged all the way through\n\n* By joining this adventure, you will take part in ensuring sustainable travelling so that future generations can enjoy the places you help to preserve\n\n* We do not plan your time, we offer you the “tools” to discover Transylvania and make the most out of this adventure, so that at the end of the day you can say “I have done all that could be done in 1 week”\n\n## Is this adventure right for you?\n\n* A minimum level of fitness is required as the hiking tour and rock climbing involve a fair amount of physical exercise\n\n* Temperatures in the spring – autumn interval can vary from ca. 15°C up to 35°C so make sure that apart from rain jackets and warm clothes you also bring sunscreen cream\n\n* The tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed\n\n* This tour includes a lot of traditional food tasting, therefore if you have any allergies or different choices in taste, please inform us beforehand so we make sure no unpleasantness will occur \n\n## Itinerary\n\n### Day 1 * Hiking in Turzii Gorges, Visit Salina Turda\n\nBefore the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.\n\nIn the morning we will Kick off the adventure with a visit to the biggest and oldest salt mine in Romania, 108m underground, dating from 1271. Here you will be able to discover the wonders that lie underneath Transylvanian hills and mountains.\n\nOur next stop will be Turzii gorges, where we will move from the underground wonders to the cliffs, valleys and rivers that lie in from of your eyes. We will hike throughout the canyon while at the same time discovering together the hidden caves inside the gorges.\n\nWe will then travel to our accommodation in the Cindrel mountains, more precisely Arena Platos Resort. Once at the accommodation, all participants will be greeted with a traditional meal and the rest of the evening will be dedicated to resting and getting to know each other.\n\n### Day 2 * Hiking in the 7 Ladder Canyon, Offroad 4x4\n\nThe second day will start by heading towards the Carpathian Mountains, more precisely the Bucegi Mountains Sector. We will start with an easy hike towards the 7 Ladders Canyon, followed by traversing the canyon in a unique style. The hike will end in a picnic on the top of the canyon, after we will continue discovering the Carpathians with a 4x4 off-road tour. We will travel over high ground, through forest and woodland on various difficulty tracks, making for a great experience. Along the way, we will stop for a cosy picnic in a breath-taking view spot. Make sure your phones and photo cameras are fully charged to take proper advantage of the amazing landscapes\n\nThe day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. \n\n### Day 3 – Culture, Traditions and Gastronomy Tour\n\nThe food tour of today, goes through the typical cultural landscapes of the so called Transylvanian Highlands, an eco-touristic destination where we will visit some lovely villages. You’ll get to experience the specific rural gastronomy, meet some locals and try their best products or dishes. You will find out how nature and the territory influences the local products, we will talk about the characteristics of the cultural and gastronomical mosaic during a visit of the ruins of a Cistercian abbey in Cârța (Kerz).\n\nGet an insight in our local cuisine, we talk about 200 years old recipes, during a horse cart tour through the village or a walk on the hills above the village. At the end of the day we will meet the people of the Old Mill Project in Hosman (Holzmengen) and try their sweet pastry specialities from Luíza’s artisanal bakery.\n\n### Day 4 – Horseback riding\n\nThe fourth day is dedicated towards one of the most traditional ways of travelling from village to village and across the rolling hills, horseback riding. There will be a safety briefing including as well basic elements for beginners. Afterwards we will saddle up, and hop on for an unforgettable and memorable ride through the countryside, exploring the old Transylvanian lifestyle in the most genuine way.\n\nThe afternoon is dedicated towards relaxation.\n\n### Day 5 – Culture, Traditions and Gastronomy Tour\n\nToday’s gastronomical tour takes you during the 4.5 hours from through the UNESCO protected citadel (Burg) and to the Lower old centre. You will have the chance to taste some exclusive local products and try our recipes. We will talk about the characteristics of our gastronomy in the oldest school of Sighișoara. You will have the chance to try some typical cheese, the local white wines as well as various sweet and sour soups.\n\nExperience an old Saxon recipe, reinterpreted by an open-minded chef from a local restaurant. Sample the local fruit alcoholic drinks, a must during a visit in Transylvania and visit some of the unseen corners of historical Sighișoara.\n\n### Day 6 – Treasure Hunt and Cultural Heritages\n\nThe afternoon will be dedicated on experiencing the historical city of Sibiu in a fun and interactive way. A treasure hunt will be organized, where the participants will discover the historical city centre of the 2007 European Capital of Culture by following an interactive set of clues. Each clue will lead you to an emblematic place for the history of Sibiu.\n\nAfter lunch we will take a relaxing walk back in time, while visiting the The “ASTRA” Museum of Traditional Folk and Civilization which represents the largest open air ethnographic exhibition in Europe. You will be able to witness a display of 400 monuments folk architecture and technique in combination with a collection of ethnographic heritage objects.\n\n### Day 7 * Free day, return to airport\n\nOn the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n",
-        "contentDigest": "28234a0be904590fbadb556188ed0610",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Medieval and Wild Adventure",
-        "templateKey": "package",
-        "tagline": "A walk back in time",
-        "image": "../../../static/img/untitled-54.jpg",
-        "price": "6.600 DKK",
-        "lenght": "7 days",
-        "_PARENT": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md",
-      "fields": {
-        "slug": "/packages/senseofadventure/"
-      }
-    },
-    "/Users/Robert/uncharted/src/data/concept.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/concept.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/concept.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: 'concept'\nimage: /img/hero1.jpg\ntagline: The concept\n---\n\nTransylvania Uncharted is the first project of the Uncharted company. Its aim is to create the best mix of mountain activities and old traditions. Each place and activity included in the tours was carefully chosen to provide you with a new experience and an original way to explore and discover the wonders of Transylvania’s history. A history that spreads from the Carpathian Mountains, to Transylvania’s Forests and settles in the old castles and cities, all full of tales ready to be shared. Uncharted puts a lot of emphasis on creating a friendly environment where small groups of 8 to 16 adventurers will embark on a new chapter of their traveling book, through the mesmerizing beauty of Transylvania, a magical place where memories are being formed while footsteps are left behind.\n\n* ## Genuine adventures\n  Discover locations with great beauty and history, but which are not known to everyone. The 3 day weekend getaway and the 8 days’ adventure combine special destinations with interesting activities, to create the perfect recipe for the Genuine Adventure tour. You can always build your own adventure and we make sure to tailor it suiting your preferences.\n* ## Rediscover yourself\n  Uncharted challenges you to experience every small detail, as if it were for the first time. Except for the unexplored destinations and exciting activities, the adventure tours give you time to enjoy the silence, and reflect on your new discoveries, while enjoying the scenery.\n* ## You’re in safe hands\n  All adventure tours are accompanied by your group leader who is a specialist in activities. He will provide information on the places you are travelling through, suggest things to do and introduce you to local friends along the way. Your group leader was born and raised in the areas where the tours are being held, hence he knows every rock and tree surrounding the area.\n* ## Sustainable travelling\n  By choosing Uncharted you are supporting sustainable tourism. Whether you are passionate about supporting local communities or preserving wildlife and natural resources, there are plenty of ways you will support, when you travel with us.",
-        "contentDigest": "23f6654485225d751bee60afb3f4c716",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "",
-        "templateKey": "concept",
-        "image": "../../static/img/hero1.jpg",
-        "tagline": "The concept",
-        "_PARENT": "/Users/Robert/uncharted/src/data/concept.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/concept.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/concept.md",
-      "fields": {
-        "slug": "/concept/"
-      }
-    },
-    "/Users/Robert/uncharted/src/data/faq.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/faq.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/faq.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "9f20f77bc3d2cb0aecb645778d82de80",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/faq.md",
-      "relativePath": "faq.md",
-      "extension": "md",
-      "size": 93,
-      "prettySize": "93 B",
-      "modifiedTime": "2018-05-04T21:57:55.447Z",
-      "accessTime": "2018-05-04T21:57:55.447Z",
-      "changeTime": "2018-05-04T21:57:55.447Z",
-      "birthTime": "2018-05-04T21:57:15.970Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data",
-      "base": "faq.md",
-      "ext": ".md",
-      "name": "faq",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602817262,
-      "blocks": 8,
-      "atimeMs": 1525471075446.5535,
-      "mtimeMs": 1525471075447.1816,
-      "ctimeMs": 1525471075447.1816,
-      "birthtimeMs": 1525471035969.501,
-      "atime": "2018-05-04T21:57:55.447Z",
-      "mtime": "2018-05-04T21:57:55.447Z",
-      "ctime": "2018-05-04T21:57:55.447Z",
-      "birthtime": "2018-05-04T21:57:15.970Z"
-    },
-    "/Users/Robert/uncharted/src/data/faq.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/faq.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/faq.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: 'faq'\nimage: /img/hero1.jpg\ntagline: FAQ's\n---\n\n\n## Add some content here...",
-        "contentDigest": "9cf6252851fceae54c50b064ce0bc561",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "",
-        "templateKey": "faq",
-        "image": "../../static/img/hero1.jpg",
-        "tagline": "FAQ's",
-        "_PARENT": "/Users/Robert/uncharted/src/data/faq.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/faq.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/faq.md",
-      "fields": {
-        "slug": "/faq/"
       }
     },
     "SitePage /packages/fullnatureadventure/": {
@@ -3349,117 +3420,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ab5905e7b4d94c85475541d202a2735e",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/": {
-      "layout": "index",
-      "jsonName": "blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex.json",
-      "internalComponentName": "ComponentBlog20170104ABeginnersGuideToBrewingWithChemex",
-      "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
-      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "id": "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "e76a0ea8e45be29805c80ddd052de39f",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/": {
-      "layout": "index",
-      "jsonName": "blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.json",
-      "internalComponentName": "ComponentBlog20170104JustInSmallBatchOfJamaicanBlueMountainInStoreNextWeek",
-      "path": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
-      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "id": "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9f252cc81142678bc79d67ebc68051a0",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /packages/the-wild-carpathians/": {
-      "layout": "index",
-      "jsonName": "packages-the-wild-carpathians.json",
-      "internalComponentName": "ComponentPackagesTheWildCarpathians",
-      "path": "/packages/the-wild-carpathians/",
-      "component": "/Users/Robert/uncharted/src/templates/package.js",
-      "componentChunkName": "component---src-templates-package-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
-      "id": "SitePage /packages/the-wild-carpathians/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4f37881aae713386fa289ecf976c49c4",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/": {
-      "layout": "index",
-      "jsonName": "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json",
-      "internalComponentName": "ComponentBlog20161217MakingSenseOfTheScaasNewFlavorWheel",
-      "path": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
-      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
-      "id": "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ff291dc02f2e27f48ca54a4dabb171b6",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /packages/weekendgetaway/": {
-      "layout": "index",
-      "jsonName": "packages-weekendgetaway.json",
-      "internalComponentName": "ComponentPackagesWeekendgetaway",
-      "path": "/packages/weekendgetaway/",
-      "component": "/Users/Robert/uncharted/src/templates/package.js",
-      "componentChunkName": "component---src-templates-package-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
-      "id": "SitePage /packages/weekendgetaway/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "01f916e40a8f5e5115dfa9ebd5166282",
+        "contentDigest": "4492beb288efafe158127ad2676d7f8d",
         "owner": "internal-data-bridge"
       }
     },
@@ -3481,95 +3442,117 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5286091c2b84e796dcda076c450fca23",
+        "contentDigest": "ab145c0f46e889888b2d7f9f76ecf0ca",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /tags/brewing/": {
+    "SitePage /packages/the-wild-carpathians/": {
       "layout": "index",
-      "jsonName": "tags-brewing.json",
-      "internalComponentName": "ComponentTagsBrewing",
-      "path": "/tags/brewing/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
+      "jsonName": "packages-the-wild-carpathians.json",
+      "internalComponentName": "ComponentPackagesTheWildCarpathians",
+      "path": "/packages/the-wild-carpathians/",
+      "component": "/Users/Robert/uncharted/src/templates/package.js",
+      "componentChunkName": "component---src-templates-package-js",
       "context": {
-        "tag": "brewing"
+        "id": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file >>> MarkdownRemark"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/brewing/",
+      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
+      "id": "SitePage /packages/the-wild-carpathians/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6ef087798503bfa32abac316aeb99422",
+        "contentDigest": "c27396a9d6ad60de190a20829e555875",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /tags/chemex/": {
+    "SitePage /packages/weekendgetaway/": {
       "layout": "index",
-      "jsonName": "tags-chemex.json",
-      "internalComponentName": "ComponentTagsChemex",
-      "path": "/tags/chemex/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
+      "jsonName": "packages-weekendgetaway.json",
+      "internalComponentName": "ComponentPackagesWeekendgetaway",
+      "path": "/packages/weekendgetaway/",
+      "component": "/Users/Robert/uncharted/src/templates/package.js",
+      "componentChunkName": "component---src-templates-package-js",
       "context": {
-        "tag": "chemex"
+        "id": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file >>> MarkdownRemark"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/chemex/",
+      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
+      "id": "SitePage /packages/weekendgetaway/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "deba429e81a8ad8ef0780332b44d8b02",
+        "contentDigest": "93f579aa5f13ef0bd10bf4a17d28f4bd",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /tags/jamaica/": {
+    "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/": {
       "layout": "index",
-      "jsonName": "tags-jamaica.json",
-      "internalComponentName": "ComponentTagsJamaica",
-      "path": "/tags/jamaica/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
+      "jsonName": "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json",
+      "internalComponentName": "ComponentBlog20161217MakingSenseOfTheScaasNewFlavorWheel",
+      "path": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
+      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
-        "tag": "jamaica"
+        "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/jamaica/",
+      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "id": "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "65c8d53920438617fe6a2a799307ca3a",
+        "contentDigest": "5fbf8c99c5d40f4a10d240b57a775b91",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /tags/green-beans/": {
+    "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/": {
       "layout": "index",
-      "jsonName": "tags-green-beans.json",
-      "internalComponentName": "ComponentTagsGreenBeans",
-      "path": "/tags/green-beans/",
-      "component": "/Users/Robert/uncharted/src/templates/tags.js",
-      "componentChunkName": "component---src-templates-tags-js",
+      "jsonName": "blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex.json",
+      "internalComponentName": "ComponentBlog20170104ABeginnersGuideToBrewingWithChemex",
+      "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
+      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
-        "tag": "green beans"
+        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
-      "id": "SitePage /tags/green-beans/",
+      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "id": "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d3dc569b8491774f7b3b7fc31d52e8b5",
+        "contentDigest": "4336c8194ef6f41c13a385f0cff985f2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/": {
+      "layout": "index",
+      "jsonName": "blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.json",
+      "internalComponentName": "ComponentBlog20170104JustInSmallBatchOfJamaicanBlueMountainInStoreNextWeek",
+      "path": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
+      "component": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/blog-post.js",
+      "id": "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "cae31945a81d0d7d3eee7c0c8667c8c6",
         "owner": "internal-data-bridge"
       }
     },
@@ -3591,7 +3574,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b983a5e667fd0e934ce6786e1e9831d8",
+        "contentDigest": "83ecdf8d6377114eec61b353d97b4cb1",
         "owner": "internal-data-bridge"
       }
     },
@@ -3613,7 +3596,95 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "385f03ba990f5f81cc3504394c655183",
+        "contentDigest": "2b26db141de6ac37a2ce0886e7d79f37",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/brewing/": {
+      "layout": "index",
+      "jsonName": "tags-brewing.json",
+      "internalComponentName": "ComponentTagsBrewing",
+      "path": "/tags/brewing/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "brewing"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/brewing/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "629352f88f08eb210f08ecbb48e49725",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/chemex/": {
+      "layout": "index",
+      "jsonName": "tags-chemex.json",
+      "internalComponentName": "ComponentTagsChemex",
+      "path": "/tags/chemex/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "chemex"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/chemex/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "42e33dce1145dd12b92cb47e88ab1ed2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/jamaica/": {
+      "layout": "index",
+      "jsonName": "tags-jamaica.json",
+      "internalComponentName": "ComponentTagsJamaica",
+      "path": "/tags/jamaica/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "jamaica"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/jamaica/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e1c408de2cc93dcdd9e875c33f8abeee",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/green-beans/": {
+      "layout": "index",
+      "jsonName": "tags-green-beans.json",
+      "internalComponentName": "ComponentTagsGreenBeans",
+      "path": "/tags/green-beans/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "green beans"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/green-beans/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "40a014c8d0fa592555574176c41492cf",
         "owner": "internal-data-bridge"
       }
     },
@@ -3633,7 +3704,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7db29af8579d736f1f380dfde64548eb",
+        "contentDigest": "817722ed3c87488690b0ae7f669c5a57",
         "owner": "internal-data-bridge"
       }
     },
@@ -3653,7 +3724,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "12a28ff9dcfbefb640ffbed28112e301",
+        "contentDigest": "58a49745fb2a519948328111789d7c5b",
         "owner": "internal-data-bridge"
       }
     },
@@ -3673,7 +3744,27 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ddf307874f84da820722bb19697f8cfd",
+        "contentDigest": "18ae423f7e8356aa8306ffcdf5f39205",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "/Users/Robert/uncharted/src/pages/contact.js",
+      "componentChunkName": "component---src-pages-contact-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/uncharted/src/pages/contact.js",
+      "id": "SitePage /contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3d39122b22c60d2042ce2329170d0362",
         "owner": "internal-data-bridge"
       }
     },
@@ -3693,7 +3784,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5ee0c1a55a81e929aaa33e5717b137f9",
+        "contentDigest": "20c82bba7f1e78a12b920a3b61629040",
         "owner": "internal-data-bridge"
       }
     },
@@ -3713,7 +3804,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "95c7dfb83a21fa12510cfc5096df9321",
+        "contentDigest": "ddba560d9a143d0cc8842f81adfd8ccb",
         "owner": "internal-data-bridge"
       }
     },
@@ -3733,7 +3824,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "220e0427ee93d2e597080631d2c4a241",
+        "contentDigest": "74b48ec572862b8a8e9db82d3fe29f4c",
         "owner": "internal-data-bridge"
       }
     },
@@ -3753,7 +3844,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7bfa061213073e2f713ca2c098d4acd5",
+        "contentDigest": "981fc0c2ef76d66c4f15a2cdbfc0266c",
         "owner": "internal-data-bridge"
       }
     },
@@ -3773,17 +3864,63 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7982ad3df1c65610746b7ef6bf61d147",
+        "contentDigest": "1c252373b7d442d8fd0a2ff54f11a17c",
         "owner": "internal-data-bridge"
       }
     },
-    "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file",
+    "/Users/Robert/uncharted/src/data/contact.md absPath of file": {
+      "id": "/Users/Robert/uncharted/src/data/contact.md absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/src/data/contact.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
       "internal": {
-        "content": "---\ntemplateKey: package\ntitle: Saxonia Getaway\ntagline: The mystery of Saxon Transylvania\nimage: /img/untitled-61.jpg\nprice: 4.250 DKK\nlenght: 3 days\n---\nTired of the daily routine? Eager for an adventure? Time pressure is an issue?\nNo need to worry, we have the answer to all your questions. We have prepared a\nunique 3-day weekend getaway for you in the mysterious Saxon Transylvania. All\nyou need to do is to leave a reminder Friday afternoon on your work or\nuniversity desk saying “Gone on an adventure, see you in 3 days”, the rest we\ntake care of.\n\n## What's Included?\n\n* Accommodation traditional guesthouse\n* 3 x breakfast\n* 2 x dinner\n* 3 x lunch\n* 'Activities highlighted in the itinerary '\n* All local transports within the program\n* Airport transfer\n* Entry fees to the objectives within the tour\n* > \\-\n  > Uncharted Team group leader that will assist you throughout the tour\n  > (English speaking)\n* > \\-\n  > This adventure is a package deal; therefore, it provides you with coverage\n  > from Travel Guarantee Fund (Rejsegarantifonden) \n* Cancellation\n* null\n\n## Why we love this adventure?\n\n* Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling; \n* Tour is suitable for families, couples, friends or individual, all with the same interest to discover a new culture in an interactive way;\n* You get to experience the culture and traditions of Transylvania, as well as the landscapes surrounding it;\n* The gastronomical experience consists not only of tasting the traditional products, but also learning how they are made and see where they come from\n* It is an active way to discover a new culture, through a weekend getaway;\n* High emphasis on sustainable travelling.\n\n## Is this adventure suitable for you?\n\n* If you love food, drinks and discovering new cultures and traditions, then this adventure is the ideal getaway with you\n\n## Daily schedule\n\n1. ### Day 1\n   Before the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Sibiu to get a proper rest before the first day.\n   \n   In the morning we will start the first gastronomical tour that goes through the typical cultural landscapes of the Transylvanian Highlands, an eco-touristic destination where we will visit some lovely villages. You’ll get to experience the specific rural gastronomy, meet some locals and try their best products or dishes. You will find out how nature and the territory influences the local products, we will talk about the characteristics of the cultural and gastronomical mosaic during a visit of the ruins of a Cistercian abbey in Cârța (Kerz).\n\n   Get an insight in our local cuisine, we talk about 200 years old recipes, during a horse cart tour through the village or a walk on the hills above the village. At the end of the day we will meet the people of the Old Mill Project in Hosman (Holzmengen) and try their sweet pastry specialities from Luíza’s artisanal bakery.\n2. ### Day 2\n   Today’s gastronomical tour takes you during the 4.5 hours from through the UNESCO protected citadel (Burg) and to the Lower old centre. You will have the chance to taste some exclusive local products and try our recipes. We will talk about the characteristics of our gastronomy in the oldest school of Sighișoara. You will have the chance to try some typical cheese, the local white wines as well as various sweet and sour soups.\n\n   Experience an old Saxon recipe, reinterpreted by an open-minded chef from a local restaurant. Sample the local fruit alcoholic drinks, a must during a visit in Transylvania and visit some of the unseen corners of historical Sighișoara.\n3. ### Day 3\n   On the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n\n**\\*For more details and insights of the tours, please check the [Essential Information](planning.html) page.**\n",
-        "contentDigest": "a5398461575b0df01e833a14e2d5ecab",
+        "contentDigest": "05ac7142d82926302a81b94623f58e9c",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/uncharted/src/data/contact.md",
+      "relativePath": "contact.md",
+      "extension": "md",
+      "size": 865,
+      "prettySize": "865 B",
+      "modifiedTime": "2018-05-06T21:36:11.972Z",
+      "accessTime": "2018-05-06T21:36:11.972Z",
+      "changeTime": "2018-05-06T21:36:11.972Z",
+      "birthTime": "2018-05-06T21:35:47.066Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/src/data",
+      "base": "contact.md",
+      "ext": ".md",
+      "name": "contact",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8603117879,
+      "blocks": 8,
+      "atimeMs": 1525642571971.9343,
+      "mtimeMs": 1525642571972.2864,
+      "ctimeMs": 1525642571972.2864,
+      "birthtimeMs": 1525642547065.7947,
+      "atime": "2018-05-06T21:36:11.972Z",
+      "mtime": "2018-05-06T21:36:11.972Z",
+      "ctime": "2018-05-06T21:36:11.972Z",
+      "birthtime": "2018-05-06T21:35:47.066Z"
+    },
+    "/Users/Robert/uncharted/src/data/contact.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/data/contact.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/data/contact.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'contact'\nimage: /img/hero1.jpg\ntagline: Contact us\n---\n\nTransylvania Uncharted is the first project of the Uncharted company. Its aim is to create the best mix of mountain activities and old traditions. Each place and activity included in the tours was carefully chosen to provide you with a new experience and an original way to explore and discover the wonders of Transylvania’s history. A history that spreads from the Carpathian Mountains, to Transylvania’s Forests and settles in the old castles and cities, all full of tales ready to be shared. Uncharted puts a lot of emphasis on creating a friendly environment where small groups of 8 to 16 adventurers will embark on a new chapter of their traveling book, through the mesmerizing beauty of Transylvania, a magical place where memories are being formed while footsteps are left behind.",
+        "contentDigest": "7cccb082c452af033b65ec7b3e5b5d52",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -3791,19 +3928,17 @@
         }
       },
       "frontmatter": {
-        "title": "Saxonia Getaway",
-        "templateKey": "package",
-        "tagline": "The mystery of Saxon Transylvania",
-        "image": "../../../static/img/untitled-61.jpg",
-        "price": "4.250 DKK",
-        "lenght": "3 days",
-        "_PARENT": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file"
+        "title": "",
+        "templateKey": "contact",
+        "image": "../../static/img/hero1.jpg",
+        "tagline": "Contact us",
+        "_PARENT": "/Users/Robert/uncharted/src/data/contact.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/data/contact.md absPath of file"
       },
       "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/contact.md",
       "fields": {
-        "slug": "/packages/weekendgetaway/"
+        "slug": "/contact/"
       }
     }
   },
@@ -3813,100 +3948,114 @@
   },
   "componentDataDependencies": {
     "nodes": {
+      "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file >>> MarkdownRemark": [
+        "/packages/the-wild-carpathians/"
+      ],
+      "/Users/Robert/uncharted/static/img/dsc_0088.jpg absPath of file": [
+        "/packages/the-wild-carpathians/",
+        "/",
+        "/stories/"
+      ],
+      "/Users/Robert/uncharted/static/img/dsc_0088.jpg absPath of file >> ImageSharp": [
+        "/packages/the-wild-carpathians/",
+        "/",
+        "/stories/"
+      ],
       "/Users/Robert/uncharted/src/pages/packages/senseofadventure.md absPath of file >>> MarkdownRemark": [
         "/packages/senseofadventure/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-54.jpg absPath of file": [
+        "/packages/senseofadventure/",
         "/",
-        "/stories/",
-        "/packages/senseofadventure/"
+        "/stories/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-54.jpg absPath of file >> ImageSharp": [
+        "/packages/senseofadventure/",
         "/",
-        "/stories/",
-        "/packages/senseofadventure/"
-      ],
-      "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark": [
-        "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"
-      ],
-      "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file": [
-        "/",
-        "/stories/",
-        "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
-        "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
-        "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
-        "/concept/",
-        "/faq/",
-        "/terms/"
-      ],
-      "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file >> ImageSharp": [
-        "/",
-        "/stories/",
-        "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
-        "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
-        "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
-        "/concept/",
-        "/faq/",
-        "/terms/"
+        "/stories/"
       ],
       "/Users/Robert/uncharted/src/pages/packages/fullnatureadventure.md absPath of file >>> MarkdownRemark": [
         "/packages/fullnatureadventure/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-57.jpg absPath of file": [
+        "/packages/fullnatureadventure/",
         "/",
-        "/stories/",
-        "/packages/fullnatureadventure/"
+        "/stories/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-57.jpg absPath of file >> ImageSharp": [
+        "/packages/fullnatureadventure/",
         "/",
-        "/stories/",
-        "/packages/fullnatureadventure/"
-      ],
-      "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark": [
-        "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"
-      ],
-      "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file >>> MarkdownRemark": [
-        "/packages/the-wild-carpathians/"
-      ],
-      "/Users/Robert/uncharted/static/img/dsc_0088.jpg absPath of file": [
-        "/",
-        "/stories/",
-        "/packages/the-wild-carpathians/"
-      ],
-      "/Users/Robert/uncharted/static/img/dsc_0088.jpg absPath of file >> ImageSharp": [
-        "/",
-        "/stories/",
-        "/packages/the-wild-carpathians/"
-      ],
-      "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": [
-        "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
+        "/stories/"
       ],
       "/Users/Robert/uncharted/src/pages/packages/weekendgetaway.md absPath of file >>> MarkdownRemark": [
         "/packages/weekendgetaway/"
       ],
       "/Users/Robert/uncharted/static/img/untitled-61.jpg absPath of file": [
-        "/",
-        "/stories/",
-        "/packages/weekendgetaway/"
-      ],
-      "/Users/Robert/uncharted/static/img/untitled-61.jpg absPath of file >> ImageSharp": [
-        "/",
-        "/stories/",
-        "/packages/weekendgetaway/"
-      ],
-      "Site": [
-        "/tags/chemex/",
-        "/tags/brewing/",
-        "/tags/jamaica/",
-        "/tags/flavor/",
-        "/tags/green-beans/",
-        "/tags/tasting/"
-      ],
-      "/Users/Robert/uncharted/static/img/untitled-59.jpg absPath of file": [
+        "/packages/weekendgetaway/",
         "/",
         "/stories/"
       ],
-      "/Users/Robert/uncharted/static/img/untitled-59.jpg absPath of file >> ImageSharp": [
+      "/Users/Robert/uncharted/static/img/untitled-61.jpg absPath of file >> ImageSharp": [
+        "/packages/weekendgetaway/",
+        "/",
+        "/stories/"
+      ],
+      "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": [
+        "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
+      ],
+      "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file": [
+        "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
+        "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
+        "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
+        "/concept/",
+        "/faq/",
+        "/",
+        "/stories/",
+        "/terms/",
+        "/contact/"
+      ],
+      "/Users/Robert/uncharted/static/img/hero1.jpg absPath of file >> ImageSharp": [
+        "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
+        "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
+        "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
+        "/concept/",
+        "/faq/",
+        "/",
+        "/stories/",
+        "/terms/",
+        "/contact/"
+      ],
+      "/Users/Robert/uncharted/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark": [
+        "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"
+      ],
+      "/Users/Robert/uncharted/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark": [
+        "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"
+      ],
+      "Site": [
+        "/tags/flavor/",
+        "/tags/tasting/",
+        "/tags/brewing/",
+        "/tags/chemex/",
+        "/tags/jamaica/",
+        "/tags/green-beans/"
+      ],
+      "/Users/Robert/uncharted/src/data/concept.md absPath of file >>> MarkdownRemark": [
+        "/concept/"
+      ],
+      "/Users/Robert/uncharted/src/data/faq.md absPath of file >>> MarkdownRemark": [
+        "/faq/"
+      ],
+      "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark": [
+        "/"
+      ],
+      "/Users/Robert/uncharted/src/data/stories.md absPath of file >>> MarkdownRemark": [
+        "/stories/"
+      ],
+      "/Users/Robert/uncharted/static/img/untitled-58.jpg absPath of file": [
+        "/",
+        "/stories/"
+      ],
+      "/Users/Robert/uncharted/static/img/untitled-58.jpg absPath of file >> ImageSharp": [
         "/",
         "/stories/"
       ],
@@ -3918,33 +4067,32 @@
         "/",
         "/stories/"
       ],
-      "/Users/Robert/uncharted/src/data/concept.md absPath of file >>> MarkdownRemark": [
-        "/concept/"
+      "/Users/Robert/uncharted/static/img/untitled-59.jpg absPath of file": [
+        "/",
+        "/stories/"
       ],
-      "/Users/Robert/uncharted/src/data/index.md absPath of file >>> MarkdownRemark": [
-        "/"
-      ],
-      "/Users/Robert/uncharted/src/data/stories.md absPath of file >>> MarkdownRemark": [
+      "/Users/Robert/uncharted/static/img/untitled-59.jpg absPath of file >> ImageSharp": [
+        "/",
         "/stories/"
       ],
       "/Users/Robert/uncharted/src/data/terms.md absPath of file >>> MarkdownRemark": [
         "/terms/"
       ],
-      "/Users/Robert/uncharted/src/data/faq.md absPath of file >>> MarkdownRemark": [
-        "/faq/"
+      "/Users/Robert/uncharted/src/data/contact.md absPath of file >>> MarkdownRemark": [
+        "/contact/"
       ]
     },
     "connections": {
       "MarkdownRemark": [
-        "LAYOUT___index",
+        "/tags/flavor/",
+        "/tags/tasting/",
+        "/tags/brewing/",
+        "/tags/chemex/",
+        "/tags/jamaica/",
+        "/tags/green-beans/",
         "/",
         "/stories/",
-        "/tags/chemex/",
-        "/tags/brewing/",
-        "/tags/jamaica/",
-        "/tags/flavor/",
-        "/tags/green-beans/",
-        "/tags/tasting/"
+        "LAYOUT___index"
       ],
       "SitePage": [
         "/dev-404-page/"

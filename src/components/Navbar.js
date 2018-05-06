@@ -26,7 +26,7 @@ export default class Navbar extends React.Component {
         <Menu open={this.state.menuOpen}>
 
           <Item>
-            <Link className="navbar-item" to="/concept" onClick={this.toggleMenu}>
+            <Link to="/concept" onClick={this.toggleMenu}>
               Concept
             </Link>
           </Item>
@@ -38,9 +38,11 @@ export default class Navbar extends React.Component {
           </Item> */}
 
           <Item>
-            <ContactButton>
-              Contact
-            </ContactButton>
+              <ContactButton>
+            <Link to="/contact" onClick={this.toggleMenu}>
+                Contact
+            </Link>
+              </ContactButton>
             <ContactCard/>
           </Item>
 

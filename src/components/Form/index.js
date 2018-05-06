@@ -107,10 +107,10 @@ export default class Form extends React.Component {
                 <Activities>
                     {this.props.activities.map(({node : post}) => (
                         <Activity key={post.id}>
-                            <Checkbox type="checkbox" name={post.frontmatter.name} onChange={this.handleChange} />
+                            <Checkbox type="checkbox" name={post.frontmatter.title} onChange={this.handleChange} />
                             <FakeCheckbox />
                             <Image sizes={post.frontmatter.image.childImageSharp.sizes} />
-                            <CheckboxName>{post.frontmatter.name}</CheckboxName>
+                            <CheckboxName>{post.frontmatter.title}</CheckboxName>
                         </Activity>
                     ))}
                 </Activities>

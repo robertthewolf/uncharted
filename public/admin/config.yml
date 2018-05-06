@@ -25,7 +25,7 @@ collections:
     create: true
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "activity"}
-      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Name", name: "title", widget: "string"}
       - {label: "Thumbnail image", name: "image", widget: "image"}
 
 #  pages
@@ -57,11 +57,27 @@ collections:
           - {label: "Tagline", name: "tagline", widget: "string"}
           - {label: "Welcoming paragraph", name: "welcome", widget: "text"}
           - {label: "Cover image", name: "image", widget: "image"}
+      - file: "src/data/contact.md"
+        name: "contact"
+        label: "Contact"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "contact"}
+          - {label: "Tagline", name: "tagline", widget: "string"}
+          - {label: "Cover image", name: "image", widget: "image"}
+          - {label: "Body text", name: "body", widget: "markdown"}
       - file: "src/data/terms.md"
         name: "terms"
         label: "Terms and Conditions"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "terms"}
+          - {label: "Tagline", name: "tagline", widget: "string"}
+          - {label: "Cover image", name: "image", widget: "image"}
+          - {label: "Body text", name: "body", widget: "markdown"}
+      - file: "src/data/faq.md"
+        name: "faq"
+        label: "FAQ's"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "faq"}
           - {label: "Tagline", name: "tagline", widget: "string"}
           - {label: "Cover image", name: "image", widget: "image"}
           - {label: "Body text", name: "body", widget: "markdown"}
