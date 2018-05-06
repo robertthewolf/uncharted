@@ -7,11 +7,7 @@ price: 4.250 DKK
 lenght: 3 days
 ---
 Tired of the daily routine? Eager for an adventure? Time pressure is an issue?
-No need to worry, we have the answer to all your questions. We have prepared a
-unique 3-day weekend getaway for you in the mysterious Saxon Transylvania. All
-you need to do is to leave a reminder Friday afternoon on your work or
-university desk saying “Gone on an adventure, see you in 3 days”, the rest we
-take care of.
+No need to worry, we have the answer to all your questions. We have prepared a unique 3-day weekend getaway for you in the mysterious Saxon Transylvania. All you need to do is to leave a reminder Friday afternoon on your work or university desk saying “Gone on an adventure, see you in 3 days”, the rest we take care of.
 
 ## What's Included?
 
@@ -23,12 +19,10 @@ take care of.
 * All local transports within the program
 * Airport transfer
 * Entry fees to the objectives within the tour
-* > \-
-  > Uncharted Team group leader that will assist you throughout the tour
-  > (English speaking)
-* > \-
-  > This adventure is a package deal; therefore, it provides you with coverage
-  > from Travel Guarantee Fund (Rejsegarantifonden) 
+* Uncharted Team group leader that will assist you throughout the tour
+  (English speaking)
+* This adventure is a package deal; therefore, it provides you with coverage
+  from Travel Guarantee Fund (Rejsegarantifonden) 
 * Cancellation
 * null
 
@@ -47,17 +41,11 @@ take care of.
 
 ## Daily schedule
 
-1. ### Day 1
-   Before the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Sibiu to get a proper rest before the first day.
-   
+1. Before the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Sibiu to get a proper rest before the first day.
    In the morning we will start the first gastronomical tour that goes through the typical cultural landscapes of the Transylvanian Highlands, an eco-touristic destination where we will visit some lovely villages. You’ll get to experience the specific rural gastronomy, meet some locals and try their best products or dishes. You will find out how nature and the territory influences the local products, we will talk about the characteristics of the cultural and gastronomical mosaic during a visit of the ruins of a Cistercian abbey in Cârța (Kerz).
-
    Get an insight in our local cuisine, we talk about 200 years old recipes, during a horse cart tour through the village or a walk on the hills above the village. At the end of the day we will meet the people of the Old Mill Project in Hosman (Holzmengen) and try their sweet pastry specialities from Luíza’s artisanal bakery.
-2. ### Day 2
-   Today’s gastronomical tour takes you during the 4.5 hours from through the UNESCO protected citadel (Burg) and to the Lower old centre. You will have the chance to taste some exclusive local products and try our recipes. We will talk about the characteristics of our gastronomy in the oldest school of Sighișoara. You will have the chance to try some typical cheese, the local white wines as well as various sweet and sour soups.
-
+2. Today’s gastronomical tour takes you during the 4.5 hours from through the UNESCO protected citadel (Burg) and to the Lower old centre. You will have the chance to taste some exclusive local products and try our recipes. We will talk about the characteristics of our gastronomy in the oldest school of Sighișoara. You will have the chance to try some typical cheese, the local white wines as well as various sweet and sour soups.
    Experience an old Saxon recipe, reinterpreted by an open-minded chef from a local restaurant. Sample the local fruit alcoholic drinks, a must during a visit in Transylvania and visit some of the unseen corners of historical Sighișoara.
-3. ### Day 3
-   On the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.
+3. On the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.
 
 **\*For more details and insights of the tours, please check the [Essential Information](planning.html) page.**
