@@ -1,6 +1,11 @@
 ---
-templateKey: 'frontpage'
-image: /img/hero1.jpg
+templateKey: frontpage
 tagline: A new way of travelling!
-welcome: 'Welcome to your new travelling chapter. In this chapter you are the one to decide if you want to be taken into a special themed adventure, or tailor your own. What’s guaranteed is that with each uncharted path, you will rediscover yourself.'
+welcome: >-
+  Welcome to your new travelling chapter. In this chapter you are the one to
+  decide if you want to be taken into a special themed adventure, or tailor your
+  own. What’s guaranteed is that with each uncharted path, you will rediscover
+  yourself.
+image: /img/untitled-58.jpg
 ---
+
