@@ -84,4 +84,36 @@ ul {
         
     }
 }
+
+ol {
+    li {
+        position: relative
+        counter-increment: day
+        max-width: 732px
+        margin: 0 auto;
+        &::after {
+            content: '';
+            position: absolute
+            top: 0
+            left: 50%
+            width: 1px
+            height: calc(100% + 2rem);
+            background-color: #1F233D;
+            z-index: -1
+        }
+        &::before {
+            content: "Day " counter(day);
+            display: block;
+            margin: 2rem auto 1rem;
+            padding: .5rem 1rem
+            text-align: center
+            line-height: 1.8rem
+            font-weight: 200
+            width: 3rem
+            background-color: #464F8A;
+            border-radius: .5rem
+        }
+
+    }
+}
 `
