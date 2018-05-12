@@ -8,6 +8,7 @@ image: /img/hero1.jpg
 ## What language phrases should I learn? 
 
 Buna ziua – Good day – God Dag
+
 Merci – Thank you – Tak
 
 All of those phrases are nice to know and show that you want to interact with the culture of the country. But do not worry, more than 30% of Romanians speak English and French, also around 7% speak German (especially in Transylvania where there are lots of Saxons).
