@@ -47,6 +47,9 @@ Not only that you can, we strongly advise you to take advantage of our “custom
 
 Part of small group travel means that although travellers come from various locations and backgrounds, you will be travelling with like-minded companions who, like you, are keen to share the experience and forge lifelong friendships.
 
+##
+
+##
 # MONEY
 
 ## What is the Romanian currency?
