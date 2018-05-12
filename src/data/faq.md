@@ -47,8 +47,6 @@ Not only that you can, we strongly advise you to take advantage of our “custom
 
 Part of small group travel means that although travellers come from various locations and backgrounds, you will be travelling with like-minded companions who, like you, are keen to share the experience and forge lifelong friendships.
 
-
-
 # MONEY
 
 ## What is the Romanian currency?
@@ -76,6 +74,8 @@ Here are some prices that you will usually encounter:
 ## Is tipping customary in Romania?
 
 Well let me put it this way, it is not a must but it is a great way to show how much you appreciated the service you received. Tips are usual for taxi drivers, tour guides, waiters, or hotel staff. Usually, a tipping around 10% is sufficient, but if the service was really great, feel free to empty the pockets. At restaurants, the tip is usually not included in the bill.
+
+
 
 # Health & Safety
 
