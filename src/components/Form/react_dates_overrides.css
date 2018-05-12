@@ -69,3 +69,11 @@
   background: #1F233D;
   border-color: #1F233D;
 }
+
+.DayPickerKeyboardShortcuts_show__bottomRight {
+  border-right-color: #464F8A;
+}
+
+.DayPickerKeyboardShortcuts_show__bottomRight:hover {
+  border-right-color: #1F233D;
+}

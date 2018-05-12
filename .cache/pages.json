@@ -3,8 +3,8 @@
         "componentChunkName": "component---src-templates-package-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-fullnatureadventure.json",
-        "path": "/packages/fullnatureadventure/"
+        "jsonName": "packages-weekendgetaway.json",
+        "path": "/packages/weekendgetaway/"
     },
     {
         "componentChunkName": "component---src-templates-package-js",
@@ -17,15 +17,15 @@
         "componentChunkName": "component---src-templates-package-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-the-wild-carpathians.json",
-        "path": "/packages/the-wild-carpathians/"
+        "jsonName": "packages-fullnatureadventure.json",
+        "path": "/packages/fullnatureadventure/"
     },
     {
         "componentChunkName": "component---src-templates-package-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-weekendgetaway.json",
-        "path": "/packages/weekendgetaway/"
+        "jsonName": "packages-the-wild-carpathians.json",
+        "path": "/packages/the-wild-carpathians/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",

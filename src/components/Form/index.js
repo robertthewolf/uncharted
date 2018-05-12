@@ -1,14 +1,15 @@
 import React from 'react'
 import styled from 'styled-components'
 import { navigateTo } from "gatsby-link";
-
 import Image from 'gatsby-image'
+import windowSize from 'react-window-size';
 
 //date-picker
 import 'react-dates/initialize';
 import { DateRangePicker, SingleDatePicker, DayPickerRangeController } from 'react-dates';
 import 'react-dates/lib/css/_datepicker.css';
 import './react_dates_overrides.css'
+
 
 function encode(data) {
     return Object.keys(data)
@@ -17,7 +18,7 @@ function encode(data) {
 }
 
 
-export default class Form extends React.Component {
+class Form extends React.Component {
     state = {
         startDate: null,
         endDate: null,
@@ -59,6 +60,14 @@ export default class Form extends React.Component {
     };
 
     render() {
+
+        let numberOfMonths = 1;
+        if (this.props.windowWidth > 1200) {
+            numberOfMonths = 3;
+        } else if (this.props.windowWidth < 650) {
+            numberOfMonths = 2;
+        }
+
         return(
             <Container
                 name="createyourown"
@@ -87,6 +96,8 @@ export default class Form extends React.Component {
                 noBorder={true}
                 block={true}
                 showDefaultInputIcon={true}
+                numberOfMonths={numberOfMonths}
+                displayFormat="DD. MMM YYYY"
                 />
                 </Date>
 
@@ -133,6 +144,8 @@ export default class Form extends React.Component {
         );
     }
 }
+
+export default windowSize(Form);
 
 const Container = styled.form`
 max-width: 650px

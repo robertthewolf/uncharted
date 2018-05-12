@@ -23,13 +23,13 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
-  "packages-fullnatureadventure.json": require("/Users/Robert/uncharted/.cache/json/packages-fullnatureadventure.json"),
+  "packages-weekendgetaway.json": require("/Users/Robert/uncharted/.cache/json/packages-weekendgetaway.json"),
   "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
   "packages-senseofadventure.json": require("/Users/Robert/uncharted/.cache/json/packages-senseofadventure.json"),
   "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
-  "packages-the-wild-carpathians.json": require("/Users/Robert/uncharted/.cache/json/packages-the-wild-carpathians.json"),
+  "packages-fullnatureadventure.json": require("/Users/Robert/uncharted/.cache/json/packages-fullnatureadventure.json"),
   "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
-  "packages-weekendgetaway.json": require("/Users/Robert/uncharted/.cache/json/packages-weekendgetaway.json"),
+  "packages-the-wild-carpathians.json": require("/Users/Robert/uncharted/.cache/json/packages-the-wild-carpathians.json"),
   "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
   "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json": require("/Users/Robert/uncharted/.cache/json/blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json"),
   "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
