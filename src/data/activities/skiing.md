@@ -1,6 +1,6 @@
 ---
 templateKey: activity
-title: Skiing / Snowboarding
+title: 'Skiing '
 image: /img/7e6245cd33.jpg
 ---
 
