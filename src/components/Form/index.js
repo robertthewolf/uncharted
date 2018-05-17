@@ -20,9 +20,9 @@ function encode(data) {
 
 class Form extends React.Component {
     state = {
-        // startDate: null,
-        // endDate: null,
-        // focusedInput: null,
+        startDate: null,
+        endDate: null,
+        focusedInput: null,
 
         people: 1,
         price: 4500,
@@ -70,9 +70,9 @@ class Form extends React.Component {
 
         return(
             <Container
-                name="createyourown"
+                name="custom"
                 method="post"
-                action="/confirmation/"
+                // action="/confirmation/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
@@ -84,7 +84,7 @@ class Form extends React.Component {
                 </p>
 
                 <Question>When do you want to go?</Question>
-                {/* <Date>
+                <Date>
                 <DateRangePicker
                 startDate={this.state.startDate} // momentPropTypes.momentObj or null,
                 startDateId="start_date" // PropTypes.string.isRequired,
@@ -99,7 +99,7 @@ class Form extends React.Component {
                 numberOfMonths={numberOfMonths}
                 displayFormat="DD. MMM YYYY"
                 />
-                </Date> */}
+                </Date>
 
                 <Question>How many people are going?</Question>
                 <PlusButton onClick={this.minusPeople}>-</PlusButton>
