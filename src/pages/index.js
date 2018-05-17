@@ -44,7 +44,6 @@ export default class IndexPage extends React.Component {
     const { frontmatter: frontpage } = data.markdownRemark
 
     const activities = posts.filter(post => post.node.frontmatter.templateKey === 'activity')
-    console.log(activities)
 
     return (
       <Wrapper>
@@ -68,7 +67,7 @@ export default class IndexPage extends React.Component {
                   <Link to={post.fields.slug} key={post.id}>
                     <Trip>
                       <Thumbnail>
-                        <Overdrive id={post.id} duration="0">
+                        <Overdrive id={post.id} duration={0} >
                         <Image
                           sizes={post.frontmatter.image.childImageSharp.sizes}
                           alt={post.frontmatter.title}

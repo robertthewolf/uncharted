@@ -39,11 +39,11 @@ export default class Navbar extends React.Component {
 
           <Item>
               <ContactButton>
-            <Link to="/contact" onClick={this.toggleMenu}>
-                Contact
-            </Link>
+                <Link to="/contact" onClick={this.toggleMenu}>
+                    Contact
+                </Link>
               </ContactButton>
-            <ContactCard/>
+              <ContactCard/>
           </Item>
 
         </Menu>
@@ -122,8 +122,7 @@ const Item = styled.li`
   letter-spacing: .2em
 `
 
-const ContactButton = styled.a`
-cursor: pointer 
+const ContactButton = styled.div`
 & + div {
   display: none
 }

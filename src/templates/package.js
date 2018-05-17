@@ -19,7 +19,7 @@ const Package = ({ data }) => {
     <Wrapper>
       <Helmet title={`${frontmatter.title} | Package`} />
       <Header>
-            <Overdrive id={data.markdownRemark.id} duration="0">
+            <Overdrive id={data.markdownRemark.id} duration={0} >
               <Image sizes={frontmatter.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
             </Overdrive>
             <Container>

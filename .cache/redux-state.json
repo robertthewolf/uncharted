@@ -1387,7 +1387,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e2a6bfd95d085f009af307bd712ed6f0",
+        "contentDigest": "5ba120e0524293e5f78ccd4f2b0f2760",
         "mediaType": "application/javascript",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1396,11 +1396,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/pages/index.js",
       "relativePath": "index.js",
       "extension": "js",
-      "size": 4982,
-      "prettySize": "4.98 kB",
-      "modifiedTime": "2018-05-06T21:24:09.349Z",
-      "accessTime": "2018-05-12T07:54:10.485Z",
-      "changeTime": "2018-05-06T21:24:09.349Z",
+      "size": 4955,
+      "prettySize": "4.96 kB",
+      "modifiedTime": "2018-05-17T11:39:17.918Z",
+      "accessTime": "2018-05-17T11:39:17.917Z",
+      "changeTime": "2018-05-17T11:39:17.918Z",
       "birthTime": "2018-03-24T20:07:41.321Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages",
@@ -1417,13 +1417,13 @@
       "blksize": 4194304,
       "ino": 8600035691,
       "blocks": 16,
-      "atimeMs": 1526111650484.6982,
-      "mtimeMs": 1525641849348.9636,
-      "ctimeMs": 1525641849348.9636,
+      "atimeMs": 1526557157917.2073,
+      "mtimeMs": 1526557157917.799,
+      "ctimeMs": 1526557157917.799,
       "birthtimeMs": 1521922061320.8904,
-      "atime": "2018-05-12T07:54:10.485Z",
-      "mtime": "2018-05-06T21:24:09.349Z",
-      "ctime": "2018-05-06T21:24:09.349Z",
+      "atime": "2018-05-17T11:39:17.917Z",
+      "mtime": "2018-05-17T11:39:17.918Z",
+      "ctime": "2018-05-17T11:39:17.918Z",
       "birthtime": "2018-03-24T20:07:41.321Z"
     },
     "/Users/Robert/uncharted/src/pages/terms.js absPath of file": {
@@ -4649,7 +4649,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "521c0b3308be61faab2e3eb8241d0f64",
+        "contentDigest": "20c1b31a040c688fcac197a3776e9a12",
         "owner": "internal-data-bridge"
       }
     },
@@ -4671,7 +4671,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ad7286c79046ea99c0113dec4d126fca",
+        "contentDigest": "5622ed30c43c90f74bd05410d8c9e9d2",
         "owner": "internal-data-bridge"
       }
     },
@@ -4693,7 +4693,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7d315d9a86589f90b9c33d057d473aca",
+        "contentDigest": "041986f1718c44b27d105f8cd358008e",
         "owner": "internal-data-bridge"
       }
     },
@@ -4715,7 +4715,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7ecbad20412088e0653b2bc3369ebf85",
+        "contentDigest": "622a1d38d3e3d7775d704cd873b52b3c",
         "owner": "internal-data-bridge"
       }
     },
@@ -4737,7 +4737,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "697b20600368391be81732bd309067cc",
+        "contentDigest": "ab2cf6a5445f76aeaa9f7559fa974016",
         "owner": "internal-data-bridge"
       }
     },
@@ -4759,7 +4759,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f97a2f6c929148cd3826697aacf5ca6d",
+        "contentDigest": "5d3b1d2265e652e4d397f3035e09069b",
         "owner": "internal-data-bridge"
       }
     },
@@ -4781,7 +4781,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d35aa0f53aab231de1db589dca8d2a93",
+        "contentDigest": "ec2ea1b318ce2b3d95f987357c8a4b77",
         "owner": "internal-data-bridge"
       }
     },
@@ -4803,7 +4803,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1397c37a6909e0610f8383f4fffa998b",
+        "contentDigest": "c59c72e627c54589eecb82a770f736e5",
         "owner": "internal-data-bridge"
       }
     },
@@ -4825,7 +4825,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7812c28d6c89c2a9e542fbc43020a311",
+        "contentDigest": "cfba8f0a33d0febc262a6b1e4ed15306",
         "owner": "internal-data-bridge"
       }
     },
@@ -4847,7 +4847,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9d849a307bec9fcb077d31ace8d92467",
+        "contentDigest": "fe965e70ea1dc37aa4f99cfb16f8c37d",
         "owner": "internal-data-bridge"
       }
     },
@@ -4869,7 +4869,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "462c68dc5779412c75f07a155f40e2b9",
+        "contentDigest": "adba8acc93618433298b19d8adfcae9b",
         "owner": "internal-data-bridge"
       }
     },
@@ -4891,7 +4891,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "520c3303e2b33bbfe2972d39f59c921b",
+        "contentDigest": "a60142e56d7d40a6bdaa82de27bd8e3c",
         "owner": "internal-data-bridge"
       }
     },
@@ -4913,7 +4913,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a7b45f40939c3f105fa8c4b5d4483e12",
+        "contentDigest": "8652e5eaa6433175a617d46e97b69c4c",
         "owner": "internal-data-bridge"
       }
     },
