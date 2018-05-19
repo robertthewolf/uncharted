@@ -53,10 +53,7 @@ class Form extends React.Component {
           headers: { "Content-Type": "application/x-www-form-urlencoded" },
           body: encode({ "form-name": "contact", ...this.state })
         })
-          .then(() => {
-              alert('success!');
-              console.log(encode({ "form-name": "custom", ...this.state }));
-            })
+          .then(() => navigateTo('/confirmation/'))
           .catch(error => alert(error));
     
         e.preventDefault();
@@ -75,7 +72,7 @@ class Form extends React.Component {
             <Container
                 name="custom"
                 method="post"
-                // action="/confirmation/"
+                action="/confirmation/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}

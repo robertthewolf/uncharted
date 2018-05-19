@@ -27,6 +27,11 @@ h3 {
   font-size: 1.5rem
 }
 
+img {
+    max-width: 100%;
+    margin: 2rem auto;
+}
+
 ul {
     margin: 0 2rem
     padding: 3rem 0
