@@ -59,7 +59,7 @@ intact for ages.
 
 ## Itinerary
 
-1. **Hiking in Turzii Gorges, Visit Salina Turda**
+1. **Hiking in Turzii Gorges, Visit Salina Turda**\
    \Before the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.\
    \
    In the morning we will Kick off the adventure with a visit to the biggest and oldest salt mine in Romania, 108m underground, dating from 1271. Here you will be able to discover the wonders that lie underneath Transylvanian hills and mountains.\
@@ -67,7 +67,7 @@ intact for ages.
    Our next stop will be Turzii gorges, where we will move from the underground wonders to the cliffs, valleys and rivers that lie in from of your eyes. We will hike throughout the canyon while at the same time discovering together the hidden caves inside the gorges.\
    \
    We will then travel to our accommodation in the Cindrel mountains, more precisely Arena Platos Resort. Once at the accommodation, all participants will be greeted with a traditional meal and the rest of the evening will be dedicated to resting and getting to know each other.
-2. **Hiking in the 7 Ladder Canyon, Offroad 4x4**
+2. **Hiking in the 7 Ladder Canyon, Offroad 4x4**\
 
 ![null](/img/untitled-70.jpg)
 
@@ -76,7 +76,7 @@ The second day will start by heading towards the Carpathian Mountains, more prec
 \
 The day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. 
 
-3. **Culture, Traditions and Gastronomy Tour**\
+3. **Culture, Traditions and Gastronomy Tour**
    \
    The food tour of today, goes through the typical cultural landscapes of the so called Transylvanian Highlands, an eco-touristic destination where we will visit some lovely villages. You’ll get to experience the specific rural gastronomy, meet some locals and try their best products or dishes. You will find out how nature and the territory influences the local products, we will talk about the characteristics of the cultural and gastronomical mosaic during a visit of the ruins of a Cistercian abbey in Cârța (Kerz).\
    \
