@@ -4,7 +4,7 @@ title: The Wild Carpathians
 tagline: 'Fully connect with nature '
 image: /img/dsc_0088.jpg
 price: 7.350 DKK
-lenght: '7'
+lenght: 7 days
 ---
 The Wild Carpathians Adventure will give you the perfect opportunity to fully
 connect with nature and release the stress of urban life. Embark on an
