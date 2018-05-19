@@ -9,7 +9,6 @@ import Header from '../components/Header'
 import Wrapper from '../components/Wrapper'
 import Container from '../components/Container'
 import Content from '../components/Content'
-import Map from '../components/Map'
 
 export default class FaqPage extends React.Component {
   render() {
