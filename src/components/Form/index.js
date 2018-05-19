@@ -72,7 +72,7 @@ class Form extends React.Component {
         }
 
         return(
-            <Container
+            <form
                 name="custom"
                 method="post"
                 // action="/confirmation/"
@@ -144,7 +144,7 @@ class Form extends React.Component {
                 <input type="tel" name="phone" placeholder="optional" onChange={this.handleChange} />
                 </PhoneContainer>
                 <Submit type="submit">Submit</Submit>
-            </Container>
+            </form>
         );
     }
 }
