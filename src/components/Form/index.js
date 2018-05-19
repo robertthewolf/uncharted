@@ -51,7 +51,11 @@ class Form extends React.Component {
         fetch("/", {
           method: "POST",
           headers: { "Content-Type": "application/x-www-form-urlencoded" },
-          body: encode({ "form-name": "custom", ...this.state })
+          body: encode({
+              "form-name": "custom",
+              "start-date": this.state.startDate._d,
+              "end-date": this.state.endDate._d,
+              ...this.state })
         })
           .then(() => navigateTo('/confirmation/'))
           .catch(error => alert(error));

@@ -14,13 +14,22 @@ const Map = ({ children }) => (
 
 export default Map
 
+
+// const light = '#464F8A';
+// const dark = '#1F233D';
+// const color = 'white';
+
+const light = 'rgb(215, 202, 235)';
+const dark = 'rgb(165, 166, 133)';
+const color = 'black';
+
 const Outer = styled.ul`
 h3, h4 {
 
     margin-top: 2rem
     max-width: 700px
     margin: 0 auto
-  text-align: center
+    text-align: center
 }
 
 h3 {
@@ -43,7 +52,7 @@ ul {
     list-style-type: none;
 
     * {
-        color: black
+        color: ${color}
         font-weight: 500 !important;
     }
 
@@ -51,7 +60,7 @@ ul {
         padding: 1.5rem 1.5rem 1.9rem
         margin: -.3rem -.05rem
         position: relative
-        background: linear-gradient(215deg, rgb(215, 202, 235) 0%, rgb(165, 166, 133) 100%);
+        background: linear-gradient(215deg, ${light} 0%, ${dark} 100%);
 
 
         @media  screen and (max-width: 600px) {
@@ -60,7 +69,7 @@ ul {
             }
             &:nth-of-type(2n+1) {
                 transform: rotateX(5deg) rotateY(-5deg);
-                background: linear-gradient(215deg, rgb(215, 202, 235) 0%, rgb(165, 166, 133) 180%);
+                background: linear-gradient(215deg, ${light} 0%, ${dark} 180%);
             }
 
         }
@@ -72,12 +81,12 @@ ul {
 
             &:nth-of-type(4n+2) {
             transform: rotateX(-4deg) rotateY(-3deg);
-            background: linear-gradient(215deg, rgb(215, 202, 235) -80%, rgb(165, 166, 133) 100%);
+            background: linear-gradient(215deg, ${light} -80%, ${dark} 100%);
             }
 
             &:nth-of-type(4n + 3) {
                 transform: rotateX(4deg) rotateY(3deg);
-                background: linear-gradient(215deg, rgb(215, 202, 235) 0%, rgb(165, 166, 133) 180%);
+                background: linear-gradient(215deg, ${light} 0%, ${dark} 180%);
             }
                 
             &:nth-of-type(4n + 4) {

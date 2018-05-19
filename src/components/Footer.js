@@ -46,7 +46,9 @@ const Footer = (props) => (
             <Image src={rejsegaranti} alt="Rejsegaranti Fonden" />
         </Column>
       </Container>
-
+        <Signature>
+        developed by <a href="http://robertwolf.cz/" target="_blank">Robert Wolf</a>
+        </Signature>
   </Wrapper>
 )
 
@@ -90,3 +92,7 @@ const Image = styled.img`
 width: 100%
 max-width: 140px
 `
+
+const Signature = styled.p`
+margin: 2rem auto 0 !important;
+text-align: center;`
