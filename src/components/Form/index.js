@@ -55,7 +55,7 @@ class Form extends React.Component {
         })
           .then(() => {
               alert('success!');
-              console.log(encode({ "form-name": "contact", ...this.state }));
+              console.log(encode({ "form-name": "custom", ...this.state }));
             })
           .catch(error => alert(error));
     
@@ -72,7 +72,7 @@ class Form extends React.Component {
         }
 
         return(
-            <form
+            <Container
                 name="custom"
                 method="post"
                 // action="/confirmation/"
@@ -144,7 +144,7 @@ class Form extends React.Component {
                 <input type="tel" name="phone" placeholder="optional" onChange={this.handleChange} />
                 </PhoneContainer>
                 <Submit type="submit">Submit</Submit>
-            </form>
+            </Container>
         );
     }
 }
