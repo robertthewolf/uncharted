@@ -20,9 +20,9 @@ function encode(data) {
 
 class Form extends React.Component {
     state = {
-        startDate: null,
-        endDate: null,
-        focusedInput: null,
+        // startDate: null,
+        // endDate: null,
+        // focusedInput: null,
 
         people: 1,
         price: 4500,
@@ -69,78 +69,80 @@ class Form extends React.Component {
         }
 
         return(
-            <Container
-                name="custom"
-                method="post"
-                action="/confirmation/"
-                data-netlify="true"
-                data-netlify-honeypot="bot-field"
-                onSubmit={this.handleSubmit}
-            >
-                <input type="hidden" name="form-name" value="custom" />
-                <p hidden>
-                    <label>
-                    Don’t fill this out: <input name="bot-field" onChange={this.handleChange} />
-                    </label>
-                </p>
+            <Container>
+                <form
+                    name="custom"
+                    method="post"
+                    action="/confirmation/"
+                    data-netlify="true"
+                    data-netlify-honeypot="bot-field"
+                    onSubmit={this.handleSubmit}
+                >
+                    <input type="hidden" name="form-name" value="custom" />
+                    <p hidden>
+                        <label>
+                        Don’t fill this out: <input name="bot-field" onChange={this.handleChange} />
+                        </label>
+                    </p>
 
-                <Question>When do you want to go?</Question>
-                <Date>
-                <DateRangePicker
-                startDate={this.state.startDate} // momentPropTypes.momentObj or null,
-                startDateId="start_date" // PropTypes.string.isRequired,
-                endDate={this.state.endDate} // momentPropTypes.momentObj or null,
-                endDateId="end_date" // PropTypes.string.isRequired,
-                onDatesChange={({ startDate, endDate }) => this.setState({ startDate, endDate })} // PropTypes.func.isRequired,
-                focusedInput={this.state.focusedInput} // PropTypes.oneOf([START_DATE, END_DATE]) or null,
-                onFocusChange={focusedInput => this.setState({ focusedInput })} // PropTypes.func.isRequired,
-                noBorder={true}
-                block={true}
-                showDefaultInputIcon={true}
-                numberOfMonths={numberOfMonths}
-                displayFormat="DD. MMM YYYY"
-                />
-                </Date>
+                    <Question>When do you want to go?</Question>
+                    {/* <Date>
+                    <DateRangePicker
+                    startDate={this.state.startDate} // momentPropTypes.momentObj or null,
+                    startDateId="start_date" // PropTypes.string.isRequired,
+                    endDate={this.state.endDate} // momentPropTypes.momentObj or null,
+                    endDateId="end_date" // PropTypes.string.isRequired,
+                    onDatesChange={({ startDate, endDate }) => this.setState({ startDate, endDate })} // PropTypes.func.isRequired,
+                    focusedInput={this.state.focusedInput} // PropTypes.oneOf([START_DATE, END_DATE]) or null,
+                    onFocusChange={focusedInput => this.setState({ focusedInput })} // PropTypes.func.isRequired,
+                    noBorder={true}
+                    block={true}
+                    showDefaultInputIcon={true}
+                    numberOfMonths={numberOfMonths}
+                    displayFormat="DD. MMM YYYY"
+                    />
+                    </Date> */}
 
-                <Question>How many people are going?</Question>
-                <PlusButton onClick={this.minusPeople}>-</PlusButton>
-                <PeopleValue type="number" name="people" value={this.state.people} disabled />
-                <MinusButton onClick={this.plusPeople}>+</MinusButton>
+                    <Question>How many people are going?</Question>
+                    <PlusButton onClick={this.minusPeople}>-</PlusButton>
+                    <PeopleValue type="number" name="people" value={this.state.people} disabled />
+                    <MinusButton onClick={this.plusPeople}>+</MinusButton>
 
-                <Question>How much are you willing to spend per person?</Question>
-                <PriceInput type="range" name="price" min="1000" max="10000" value={this.state.price} onChange={this.updatePrice} />
-                <PriceLimit>1 000 DKK</PriceLimit>
-                <PriceValue>{Math.round(this.state.price * Math.pow(10, -2)) * 100}&nbsp;DKK</PriceValue>
-                <PriceLimit>10 000 DKK</PriceLimit>
-                    
-                    
+                    <Question>How much are you willing to spend per person?</Question>
+                    <PriceInput type="range" name="price" min="1000" max="10000" value={this.state.price} onChange={this.updatePrice} />
+                    <PriceLimit>1 000 DKK</PriceLimit>
+                    <PriceValue>{Math.round(this.state.price * Math.pow(10, -2)) * 100}&nbsp;DKK</PriceValue>
+                    <PriceLimit>10 000 DKK</PriceLimit>
+                        
+                        
 
-                <Question>What do you want to do?</Question>
-                <Activities>
-                    {this.props.activities.map(({node : post}) => (
-                        <Activity key={post.id}>
-                            <Checkbox type="checkbox" name={post.frontmatter.title} onChange={this.handleChange} />
-                            <FakeCheckbox />
-                            <Image sizes={post.frontmatter.image.childImageSharp.sizes} />
-                            <CheckboxName>{post.frontmatter.title}</CheckboxName>
-                        </Activity>
-                    ))}
-                </Activities>
+                    <Question>What do you want to do?</Question>
+                    <Activities>
+                        {this.props.activities.map(({node : post}) => (
+                            <Activity key={post.id}>
+                                <Checkbox type="checkbox" name={post.frontmatter.title} onChange={this.handleChange} />
+                                <FakeCheckbox />
+                                <Image sizes={post.frontmatter.image.childImageSharp.sizes} />
+                                <CheckboxName>{post.frontmatter.title}</CheckboxName>
+                            </Activity>
+                        ))}
+                    </Activities>
 
-                <Question>Any other wishes?</Question>
-                <Comments name="comments" onChange={this.handleChange}>
-                </Comments>
-                <EmailContainer>
+                    <Question>Any other wishes?</Question>
+                    <Comments name="comments" onChange={this.handleChange}>
+                    </Comments>
+                    <EmailContainer>
 
-                <Question>Email</Question>
-                <input type="email" name="email" placeholder="required" required onChange={this.handleChange} />
-                </EmailContainer>
-                <PhoneContainer>
+                    <Question>Email</Question>
+                    <input type="email" name="email" placeholder="required" required onChange={this.handleChange} />
+                    </EmailContainer>
+                    <PhoneContainer>
 
-                <Question>Phone</Question>
-                <input type="tel" name="phone" placeholder="optional" onChange={this.handleChange} />
-                </PhoneContainer>
-                <Submit type="submit">Submit</Submit>
+                    <Question>Phone</Question>
+                    <input type="tel" name="phone" placeholder="optional" onChange={this.handleChange} />
+                    </PhoneContainer>
+                    <Submit type="submit">Submit</Submit>
+                </form>
             </Container>
         );
     }
