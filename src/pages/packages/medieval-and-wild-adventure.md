@@ -50,7 +50,7 @@ This adventure represents a journey to explore relics of old times and tradition
 
 ## Itinerary
 
-1. **Hiking in Turzii Gorges, Visit Salina Turda**
+1. **Hiking in Turzii Gorges, Visit Turda Salt Mine**
    ![Hiking](/img/rumænien-220317-15249.jpg)
    Before the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.\
    \
