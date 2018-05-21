@@ -71,9 +71,14 @@ This adventure represents a journey to explore relics of old times and tradition
 3. **Culture, Traditions and Gastronomy Tour**
 
 ![Culture,Traditions, Gastronomy](/img/foodsibiu_poza_mica_6.jpg)
+The food tour of today, goes through the typical cultural landscapes of the so called Transylvanian Highlands, an eco-touristic destination where we will visit some lovely villages. You’ll get to experience the specific rural gastronomy, meet some locals and try their best products or dishes. You will find out how nature and the territory influences the local products, we will talk about the characteristics of the cultural and gastronomical mosaic during a visit of the ruins of a Cistercian abbey in Cârța (Kerz).\
 \
+Get an insight in our local cuisine, we talk about 200 years old recipes, during a horse cart tour through the village or a walk on the hills above the village. At the end of the day we will meet the people of the Old Mill Project in Hosman (Holzmengen) and try their sweet pastry specialities from Luíza’s artisanal bakery.
 
 4. **Horseback riding**
-5. **Culture, Traditions and Gastronomy Tour**
-6. **Treasure Hunt and Cultural Heritages**
-7. **Free day, return to airport**
+
+![Horseback riding](/img/cu-caii-la-ghiocelul-2998.jpg)
+\
+4. **Culture, Traditions and Gastronomy Tour**
+5. **Treasure Hunt and Cultural Heritages**
+6. **Free day, return to airport**
