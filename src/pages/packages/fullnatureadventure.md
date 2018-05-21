@@ -14,7 +14,7 @@ exquisite culinary delight is waiting for you. So, all you need to do is bring
 your appetite for both adventure and traditional products, and we take care of
 the rest.
 
-## What's Included
+## What is included in the package?
 
 * 'Accommodation at traditional mountain chalet '
 * 3 x breakfast
@@ -23,15 +23,13 @@ the rest.
 * Activities
 * Airport transfer
 * All local transports within the program
-* 'Professional English speaking guides/mountain rangers '
-* Uncharted Team group leader that will assist you throughout the tour
-  (English speaking)
+* Professional English speaking guides/mountain rangers 
+* Uncharted Team group leader that will assist you throughout the tour (English speaking)
 * Entry fees to the objectives within the tour
-* This adventure is a package deal; therefore, it provides you with coverage
-  from Travel Guarantee Fund (Rejsegarantifonden) 
-* 'Cancellation '
+* This adventure is a package deal; therefore, it provides you with coverage from Travel Guarantee Fund (Rejsegarantifonden) 
+* Cancellation 
 
-## The Package does not include:
+## Wha is not included in the package?
 
 * Transportation to the starting point of the tour, Cluj-Napoca t/r
 * Travel Insurance 
