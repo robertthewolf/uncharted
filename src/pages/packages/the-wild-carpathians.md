@@ -95,6 +95,8 @@ Lunch and dinner, apart from the meals specified in the daily schedules
    \
    The day will end with a well deserved party or night out where we can celebrate the amazing week we had together.
 6. **Mountain biking**\
+   ![mountain biking](/img/mountain-biking.jpg)
+   \
    We explored the Carpathian Mountains by foot, with an off-road vehicle, from tree to tree, all ways but one, mountain biking. Therefore, the 6th day is dedicated towards showing you another adventurous way of discovering the nature wonders, in a faster peace than hiking but as eco-friendly.\
    \
    The paths are not difficult and they provide wide variety of natural attractions and a different way of exploring the mountains in a healthy manner.
