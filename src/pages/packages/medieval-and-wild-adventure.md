@@ -75,3 +75,7 @@ This adventure represents a journey to explore relics of old times and tradition
 ![null](/img/cu-caii-la-ghiocelul-2998.jpg)
 
 5. **Culture, Traditions and Gastronomy Tour**
+
+![null](/img/ceaun.jpg)
+
+6. **Treasure Hunt and Cultural Heritages**
