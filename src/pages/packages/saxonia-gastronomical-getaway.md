@@ -36,5 +36,11 @@ Tired of the daily routine? Eager for an adventure? Time pressure is an issue? N
 * It is an active way to discover a new culture, through a weekend getaway
 * High emphasis on sustainable travelling
 
-## Is this adventure suitable for you?##
+## Is this adventure suitable for you?
+
 * If you love food, drinks and discovering new cultures and traditions, then this adventure is the ideal getaway with you
+
+## Itinerary
+
+1. **Culture, Traditions and Gastronomy**
+   ![null](/img/untitled-65.jpg)
