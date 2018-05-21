@@ -79,7 +79,7 @@ Get an insight in our local cuisine, we talk about 200 years old recipes, durin
 
 ![null](/img/cu-caii-la-ghiocelul-2998.jpg)
 
-The fourth day is dedicated towards one of the most traditional ways of travelling from village to village and across the rolling hills, horseback riding. There will be a safety briefing including as well basic elements for beginners. Afterwards we will saddle up, and hop on for an unforgettable and memorable ride through the countryside, exploring the old Transylvanian lifestyle in the most genuine way.\
+   The fourth day is dedicated towards one of the most traditional ways of travelling from village to village and across the rolling hills, horseback riding. There will be a safety briefing including as well basic elements for beginners. Afterwards we will saddle up, and hop on for an unforgettable and memorable ride through the countryside, exploring the old Transylvanian lifestyle in the most genuine way.\
 \
 The afternoon is dedicated towards relaxation.
 
