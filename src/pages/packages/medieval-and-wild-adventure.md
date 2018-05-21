@@ -83,9 +83,13 @@ This adventure represents a journey to explore relics of old times and tradition
    \
    Experience an old Saxon recipe, reinterpreted by an open-minded chef from a local restaurant. Sample the local fruit alcoholic drinks, a must during a visit in Transylvania and visit some of the unseen corners of historical Sighișoara.
 6. **Treasure Hunt and Cultural Heritages**
-
    ![null](/img/treasurehunt.jpg/)
    \
    The afternoon will be dedicated on experiencing the historical city of Sibiu in a fun and interactive way. A treasure hunt will be organized, where the participants will discover the historical city centre of the 2007 European Capital of Culture by following an interactive set of clues. Each clue will lead you to an emblematic place for the history of Sibiu.\
    \
    After lunch we will take a relaxing walk back in time, while visiting the The “ASTRA” Museum of Traditional Folk and Civilization which represents the largest open air ethnographic exhibition in Europe. You will be able to witness a display of 400 monuments folk architecture and technique in combination with a collection of ethnographic heritage objects.
+7. **Free day, return to airport**\
+   On the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.
+
+
+**For more information click here:  **[**FAQ**](http://www.uncharted.dk/faq)
