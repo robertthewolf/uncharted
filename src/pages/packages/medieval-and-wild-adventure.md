@@ -1,7 +1,7 @@
 ---
 templateKey: package
 title: Medieval and Wild Adventure
-tagline: A walk back in time
+tagline: A delicious adventure back in time
 image: /img/untitled-54.jpg
 price: 6.600 DKK
 lenght: 7 Days
@@ -76,6 +76,9 @@ The food tour of today, goes through the typical cultural landscapes of the so c
 Get an insight in our local cuisine, we talk about 200 years old recipes, during a horse cart tour through the village or a walk on the hills above the village. At the end of the day we will meet the people of the Old Mill Project in Hosman (Holzmengen) and try their sweet pastry specialities from Luíza’s artisanal bakery.
 
 4. **Horseback riding**
+
+![null](/img/cu-caii-la-ghiocelul-2998.jpg)
+
 5. **Culture, Traditions and Gastronomy Tour**
 6. **Treasure Hunt and Cultural Heritages**
 7. **Free day, return to airport**
