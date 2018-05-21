@@ -62,6 +62,9 @@ This adventure represents a journey to explore relics of old times and tradition
    \
    We will then travel to our accommodation in the Cindrel mountains, more precisely Arena Platos Resort. Once at the accommodation, all participants will be greeted with a traditional meal and the rest of the evening will be dedicated to resting and getting to know each other.
 2. **Hiking in the 7 Ladder Canyon, Offroad 4x4**
+
+   ![Offroad 4x4](/img/dsc03317.jpg)
+
 3. **Culture, Traditions and Gastronomy Tour**
 4. **Horseback riding**
 5. **Culture, Traditions and Gastronomy Tour**
