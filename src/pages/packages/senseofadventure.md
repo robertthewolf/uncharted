@@ -90,20 +90,20 @@ The food tour of today, goes through the typical cultural landscapes of the so c
 \
 Get an insight in our local cuisine, we talk about 200 years old recipes, during a horse cart tour through the village or a walk on the hills above the village. At the end of the day we will meet the people of the Old Mill Project in Hosman (Holzmengen) and try their sweet pastry specialities from Luíza’s artisanal bakery.
 
-3. **Horseback riding**\
+4. **Horseback riding**\
    \
    The fourth day is dedicated towards one of the most traditional ways of travelling from village to village and across the rolling hills, horseback riding. There will be a safety briefing including as well basic elements for beginners. Afterwards we will saddle up, and hop on for an unforgettable and memorable ride through the countryside, exploring the old Transylvanian lifestyle in the most genuine way.\
    \
    The afternoon is dedicated towards relaxation.
-4. **Culture, Traditions and Gastronomy Tour**\
+5. **Culture, Traditions and Gastronomy Tour**\
    \
    Today’s gastronomical tour takes you during the 4.5 hours from through the UNESCO protected citadel (Burg) and to the Lower old centre. You will have the chance to taste some exclusive local products and try our recipes. We will talk about the characteristics of our gastronomy in the oldest school of Sighișoara. You will have the chance to try some typical cheese, the local white wines as well as various sweet and sour soups.\
    \
    Experience an old Saxon recipe, reinterpreted by an open-minded chef from a local restaurant. Sample the local fruit alcoholic drinks, a must during a visit in Transylvania and visit some of the unseen corners of historical Sighișoara.
-5. **Treasure Hunt and Cultural Heritages**\
+6. **Treasure Hunt and Cultural Heritages**\
    \
    The afternoon will be dedicated on experiencing the historical city of Sibiu in a fun and interactive way. A treasure hunt will be organized, where the participants will discover the historical city centre of the 2007 European Capital of Culture by following an interactive set of clues. Each clue will lead you to an emblematic place for the history of Sibiu.\
    \
    After lunch we will take a relaxing walk back in time, while visiting the The “ASTRA” Museum of Traditional Folk and Civilization which represents the largest open air ethnographic exhibition in Europe. You will be able to witness a display of 400 monuments folk architecture and technique in combination with a collection of ethnographic heritage objects.
-6. **Free day, return to airport**
+7. **Free day, return to airport**
    On the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.
