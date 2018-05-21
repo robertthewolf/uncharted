@@ -90,6 +90,3 @@ This adventure represents a journey to explore relics of old times and tradition
    After lunch we will take a relaxing walk back in time, while visiting the The “ASTRA” Museum of Traditional Folk and Civilization which represents the largest open air ethnographic exhibition in Europe. You will be able to witness a display of 400 monuments folk architecture and technique in combination with a collection of ethnographic heritage objects.
 7. **Free day, return to airport**\
    On the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.
-\
-
-   **For more information click here:**[**FAQ**](http://www.uncharted.dk/faq)
