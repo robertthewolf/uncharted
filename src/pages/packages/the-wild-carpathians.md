@@ -6,15 +6,7 @@ image: /img/dsc_0088.jpg
 price: 7.350 DKK
 lenght: 7 days
 ---
-The Wild Carpathians Adventure will give you the perfect opportunity to fully
-connect with nature and release the stress of urban life. Embark on an
-adventure that will take you through the heart of the mountains, paved by
-centuries of history and tradition. Discover the nature wonders of
-Transylvania in a unique way, an adventure specially designed to offer the
-most genuine discovery process. With high focus on various ways to explore the
-mountains and enjoy the nature, numerous elements of culture and traditions
-will still be present. In this way we ensure an experience where memories are
-being formed, while footsteps are left behind.
+The Wild Carpathians Adventure will give you the perfect opportunity to fully connect with nature and release the stress of urban life. Embark on an adventure that will take you through the heart of the mountains, paved by centuries of history and tradition. Discover the nature wonders of Transylvania in a unique way, an adventure specially designed to offer the most genuine discovery process. With high focus on various ways to explore the mountains and enjoy the nature, numerous elements of culture and traditions will still be present. In this way we ensure an experience where memories are being formed, while footsteps are left behind.
 
 ## What is included in the price?
 
@@ -73,7 +65,6 @@ Lunch and dinner, apart from the meals specified in the daily schedules
    The second day will start by heading towards the Carpathian Mountains, more precisely the Bucegi Mountains Sector. We will start with an easy hike towards the 7 Ladders Canyon, followed by traversing the canyon in a unique style. The hike will end in a picnic on the top of the canyon, after we will continue discovering the Carpathians with a 4x4 off-road tour. We will travel over high ground, through forest and woodland on various difficulty tracks, making for a great experience. Along the way, we will stop for a cosy picnic in a breath-taking view spot. Make sure your phones and photo cameras are fully charged to take proper advantage of the amazing landscapes\
    \
    The day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. 
-
 3. **Hike and lunch at traditional sheepfold**\
    Our day starts with the transfer to the bottom of the Cindrel mountains, from where we will start climbing up on a narrow shady path that leads us to an alpine glade; from here, we’ll continue our route till we reach the imposing mountaintops of the Cindrel massif. On the edge of the soft summit lies a traditional picturesque sheepfold. \
     It’s the perfect place to have a rest, enjoy the astonishing view and learn about the daily simple life of the shepherds. For lunch we will savour the delicious lamb and milk specialties skilfully prepared by the shepherds: different types of cheese (telemea, caş, urdă, burduf, jintiţă), pastrami and bacon, are just a few of the delicious products that, together with the “golden” polenta shall make you drool over.\
