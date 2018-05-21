@@ -61,7 +61,9 @@ Lunch and dinner, apart from the meals specified in the daily schedules
    Our next stop will be Turzii gorges, where we will move from the underground wonders to the cliffs, valleys and rivers that lie in from of your eyes. We will hike throughout the canyon while at the same time discovering together the hidden caves inside the gorges.\
    \
    We will then travel to our accommodation in the Cindrel mountains, more precisely Arena Platos Resort. Once at the accommodation, all participants will be greeted with a traditional meal and the rest of the evening will be dedicated to resting and getting to know each other.
-2. **Hiking in the 7 Ladder Canyon, Offroad 4x4**\
+2. **Hiking in the 7 Ladder Canyon, Offroad 4x4**
+   ![null](/img/img_8856.jpg)
+   \
    The second day will start by heading towards the Carpathian Mountains, more precisely the Bucegi Mountains Sector. We will start with an easy hike towards the 7 Ladders Canyon, followed by traversing the canyon in a unique style. The hike will end in a picnic on the top of the canyon, after we will continue discovering the Carpathians with a 4x4 off-road tour. We will travel over high ground, through forest and woodland on various difficulty tracks, making for a great experience. Along the way, we will stop for a cosy picnic in a breath-taking view spot. Make sure your phones and photo cameras are fully charged to take proper advantage of the amazing landscapes\
    \
    The day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. 
