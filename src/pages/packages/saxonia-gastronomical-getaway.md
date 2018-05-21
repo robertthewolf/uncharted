@@ -2,7 +2,7 @@
 templateKey: package
 title: 'Saxonia Gastronomical Getaway '
 tagline: A tasty adventure
-image: /img/foodsibiu_poza_mica_6.jpg
+image: /img/gastronomy.jpg
 price: 4.250 DKK
 lenght: 3 Days
 ---
