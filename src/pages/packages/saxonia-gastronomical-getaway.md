@@ -38,7 +38,8 @@ Tired of the daily routine? Eager for an adventure? Time pressure is an issue? N
 
 ## Is this adventure suitable for you?
 
-* If you love food, drinks and discovering new cultures and traditions, then this adventure is the ideal getaway with you
+* If you love food, drinks and discovering new cultures and traditions, then this adventure is the ideal getaway for you
+* It does not matter if you are a "meat lover" or a vegetarian, the products that you are going to taste are made to everyone's liking
 
 ## Itinerary
 
