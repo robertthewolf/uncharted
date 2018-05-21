@@ -15,14 +15,12 @@ This adventure represents a journey to explore relics of old times and tradition
 * 7 x breakfast
 * Meals mentioned in the daily description
 * Transportation within the tour
-* 'Airport transfer '
-* 'Professional English speaking guides/mountain rangers '
-* Uncharted Team group leader that will assist you throughout the tour
-  (English speaking)
+* Airport transfer
+* Professional English speaking guides/mountain rangers
+* Uncharted Team group leader that will assist you throughout the tour (English speaking)
 * Activities highlighted in the itinerary
 * Entry fees to the objectives within the tour
-* This adventure is a package deal; therefore, it provides you with coverage
-  from Travel Guarantee Fund (Rejsegarantifonden) 
+* This adventure is a package deal; therefore, it provides you with coverage from Travel Guarantee Fund (Rejsegarantifonden) 
 * Cancellation
 
 ## What is not included in the price?
