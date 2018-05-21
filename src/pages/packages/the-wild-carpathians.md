@@ -70,20 +70,22 @@ Lunch and dinner, apart from the meals specified in the daily schedules
    \
    The day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. 
 3. **Hike and lunch at traditional sheepfold**
+      ![null](/img/untitled-66.jpg)
+      \
+      Our day starts with the transfer to the bottom of the Cindrel mountains, from where we will start climbing up on a narrow shady path that leads us to an alpine glade; from here, we’ll continue our route till we reach the imposing mountaintops of the Cindrel massif. On the edge of the soft summit lies a traditional picturesque sheepfold.\
+      \
+       It’s the perfect place to have a rest, enjoy the astonishing view and learn about the daily simple life of the shepherds. For lunch we will savour the delicious lamb and milk specialties skilfully prepared by the shepherds: different types of cheese (telemea, caş, urdă, burduf, jintiţă), pastrami and bacon, are just a few of the delicious products that, together with the “golden” polenta shall make you drool over.\
+      \
+       Of course, all of these shall be accompanied by a sip of schnapps or a glass of red wine.   
+4. **Adventure park, Treasure Hunt, Spa**
 
-   ![null](/img/untitled-66.jpg)
+   ![null](/img/escalada.jpg)
 
    \
-   Our day starts with the transfer to the bottom of the Cindrel mountains, from where we will start climbing up on a narrow shady path that leads us to an alpine glade; from here, we’ll continue our route till we reach the imposing mountaintops of the Cindrel massif. On the edge of the soft summit lies a traditional picturesque sheepfold.\
-   \
-    It’s the perfect place to have a rest, enjoy the astonishing view and learn about the daily simple life of the shepherds. For lunch we will savour the delicious lamb and milk specialties skilfully prepared by the shepherds: different types of cheese (telemea, caş, urdă, burduf, jintiţă), pastrami and bacon, are just a few of the delicious products that, together with the “golden” polenta shall make you drool over.\
-   \
-    Of course, all of these shall be accompanied by a sip of schnapps or a glass of red wine.   
-
-4. **Adventure park, Treasure Hunt, Spa**\
    The morning will be a new kind of forest experience, as the participants will move from tree to tree, above the ground, in the famous adventurepark, Arka Park.  The afternoon will be dedicated on experiencing the historical city of Sibiu in a fun and interactive way. A treasure hunt will be organized, where the participants will discover the historical city centre of the 2007 European Capital of Culture by following an interactive set of clues. Each clue will lead you to an emblematic place for the history of Sibiu.\
    \
    After traversing the forest from tree to tree and discovering the city of Sibiu, the rest of the day will be dedicated towards a relaxing experience at a spa. 
+
 5. **Culture, Traditions and Gastronomy Tour**\
    Our day trip takes you to some lovely villages around Sibiu, in the Mărginime area, at the foothill of the Cindrel Mountains, part of the Southern Carpathians. You’ll get to experience the specific rural gastronomy and taste some of the most representative products of our region. Find out how nature and the territory influences the local cuisine, we will talk about the characteristics of the cultural and gastronomical mosaic during a walk through the village of Sibiel. You will also experience a traditional lunch at a family in Rășinari where you also get to taste various specialities of cheese and local alcoholic drinks.\
    \
