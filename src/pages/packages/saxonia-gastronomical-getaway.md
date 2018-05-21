@@ -44,3 +44,9 @@ Tired of the daily routine? Eager for an adventure? Time pressure is an issue? N
 
 1. **Culture, Traditions and Gastronomy**
    ![null](/img/untitled-65.jpg)
+   \
+   Before the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.\
+   \
+   In the morning we will start the first gastronomical tour that takes us through the UNESCO protected citadel (Burg) and to the Lower old centre. You will have the chance to taste some exclusive local products and try our recipes. We will talk about the characteristics of our gastronomy in the oldest school of Sighișoara. You will have the chance to try some typical cheese, the local white wines as well as various sweet and sour soups.\
+   \
+   Experience an old Saxon recipe, reinterpreted by an open-minded chef from a local restaurant. Sample the local fruit alcoholic drinks, a must during a visit in Transylvania and visit some of the unseen corners of historical Sighișoara.
