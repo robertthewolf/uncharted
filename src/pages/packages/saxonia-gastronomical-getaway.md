@@ -44,7 +44,7 @@ Tired of the daily routine? Eager for an adventure? Time pressure is an issue? N
 ## Itinerary
 
 1. **Culture, Traditions and Gastronomy**
-   
+   ![null](/img/foodsibiu_poza_mica_7.jpg)
    \
    Before the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.\
    \
@@ -52,3 +52,8 @@ Tired of the daily routine? Eager for an adventure? Time pressure is an issue? N
    \
    Experience an old Saxon recipe, reinterpreted by an open-minded chef from a local restaurant. Sample the local fruit alcoholic drinks, a must during a visit in Transylvania and visit some of the unseen corners of historical Sighișoara.
 2. **Culture, Traditions and Gastronomy**
+   ![null](/img/untitled-65.jpg)
+   \
+   Today’s gastronomical tour takes us typical cultural landscapes of the Transylvanian Highlands, an eco-touristic destination where we will visit some lovely villages. You’ll get to experience the specific rural gastronomy, meet some locals and try their best products or dishes. You will find out how nature and the territory influences the local products, we will talk about the characteristics of the cultural and gastronomical mosaic during a visit of the ruins of a Cistercian abbey in Cârța (Kerz).\
+   \
+Get an insight in our local cuisine, we talk about 200 years old recipes, during a horse cart tour through the village or a walk on the hills above the village. At the end of the day we will meet the people of the Old Mill Project in Hosman (Holzmengen) and try their sweet pastry specialities from Luíza’s artisanal bakery.
