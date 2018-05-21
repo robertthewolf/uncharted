@@ -77,8 +77,12 @@ Get an insight in our local cuisine, we talk about 200 years old recipes, durin
 
 4. **Horseback riding**
 
-![Horseback riding](/img/cu-caii-la-ghiocelul-2998.jpg)
+![null](/img/cu-caii-la-ghiocelul-2998.jpg)
+
+The fourth day is dedicated towards one of the most traditional ways of travelling from village to village and across the rolling hills, horseback riding. There will be a safety briefing including as well basic elements for beginners. Afterwards we will saddle up, and hop on for an unforgettable and memorable ride through the countryside, exploring the old Transylvanian lifestyle in the most genuine way.\
 \
-4. **Culture, Traditions and Gastronomy Tour**
-5. **Treasure Hunt and Cultural Heritages**
-6. **Free day, return to airport**
+The afternoon is dedicated towards relaxation.
+
+5. **Culture, Traditions and Gastronomy Tour**
+6. **Treasure Hunt and Cultural Heritages**
+7. **Free day, return to airport**
