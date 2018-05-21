@@ -87,6 +87,8 @@ Lunch and dinner, apart from the meals specified in the daily schedules
    After traversing the forest from tree to tree and discovering the city of Sibiu, the rest of the day will be dedicated towards a relaxing experience at a spa. 
 
 5. **Culture, Traditions and Gastronomy Tour**\
+   ![null](/img/foodsibiu_poza_mica_6.jpg)
+   \
    Our day trip takes you to some lovely villages around Sibiu, in the Mărginime area, at the foothill of the Cindrel Mountains, part of the Southern Carpathians. You’ll get to experience the specific rural gastronomy and taste some of the most representative products of our region. Find out how nature and the territory influences the local cuisine, we will talk about the characteristics of the cultural and gastronomical mosaic during a walk through the village of Sibiel. You will also experience a traditional lunch at a family in Rășinari where you also get to taste various specialities of cheese and local alcoholic drinks.\
    \
    We will help you find out more about small gastronomy projects in our area which is getting ready for 2019, when Sibiu county holds the title of European Region of Gastronomy.\
