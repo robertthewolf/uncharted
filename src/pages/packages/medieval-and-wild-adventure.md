@@ -73,3 +73,7 @@ This adventure represents a journey to explore relics of old times and tradition
 ![null](/img/foodsibiu_poza_mica_6.jpg)
 
 4. **Horseback riding**
+
+![null](/img/cu-caii-la-ghiocelul-2998.jpg)
+
+5. **Culture, Traditions and Gastronomy Tour**
