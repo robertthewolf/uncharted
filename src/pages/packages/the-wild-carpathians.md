@@ -22,16 +22,12 @@ being formed, while footsteps are left behind.
 * 1 x night Accommodation in Cluj-Napoca
 * 7 x breakfast
 * Transportation within the tour
-* 'Airport transfer '
-* 'Professional English speaking guides/mountain rangers '
-* > \-
-  > Uncharted Team group leader that will assist you throughout the tour
-  > (English speaking)
+* Airport transfer
+* Professional English speaking guides/mountain rangers
+* Uncharted Team group leader that will assist you throughout the tour (English speaking)
 * Activities highlighted in the itinerary
 * Entry fees to the objectives within the tour
-* > \-
-  > This adventure is a package deal; therefore, it provides you with coverage
-  > from Travel Guarantee Fund (Rejsegarantifonden) 
+* This adventure is a package deal; therefore, it provides you with coverage from Travel Guarantee Fund (Rejsegarantifonden) 
 * Cancellation
 
 ## What is not included in the price?
@@ -74,10 +70,10 @@ Lunch and dinner, apart from the meals specified in the daily schedules
    \
    We will then travel to our accommodation in the Cindrel mountains, more precisely Arena Platos Resort. Once at the accommodation, all participants will be greeted with a traditional meal and the rest of the evening will be dedicated to resting and getting to know each other.
 2. **Hiking in the 7 Ladder Canyon, Offroad 4x4**\
-   \*\*
-   \*\*The second day will start by heading towards the Carpathian Mountains, more precisely the Bucegi Mountains Sector. We will start with an easy hike towards the 7 Ladders Canyon, followed by traversing the canyon in a unique style. The hike will end in a picnic on the top of the canyon, after we will continue discovering the Carpathians with a 4x4 off-road tour. We will travel over high ground, through forest and woodland on various difficulty tracks, making for a great experience. Along the way, we will stop for a cosy picnic in a breath-taking view spot. Make sure your phones and photo cameras are fully charged to take proper advantage of the amazing landscapes\
+   The second day will start by heading towards the Carpathian Mountains, more precisely the Bucegi Mountains Sector. We will start with an easy hike towards the 7 Ladders Canyon, followed by traversing the canyon in a unique style. The hike will end in a picnic on the top of the canyon, after we will continue discovering the Carpathians with a 4x4 off-road tour. We will travel over high ground, through forest and woodland on various difficulty tracks, making for a great experience. Along the way, we will stop for a cosy picnic in a breath-taking view spot. Make sure your phones and photo cameras are fully charged to take proper advantage of the amazing landscapes\
    \
    The day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. 
+
 3. **Hike and lunch at traditional sheepfold**\
    Our day starts with the transfer to the bottom of the Cindrel mountains, from where we will start climbing up on a narrow shady path that leads us to an alpine glade; from here, we’ll continue our route till we reach the imposing mountaintops of the Cindrel massif. On the edge of the soft summit lies a traditional picturesque sheepfold. \
     It’s the perfect place to have a rest, enjoy the astonishing view and learn about the daily simple life of the shepherds. For lunch we will savour the delicious lamb and milk specialties skilfully prepared by the shepherds: different types of cheese (telemea, caş, urdă, burduf, jintiţă), pastrami and bacon, are just a few of the delicious products that, together with the “golden” polenta shall make you drool over.\
