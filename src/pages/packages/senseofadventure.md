@@ -61,16 +61,16 @@ intact for ages.
 
 1. **Hiking in Turzii Gorges, Visit Salina Turda**
 
-![Hiking](/img/rumænien-220317-15249.jpg)
+   ![Hiking](/img/rumænien-220317-15249.jpg)
 
    \
-Before the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.\
+   Before the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.\
    \
-In the morning we will Kick off the adventure with a visit to the biggest and oldest salt mine in Romania, 108m underground, dating from 1271. Here you will be able to discover the wonders that lie underneath Transylvanian hills and mountains.\
+   In the morning we will Kick off the adventure with a visit to the biggest and oldest salt mine in Romania, 108m underground, dating from 1271. Here you will be able to discover the wonders that lie underneath Transylvanian hills and mountains.\
    \
-Our next stop will be Turzii gorges, where we will move from the underground wonders to the cliffs, valleys and rivers that lie in from of your eyes. We will hike throughout the canyon while at the same time discovering together the hidden caves inside the gorges.\
+   Our next stop will be Turzii gorges, where we will move from the underground wonders to the cliffs, valleys and rivers that lie in from of your eyes. We will hike throughout the canyon while at the same time discovering together the hidden caves inside the gorges.\
    \
-We will then travel to our accommodation in the Cindrel mountains, more precisely Arena Platos Resort. Once at the accommodation, all participants will be greeted with a traditional meal and the rest of the evening will be dedicated to resting and getting to know each other.
+   We will then travel to our accommodation in the Cindrel mountains, more precisely Arena Platos Resort. Once at the accommodation, all participants will be greeted with a traditional meal and the rest of the evening will be dedicated to resting and getting to know each other.
 
 2. **Hiking in the 7 Ladder Canyon, Offroad 4x4**
 
