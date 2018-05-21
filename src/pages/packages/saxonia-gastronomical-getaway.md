@@ -1,6 +1,6 @@
 ---
 templateKey: package
-title: 'Saxonia Gastronomical Getaway '
+title: 'Gastronomical Getaway '
 tagline: A tasty adventure
 image: /img/gastronomy.jpg
 price: 4.250 DKK
