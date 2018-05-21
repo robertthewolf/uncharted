@@ -53,7 +53,9 @@ Lunch and dinner, apart from the meals specified in the daily schedules
 
 ## Itinerary
 
-1. **Hiking in Turzii Gorges, Visit Salina Turda**\
+1. **Hiking in Turzii Gorges, Visit Salina Turda**
+   ![null](/img/rumænien-220317-15248.jpg)
+   \
    Before the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.\
    \
    In the morning we will Kick off the adventure with a visit to the biggest and oldest salt mine in Romania, 108m underground, dating from 1271. Here you will be able to discover the wonders that lie underneath Transylvanian hills and mountains.\
