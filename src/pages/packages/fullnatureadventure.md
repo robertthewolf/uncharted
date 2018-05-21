@@ -54,6 +54,7 @@ the rest.
 ## Itinerary
 
 1. **Culture, Traditions and Gastronomy Tour**\
+   ![Gastronomy,Culture,Traditions](/img/foodsibiu_poza_mica_6.jpg)
    \
    Welcome to the mysterious Transylvania. Kick off your adventure with your group leader, who is going to wait for you at the starting point of the tour, Cluj Napoca Airport. From there we will head towards the 2007 Capital of Culture, the city of Sibiu and all the way up to out mountain accommodation.\
    \
