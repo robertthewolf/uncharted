@@ -70,6 +70,8 @@ Lunch and dinner, apart from the meals specified in the daily schedules
    \
    The day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. 
 3. **Hike and lunch at traditional sheepfold**\
+   
+   \
    Our day starts with the transfer to the bottom of the Cindrel mountains, from where we will start climbing up on a narrow shady path that leads us to an alpine glade; from here, we’ll continue our route till we reach the imposing mountaintops of the Cindrel massif. On the edge of the soft summit lies a traditional picturesque sheepfold. \
     It’s the perfect place to have a rest, enjoy the astonishing view and learn about the daily simple life of the shepherds. For lunch we will savour the delicious lamb and milk specialties skilfully prepared by the shepherds: different types of cheese (telemea, caş, urdă, burduf, jintiţă), pastrami and bacon, are just a few of the delicious products that, together with the “golden” polenta shall make you drool over.\
     Of course, all of these shall be accompanied by a sip of schnapps or a glass of red wine.   
