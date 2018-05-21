@@ -23,12 +23,9 @@ The Wild Carpathians Adventure will give you the perfect opportunity to fully co
 * Cancellation
 
 ## What is not included in the price?
-
-Transport to the starting point of the tour, Cluj–Napoca t/r
-
-Travel Insurance
-
-Lunch and dinner, apart from the meals specified in the daily schedules
+* Transport to the starting point of the tour, Cluj–Napoca t/r
+* Travel Insurance
+* Lunch and dinner, apart from the meals specified in the daily schedules
 
 ## Why we love this adventure?
 
