@@ -68,7 +68,7 @@ This adventure represents a journey to explore relics of old times and tradition
    The day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. 
 3. **Culture, Traditions and Gastronomy Tour**
 
-![null](/img/foodsibiu_poza_mica_6.jpg)
+![Culture,Traditions,Gastronomy](/img/foodsibiu_poza_mica_6.jpg)
 
 4. **Horseback riding**
 
