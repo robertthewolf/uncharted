@@ -62,9 +62,12 @@ This adventure represents a journey to explore relics of old times and tradition
    \
    We will then travel to our accommodation in the Cindrel mountains, more precisely Arena Platos Resort. Once at the accommodation, all participants will be greeted with a traditional meal and the rest of the evening will be dedicated to resting and getting to know each other.
 2. **Hiking in the 7 Ladder Canyon, Offroad 4x4**
-
-   ![Offroad 4x4](/img/dsc03317.jpg)
-
+      ![Offroad 4x4](/img/dsc03317.jpg)
+   The second day will start by heading towards the Carpathian Mountains, more precisely the Bucegi Mountains Sector. We will start with an easy hike towards the 7 Ladders Canyon, followed by traversing the canyon in a unique style. The hike will end in a picnic on the top of the canyon, after we will continue discovering the Carpathians with a 4x4 off-road tour. 
+   \
+   We will travel over high ground, through forest and woodland on various difficulty tracks, making for a great experience. Along the way, we will stop for a cosy picnic in a breath-taking view spot. Make sure your phones and photo cameras are fully charged to take proper advantage of the amazing landscapes\
+   \
+   The day will end with dinner at the accommodation and some quality group time involving games and of course traditional beverages. 
 3. **Culture, Traditions and Gastronomy Tour**
 4. **Horseback riding**
 5. **Culture, Traditions and Gastronomy Tour**
