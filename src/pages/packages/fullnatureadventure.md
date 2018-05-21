@@ -63,7 +63,8 @@ the rest.
     It’s the perfect place to have a rest, enjoy the astonishing view and learn about the daily simple life of the shepherds. For lunch we will savour the delicious lamb and milk specialties skilfully prepared by the shepherds: different types of cheese (telemea, caş, urdă, burduf, jintiţă), pastrami and bacon, are just a few of the delicious products that, together with the “golden” polenta shall make you drool over.\
    \
    Of course, all of these shall be accompanied by a sip of schnapps or a glass of red wine.   
-2. **Hike and lunch at traditional sheepfold**\
+2. **Hike and lunch at traditional sheepfold**
+   ![](/img/20170801_183221.jpg)
    \
    Our day trip takes you to some lovely villages around Sibiu, in the Mărginime area, at the foothill of the Cindrel Mountains, part of the Southern Carpathians. You’ll get to experience the specific rural gastronomy and taste some of the most representative products of our region. Find out how nature and the territory influences the local cuisine, we will talk about the characteristics of the cultural and gastronomical mosaic during a walk through the village of Sibiel. You will also experience a traditional lunch at a family in Rășinari where you also get to taste various specialities of cheese and local alcoholic drinks.\
    \
