@@ -1,7 +1,7 @@
 ---
 templateKey: confirmation
 tagline: Your adventure is on its way
-image: /img/dsc_0221.jpg
+image: /img/dsc_0257.jpg
 ---
 You're probably exhausted from taking all those decisions. 
 
