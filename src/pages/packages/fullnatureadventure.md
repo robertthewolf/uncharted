@@ -46,7 +46,7 @@ the rest.
 
 ## Is this adventure suitable for you?
 
-* A minimum level of fitness is required as the snowshoe hiking tour involves a fair amount of walking, allowing you to really get among nature;
+* A minimum level of fitness is required as some of the activities involve a fair amount of physical exercise
 * The tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed.
 
 ## Itinerary
