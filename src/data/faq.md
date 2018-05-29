@@ -1,7 +1,7 @@
 ---
 templateKey: faq
 tagline: FAQ's
-image: /img/dsc_0172.jpg
+image: /img/rumænien-240317-15743.jpg
 ---
 # GENERAL
 
