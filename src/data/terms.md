@@ -40,13 +40,19 @@ Prior to the conclusion of the contract, the organizer shall notify the customer
 
 ## Travel Insurance
 
-Because the outdoor activities imply a certain risk of injury, we strongly advise you to purchase travel insurance. We recommend that you contact your insurance broker and ask for the suitable insurance for the chosen tour.\
-Travel insurance is compulsory for all our trips. We require that, at a minimum, you are covered for medical expenses including emergency repatriation. We strongly recommend that the policy also covers personal liability, curtailment and loss of luggage and personal effects.\
+Because the outdoor activities imply a certain risk of injury, we strongly advise you to purchase travel insurance. We recommend that you contact your insurance broker and ask for the suitable insurance for the chosen tour.
+
+\
+Travel insurance is compulsory for all our trips. We require that, at a minimum, you are covered for medical expenses including emergency repatriation. We strongly recommend that the policy also covers personal liability, curtailment and loss of luggage and personal effects.
+
+\
 It is the adventurer’s own responsibility to ensure they purchase a travel insurance. Uncharted IVS is not to be held liable in case of any accidents that could have been covered by the travel insurance.
 
 ## Medical and health information
 
-All Uncharted adventurers need to be in a good physical health in order to fully participate on any of the activities. Please make sure you have read through the itinerary carefully when selecting your adventure and assess your ability to cope with our style of travel. Please note that if, in the opinion of our group leader or local guide, any adventurer is unable to complete the itinerary without undue risk to themselves and/or the rest of the group, Uncharted IVS reserves the right to exclude them from all or part of a trip without refund.\
+All Uncharted adventurers need to be in a good physical health in order to fully participate on any of the activities. Please make sure you have read through the itinerary carefully when selecting your adventure and assess your ability to cope with our style of travel. Please note that if, in the opinion of our group leader or local guide, any adventurer is unable to complete the itinerary without undue risk to themselves and/or the rest of the group, Uncharted IVS reserves the right to exclude them from all or part of a trip without refund.
+
+\
 For legal reasons our leaders and guides are prohibited from administering any type of drugs including headache tablets and antibiotics. Please ensure that you are adequately prepared.
 
 ## Air & Lodging Reservations
