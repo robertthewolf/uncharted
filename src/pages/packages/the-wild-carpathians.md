@@ -23,6 +23,7 @@ The Wild Carpathians Adventure will give you the perfect opportunity to fully co
 * Cancellation
 
 ## What is not included in the price?
+
 * Transport to the starting point of the tour, Cluj–Napoca t/r
 * Travel Insurance
 * Lunch and dinner, apart from the meals specified in the daily schedules
@@ -43,7 +44,7 @@ The Wild Carpathians Adventure will give you the perfect opportunity to fully co
 
 ## Is this adventure right for you?
 
-* A minimum level of fitness is required as the hiking tour and rock climbing involve a fair amount of physical exercise
+* A minimum level of fitness is required as some of the activities involve a fair amount of physical exercise
 * Temperatures in the spring – autumn interval can vary from ca. 15°C up to 35°C so make sure that apart from rain jackets and warm clothes you also bring sunscreen cream
 * The tour is suitable for families due to it’s high focus activities that fit perfectly the picture of “an active Sunday with the family”, but also for any other type of adventure enthusiast.
 * The tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed
@@ -75,14 +76,11 @@ The Wild Carpathians Adventure will give you the perfect opportunity to fully co
       \
        Of course, all of these shall be accompanied by a sip of schnapps or a glass of red wine.   
 4. **Adventure park, Treasure Hunt, Spa**
-
    ![null](/img/escalada.jpg)
-
    \
    The morning will be a new kind of forest experience, as the participants will move from tree to tree, above the ground, in the famous adventurepark, Arka Park.  The afternoon will be dedicated on experiencing the historical city of Sibiu in a fun and interactive way. A treasure hunt will be organized, where the participants will discover the historical city centre of the 2007 European Capital of Culture by following an interactive set of clues. Each clue will lead you to an emblematic place for the history of Sibiu.\
    \
    After traversing the forest from tree to tree and discovering the city of Sibiu, the rest of the day will be dedicated towards a relaxing experience at a spa. 
-
 5. **Culture, Traditions and Gastronomy Tour**\
    ![null](/img/foodsibiu_poza_mica_6.jpg)
    \
