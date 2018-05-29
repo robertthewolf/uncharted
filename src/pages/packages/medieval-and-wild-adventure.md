@@ -43,7 +43,7 @@ This adventure represents a journey to explore relics of old times and tradition
 
 ## Is this adventure right for you?
 
-* A minimum level of fitness is required as the hiking tour and rock climbing involve a fair amount of physical exercise
+* A minimum level of fitness is required as some of the activities involve a fair amount of physical exercise
 * Temperatures in the spring – autumn interval can vary from ca. 15°C up to 35°C so make sure that apart from rain jackets and warm clothes you also bring sunscreen cream
 * The tour focuses on more than just one activity, therefore the time is divided in such way that all activities can be performed
 * This tour includes a lot of traditional food tasting, therefore if you have any allergies or different choices in taste, please inform us beforehand so we make sure no unpleasantness will occur
