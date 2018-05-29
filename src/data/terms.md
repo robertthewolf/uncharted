@@ -1,7 +1,7 @@
 ---
 templateKey: terms
 tagline: Terms And Conditions
-image: /img/hero1.jpg
+image: /img/untitled-55.jpg
 ---
 ## Important notes
 
