@@ -16,11 +16,8 @@ export default class FaqPage extends React.Component {
 
     return (
       <Wrapper>
-          <Header>
-            <Image sizes={frontmatter.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
-            <Tagline>{frontmatter.tagline}</Tagline>
+            <Header background={frontmatter.image.childImageSharp.sizes} tagline={frontmatter.tagline}/>
 
-          </Header>
           <Container>
             <Content><div dangerouslySetInnerHTML={{ __html: html }}  /></Content>
           </Container>

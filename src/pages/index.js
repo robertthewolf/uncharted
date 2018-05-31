@@ -41,7 +41,7 @@ export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
-    const { frontmatter: frontpage } = data.markdownRemark
+    const { frontmatter } = data.markdownRemark
 
     const activities = posts.filter(post => post.node.frontmatter.templateKey === 'activity')
 
@@ -51,14 +51,8 @@ export default class IndexPage extends React.Component {
             url="https://identity.netlify.com/v1/netlify-identity-widget.js"
             onLoad={this.handleScriptLoad.bind(this)}
           />
-          <Header>
-            <Image sizes={frontpage.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
-            <Container>
-              <Tagline>{frontpage.tagline}</Tagline>
-              <Welcome>{frontpage.welcome}</Welcome>
-            </Container>
-
-          </Header>
+         <Header background={frontmatter.image.childImageSharp.sizes} tagline={frontmatter.tagline}/>
+          <Welcome>{frontmatter.welcome}</Welcome>
           <h2>Choose a themed trip</h2>
           <Trips>
           {posts
@@ -136,9 +130,6 @@ export const pageQuery = graphql`
       }
     }
   }
-`
-
-const Tagline = styled.h1`
 `
 
 const Welcome = styled.p`

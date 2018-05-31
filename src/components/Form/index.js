@@ -2,6 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import { navigateTo } from "gatsby-link";
 import Image from 'gatsby-image'
+import Link from 'gatsby-link'
 import windowSize from 'react-window-size';
 
 //date-picker
@@ -108,20 +109,26 @@ class Form extends React.Component {
                 </Date>
 
                 <Question>How many people are going?</Question>
+
+                <Flex justify="center">
                 <PlusButton onClick={this.minusPeople}>-</PlusButton>
                 <PeopleValue type="number" name="people" value={this.state.people} disabled />
                 <MinusButton onClick={this.plusPeople}>+</MinusButton>
+                </Flex>
 
                 <Question>How much are you willing to spend per person?</Question>
                 <PriceInput type="range" name="price" min="1000" max="10000" value={this.state.price} onChange={this.updatePrice} />
+                
+                <Flex>
                 <PriceLimit>1 000 DKK</PriceLimit>
                 <PriceValue>{Math.round(this.state.price * Math.pow(10, -2)) * 100}&nbsp;DKK</PriceValue>
                 <PriceLimit>10 000 DKK</PriceLimit>
+                </Flex>
                     
                     
 
                 <Question>What do you want to do?</Question>
-                <Activities>
+                <Flex justify="space-between" wrap>
                     {this.props.activities.map(({node : post}) => (
                         <Activity key={post.id}>
                             <Checkbox type="checkbox" name={post.frontmatter.title} onChange={this.handleChange} />
@@ -130,22 +137,30 @@ class Form extends React.Component {
                             <CheckboxName>{post.frontmatter.title}</CheckboxName>
                         </Activity>
                     ))}
-                </Activities>
+                </Flex>
 
                 <Question>Any other wishes?</Question>
                 <Comments name="comments" onChange={this.handleChange}>
                 </Comments>
-                <EmailContainer>
 
-                <Question>Email</Question>
-                <input type="email" name="email" placeholder="required" required onChange={this.handleChange} />
-                </EmailContainer>
-                <PhoneContainer>
+                <Flex justify="space-between" wrap>
 
-                <Question>Phone</Question>
-                <input type="tel" name="phone" placeholder="optional" onChange={this.handleChange} />
-                </PhoneContainer>
+                <div>
+                    <Question>Email</Question>
+                    <input type="email" name="email" placeholder="required" required onChange={this.handleChange} />
+                </div>
+
+                <div>
+                    <Question>Phone</Question>
+                    <input type="tel" name="phone" placeholder="optional" onChange={this.handleChange} />
+                </div>
+
                 <Submit type="submit">Submit</Submit>
+                </Flex>
+                <Terms>
+                <input type="checkbox" required />
+                <label>I agree with the <Link to="/terms">Terms and Conditions</Link></label>
+                </Terms>
             </Container>
         );
     }
@@ -157,23 +172,24 @@ const Container = styled.form`
 max-width: 650px
 margin: 0 auto
 padding: 1rem
-display: grid
-grid-template-columns: 1fr 1fr 1fr
-@media screen and (max-width: 600px) {
-    grid-template-columns: 33% 33% 33%
-    width: calc(100% - 2rem)
-}
 `
 
 const Question = styled.h3`
 font-size: 1rem
 text-align: center
 margin: 4rem auto 1rem
-grid-column: 1 / 4
+
 `
 
 const Date = styled.div`
-grid-column: 1 / 4`
+`
+
+const Flex = styled.div`
+display: flex;
+justify-content: ${props => props.justify};
+align-items: ${props => props.align};
+flex-wrap: ${(props => props.wrap)? 'wrap' : 'no-wrap'};
+`
 
 const PlusButton = styled.div`
 justify-self: right
@@ -201,7 +217,7 @@ border-radius: 0;
 `
 
 const PriceInput = styled.input`
-grid-column: 1 / 4
+
 width: calc(100% - 2rem) !important;`
 
 const PriceLimit = styled.label`
@@ -217,12 +233,6 @@ text-align: center`
 
 // activities
 
-const Activities = styled.div`
-grid-column: 1 / 4;
-display: flex;
-flex-wrap: wrap;
-justify-content: space-between
-`
 
 const Activity = styled.label`
 min-width: 150px;
@@ -299,33 +309,22 @@ const Comments = styled.textarea`
 resize: none
 width: calc(100% - 2rem);
 height: 5rem
-grid-column: 1 / 4`
-
-const EmailContainer = styled.div`
-grid-column: 1 / 2
-@media screen and (max-width: 600px) {
-    grid-column: 1 / 3;
-    padding: 1rem 0;
-    & input {
-    width: calc(100% - 3rem);
-    }
-}`
-
-const PhoneContainer = styled.div`
-grid-column: 2 / 3
-@media screen and (max-width: 600px) {
-    grid-column: 3 / 4;
-    padding: 1rem 0;
-    min-width: 0
-    & input {
-    width: calc(100% - 2rem);
-    }
-}`
+`
 
 const Submit = styled.button`
-grid-column: 3 / 4
-align-self: end
+margin-top: auto
 @media screen and (max-width: 600px) {
-    grid-column: 1 / 4;
+    ;
     padding: 1rem 0;
 }`
+
+const Terms = styled.div`
+padding-top: 1rem
+input {
+    margin-right: 1rem
+    vertical-align: top
+}
+a {
+    text-decoration: underline
+}
+`

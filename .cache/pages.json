@@ -31,20 +31,6 @@
         "componentChunkName": "component---src-templates-package-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-medieval-and-wild-adventure.json",
-        "path": "/packages/medieval-and-wild-adventure/"
-    },
-    {
-        "componentChunkName": "component---src-templates-package-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-senseofadventure.json",
-        "path": "/packages/senseofadventure/"
-    },
-    {
-        "componentChunkName": "component---src-templates-package-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-the-wild-carpathians.json",
         "path": "/packages/the-wild-carpathians/"
     },
@@ -52,8 +38,15 @@
         "componentChunkName": "component---src-templates-package-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-weekendgetaway.json",
-        "path": "/packages/weekendgetaway/"
+        "jsonName": "packages-saxonia-gastronomical-getaway.json",
+        "path": "/packages/saxonia-gastronomical-getaway/"
+    },
+    {
+        "componentChunkName": "component---src-templates-package-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-medieval-and-wild-adventure.json",
+        "path": "/packages/medieval-and-wild-adventure/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",

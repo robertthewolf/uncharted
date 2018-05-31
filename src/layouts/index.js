@@ -8,6 +8,8 @@ import Footer from '../components/Footer'
 import reset from 'reset-css'
 import '../css/all.sass'
 
+
+
 const TemplateWrapper = ({ children, data }) => {
   const { edges: posts } = data.allMarkdownRemark
 

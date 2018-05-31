@@ -1,9 +1,11 @@
 import React from 'react'
+import Image from 'gatsby-image'
 import styled from 'styled-components'
 
-const Header = ({ children }) => (
+const Header = ({ background, tagline }) => (
   <Wrapper>
-      {children}
+        <Image sizes={background} alt="Transylvania Uncharted" />
+        <Tagline>{tagline}</Tagline>
   </Wrapper>
 )
 
@@ -36,6 +38,9 @@ div.gatsby-image-outer-wrapper {
 section {
     animation: slideUp .5s ease;
 }
+`
+
+const Tagline = styled.h1`
 `
 
 export default Header

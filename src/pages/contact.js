@@ -17,15 +17,11 @@ export default class ContactPage extends React.Component {
 
     return (
       <Wrapper>
-          <Header>
-            <Image sizes={frontmatter.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
-            <h1>{frontmatter.tagline}</h1>
+          <Header background={frontmatter.image.childImageSharp.sizes} tagline={frontmatter.tagline}/>
+          <Container>
             <Contact>
             <Info/>
             </Contact>
-
-          </Header>
-          <Container>
             
             <Content><div dangerouslySetInnerHTML={{ __html: html }}  /></Content>
           </Container>
@@ -64,6 +60,7 @@ query ContactQuery {
 
 const Contact = styled.div`
 margin: 2rem auto 1rem;
+text-align: center
 div {
   a {
     display: block;

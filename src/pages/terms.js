@@ -16,10 +16,8 @@ export default class TermsPage extends React.Component {
 
     return (
       <Wrapper>
-          <Header white>
-            <Image sizes={frontmatter.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
-            <Tagline>{frontmatter.tagline}</Tagline>
-          </Header>
+          <Header background={frontmatter.image.childImageSharp.sizes} tagline={frontmatter.tagline}/>
+
           <Content>
             <div dangerouslySetInnerHTML={{ __html: html }} />
           </Content>

@@ -13,12 +13,8 @@ export default class ConfirmationPage extends React.Component {
     const { frontmatter, html } = this.props.data.markdownRemark
       return (
       <Wrapper>
-        <Header>
-          <Image sizes={frontmatter.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
-          <Container>
-            <Tagline>{frontmatter.tagline}</Tagline>
-          </Container>
-        </Header>
+          <Header background={frontmatter.image.childImageSharp.sizes} tagline={frontmatter.tagline}/>
+
         <Container>
           <Content><div dangerouslySetInnerHTML={{ __html: html }}  /></Content>
         </Container>

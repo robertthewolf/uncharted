@@ -28,6 +28,7 @@
     "react-helmet": "^5.2.0",
     "react-load-script": "0.0.6",
     "react-overdrive": "0.0.9",
+    "react-parallax": "^1.7.0",
     "react-window-size": "^1.2.0",
     "reset-css": "^3.0.0",
     "styled-components": "^3.2.5"

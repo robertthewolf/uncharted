@@ -12,16 +12,13 @@ export default class StoriesPage extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
-    const { frontmatter: frontpage } = data.markdownRemark
+    const { frontmatter } = data.markdownRemark
 
     return (
       <Wrapper>
-          <Header>
-            <Image sizes={frontpage.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
-            <Tagline>{frontpage.tagline}</Tagline>
-            <Welcome>{frontpage.welcome}</Welcome>
+              <Header background={frontmatter.image.childImageSharp.sizes} tagline={frontmatter.tagline}/>
 
-          </Header>
+            <Welcome>{frontmatter.welcome}</Welcome>
           <Stories>
           {posts
             .filter(post => post.node.frontmatter.templateKey === 'blog-post')
