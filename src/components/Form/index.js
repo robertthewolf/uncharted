@@ -34,6 +34,7 @@ class Form extends React.Component {
         this.setState({people: this.state.people + 1})
     }
 
+
     minusPeople = () => {
         if (this.state.people === 1) return;
         this.setState({people: this.state.people - 1})
@@ -53,8 +54,8 @@ class Form extends React.Component {
           headers: { "Content-Type": "application/x-www-form-urlencoded" },
           body: encode({
               "form-name": "custom",
-              "start-date": this.state.startDate._d,
-              "end-date": this.state.endDate._d,
+              "start-date": this.state.startDate._d.toString(),
+              "end-date": this.state.endDate._d.toString(),
               ...this.state })
         })
           .then(() => navigateTo('/confirmation/'))
