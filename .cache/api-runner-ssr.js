@@ -4,6 +4,9 @@ var plugins = [{
     },{
       plugin: require('/Users/Robert/uncharted/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
       options: {"plugins":[]},
+    },{
+      plugin: require('/Users/Robert/uncharted/node_modules/gatsby-plugin-google-analytics/gatsby-ssr.js'),
+      options: {"plugins":[],"trackingId":"UA-120131576-1","head":false,"anonymize":true,"respectDNT":true,"exclude":["/preview/**","/do-not-track/me/too/"]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
