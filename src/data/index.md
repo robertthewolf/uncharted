@@ -1,11 +1,16 @@
 ---
 templateKey: frontpage
-tagline: 'A new way of travelling, YOUR way of travelling!'
-welcome: >-
-  Welcome to your new travelling chapter. In this chapter you are the one to
-  decide if you want to be taken into a special themed adventure, or tailor your
-  own according to YOUR budget and wishes. What’s guaranteed is that with each
-  uncharted path, you will get a chance to rediscover yourself. 
+tagline: Adventures that unlock the uncharted paths of the mountains
+welcome: >+
+  The uncharted adventures offer you the rear treat of escaping the noise and
+  monotony of the daily life. When you are taking the mountain paths unknown to
+  you or to rest of the world but mastered by the ones guiding you, a feeling of
+  here and now will emerge inside of you. You will start trusting your guts,
+  instincts and sharpen your senses, developing a narrow focus and operating on
+  pure survival mode. This adventure, this new chapter in your travelling book
+  starts in Transylvania.
+
+
 image: /img/untitled-58.jpg
 ---
 
