@@ -8,10 +8,10 @@ const Info = () => (
     <div>
         <a href="tel:+4592272285">+45 92 27 22 85</a>
         <a href="mailto:info@uncharted.com">info@uncharted.com</a>
-        <SocialLink href="">
+        <SocialLink href="https://www.facebook.com/TransylvaniaUncharted/?ref=br_rs">
             <img src={facebookLogo} alt="facebook" />
         </SocialLink>
-        <SocialLink href="">
+        <SocialLink href="https://www.instagram.com/transylvaniauncharted.dk">
             <img src={instagramLogo} alt="instagram" />
         </SocialLink>
     </div>
