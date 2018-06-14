@@ -168,13 +168,14 @@ position: relative
   width: 100%;
   padding-bottom: 100%;
   background: radial-gradient( circle,transparent 0%,black 65%);
-  transform: scale(110%);
   height: 100%;
   display: block;
   transition: opacity 1s ease;
 }
-&:hover:after {
-  opacity: .5
+&:hover {
+  &:after {
+    opacity: .5
+  }
 }
 div {
   position: absolute !important;
@@ -182,6 +183,8 @@ div {
   height: 100%;
   top: 0;
   left: 0;
+  border-radius: 50%;
+  transform: scale(.999);
 }
 `
 

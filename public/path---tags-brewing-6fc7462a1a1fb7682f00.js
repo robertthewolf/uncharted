@@ -1,2 +1,2 @@
-webpackJsonp([31226404763212],{408:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Uncharted"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"},frontmatter:{title:"A beginners’ guide to brewing with Chemex"}}}]}},pathContext:{tag:"brewing"}}}});
+webpackJsonp([31226404763212],{415:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Uncharted"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"},frontmatter:{title:"A beginners’ guide to brewing with Chemex"}}}]}},pathContext:{tag:"brewing"}}}});
 //# sourceMappingURL=path---tags-brewing-6fc7462a1a1fb7682f00.js.map

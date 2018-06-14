@@ -4,7 +4,7 @@ import styled from 'styled-components'
 
 const Header = ({ background, tagline }) => (
   <Wrapper>
-        <Image sizes={background} alt="Transylvania Uncharted" />
+        {background && <Image sizes={background} alt="Transylvania Uncharted" />}
         <Tagline>{tagline}</Tagline>
   </Wrapper>
 )

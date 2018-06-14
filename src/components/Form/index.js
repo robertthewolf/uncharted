@@ -128,7 +128,7 @@ class Form extends React.Component {
                     
 
                 <Question>What do you want to do?</Question>
-                <Flex justify="space-between" wrap>
+                <Flex justify="space-between" wrap="true">
                     {this.props.activities.map(({node : post}) => (
                         <Activity key={post.id}>
                             <Checkbox type="checkbox" name={post.frontmatter.title} onChange={this.handleChange} />
@@ -143,7 +143,7 @@ class Form extends React.Component {
                 <Comments name="comments" onChange={this.handleChange}>
                 </Comments>
 
-                <Flex justify="space-between" wrap>
+                <Flex justify="space-between" wrap="true">
 
                 <div>
                     <Question>Email</Question>

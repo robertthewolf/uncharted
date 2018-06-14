@@ -17,17 +17,13 @@ const Package = ({ data }) => {
   return (
     <Wrapper>
       <Helmet title={`${frontmatter.title} | Package`} />
-      <Header>
-            <Overdrive id={data.markdownRemark.id} duration={0} >
-              <Image sizes={frontmatter.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
-            </Overdrive>
-            <Container>
-            <Feature>💰<br/>{frontmatter.price}</Feature>
-            <Feature>🗓️<br/>{frontmatter.lenght}</Feature>
-            <Title>{frontmatter.title}</Title>
-            <Tagline>{frontmatter.tagline}</Tagline>
-            </Container>
-      </Header>
+      <Header background={frontmatter.image.childImageSharp.sizes}/>
+      <Container>
+      <Feature>💰<br/>{frontmatter.price}</Feature>
+      <Feature>🗓️<br/>{frontmatter.lenght}</Feature>
+      <Title>{frontmatter.title}</Title>
+      <Tagline>{frontmatter.tagline}</Tagline>
+      </Container>
       <Container>
         <Content><div dangerouslySetInnerHTML={{ __html: html }}  /></Content>
       </Container>

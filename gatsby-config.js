@@ -1,8 +1,10 @@
 module.exports = {
   siteMetadata: {
     title: 'Uncharted',
+    siteUrl: 'https://www.uncharted.dk'
   },
   plugins: [
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-styled-components`,
     'gatsby-plugin-react-helmet',
     {
@@ -17,6 +19,12 @@ module.exports = {
         respectDNT: true,
         // Avoids sending pageview hits from custom paths
         exclude: ["/preview/**", "/do-not-track/me/too/"],
+      },
+    },
+    {
+      resolve: `gatsby-plugin-facebook-pixel`,
+      options: {
+        pixelId: '231114250816821',
       },
     },
     'gatsby-plugin-sass',
@@ -43,22 +51,7 @@ module.exports = {
     },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          {
-            resolve: `gatsby-remark-images`,
-            options: {
-              // It's important to specify the maxWidth (in pixels) of
-              // the content container as this plugin uses this as the
-              // base for generating different widths of each image.
-              maxWidth: 590,
-            },
-          },
-        ],
-      },
-    },
+    `gatsby-transformer-remark`,
     // {
     //   resolve: 'gatsby-plugin-netlify-cms',
     //   options: {

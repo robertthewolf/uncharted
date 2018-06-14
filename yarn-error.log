@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/bin/yarn
+  /usr/local/bin/node /usr/local/bin/yarn build
 
 PATH: 
   /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin
@@ -22,14 +22,18 @@ npm manifest:
     "dependencies": {
       "bulma": "^0.6.0",
       "gatsby": "^1.9.213",
-      "gatsby-image": "^1.0.42",
+      "gatsby-image": "^1.0.52",
       "gatsby-link": "^1.6.37",
+      "gatsby-module-loader": "^1.0.11",
+      "gatsby-plugin-facebook-pixel": "^1.0.3",
+      "gatsby-plugin-google-analytics": "^1.0.31",
       "gatsby-plugin-netlify-cms": "^1.0.9",
       "gatsby-plugin-react-helmet": "^2.0.5",
       "gatsby-plugin-sass": "^1.0.17",
-      "gatsby-plugin-sharp": "^1.6.41",
+      "gatsby-plugin-sharp": "^1.6.44",
+      "gatsby-plugin-styled-components": "^2.0.11",
       "gatsby-plugin-typography": "^1.7.18",
-      "gatsby-remark-images": "^1.5.50",
+      "gatsby-remark-images": "^1.5.63",
       "gatsby-source-filesystem": "^1.5.23",
       "gatsby-transformer-remark": "^1.7.33",
       "gatsby-transformer-sharp": "^1.6.22",
@@ -41,8 +45,12 @@ npm manifest:
       "react-dates": "^16.5.0",
       "react-dom": "^16.3.1",
       "react-helmet": "^5.2.0",
+      "react-load-script": "0.0.6",
+      "react-overdrive": "0.0.9",
+      "react-parallax": "^1.7.0",
+      "react-window-size": "^1.2.0",
       "reset-css": "^3.0.0",
-      "styled-components": "^3.2.3"
+      "styled-components": "^3.2.5"
     },
     "keywords": [
       "gatsby"
@@ -11332,29 +11340,17 @@ Lockfile:
     resolved "https://registry.yarnpkg.com/zwitch/-/zwitch-1.0.2.tgz#9b059541bfa844799fe2d903bde609de2503a041"
 
 Trace: 
-  Error: /Users/Robert/uncharted/node_modules/gatsby-remark-images/node_modules/sharp: Command failed.
+  Error: Command failed.
   Exit code: 1
   Command: sh
-  Arguments: -c node-gyp rebuild
-  Directory: /Users/Robert/uncharted/node_modules/gatsby-remark-images/node_modules/sharp
+  Arguments: -c gatsby build
+  Directory: /Users/Robert/uncharted
   Output:
-  module.js:540
-      throw err;
-      ^
   
-  Error: Cannot find module '/usr/local/lib/node_modules/npm/node_modules/node-gyp/bin/node-gyp.js'
-      at Function.Module._resolveFilename (module.js:538:15)
-      at Function.Module._load (module.js:468:25)
-      at Function.Module.runMain (module.js:684:10)
-      at startup (bootstrap_node.js:187:16)
-      at bootstrap_node.js:608:3
       at ProcessTermError.MessageError (/usr/local/lib/node_modules/yarn/lib/cli.js:186:110)
       at new ProcessTermError (/usr/local/lib/node_modules/yarn/lib/cli.js:226:113)
       at ChildProcess.<anonymous> (/usr/local/lib/node_modules/yarn/lib/cli.js:30281:17)
       at emitTwo (events.js:126:13)
       at ChildProcess.emit (events.js:214:7)
       at maybeClose (internal/child_process.js:925:16)
-      at Socket.stream.socket.on (internal/child_process.js:346:11)
-      at emitOne (events.js:116:13)
-      at Socket.emit (events.js:211:7)
-      at Pipe._handle.close [as _onclose] (net.js:554:12)
+      at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
