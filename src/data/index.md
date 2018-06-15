@@ -1,6 +1,6 @@
 ---
 templateKey: frontpage
-tagline: Adventures that unlock the uncharted paths of the mountains
+tagline: Unlock the uncharted paths of the mountains
 welcome: >-
   The uncharted adventures offer you the rear treat of escaping the noise and
   monotony of the daily life. When you are taking the mountain paths unknown to
