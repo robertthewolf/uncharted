@@ -116,14 +116,13 @@ class Form extends React.Component {
                 <MinusButton onClick={this.plusPeople}>+</MinusButton>
                 </Flex>
 
-                <Question>How much are you willing to spend per person?</Question>
+                {/* <Question>How much are you willing to spend per person?</Question>
                 <PriceInput type="range" name="price" min="1000" max="10000" value={this.state.price} onChange={this.updatePrice} />
-                
                 <Flex>
                 <PriceLimit>1 000 DKK</PriceLimit>
                 <PriceValue>{Math.round(this.state.price * Math.pow(10, -2)) * 100}&nbsp;DKK</PriceValue>
                 <PriceLimit>10 000 DKK</PriceLimit>
-                </Flex>
+                </Flex> */}
                     
                     
 
@@ -143,17 +142,17 @@ class Form extends React.Component {
                 <Comments name="comments" onChange={this.handleChange}>
                 </Comments>
 
-                <Flex justify="space-between" wrap="true">
+                <Flex justify="flex-start" wrap="true">
 
                 <div>
                     <Question>Email</Question>
                     <input type="email" name="email" placeholder="required" required onChange={this.handleChange} />
                 </div>
 
-                <div>
+                {/* <div>
                     <Question>Phone</Question>
                     <input type="tel" name="phone" placeholder="optional" onChange={this.handleChange} />
-                </div>
+                </div> */}
 
                 <Submit type="submit">Submit</Submit>
                 </Flex>

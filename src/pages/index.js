@@ -9,6 +9,7 @@ import Overdrive from 'react-overdrive'
 import Header from '../components/Header'
 import Wrapper from '../components/Wrapper'
 import Container from '../components/Container'
+import Content from '../components/Content'
 import Form from '../components/Form'
 
 export default class IndexPage extends React.Component {
@@ -53,7 +54,7 @@ export default class IndexPage extends React.Component {
           />
          <Header background={frontmatter.image.childImageSharp.sizes} tagline={frontmatter.tagline}/>
           <Welcome>{frontmatter.welcome}</Welcome>
-          <h2>Choose a themed trip</h2>
+          {/* <h2>Choose a themed trip</h2>
           <Trips>
           {posts
             .filter(post => post.node.frontmatter.templateKey === 'package')
@@ -73,7 +74,12 @@ export default class IndexPage extends React.Component {
                     </Trip>
                   </Link>
             ))}
-          </Trips>
+          </Trips> */}
+          <Container>
+            <Content>
+              <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}  />
+            </Content>
+          </Container>
           <h2>Make your own</h2>
           <Form activities={posts.filter(post => post.node.frontmatter.templateKey === 'activity')}/>
       </Wrapper>
@@ -103,7 +109,6 @@ export const pageQuery = graphql`
           }
         }
         tagline
-        welcome
       }
     }
     allMarkdownRemark {

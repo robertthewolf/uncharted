@@ -1,13 +1,22 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/Robert/uncharted/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/Robert/uncharted/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "6b2b6b42f06912534525bcc19b3cdd78",
         "owner": "internal-data-bridge"
       }
     },
@@ -1228,14 +1237,16 @@
         "title": "Uncharted",
         "siteUrl": "https://www.uncharted.dk"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-06-14T08:22:02.994Z",
+      "buildTime": "2018-06-19T19:49:15.447Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "248955cc6fe02ac0d40b9cf1be93b07d",
+        "contentDigest": "7165e01d67dbe6cd96d78976c57f7c3e",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1245,7 +1256,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "91a4a9f02ffc767a319a26527f70f0f3",
+        "contentDigest": "933519210118fd8c3a839d49e7a3b99a",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1256,7 +1267,7 @@
       "size": 384,
       "prettySize": "384 B",
       "modifiedTime": "2018-05-06T21:27:07.109Z",
-      "accessTime": "2018-06-14T08:22:06.859Z",
+      "accessTime": "2018-06-19T19:49:20.482Z",
       "changeTime": "2018-05-06T21:27:07.109Z",
       "birthTime": "2018-03-24T20:07:41.319Z",
       "root": "/",
@@ -1274,11 +1285,11 @@
       "blksize": 4194304,
       "ino": 8600035683,
       "blocks": 0,
-      "atimeMs": 1528964526858.9585,
+      "atimeMs": 1529437760482.2278,
       "mtimeMs": 1525642027109.001,
       "ctimeMs": 1525642027109.001,
       "birthtimeMs": 1521922061319.3135,
-      "atime": "2018-06-14T08:22:06.859Z",
+      "atime": "2018-06-19T19:49:20.482Z",
       "mtime": "2018-05-06T21:27:07.109Z",
       "ctime": "2018-05-06T21:27:07.109Z",
       "birthtime": "2018-03-24T20:07:41.319Z"
@@ -1288,7 +1299,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d6f9bcba7ea84a62e9569ab64c82285f",
+        "contentDigest": "9963468d3e0c0fd066adf8b9c918a16b",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1299,7 +1310,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-03-24T20:07:41.321Z",
-      "accessTime": "2018-06-14T08:22:06.862Z",
+      "accessTime": "2018-06-19T19:49:20.486Z",
       "changeTime": "2018-03-24T20:07:41.321Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
@@ -1317,11 +1328,11 @@
       "blksize": 4194304,
       "ino": 8600035687,
       "blocks": 0,
-      "atimeMs": 1528964526861.5193,
+      "atimeMs": 1529437760485.5127,
       "mtimeMs": 1521922061320.7075,
       "ctimeMs": 1521922061320.7075,
       "birthtimeMs": 1521922061319.9465,
-      "atime": "2018-06-14T08:22:06.862Z",
+      "atime": "2018-06-19T19:49:20.486Z",
       "mtime": "2018-03-24T20:07:41.321Z",
       "ctime": "2018-03-24T20:07:41.321Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
@@ -1331,7 +1342,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a96c4c79ae1459c82ed16b404076f655",
+        "contentDigest": "414ba9b20612864b56b00b40227cd5ab",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1339,11 +1350,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/pages/packages",
       "relativePath": "packages",
       "extension": "",
-      "size": 192,
-      "prettySize": "192 B",
-      "modifiedTime": "2018-05-31T14:40:30.500Z",
-      "accessTime": "2018-06-14T08:22:06.861Z",
-      "changeTime": "2018-05-31T14:40:30.500Z",
+      "size": 160,
+      "prettySize": "160 B",
+      "modifiedTime": "2018-06-14T08:25:27.421Z",
+      "accessTime": "2018-06-19T19:49:20.486Z",
+      "changeTime": "2018-06-14T08:25:27.421Z",
       "birthTime": "2018-03-25T00:03:05.423Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages",
@@ -1353,20 +1364,20 @@
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 6,
+      "nlink": 5,
       "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 8600232496,
       "blocks": 0,
-      "atimeMs": 1528964526861.4968,
-      "mtimeMs": 1527777630500.2744,
-      "ctimeMs": 1527777630500.2744,
+      "atimeMs": 1529437760485.5203,
+      "mtimeMs": 1528964727421.4714,
+      "ctimeMs": 1528964727421.4714,
       "birthtimeMs": 1521936185423.1204,
-      "atime": "2018-06-14T08:22:06.861Z",
-      "mtime": "2018-05-31T14:40:30.500Z",
-      "ctime": "2018-05-31T14:40:30.500Z",
+      "atime": "2018-06-19T19:49:20.486Z",
+      "mtime": "2018-06-14T08:25:27.421Z",
+      "ctime": "2018-06-14T08:25:27.421Z",
       "birthtime": "2018-03-25T00:03:05.423Z"
     },
     "/Users/Robert/uncharted/src/pages/404.js absPath of file": {
@@ -1550,7 +1561,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9e43d0eb8adfbbf29e98517711d21c32",
+        "contentDigest": "32dbc859a58afb7f56741375177ddd9d",
         "mediaType": "application/javascript",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1559,11 +1570,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/pages/index.js",
       "relativePath": "index.js",
       "extension": "js",
-      "size": 4809,
-      "prettySize": "4.81 kB",
-      "modifiedTime": "2018-06-14T08:10:32.710Z",
-      "accessTime": "2018-06-14T08:10:32.710Z",
-      "changeTime": "2018-06-14T08:10:32.710Z",
+      "size": 5021,
+      "prettySize": "5.02 kB",
+      "modifiedTime": "2018-06-19T19:48:52.588Z",
+      "accessTime": "2018-06-19T19:48:52.587Z",
+      "changeTime": "2018-06-19T19:48:52.588Z",
       "birthTime": "2018-03-24T20:07:41.321Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages",
@@ -1580,13 +1591,13 @@
       "blksize": 4194304,
       "ino": 8600035691,
       "blocks": 16,
-      "atimeMs": 1528963832709.8052,
-      "mtimeMs": 1528963832710.2007,
-      "ctimeMs": 1528963832710.2007,
+      "atimeMs": 1529437732586.6624,
+      "mtimeMs": 1529437732587.5854,
+      "ctimeMs": 1529437732587.5854,
       "birthtimeMs": 1521922061320.8904,
-      "atime": "2018-06-14T08:10:32.710Z",
-      "mtime": "2018-06-14T08:10:32.710Z",
-      "ctime": "2018-06-14T08:10:32.710Z",
+      "atime": "2018-06-19T19:48:52.587Z",
+      "mtime": "2018-06-19T19:48:52.588Z",
+      "ctime": "2018-06-19T19:48:52.588Z",
       "birthtime": "2018-03-24T20:07:41.321Z"
     },
     "/Users/Robert/uncharted/src/pages/contact.js absPath of file": {
@@ -1951,52 +1962,6 @@
       "ctime": "2018-05-31T14:40:30.500Z",
       "birthtime": "2018-05-31T14:40:30.499Z"
     },
-    "/Users/Robert/uncharted/src/pages/packages/saxonia-gastronomical-getaway.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/pages/packages/saxonia-gastronomical-getaway.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/pages/packages/saxonia-gastronomical-getaway.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "ce0f37b8cdf492916d9f56bf5e1bc0ed",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/Robert/uncharted/src/pages/packages/saxonia-gastronomical-getaway.md",
-      "relativePath": "packages/saxonia-gastronomical-getaway.md",
-      "extension": "md",
-      "size": 4382,
-      "prettySize": "4.38 kB",
-      "modifiedTime": "2018-05-31T14:40:30.500Z",
-      "accessTime": "2018-06-11T10:36:49.221Z",
-      "changeTime": "2018-05-31T14:40:30.500Z",
-      "birthTime": "2018-05-31T14:40:30.500Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/pages/packages",
-      "base": "saxonia-gastronomical-getaway.md",
-      "ext": ".md",
-      "name": "saxonia-gastronomical-getaway",
-      "relativeDirectory": "packages",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8604370537,
-      "blocks": 16,
-      "atimeMs": 1528713409220.8032,
-      "mtimeMs": 1527777630499.862,
-      "ctimeMs": 1527777630499.862,
-      "birthtimeMs": 1527777630499.6865,
-      "atime": "2018-06-11T10:36:49.221Z",
-      "mtime": "2018-05-31T14:40:30.500Z",
-      "ctime": "2018-05-31T14:40:30.500Z",
-      "birthtime": "2018-05-31T14:40:30.500Z"
-    },
     "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/pages/packages/the-wild-carpathians.md absPath of file",
       "children": [
@@ -2228,41 +2193,12 @@
         "slug": "/packages/the-wild-carpathians/"
       }
     },
-    "/Users/Robert/uncharted/src/pages/packages/saxonia-gastronomical-getaway.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/pages/packages/saxonia-gastronomical-getaway.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/pages/packages/saxonia-gastronomical-getaway.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: package\ntitle: 'Gastronomical Getaway '\ntagline: A tasty adventure\nimage: /img/gastronomy.jpg\nprice: 4.250 DKK\nlenght: 3 Days\n---\nTired of the daily routine? Eager for an adventure? Time pressure is an issue? No need to worry, we have the answer to all your questions. We have prepared a unique 3-day weekend getaway for you in the mysterious Saxon Transylvania. All you need to do is to leave a reminder Friday afternoon on your work or university desk saying “Gone on an adventure, see you in 3 days”, the rest we take care of.\n\n## What is included in the package?\n\n* Accommodation traditional guesthouse\n* 3 x breakfast\n* 2 x lunch\n* Activities highlighted in the itinerary\n* All local transports within the program\n* Airport transfer\n* Entry fees to the objectives within the tour\n* Uncharted Team group leader that will assist you throughout the tour (English speaking)\n* This adventure is a package deal; therefore, it provides you with coverage from Travel Guarantee Fund (Rejsegarantifonden) \n* Cancellation \n\n## What is not included in the package?\n\n* Transportation to the starting point of the tour, Cluj-Napoca t/r\n* Travel Insurance\n* Lunch and dinner, apart from the meals specified in the daily schedules\n\n## Why we love this adventure?\n\n* Your adventure is going to be unique. Hence you won’t be just “another brick in the wall” when it comes to travelling\n* Tour is suitable for families, couples, friends or individual, all with the same interest to discover a new culture in an interactive way\n* You get to experience the culture and traditions of Transylvania, as well as the landscapes surrounding it\n* The gastronomical experience consists not only of tasting the traditional products, but also learning how they are made and see where they come from\n* It is an active way to discover a new culture, through a weekend getaway\n* High emphasis on sustainable travelling\n\n## Is this adventure suitable for you?\n\n* If you love food, drinks and discovering new cultures and traditions, then this adventure is the ideal getaway for you\n* It does not matter if you are a \"meat lover\" or a vegetarian, the products that you are going to taste are made to everyone's liking\n\n## Itinerary\n\n1. **Culture, Traditions and Gastronomy**\n   ![null](/img/foodsibiu_poza_mica_7.jpg)\n   \\\n   Before the first day of your upcoming adventure, you will be welcomed at Cluj airport by your tour leader. Together you will go to the accommodation in Cluj-Napoca to get a proper rest before the first day.\\\n   \\\n   In the morning we will start the first gastronomical tour that takes us through the UNESCO protected citadel (Burg) and to the Lower old centre. You will have the chance to taste some exclusive local products and try our recipes. We will talk about the characteristics of our gastronomy in the oldest school of Sighișoara. You will have the chance to try some typical cheese, the local white wines as well as various sweet and sour soups.\\\n   \\\n   Experience an old Saxon recipe, reinterpreted by an open-minded chef from a local restaurant. Sample the local fruit alcoholic drinks, a must during a visit in Transylvania and visit some of the unseen corners of historical Sighișoara.\n2. **Culture, Traditions and Gastronomy**\n      ![null](/img/untitled-65.jpg)\n      \\\n      Today’s gastronomical tour takes us typical cultural landscapes of the Transylvanian Highlands, an eco-touristic destination where we will visit some lovely villages. You’ll get to experience the specific rural gastronomy, meet some locals and try their best products or dishes. You will find out how nature and the territory influences the local products, we will talk about the characteristics of the cultural and gastronomical mosaic during a visit of the ruins of a Cistercian abbey in Cârța (Kerz).\\\n      \\\n   Get an insight in our local cuisine, we talk about 200 years old recipes, during a horse cart tour through the village or a walk on the hills above the village. At the end of the day we will meet the people of the Old Mill Project in Hosman (Holzmengen) and try their sweet pastry specialities from Luíza’s artisanal bakery.\n3. **Free day, return to the airport**\\\n   On the final day we will be travelling towards Cluj Napoca in the afternoon, leaving the morning free for a bit of relaxation before the road and the flight back home.\n",
-        "contentDigest": "97a6cd89bdef0b275c5eff14f9155221",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Gastronomical Getaway ",
-        "templateKey": "package",
-        "tagline": "A tasty adventure",
-        "image": "../../../static/img/gastronomy.jpg",
-        "price": "4.250 DKK",
-        "lenght": "3 Days",
-        "_PARENT": "/Users/Robert/uncharted/src/pages/packages/saxonia-gastronomical-getaway.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/pages/packages/saxonia-gastronomical-getaway.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/packages/saxonia-gastronomical-getaway.md",
-      "fields": {
-        "slug": "/packages/saxonia-gastronomical-getaway/"
-      }
-    },
     "/Users/Robert/uncharted/src/data absPath of file": {
       "id": "/Users/Robert/uncharted/src/data absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e7282811a8a0129f7af598d164f3b148",
+        "contentDigest": "3f44dfd99d8fc23be4923f88c957747e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2272,9 +2208,9 @@
       "extension": "",
       "size": 320,
       "prettySize": "320 B",
-      "modifiedTime": "2018-05-31T14:40:30.497Z",
-      "accessTime": "2018-06-14T08:22:06.886Z",
-      "changeTime": "2018-05-31T14:40:30.497Z",
+      "modifiedTime": "2018-06-14T08:25:27.294Z",
+      "accessTime": "2018-06-19T19:49:20.534Z",
+      "changeTime": "2018-06-14T08:25:27.294Z",
       "birthTime": "2018-04-12T20:04:15.413Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src",
@@ -2291,13 +2227,13 @@
       "blksize": 4194304,
       "ino": 8601653181,
       "blocks": 0,
-      "atimeMs": 1528964526886.2256,
-      "mtimeMs": 1527777630497.2112,
-      "ctimeMs": 1527777630497.2112,
+      "atimeMs": 1529437760533.7617,
+      "mtimeMs": 1528964727294.3943,
+      "ctimeMs": 1528964727294.3943,
       "birthtimeMs": 1523563455412.8713,
-      "atime": "2018-06-14T08:22:06.886Z",
-      "mtime": "2018-05-31T14:40:30.497Z",
-      "ctime": "2018-05-31T14:40:30.497Z",
+      "atime": "2018-06-19T19:49:20.534Z",
+      "mtime": "2018-06-14T08:25:27.294Z",
+      "ctime": "2018-06-14T08:25:27.294Z",
       "birthtime": "2018-04-12T20:04:15.413Z"
     },
     "/Users/Robert/uncharted/src/data/activities absPath of file": {
@@ -2305,7 +2241,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b9282d2544bca9b710f733a865b31f24",
+        "contentDigest": "086ed75aff5131ebe585b286ed161850",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2316,7 +2252,7 @@
       "size": 448,
       "prettySize": "448 B",
       "modifiedTime": "2018-05-31T14:40:30.490Z",
-      "accessTime": "2018-06-14T08:22:06.888Z",
+      "accessTime": "2018-06-19T19:49:20.535Z",
       "changeTime": "2018-05-31T14:40:30.490Z",
       "birthTime": "2018-04-14T06:51:58.905Z",
       "root": "/",
@@ -2334,11 +2270,11 @@
       "blksize": 4194304,
       "ino": 8601914063,
       "blocks": 0,
-      "atimeMs": 1528964526888.4333,
+      "atimeMs": 1529437760535.0164,
       "mtimeMs": 1527777630490.1987,
       "ctimeMs": 1527777630490.1987,
       "birthtimeMs": 1523688718905.1316,
-      "atime": "2018-06-14T08:22:06.888Z",
+      "atime": "2018-06-19T19:49:20.535Z",
       "mtime": "2018-05-31T14:40:30.490Z",
       "ctime": "2018-05-31T14:40:30.490Z",
       "birthtime": "2018-04-14T06:51:58.905Z"
@@ -2396,7 +2332,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "29c5f0d59621cb4c99abc0203f27690e",
+        "contentDigest": "38e4f6143ed0c00f119abf61644a49e5",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2405,12 +2341,12 @@
       "absolutePath": "/Users/Robert/uncharted/src/data/index.md",
       "relativePath": "index.md",
       "extension": "md",
-      "size": 436,
-      "prettySize": "436 B",
-      "modifiedTime": "2018-05-31T14:40:30.496Z",
-      "accessTime": "2018-06-11T10:36:49.215Z",
-      "changeTime": "2018-05-31T14:40:30.496Z",
-      "birthTime": "2018-05-31T14:40:30.496Z",
+      "size": 614,
+      "prettySize": "614 B",
+      "modifiedTime": "2018-06-19T19:46:41.164Z",
+      "accessTime": "2018-06-19T19:46:41.156Z",
+      "changeTime": "2018-06-19T19:46:41.164Z",
+      "birthTime": "2018-06-14T08:25:27.294Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/data",
       "base": "index.md",
@@ -2424,16 +2360,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8604370533,
+      "ino": 8604935827,
       "blocks": 8,
-      "atimeMs": 1528713409215.2712,
-      "mtimeMs": 1527777630496.2002,
-      "ctimeMs": 1527777630496.2002,
-      "birthtimeMs": 1527777630496.107,
-      "atime": "2018-06-11T10:36:49.215Z",
-      "mtime": "2018-05-31T14:40:30.496Z",
-      "ctime": "2018-05-31T14:40:30.496Z",
-      "birthtime": "2018-05-31T14:40:30.496Z"
+      "atimeMs": 1529437601155.7695,
+      "mtimeMs": 1529437601164.2742,
+      "ctimeMs": 1529437601164.2742,
+      "birthtimeMs": 1528964727294.3833,
+      "atime": "2018-06-19T19:46:41.156Z",
+      "mtime": "2018-06-19T19:46:41.164Z",
+      "ctime": "2018-06-19T19:46:41.164Z",
+      "birthtime": "2018-06-14T08:25:27.294Z"
     },
     "/Users/Robert/uncharted/src/data/concept.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/concept.md absPath of file",
@@ -3249,8 +3185,8 @@
       "children": [],
       "parent": "/Users/Robert/uncharted/src/data/index.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: frontpage\ntagline: 'A new way of travelling, YOUR way of travelling!'\nwelcome: >-\n  Welcome to your new travelling chapter. In this chapter you are the one to\n  decide if you want to be taken into a special themed adventure, or tailor your\n  own according to YOUR budget and wishes. What’s guaranteed is that with each\n  uncharted path, you will get a chance to rediscover yourself. \nimage: /img/untitled-58.jpg\n---\n\n",
-        "contentDigest": "2acac251ae9cdf8d624ce7aa89dfd8b8",
+        "content": "---\ntemplateKey: frontpage\ntagline: Adventures that unlock the uncharted paths of the mountains\nimage: /img/untitled-58.jpg\n---\nThe uncharted adventures offer you the rear treat of escaping the noise and\nmonotony of the daily life. When you are taking the mountain paths unknown to\nyou or to rest of the world but mastered by the ones guiding you, a feeling of\nhere and now will emerge inside of you. You will start trusting your guts,\ninstincts and sharpen your senses, developing a narrow focus and operating on\npure survival mode. This adventure, this new chapter in your travelling book\nstarts in Transylvania.",
+        "contentDigest": "6c3d6cde763f40e64dfa3361f774e1d0",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -3260,8 +3196,7 @@
       "frontmatter": {
         "title": "",
         "templateKey": "frontpage",
-        "tagline": "A new way of travelling, YOUR way of travelling!",
-        "welcome": "Welcome to your new travelling chapter. In this chapter you are the one to decide if you want to be taken into a special themed adventure, or tailor your own according to YOUR budget and wishes. What’s guaranteed is that with each uncharted path, you will get a chance to rediscover yourself. ",
+        "tagline": "Adventures that unlock the uncharted paths of the mountains",
         "image": "../../static/img/untitled-58.jpg",
         "_PARENT": "/Users/Robert/uncharted/src/data/index.md absPath of file",
         "parent": "/Users/Robert/uncharted/src/data/index.md absPath of file"
@@ -3725,7 +3660,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a080bc5c5f531f17a6a8654df72e3b03",
+        "contentDigest": "a76ba866099e82e40be46f0711e29a07",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3736,7 +3671,7 @@
       "size": 1408,
       "prettySize": "1.41 kB",
       "modifiedTime": "2018-05-31T14:40:31.511Z",
-      "accessTime": "2018-06-14T08:22:06.946Z",
+      "accessTime": "2018-06-19T19:49:20.602Z",
       "changeTime": "2018-05-31T14:40:31.511Z",
       "birthTime": "2018-03-24T20:07:41.323Z",
       "root": "/",
@@ -3754,11 +3689,11 @@
       "blksize": 4194304,
       "ino": 8600035704,
       "blocks": 0,
-      "atimeMs": 1528964526946.3608,
+      "atimeMs": 1529437760601.9797,
       "mtimeMs": 1527777631511.2751,
       "ctimeMs": 1527777631511.2751,
       "birthtimeMs": 1521922061322.7996,
-      "atime": "2018-06-14T08:22:06.946Z",
+      "atime": "2018-06-19T19:49:20.602Z",
       "mtime": "2018-05-31T14:40:31.511Z",
       "ctime": "2018-05-31T14:40:31.511Z",
       "birthtime": "2018-03-24T20:07:41.323Z"
@@ -6133,7 +6068,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "52a1ae3d781765c14dc64ca74edcf680",
+        "contentDigest": "605c537719b65776ac11474eafdf44a7",
         "owner": "internal-data-bridge"
       }
     },
@@ -6155,7 +6090,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "158d79297edc35c68b56d033c046b176",
+        "contentDigest": "5c452334c46367db66aea66675c15c1f",
         "owner": "internal-data-bridge"
       }
     },
@@ -6177,7 +6112,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d93740c3e391f72440fc8a8eaee468a1",
+        "contentDigest": "5bc1dfa5653e625fa8879e702798d952",
         "owner": "internal-data-bridge"
       }
     },
@@ -6199,7 +6134,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "eefaaf73744f9b2ab998127451407757",
+        "contentDigest": "d464c5232cfc07896b30aa4db64b0039",
         "owner": "internal-data-bridge"
       }
     },
@@ -6221,7 +6156,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f230ae783ac98d9dd49872dc432cc7e1",
+        "contentDigest": "9489be3b33048204de30afcecd22ac92",
         "owner": "internal-data-bridge"
       }
     },
@@ -6243,29 +6178,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f72eac144434efedd877ef9bb6af2488",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /packages/saxonia-gastronomical-getaway/": {
-      "layout": "index",
-      "jsonName": "packages-saxonia-gastronomical-getaway.json",
-      "internalComponentName": "ComponentPackagesSaxoniaGastronomicalGetaway",
-      "path": "/packages/saxonia-gastronomical-getaway/",
-      "component": "/Users/Robert/uncharted/src/templates/package.js",
-      "componentChunkName": "component---src-templates-package-js",
-      "context": {
-        "id": "/Users/Robert/uncharted/src/pages/packages/saxonia-gastronomical-getaway.md absPath of file >>> MarkdownRemark"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/Robert/uncharted/src/templates/package.js",
-      "id": "SitePage /packages/saxonia-gastronomical-getaway/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f87a9ef29b574eeea80c1f3a66b025e5",
+        "contentDigest": "40956ebd6f32140f0c0e868dedc3b610",
         "owner": "internal-data-bridge"
       }
     },
@@ -6287,7 +6200,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "067c6caf859b9e03bb8bb2f1d09ea6ec",
+        "contentDigest": "527ea852c8ef3c770d65f55900ab7bfe",
         "owner": "internal-data-bridge"
       }
     },
@@ -6309,7 +6222,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "90ff30a0275a0dc23a25810fff26c990",
+        "contentDigest": "92d1d8d7b849c2cc3aa19d39b04c1542",
         "owner": "internal-data-bridge"
       }
     },
@@ -6331,7 +6244,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "adb6890d3a0567d6115aff852962c61d",
+        "contentDigest": "13efbe33b145fc8d186329051af3bb17",
         "owner": "internal-data-bridge"
       }
     },
@@ -6353,7 +6266,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b0e4d18f3ec355742478eb85c262b6a8",
+        "contentDigest": "2c50fe9bd85d1206124adbfd82bca462",
         "owner": "internal-data-bridge"
       }
     },
@@ -6375,7 +6288,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "47108b873b6eb3c864f690d80f767374",
+        "contentDigest": "60d5e4faaac4f42847c7b1590d70fc0b",
         "owner": "internal-data-bridge"
       }
     },
@@ -6397,7 +6310,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d05ade2366484635d2da40ebdbd5c877",
+        "contentDigest": "6269ce61db13c0fc6415607205d65f75",
         "owner": "internal-data-bridge"
       }
     },
@@ -6417,7 +6330,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f09bea3ce6361c94f8c76c6ebf6f417e",
+        "contentDigest": "96dfdf31eafc096e4a35e160bcb8d973",
         "owner": "internal-data-bridge"
       }
     },
@@ -6437,7 +6350,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a8e5f694f8bbf3a9a97b25ae1d4ad462",
+        "contentDigest": "e5805592e2e3264753a552f91b9ece6f",
         "owner": "internal-data-bridge"
       }
     },
@@ -6457,7 +6370,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4c1b634b8ec55c9514dc6e9182d2b341",
+        "contentDigest": "603418b9b2ed4023e5ab7ac0da9d28e7",
         "owner": "internal-data-bridge"
       }
     },
@@ -6477,7 +6390,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6b288d56ca5894c45ee3768145af102f",
+        "contentDigest": "73662b3e0cb4228be7d06c9db85a91bd",
         "owner": "internal-data-bridge"
       }
     },
@@ -6497,7 +6410,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "175fe6f8c8ff0e6813699acd619c219f",
+        "contentDigest": "cee138d4b8834f92ee4711cb1bb68c1c",
         "owner": "internal-data-bridge"
       }
     },
@@ -6517,7 +6430,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4c94d6fcf499f30eafa4b633fd373f96",
+        "contentDigest": "1fcafede9f2d89efb38c2719843bb6bb",
         "owner": "internal-data-bridge"
       }
     },
@@ -6537,7 +6450,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bcb08595c4a615ea9aeb07b3ac347225",
+        "contentDigest": "a8c072078246756d3ae54fbeaa7945d9",
         "owner": "internal-data-bridge"
       }
     },
@@ -6557,7 +6470,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2fc84f69f94ed4d1ef75a26226f1c339",
+        "contentDigest": "5c949878c40ea891232b1ec19f1129a1",
         "owner": "internal-data-bridge"
       }
     },
@@ -6577,7 +6490,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "412be4978813c66b5a3d1785e41879d4",
+        "contentDigest": "c4686558dbb469314fbd51b3fbd6f62e",
         "owner": "internal-data-bridge"
       }
     }
@@ -6649,9 +6562,6 @@
         "/packages/the-wild-carpathians/",
         "/",
         "/stories/"
-      ],
-      "/Users/Robert/uncharted/src/pages/packages/saxonia-gastronomical-getaway.md absPath of file >>> MarkdownRemark": [
-        "/packages/saxonia-gastronomical-getaway/"
       ],
       "/Users/Robert/uncharted/static/img/gastronomy.jpg absPath of file": [
         "/packages/saxonia-gastronomical-getaway/",

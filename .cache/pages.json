@@ -42,13 +42,6 @@
         "path": "/packages/the-wild-carpathians/"
     },
     {
-        "componentChunkName": "component---src-templates-package-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-saxonia-gastronomical-getaway.json",
-        "path": "/packages/saxonia-gastronomical-getaway/"
-    },
-    {
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -89,6 +82,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-chemex.json",
         "path": "/tags/chemex/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
     },
     {
         "componentChunkName": "component---src-pages-404-js",
