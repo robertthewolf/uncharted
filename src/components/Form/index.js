@@ -312,10 +312,7 @@ height: 5rem
 
 const Submit = styled.button`
 margin-top: auto
-@media screen and (max-width: 600px) {
-    ;
-    padding: 1rem 0;
-}`
+margin-left: 1rem`
 
 const Terms = styled.div`
 padding-top: 1rem
