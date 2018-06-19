@@ -80,7 +80,6 @@ export default class IndexPage extends React.Component {
               <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}  />
             </Content>
           </Container>
-          <h2>Make your own</h2>
           <Form activities={posts.filter(post => post.node.frontmatter.templateKey === 'activity')}/>
       </Wrapper>
     )
