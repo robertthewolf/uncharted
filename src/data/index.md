@@ -3,7 +3,9 @@ templateKey: frontpage
 tagline: Unlock the uncharted paths of the mountains
 image: /img/untitled-58.jpg
 ---
-## The adventure that escapes you from the noise and monotony of the daily life
+## Before scrolling down call your boss, say that you are not coming on Monday and then let's go have some FREEDOM
+
+## Are you ready? Now let's go where the world doesn't reach you
 
 ## Uncharted guides you on your adventure path
 
