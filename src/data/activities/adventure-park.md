@@ -1,6 +1,6 @@
 ---
 templateKey: activity
-title: Adventure Park
+title: Extreme forest walk
 image: /img/patinis-arkapark-foto-02.jpg
 ---
 
