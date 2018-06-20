@@ -1,9 +1,9 @@
 ---
 templateKey: frontpage
-tagline: Unlock the uncharted paths of the mountains
+tagline: Unique adventures for unique dreams
 image: /img/untitled-58.jpg
 ---
-## The adventure that escapes you from the noise and monotony of the daily life
+## Leave the world behind and let's go on an adventure together
 
 ## Let us guide you on your adventure path
 
