@@ -3,7 +3,7 @@ templateKey: frontpage
 tagline: Unique adventures for unique dreams
 image: /img/untitled-58.jpg
 ---
-## Leave the world behind and let's go on an adventure together
+**Leave the world behind and let's go on an adventure together** 
 
 ## Let us guide you on your adventure path
 
