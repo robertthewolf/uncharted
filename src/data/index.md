@@ -5,4 +5,6 @@ image: /img/untitled-58.jpg
 ---
 ## The adventure that escapes you from the noise and monotony of the daily life
 
+## Uncharted guides you on your adventure path
+
 ![null](/img/my-post-3-.png)
