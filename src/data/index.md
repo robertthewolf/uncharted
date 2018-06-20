@@ -7,6 +7,6 @@ image: /img/untitled-58.jpg
 
 
 
-## Let us guide you on your adventure path
+
 
 ![null](/img/my-post-3-.png)
