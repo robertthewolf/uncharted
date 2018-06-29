@@ -25,10 +25,18 @@ class Form extends React.Component {
         endDate: null,
         focusedInput: null,
 
+        start: '',
+        end: '',
+
         people: 1,
         price: 4500,
 
     }
+
+    updateDates = data => {
+        if (data.startDate) this.setState({ start: data.startDate._d.toString() })
+        if (data.endDate) this.setState({ end: data.endDate._d.toString() })
+      }
 
     plusPeople = () => {
         if (this.state.people === 20) return;
@@ -55,8 +63,6 @@ class Form extends React.Component {
           headers: { "Content-Type": "application/x-www-form-urlencoded" },
           body: encode({
               "form-name": "custom",
-              "start-date": this.state.startDate._d.toString(),
-              "end-date": this.state.endDate._d.toString(),
               ...this.state })
         })
           .then(() => navigateTo('/confirmation/'))
@@ -97,7 +103,10 @@ class Form extends React.Component {
                 startDateId="start_date" // PropTypes.string.isRequired,
                 endDate={this.state.endDate} // momentPropTypes.momentObj or null,
                 endDateId="end_date" // PropTypes.string.isRequired,
-                onDatesChange={({ startDate, endDate }) => this.setState({ startDate, endDate })} // PropTypes.func.isRequired,
+                onDatesChange={({ startDate, endDate }) => {
+                    this.setState({ startDate, endDate })
+                    this.updateDates({ startDate, endDate })
+                }} // PropTypes.func.isRequired,
                 focusedInput={this.state.focusedInput} // PropTypes.oneOf([START_DATE, END_DATE]) or null,
                 onFocusChange={focusedInput => this.setState({ focusedInput })} // PropTypes.func.isRequired,
                 noBorder={true}
