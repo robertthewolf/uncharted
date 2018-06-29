@@ -1,6 +1,6 @@
 ---
 templateKey: activity
-title: Treasure Hunt
+title: City Quest
 image: /img/untitled-59.jpg
 ---
 

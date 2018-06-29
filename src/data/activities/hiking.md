@@ -1,6 +1,6 @@
 ---
 templateKey: activity
-title: Hiking
+title: Hiking into unknown
 image: /img/untitled-60.jpg
 ---
 
