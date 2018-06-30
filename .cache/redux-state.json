@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "80872e07224dadfc0eeb14363a277b7d",
+        "contentDigest": "9e520ac9803740627ce36f9530e2fdea",
         "owner": "internal-data-bridge"
       }
     },
@@ -1241,12 +1241,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-06-24T13:35:20.508Z",
+      "buildTime": "2018-06-30T09:21:29.196Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "fa3938b36844f7fd80ee575ffda7a483",
+        "contentDigest": "1975a317871ad81b155e0b9c96b7661e",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1256,7 +1256,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0b0469a5e922fdebab83ead51625abdc",
+        "contentDigest": "8ab060a8591fd599d0e3f8f66c6ee496",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1267,7 +1267,7 @@
       "size": 384,
       "prettySize": "384 B",
       "modifiedTime": "2018-05-06T21:27:07.109Z",
-      "accessTime": "2018-06-24T13:35:25.585Z",
+      "accessTime": "2018-06-30T09:21:34.837Z",
       "changeTime": "2018-05-06T21:27:07.109Z",
       "birthTime": "2018-03-24T20:07:41.319Z",
       "root": "/",
@@ -1285,11 +1285,11 @@
       "blksize": 4194304,
       "ino": 8600035683,
       "blocks": 0,
-      "atimeMs": 1529847325585.319,
+      "atimeMs": 1530350494837.1687,
       "mtimeMs": 1525642027109.001,
       "ctimeMs": 1525642027109.001,
       "birthtimeMs": 1521922061319.3135,
-      "atime": "2018-06-24T13:35:25.585Z",
+      "atime": "2018-06-30T09:21:34.837Z",
       "mtime": "2018-05-06T21:27:07.109Z",
       "ctime": "2018-05-06T21:27:07.109Z",
       "birthtime": "2018-03-24T20:07:41.319Z"
@@ -1299,7 +1299,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5f6f3c7a47fb6b4f0b5005b3bdb3f175",
+        "contentDigest": "972176e6754b10dff373d05361a2c87f",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1310,7 +1310,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-03-24T20:07:41.321Z",
-      "accessTime": "2018-06-24T13:35:25.588Z",
+      "accessTime": "2018-06-30T09:21:34.841Z",
       "changeTime": "2018-03-24T20:07:41.321Z",
       "birthTime": "2018-03-24T20:07:41.320Z",
       "root": "/",
@@ -1328,11 +1328,11 @@
       "blksize": 4194304,
       "ino": 8600035687,
       "blocks": 0,
-      "atimeMs": 1529847325588.0403,
+      "atimeMs": 1530350494841.0986,
       "mtimeMs": 1521922061320.7075,
       "ctimeMs": 1521922061320.7075,
       "birthtimeMs": 1521922061319.9465,
-      "atime": "2018-06-24T13:35:25.588Z",
+      "atime": "2018-06-30T09:21:34.841Z",
       "mtime": "2018-03-24T20:07:41.321Z",
       "ctime": "2018-03-24T20:07:41.321Z",
       "birthtime": "2018-03-24T20:07:41.320Z"
@@ -1342,7 +1342,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "135b03c5c14e6d281d269f4687007a75",
+        "contentDigest": "c44aba2a85515726d1eabc7a1707e01d",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1353,7 +1353,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-06-14T08:25:27.421Z",
-      "accessTime": "2018-06-24T13:35:25.588Z",
+      "accessTime": "2018-06-30T09:21:34.841Z",
       "changeTime": "2018-06-14T08:25:27.421Z",
       "birthTime": "2018-03-25T00:03:05.423Z",
       "root": "/",
@@ -1371,11 +1371,11 @@
       "blksize": 4194304,
       "ino": 8600232496,
       "blocks": 0,
-      "atimeMs": 1529847325588.0164,
+      "atimeMs": 1530350494841.0989,
       "mtimeMs": 1528964727421.4714,
       "ctimeMs": 1528964727421.4714,
       "birthtimeMs": 1521936185423.1204,
-      "atime": "2018-06-24T13:35:25.588Z",
+      "atime": "2018-06-30T09:21:34.841Z",
       "mtime": "2018-06-14T08:25:27.421Z",
       "ctime": "2018-06-14T08:25:27.421Z",
       "birthtime": "2018-03-25T00:03:05.423Z"
@@ -2198,7 +2198,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f04b496027f98bd7f65e1fe385291beb",
+        "contentDigest": "3efb366bc1191e7087ac64e5a88dcafc",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2208,9 +2208,9 @@
       "extension": "",
       "size": 320,
       "prettySize": "320 B",
-      "modifiedTime": "2018-06-19T19:56:14.863Z",
-      "accessTime": "2018-06-24T13:35:25.608Z",
-      "changeTime": "2018-06-19T19:56:14.863Z",
+      "modifiedTime": "2018-06-29T18:09:49.834Z",
+      "accessTime": "2018-06-30T09:21:34.907Z",
+      "changeTime": "2018-06-29T18:09:49.834Z",
       "birthTime": "2018-04-12T20:04:15.413Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src",
@@ -2227,13 +2227,13 @@
       "blksize": 4194304,
       "ino": 8601653181,
       "blocks": 0,
-      "atimeMs": 1529847325608.2844,
-      "mtimeMs": 1529438174862.7327,
-      "ctimeMs": 1529438174862.7327,
+      "atimeMs": 1530350494907.1956,
+      "mtimeMs": 1530295789834.4224,
+      "ctimeMs": 1530295789834.4224,
       "birthtimeMs": 1523563455412.8713,
-      "atime": "2018-06-24T13:35:25.608Z",
-      "mtime": "2018-06-19T19:56:14.863Z",
-      "ctime": "2018-06-19T19:56:14.863Z",
+      "atime": "2018-06-30T09:21:34.907Z",
+      "mtime": "2018-06-29T18:09:49.834Z",
+      "ctime": "2018-06-29T18:09:49.834Z",
       "birthtime": "2018-04-12T20:04:15.413Z"
     },
     "/Users/Robert/uncharted/src/data/activities absPath of file": {
@@ -2241,7 +2241,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3b9df886dbcffe532fcb7385bf29cea9",
+        "contentDigest": "c02d0d6e109e938b36175fe4ec6014a3",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2249,11 +2249,11 @@
       "absolutePath": "/Users/Robert/uncharted/src/data/activities",
       "relativePath": "activities",
       "extension": "",
-      "size": 448,
-      "prettySize": "448 B",
-      "modifiedTime": "2018-05-31T14:40:30.490Z",
-      "accessTime": "2018-06-24T13:35:25.610Z",
-      "changeTime": "2018-05-31T14:40:30.490Z",
+      "size": 288,
+      "prettySize": "288 B",
+      "modifiedTime": "2018-06-29T18:09:50.205Z",
+      "accessTime": "2018-06-30T09:21:34.908Z",
+      "changeTime": "2018-06-29T18:09:50.205Z",
       "birthTime": "2018-04-14T06:51:58.905Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/data",
@@ -2263,20 +2263,20 @@
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 14,
+      "nlink": 9,
       "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 8601914063,
       "blocks": 0,
-      "atimeMs": 1529847325609.8376,
-      "mtimeMs": 1527777630490.1987,
-      "ctimeMs": 1527777630490.1987,
+      "atimeMs": 1530350494908.3215,
+      "mtimeMs": 1530295790204.5754,
+      "ctimeMs": 1530295790204.5754,
       "birthtimeMs": 1523688718905.1316,
-      "atime": "2018-06-24T13:35:25.610Z",
-      "mtime": "2018-05-31T14:40:30.490Z",
-      "ctime": "2018-05-31T14:40:30.490Z",
+      "atime": "2018-06-30T09:21:34.908Z",
+      "mtime": "2018-06-29T18:09:50.205Z",
+      "ctime": "2018-06-29T18:09:50.205Z",
       "birthtime": "2018-04-14T06:51:58.905Z"
     },
     "/Users/Robert/uncharted/src/data/confirmation.md absPath of file": {
@@ -2286,7 +2286,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "455fc75f2fbc3ed0914a8eab26527c60",
+        "contentDigest": "d1e91041efbfc566b4d776670e237448",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2295,12 +2295,12 @@
       "absolutePath": "/Users/Robert/uncharted/src/data/confirmation.md",
       "relativePath": "confirmation.md",
       "extension": "md",
-      "size": 269,
-      "prettySize": "269 B",
-      "modifiedTime": "2018-05-31T14:40:30.493Z",
-      "accessTime": "2018-06-11T10:36:49.210Z",
-      "changeTime": "2018-05-31T14:40:30.493Z",
-      "birthTime": "2018-05-31T14:40:30.493Z",
+      "size": 352,
+      "prettySize": "352 B",
+      "modifiedTime": "2018-06-29T18:09:49.834Z",
+      "accessTime": "2018-06-29T18:09:51.523Z",
+      "changeTime": "2018-06-29T18:09:49.834Z",
+      "birthTime": "2018-06-29T18:09:49.834Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/data",
       "base": "confirmation.md",
@@ -2314,16 +2314,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8604370530,
+      "ino": 8606239754,
       "blocks": 8,
-      "atimeMs": 1528713409209.5115,
-      "mtimeMs": 1527777630492.6338,
-      "ctimeMs": 1527777630492.6338,
-      "birthtimeMs": 1527777630492.5042,
-      "atime": "2018-06-11T10:36:49.210Z",
-      "mtime": "2018-05-31T14:40:30.493Z",
-      "ctime": "2018-05-31T14:40:30.493Z",
-      "birthtime": "2018-05-31T14:40:30.493Z"
+      "atimeMs": 1530295791522.6418,
+      "mtimeMs": 1530295789834.1262,
+      "ctimeMs": 1530295789834.1262,
+      "birthtimeMs": 1530295789833.9863,
+      "atime": "2018-06-29T18:09:51.523Z",
+      "mtime": "2018-06-29T18:09:49.834Z",
+      "ctime": "2018-06-29T18:09:49.834Z",
+      "birthtime": "2018-06-29T18:09:49.834Z"
     },
     "/Users/Robert/uncharted/src/data/index.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/index.md absPath of file",
@@ -2332,7 +2332,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a23622fcc2e85de16e5f193f2790d13a",
+        "contentDigest": "6f8a7beff0a95b63828e40cbd09bdf2a",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2341,12 +2341,12 @@
       "absolutePath": "/Users/Robert/uncharted/src/data/index.md",
       "relativePath": "index.md",
       "extension": "md",
-      "size": 189,
-      "prettySize": "189 B",
-      "modifiedTime": "2018-06-19T19:56:26.415Z",
-      "accessTime": "2018-06-19T19:56:37.606Z",
-      "changeTime": "2018-06-19T19:56:26.415Z",
-      "birthTime": "2018-06-19T19:56:14.863Z",
+      "size": 257,
+      "prettySize": "257 B",
+      "modifiedTime": "2018-06-29T18:09:49.834Z",
+      "accessTime": "2018-06-29T18:09:51.525Z",
+      "changeTime": "2018-06-29T18:09:49.834Z",
+      "birthTime": "2018-06-29T18:09:49.834Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/data",
       "base": "index.md",
@@ -2360,16 +2360,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8605402075,
+      "ino": 8606239755,
       "blocks": 8,
-      "atimeMs": 1529438197605.9534,
-      "mtimeMs": 1529438186414.599,
-      "ctimeMs": 1529438186414.599,
-      "birthtimeMs": 1529438174862.719,
-      "atime": "2018-06-19T19:56:37.606Z",
-      "mtime": "2018-06-19T19:56:26.415Z",
-      "ctime": "2018-06-19T19:56:26.415Z",
-      "birthtime": "2018-06-19T19:56:14.863Z"
+      "atimeMs": 1530295791525.0688,
+      "mtimeMs": 1530295789834.4963,
+      "ctimeMs": 1530295789834.4963,
+      "birthtimeMs": 1530295789834.4136,
+      "atime": "2018-06-29T18:09:51.525Z",
+      "mtime": "2018-06-29T18:09:49.834Z",
+      "ctime": "2018-06-29T18:09:49.834Z",
+      "birthtime": "2018-06-29T18:09:49.834Z"
     },
     "/Users/Robert/uncharted/src/data/concept.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/concept.md absPath of file",
@@ -2654,7 +2654,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a5c94a465d2ca223dd52b91130a936ce",
+        "contentDigest": "744416150ae44fd91748e5822b478eed",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2663,12 +2663,12 @@
       "absolutePath": "/Users/Robert/uncharted/src/data/activities/adventure-park.md",
       "relativePath": "activities/adventure-park.md",
       "extension": "md",
-      "size": 94,
-      "prettySize": "94 B",
-      "modifiedTime": "2018-05-12T08:33:46.710Z",
-      "accessTime": "2018-06-11T10:33:32.358Z",
-      "changeTime": "2018-05-12T08:33:46.710Z",
-      "birthTime": "2018-05-12T08:33:46.709Z",
+      "size": 83,
+      "prettySize": "83 B",
+      "modifiedTime": "2018-06-29T18:09:49.829Z",
+      "accessTime": "2018-06-29T18:09:51.618Z",
+      "changeTime": "2018-06-29T18:09:49.829Z",
+      "birthTime": "2018-06-29T18:09:49.829Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/data/activities",
       "base": "adventure-park.md",
@@ -2682,108 +2682,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8603426168,
+      "ino": 8606239751,
       "blocks": 8,
-      "atimeMs": 1528713212358.02,
-      "mtimeMs": 1526114026709.521,
-      "ctimeMs": 1526114026709.521,
-      "birthtimeMs": 1526114026709.1956,
-      "atime": "2018-06-11T10:33:32.358Z",
-      "mtime": "2018-05-12T08:33:46.710Z",
-      "ctime": "2018-05-12T08:33:46.710Z",
-      "birthtime": "2018-05-12T08:33:46.709Z"
-    },
-    "/Users/Robert/uncharted/src/data/activities/culture-traditions.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/activities/culture-traditions.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/activities/culture-traditions.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "fc065f9e4a411390c329592e2ed19e71",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/activities/culture-traditions.md",
-      "relativePath": "activities/culture-traditions.md",
-      "extension": "md",
-      "size": 85,
-      "prettySize": "85 B",
-      "modifiedTime": "2018-05-31T14:40:30.490Z",
-      "accessTime": "2018-06-11T10:36:49.191Z",
-      "changeTime": "2018-05-31T14:40:30.490Z",
-      "birthTime": "2018-05-31T14:40:30.490Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/activities",
-      "base": "culture-traditions.md",
-      "ext": ".md",
-      "name": "culture-traditions",
-      "relativeDirectory": "activities",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8604370527,
-      "blocks": 8,
-      "atimeMs": 1528713409191.2573,
-      "mtimeMs": 1527777630489.9658,
-      "ctimeMs": 1527777630489.9658,
-      "birthtimeMs": 1527777630489.742,
-      "atime": "2018-06-11T10:36:49.191Z",
-      "mtime": "2018-05-31T14:40:30.490Z",
-      "ctime": "2018-05-31T14:40:30.490Z",
-      "birthtime": "2018-05-31T14:40:30.490Z"
-    },
-    "/Users/Robert/uncharted/src/data/activities/gastronomy.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/activities/gastronomy.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/activities/gastronomy.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "704fd61cd1bb82f1d4239f82ad92f964",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/activities/gastronomy.md",
-      "relativePath": "activities/gastronomy.md",
-      "extension": "md",
-      "size": 76,
-      "prettySize": "76 B",
-      "modifiedTime": "2018-05-12T08:33:46.711Z",
-      "accessTime": "2018-06-11T10:33:32.362Z",
-      "changeTime": "2018-05-12T08:33:46.711Z",
-      "birthTime": "2018-05-12T08:33:46.710Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/activities",
-      "base": "gastronomy.md",
-      "ext": ".md",
-      "name": "gastronomy",
-      "relativeDirectory": "activities",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8603426170,
-      "blocks": 8,
-      "atimeMs": 1528713212361.799,
-      "mtimeMs": 1526114026710.5752,
-      "ctimeMs": 1526114026710.5752,
-      "birthtimeMs": 1526114026710.3027,
-      "atime": "2018-06-11T10:33:32.362Z",
-      "mtime": "2018-05-12T08:33:46.711Z",
-      "ctime": "2018-05-12T08:33:46.711Z",
-      "birthtime": "2018-05-12T08:33:46.710Z"
+      "atimeMs": 1530295791618.3704,
+      "mtimeMs": 1530295789829.1655,
+      "ctimeMs": 1530295789829.1655,
+      "birthtimeMs": 1530295789829.0344,
+      "atime": "2018-06-29T18:09:51.618Z",
+      "mtime": "2018-06-29T18:09:49.829Z",
+      "ctime": "2018-06-29T18:09:49.829Z",
+      "birthtime": "2018-06-29T18:09:49.829Z"
     },
     "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file",
@@ -2792,7 +2700,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f40cb0effc2a6137a869e3e215a27617",
+        "contentDigest": "f1d6a88ea4db59d0295af9717d3012db",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2801,12 +2709,12 @@
       "absolutePath": "/Users/Robert/uncharted/src/data/activities/hiking.md",
       "relativePath": "activities/hiking.md",
       "extension": "md",
-      "size": 73,
-      "prettySize": "73 B",
-      "modifiedTime": "2018-05-06T21:21:57.659Z",
-      "accessTime": "2018-06-11T10:33:04.001Z",
-      "changeTime": "2018-05-06T21:21:57.659Z",
-      "birthTime": "2018-05-02T21:50:49.289Z",
+      "size": 86,
+      "prettySize": "86 B",
+      "modifiedTime": "2018-06-29T18:09:49.831Z",
+      "accessTime": "2018-06-29T18:09:51.522Z",
+      "changeTime": "2018-06-29T18:09:49.831Z",
+      "birthTime": "2018-06-29T18:09:49.831Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/data/activities",
       "base": "hiking.md",
@@ -2820,16 +2728,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602727629,
+      "ino": 8606239752,
       "blocks": 8,
-      "atimeMs": 1528713184000.662,
-      "mtimeMs": 1525641717658.6843,
-      "ctimeMs": 1525641717658.6843,
-      "birthtimeMs": 1525297849288.5635,
-      "atime": "2018-06-11T10:33:04.001Z",
-      "mtime": "2018-05-06T21:21:57.659Z",
-      "ctime": "2018-05-06T21:21:57.659Z",
-      "birthtime": "2018-05-02T21:50:49.289Z"
+      "atimeMs": 1530295791522.433,
+      "mtimeMs": 1530295789830.741,
+      "ctimeMs": 1530295789830.741,
+      "birthtimeMs": 1530295789830.535,
+      "atime": "2018-06-29T18:09:51.522Z",
+      "mtime": "2018-06-29T18:09:49.831Z",
+      "ctime": "2018-06-29T18:09:49.831Z",
+      "birthtime": "2018-06-29T18:09:49.831Z"
     },
     "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file",
@@ -2838,7 +2746,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b8feb1e63c3671d392a02ae18a321483",
+        "contentDigest": "09132539e5907bc79b4aaaf79bb5829e",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -2847,12 +2755,12 @@
       "absolutePath": "/Users/Robert/uncharted/src/data/activities/hunt.md",
       "relativePath": "activities/hunt.md",
       "extension": "md",
-      "size": 80,
-      "prettySize": "80 B",
-      "modifiedTime": "2018-05-06T21:22:07.569Z",
-      "accessTime": "2018-06-11T10:33:04.047Z",
-      "changeTime": "2018-05-06T21:22:07.569Z",
-      "birthTime": "2018-05-02T21:50:49.289Z",
+      "size": 77,
+      "prettySize": "77 B",
+      "modifiedTime": "2018-06-29T18:09:49.831Z",
+      "accessTime": "2018-06-29T18:09:51.520Z",
+      "changeTime": "2018-06-29T18:09:49.831Z",
+      "birthTime": "2018-06-29T18:09:49.831Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/data/activities",
       "base": "hunt.md",
@@ -2866,16 +2774,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8602727630,
+      "ino": 8606239753,
       "blocks": 8,
-      "atimeMs": 1528713184047.0457,
-      "mtimeMs": 1525641727569.0623,
-      "ctimeMs": 1525641727569.0623,
-      "birthtimeMs": 1525297849288.9688,
-      "atime": "2018-06-11T10:33:04.047Z",
-      "mtime": "2018-05-06T21:22:07.569Z",
-      "ctime": "2018-05-06T21:22:07.569Z",
-      "birthtime": "2018-05-02T21:50:49.289Z"
+      "atimeMs": 1530295791520.3445,
+      "mtimeMs": 1530295789831.2957,
+      "ctimeMs": 1530295789831.2957,
+      "birthtimeMs": 1530295789831.173,
+      "atime": "2018-06-29T18:09:51.520Z",
+      "mtime": "2018-06-29T18:09:49.831Z",
+      "ctime": "2018-06-29T18:09:49.831Z",
+      "birthtime": "2018-06-29T18:09:49.831Z"
     },
     "/Users/Robert/uncharted/src/data/activities/mountain-biking.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/activities/mountain-biking.md absPath of file",
@@ -2923,52 +2831,6 @@
       "ctime": "2018-05-12T08:33:46.711Z",
       "birthtime": "2018-05-12T08:33:46.711Z"
     },
-    "/Users/Robert/uncharted/src/data/activities/horseback-riding.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/activities/horseback-riding.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/activities/horseback-riding.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "f2b6b15c072b8ee327bfe32bafb1579e",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/activities/horseback-riding.md",
-      "relativePath": "activities/horseback-riding.md",
-      "extension": "md",
-      "size": 97,
-      "prettySize": "97 B",
-      "modifiedTime": "2018-05-31T14:40:30.490Z",
-      "accessTime": "2018-06-11T10:36:49.190Z",
-      "changeTime": "2018-05-31T14:40:30.490Z",
-      "birthTime": "2018-05-31T14:40:30.490Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/activities",
-      "base": "horseback-riding.md",
-      "ext": ".md",
-      "name": "horseback-riding",
-      "relativeDirectory": "activities",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8604370528,
-      "blocks": 8,
-      "atimeMs": 1528713409190.0332,
-      "mtimeMs": 1527777630490.3157,
-      "ctimeMs": 1527777630490.3157,
-      "birthtimeMs": 1527777630490.189,
-      "atime": "2018-06-11T10:36:49.190Z",
-      "mtime": "2018-05-31T14:40:30.490Z",
-      "ctime": "2018-05-31T14:40:30.490Z",
-      "birthtime": "2018-05-31T14:40:30.490Z"
-    },
     "/Users/Robert/uncharted/src/data/activities/rock-climbing.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/activities/rock-climbing.md absPath of file",
       "children": [
@@ -3014,98 +2876,6 @@
       "mtime": "2018-05-12T08:33:46.712Z",
       "ctime": "2018-05-12T08:33:46.712Z",
       "birthtime": "2018-05-12T08:33:46.711Z"
-    },
-    "/Users/Robert/uncharted/src/data/activities/skiing.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/activities/skiing.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/activities/skiing.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "a0a39b1aa002a941cb8e32a53fb9dbdb",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/activities/skiing.md",
-      "relativePath": "activities/skiing.md",
-      "extension": "md",
-      "size": 75,
-      "prettySize": "75 B",
-      "modifiedTime": "2018-05-16T08:33:08.408Z",
-      "accessTime": "2018-06-11T10:33:32.721Z",
-      "changeTime": "2018-05-16T08:33:08.408Z",
-      "birthTime": "2018-05-16T08:33:08.408Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/activities",
-      "base": "skiing.md",
-      "ext": ".md",
-      "name": "skiing",
-      "relativeDirectory": "activities",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8603684778,
-      "blocks": 8,
-      "atimeMs": 1528713212720.5723,
-      "mtimeMs": 1526459588408.278,
-      "ctimeMs": 1526459588408.278,
-      "birthtimeMs": 1526459588407.711,
-      "atime": "2018-06-11T10:33:32.721Z",
-      "mtime": "2018-05-16T08:33:08.408Z",
-      "ctime": "2018-05-16T08:33:08.408Z",
-      "birthtime": "2018-05-16T08:33:08.408Z"
-    },
-    "/Users/Robert/uncharted/src/data/activities/snowboarding.md absPath of file": {
-      "id": "/Users/Robert/uncharted/src/data/activities/snowboarding.md absPath of file",
-      "children": [
-        "/Users/Robert/uncharted/src/data/activities/snowboarding.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "97dbce54cf831c29858313f8982b344e",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/uncharted/src/data/activities/snowboarding.md",
-      "relativePath": "activities/snowboarding.md",
-      "extension": "md",
-      "size": 84,
-      "prettySize": "84 B",
-      "modifiedTime": "2018-05-16T08:33:08.409Z",
-      "accessTime": "2018-06-11T10:33:32.714Z",
-      "changeTime": "2018-05-16T08:33:08.409Z",
-      "birthTime": "2018-05-16T08:33:08.408Z",
-      "root": "/",
-      "dir": "/Users/Robert/uncharted/src/data/activities",
-      "base": "snowboarding.md",
-      "ext": ".md",
-      "name": "snowboarding",
-      "relativeDirectory": "activities",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8603684779,
-      "blocks": 8,
-      "atimeMs": 1528713212714.0286,
-      "mtimeMs": 1526459588408.9607,
-      "ctimeMs": 1526459588408.9607,
-      "birthtimeMs": 1526459588408.4626,
-      "atime": "2018-06-11T10:33:32.714Z",
-      "mtime": "2018-05-16T08:33:08.409Z",
-      "ctime": "2018-05-16T08:33:08.409Z",
-      "birthtime": "2018-05-16T08:33:08.408Z"
     },
     "/Users/Robert/uncharted/src/data/activities/snowshoe-hiking.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/data/activities/snowshoe-hiking.md absPath of file",
@@ -3158,8 +2928,8 @@
       "children": [],
       "parent": "/Users/Robert/uncharted/src/data/confirmation.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: confirmation\ntagline: Your adventure is on its way\nimage: /img/dsc_0257.jpg\n---\nYou're probably exhausted from taking all those decisions. \n\nNow you can either relax or start packing until **TOMORROW** when we will contact you with your new adventure.\n",
-        "contentDigest": "e24e49506d2e41f447731dfd2958010a",
+        "content": "---\ntemplateKey: confirmation\ntagline: Your adventure is on its way\nimage: /img/dsc_0257.jpg\n---\n## You're probably exhausted from taking all those decisions. \n\n### We will contact you as soon as possible (assuming you did not send this at 12 a.m. :) ). Until then check your calendar for a free hour when we can meet to discuss your adventure dreams.\n",
+        "contentDigest": "307ec68f5f2b64c168f5547c55a678c3",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -3185,8 +2955,8 @@
       "children": [],
       "parent": "/Users/Robert/uncharted/src/data/index.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: frontpage\ntagline: Unlock the uncharted paths of the mountains\nimage: /img/untitled-58.jpg\n---\nThe adventure that escapes you from the noise and monotony of the daily life\n",
-        "contentDigest": "20c748daff1f35675482d5a021270d22",
+        "content": "---\ntemplateKey: frontpage\ntagline: 'Unique adventures for unique travellers '\nimage: /img/untitled-58.jpg\n---\n### Leave the world behind and let's go on an adventure in Transylvania\n\n## Let us guide you on your adventure path\n\n![null](/img/my-post-8-.png)\n",
+        "contentDigest": "bfbf7182e6c03f8d6fc2bcaf7bc3bdc2",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -3196,7 +2966,7 @@
       "frontmatter": {
         "title": "",
         "templateKey": "frontpage",
-        "tagline": "Unlock the uncharted paths of the mountains",
+        "tagline": "Unique adventures for unique travellers ",
         "image": "../../static/img/untitled-58.jpg",
         "_PARENT": "/Users/Robert/uncharted/src/data/index.md absPath of file",
         "parent": "/Users/Robert/uncharted/src/data/index.md absPath of file"
@@ -3374,8 +3144,8 @@
       "children": [],
       "parent": "/Users/Robert/uncharted/src/data/activities/adventure-park.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: activity\ntitle: Adventure Park\nimage: /img/patinis-arkapark-foto-02.jpg\n---\n\n",
-        "contentDigest": "9adc119b6660ae72008709a88dd1dd33",
+        "content": "---\ntemplateKey: activity\ntitle: Extreme forest walk\nimage: /img/dsc_0569.jpg\n---\n\n",
+        "contentDigest": "27d95641e833484f9249d92d25996da9",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -3383,9 +3153,9 @@
         }
       },
       "frontmatter": {
-        "title": "Adventure Park",
+        "title": "Extreme forest walk",
         "templateKey": "activity",
-        "image": "../../../static/img/patinis-arkapark-foto-02.jpg",
+        "image": "../../../static/img/dsc_0569.jpg",
         "_PARENT": "/Users/Robert/uncharted/src/data/activities/adventure-park.md absPath of file",
         "parent": "/Users/Robert/uncharted/src/data/activities/adventure-park.md absPath of file"
       },
@@ -3395,65 +3165,13 @@
         "slug": "/activities/adventure-park/"
       }
     },
-    "/Users/Robert/uncharted/src/data/activities/culture-traditions.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/activities/culture-traditions.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/activities/culture-traditions.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: activity\ntitle: Culture/Traditions\nimage: /img/untitled-69.jpg\n---\n\n",
-        "contentDigest": "f4b2e6a671e6cc0f2d2a11211e91e576",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Culture/Traditions",
-        "templateKey": "activity",
-        "image": "../../../static/img/untitled-69.jpg",
-        "_PARENT": "/Users/Robert/uncharted/src/data/activities/culture-traditions.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/activities/culture-traditions.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/activities/culture-traditions.md",
-      "fields": {
-        "slug": "/activities/culture-traditions/"
-      }
-    },
-    "/Users/Robert/uncharted/src/data/activities/gastronomy.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/activities/gastronomy.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/activities/gastronomy.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: activity\ntitle: Gastronomy\nimage: /img/gastronomy.jpg\n---\n\n",
-        "contentDigest": "d73c7e958335760be0235c406d974a79",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Gastronomy",
-        "templateKey": "activity",
-        "image": "../../../static/img/gastronomy.jpg",
-        "_PARENT": "/Users/Robert/uncharted/src/data/activities/gastronomy.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/activities/gastronomy.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/activities/gastronomy.md",
-      "fields": {
-        "slug": "/activities/gastronomy/"
-      }
-    },
     "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file >>> MarkdownRemark",
       "children": [],
       "parent": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: activity\ntitle: Hiking\nimage: /img/untitled-60.jpg\n---\n\n",
-        "contentDigest": "dca48a66271afca283c65d5b25115977",
+        "content": "---\ntemplateKey: activity\ntitle: Hiking into unknown\nimage: /img/untitled-60.jpg\n---\n\n",
+        "contentDigest": "8325fc1afd7825e1b6f485559ab0f315",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -3461,7 +3179,7 @@
         }
       },
       "frontmatter": {
-        "title": "Hiking",
+        "title": "Hiking into unknown",
         "templateKey": "activity",
         "image": "../../../static/img/untitled-60.jpg",
         "_PARENT": "/Users/Robert/uncharted/src/data/activities/hiking.md absPath of file",
@@ -3478,8 +3196,8 @@
       "children": [],
       "parent": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: activity\ntitle: Treasure Hunt\nimage: /img/untitled-59.jpg\n---\n\n",
-        "contentDigest": "0f4bb9828b96c43c2aca9c363acfe022",
+        "content": "---\ntemplateKey: activity\ntitle: City Quest\nimage: /img/untitled-59.jpg\n---\n\n",
+        "contentDigest": "a8010a8db43d380b5ca4b3439ebce91e",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
@@ -3487,7 +3205,7 @@
         }
       },
       "frontmatter": {
-        "title": "Treasure Hunt",
+        "title": "City Quest",
         "templateKey": "activity",
         "image": "../../../static/img/untitled-59.jpg",
         "_PARENT": "/Users/Robert/uncharted/src/data/activities/hunt.md absPath of file",
@@ -3525,32 +3243,6 @@
         "slug": "/activities/mountain-biking/"
       }
     },
-    "/Users/Robert/uncharted/src/data/activities/horseback-riding.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/activities/horseback-riding.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/activities/horseback-riding.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: activity\ntitle: Horseback riding\nimage: /img/cu-caii-la-ghiocelul-2998.jpg\n---\n\n",
-        "contentDigest": "2254690711e375e3612a03cf2f954733",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Horseback riding",
-        "templateKey": "activity",
-        "image": "../../../static/img/cu-caii-la-ghiocelul-2998.jpg",
-        "_PARENT": "/Users/Robert/uncharted/src/data/activities/horseback-riding.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/activities/horseback-riding.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/activities/horseback-riding.md",
-      "fields": {
-        "slug": "/activities/horseback-riding/"
-      }
-    },
     "/Users/Robert/uncharted/src/data/activities/rock-climbing.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/uncharted/src/data/activities/rock-climbing.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -3575,58 +3267,6 @@
       "fileAbsolutePath": "/Users/Robert/uncharted/src/data/activities/rock-climbing.md",
       "fields": {
         "slug": "/activities/rock-climbing/"
-      }
-    },
-    "/Users/Robert/uncharted/src/data/activities/skiing.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/activities/skiing.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/activities/skiing.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: activity\ntitle: 'Skiing '\nimage: /img/7e6245cd33.jpg\n---\n\n",
-        "contentDigest": "4ccfd1729f17b458fee9b6b2b9be480f",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Skiing ",
-        "templateKey": "activity",
-        "image": "../../../static/img/7e6245cd33.jpg",
-        "_PARENT": "/Users/Robert/uncharted/src/data/activities/skiing.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/activities/skiing.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/activities/skiing.md",
-      "fields": {
-        "slug": "/activities/skiing/"
-      }
-    },
-    "/Users/Robert/uncharted/src/data/activities/snowboarding.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/data/activities/snowboarding.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/data/activities/snowboarding.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: activity\ntitle: Snowboarding\nimage: /img/ski-snowboarding.jpg\n---\n\n",
-        "contentDigest": "85fa888c9f61000a9967eb5970a13270",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Snowboarding",
-        "templateKey": "activity",
-        "image": "../../../static/img/ski-snowboarding.jpg",
-        "_PARENT": "/Users/Robert/uncharted/src/data/activities/snowboarding.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/data/activities/snowboarding.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/data/activities/snowboarding.md",
-      "fields": {
-        "slug": "/activities/snowboarding/"
       }
     },
     "/Users/Robert/uncharted/src/data/activities/snowshoe-hiking.md absPath of file >>> MarkdownRemark": {
@@ -3660,7 +3300,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "50b283872ef9f7f163fe5f3afff9d139",
+        "contentDigest": "b7e9860c4556b8d612ee1e04eabb1ca5",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3668,11 +3308,11 @@
       "absolutePath": "/Users/Robert/uncharted/static/img",
       "relativePath": "",
       "extension": "",
-      "size": 1408,
-      "prettySize": "1.41 kB",
-      "modifiedTime": "2018-05-31T14:40:31.511Z",
-      "accessTime": "2018-06-24T13:35:25.629Z",
-      "changeTime": "2018-05-31T14:40:31.511Z",
+      "size": 1696,
+      "prettySize": "1.7 kB",
+      "modifiedTime": "2018-06-29T18:09:49.919Z",
+      "accessTime": "2018-06-30T09:21:35.010Z",
+      "changeTime": "2018-06-29T18:09:49.919Z",
       "birthTime": "2018-03-24T20:07:41.323Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/static",
@@ -3682,20 +3322,20 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 44,
+      "nlink": 53,
       "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 8600035704,
       "blocks": 0,
-      "atimeMs": 1529847325628.9219,
-      "mtimeMs": 1527777631511.2751,
-      "ctimeMs": 1527777631511.2751,
+      "atimeMs": 1530350495009.6487,
+      "mtimeMs": 1530295789918.7664,
+      "ctimeMs": 1530295789918.7664,
       "birthtimeMs": 1521922061322.7996,
-      "atime": "2018-06-24T13:35:25.629Z",
-      "mtime": "2018-05-31T14:40:31.511Z",
-      "ctime": "2018-05-31T14:40:31.511Z",
+      "atime": "2018-06-30T09:21:35.010Z",
+      "mtime": "2018-06-29T18:09:49.919Z",
+      "ctime": "2018-06-29T18:09:49.919Z",
       "birthtime": "2018-03-24T20:07:41.323Z"
     },
     "/Users/Robert/uncharted/static/img/foodsibiu_poza_mica_7.jpg absPath of file": {
@@ -6050,6 +5690,510 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "/Users/Robert/uncharted/static/img/my-post-7-.png absPath of file": {
+      "id": "/Users/Robert/uncharted/static/img/my-post-7-.png absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/static/img/my-post-7-.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "08de37e3de970985102aee47d19d82c3",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/uncharted/static/img/my-post-7-.png",
+      "relativePath": "my-post-7-.png",
+      "extension": "png",
+      "size": 229269,
+      "prettySize": "229 kB",
+      "modifiedTime": "2018-06-29T18:09:49.914Z",
+      "accessTime": "2018-06-29T18:09:52.355Z",
+      "changeTime": "2018-06-29T18:09:49.914Z",
+      "birthTime": "2018-06-29T18:09:49.912Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/static/img",
+      "base": "my-post-7-.png",
+      "ext": ".png",
+      "name": "my-post-7-",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8606239761,
+      "blocks": 448,
+      "atimeMs": 1530295792355.3647,
+      "mtimeMs": 1530295789913.614,
+      "ctimeMs": 1530295789913.614,
+      "birthtimeMs": 1530295789912.122,
+      "atime": "2018-06-29T18:09:52.355Z",
+      "mtime": "2018-06-29T18:09:49.914Z",
+      "ctime": "2018-06-29T18:09:49.914Z",
+      "birthtime": "2018-06-29T18:09:49.912Z"
+    },
+    "/Users/Robert/uncharted/static/img/my-post-8-.png absPath of file": {
+      "id": "/Users/Robert/uncharted/static/img/my-post-8-.png absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/static/img/my-post-8-.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d0add91baf62ac98d9779e73e0e60f7c",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/uncharted/static/img/my-post-8-.png",
+      "relativePath": "my-post-8-.png",
+      "extension": "png",
+      "size": 233038,
+      "prettySize": "233 kB",
+      "modifiedTime": "2018-06-29T18:09:49.917Z",
+      "accessTime": "2018-06-29T18:09:52.355Z",
+      "changeTime": "2018-06-29T18:09:49.917Z",
+      "birthTime": "2018-06-29T18:09:49.915Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/static/img",
+      "base": "my-post-8-.png",
+      "ext": ".png",
+      "name": "my-post-8-",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8606239762,
+      "blocks": 456,
+      "atimeMs": 1530295792355.3652,
+      "mtimeMs": 1530295789916.534,
+      "ctimeMs": 1530295789916.534,
+      "birthtimeMs": 1530295789915.0522,
+      "atime": "2018-06-29T18:09:52.355Z",
+      "mtime": "2018-06-29T18:09:49.917Z",
+      "ctime": "2018-06-29T18:09:49.917Z",
+      "birthtime": "2018-06-29T18:09:49.915Z"
+    },
+    "/Users/Robert/uncharted/static/img/my-post-7-.png absPath of file >> ImageSharp": {
+      "id": "/Users/Robert/uncharted/static/img/my-post-7-.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/static/img/my-post-7-.png absPath of file",
+      "internal": {
+        "contentDigest": "08de37e3de970985102aee47d19d82c3",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Robert/uncharted/static/img/my-post-8-.png absPath of file >> ImageSharp": {
+      "id": "/Users/Robert/uncharted/static/img/my-post-8-.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/static/img/my-post-8-.png absPath of file",
+      "internal": {
+        "contentDigest": "d0add91baf62ac98d9779e73e0e60f7c",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Robert/uncharted/static/img/my-post-6-.png absPath of file": {
+      "id": "/Users/Robert/uncharted/static/img/my-post-6-.png absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/static/img/my-post-6-.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0f1d93d579d3b197b3443f7d155ff333",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/uncharted/static/img/my-post-6-.png",
+      "relativePath": "my-post-6-.png",
+      "extension": "png",
+      "size": 296104,
+      "prettySize": "296 kB",
+      "modifiedTime": "2018-06-29T18:09:49.911Z",
+      "accessTime": "2018-06-29T18:09:52.396Z",
+      "changeTime": "2018-06-29T18:09:49.911Z",
+      "birthTime": "2018-06-29T18:09:49.909Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/static/img",
+      "base": "my-post-6-.png",
+      "ext": ".png",
+      "name": "my-post-6-",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8606239760,
+      "blocks": 584,
+      "atimeMs": 1530295792395.5955,
+      "mtimeMs": 1530295789910.8503,
+      "ctimeMs": 1530295789910.8503,
+      "birthtimeMs": 1530295789908.9172,
+      "atime": "2018-06-29T18:09:52.396Z",
+      "mtime": "2018-06-29T18:09:49.911Z",
+      "ctime": "2018-06-29T18:09:49.911Z",
+      "birthtime": "2018-06-29T18:09:49.909Z"
+    },
+    "/Users/Robert/uncharted/static/img/my-post.png absPath of file": {
+      "id": "/Users/Robert/uncharted/static/img/my-post.png absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/static/img/my-post.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5ba25c283c54c5b87d97dafc6c36b958",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/uncharted/static/img/my-post.png",
+      "relativePath": "my-post.png",
+      "extension": "png",
+      "size": 276283,
+      "prettySize": "276 kB",
+      "modifiedTime": "2018-06-29T18:09:49.918Z",
+      "accessTime": "2018-06-29T18:09:52.355Z",
+      "changeTime": "2018-06-29T18:09:49.918Z",
+      "birthTime": "2018-06-29T18:09:49.917Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/static/img",
+      "base": "my-post.png",
+      "ext": ".png",
+      "name": "my-post",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8606239763,
+      "blocks": 544,
+      "atimeMs": 1530295792355.3655,
+      "mtimeMs": 1530295789918.157,
+      "ctimeMs": 1530295789918.157,
+      "birthtimeMs": 1530295789916.7573,
+      "atime": "2018-06-29T18:09:52.355Z",
+      "mtime": "2018-06-29T18:09:49.918Z",
+      "ctime": "2018-06-29T18:09:49.918Z",
+      "birthtime": "2018-06-29T18:09:49.917Z"
+    },
+    "/Users/Robert/uncharted/static/img/my-post-6-.png absPath of file >> ImageSharp": {
+      "id": "/Users/Robert/uncharted/static/img/my-post-6-.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/static/img/my-post-6-.png absPath of file",
+      "internal": {
+        "contentDigest": "0f1d93d579d3b197b3443f7d155ff333",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Robert/uncharted/static/img/my-post.png absPath of file >> ImageSharp": {
+      "id": "/Users/Robert/uncharted/static/img/my-post.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/static/img/my-post.png absPath of file",
+      "internal": {
+        "contentDigest": "5ba25c283c54c5b87d97dafc6c36b958",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Robert/uncharted/static/img/my-post-2-.png absPath of file": {
+      "id": "/Users/Robert/uncharted/static/img/my-post-2-.png absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/static/img/my-post-2-.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "519401ed59304b38ab291428ea9e3e4f",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/uncharted/static/img/my-post-2-.png",
+      "relativePath": "my-post-2-.png",
+      "extension": "png",
+      "size": 454181,
+      "prettySize": "454 kB",
+      "modifiedTime": "2018-06-29T18:09:49.898Z",
+      "accessTime": "2018-06-29T18:09:52.395Z",
+      "changeTime": "2018-06-29T18:09:49.898Z",
+      "birthTime": "2018-06-29T18:09:49.895Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/static/img",
+      "base": "my-post-2-.png",
+      "ext": ".png",
+      "name": "my-post-2-",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8606239757,
+      "blocks": 888,
+      "atimeMs": 1530295792395.035,
+      "mtimeMs": 1530295789898.3152,
+      "ctimeMs": 1530295789898.3152,
+      "birthtimeMs": 1530295789894.8347,
+      "atime": "2018-06-29T18:09:52.395Z",
+      "mtime": "2018-06-29T18:09:49.898Z",
+      "ctime": "2018-06-29T18:09:49.898Z",
+      "birthtime": "2018-06-29T18:09:49.895Z"
+    },
+    "/Users/Robert/uncharted/static/img/my-post-3-.png absPath of file": {
+      "id": "/Users/Robert/uncharted/static/img/my-post-3-.png absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/static/img/my-post-3-.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "fafd50789c7e43ef451549964705d336",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/uncharted/static/img/my-post-3-.png",
+      "relativePath": "my-post-3-.png",
+      "extension": "png",
+      "size": 454658,
+      "prettySize": "455 kB",
+      "modifiedTime": "2018-06-29T18:09:49.904Z",
+      "accessTime": "2018-06-29T18:09:52.395Z",
+      "changeTime": "2018-06-29T18:09:49.904Z",
+      "birthTime": "2018-06-29T18:09:49.899Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/static/img",
+      "base": "my-post-3-.png",
+      "ext": ".png",
+      "name": "my-post-3-",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8606239758,
+      "blocks": 896,
+      "atimeMs": 1530295792394.9631,
+      "mtimeMs": 1530295789903.6255,
+      "ctimeMs": 1530295789903.6255,
+      "birthtimeMs": 1530295789899.0176,
+      "atime": "2018-06-29T18:09:52.395Z",
+      "mtime": "2018-06-29T18:09:49.904Z",
+      "ctime": "2018-06-29T18:09:49.904Z",
+      "birthtime": "2018-06-29T18:09:49.899Z"
+    },
+    "/Users/Robert/uncharted/static/img/my-post-2-.png absPath of file >> ImageSharp": {
+      "id": "/Users/Robert/uncharted/static/img/my-post-2-.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/static/img/my-post-2-.png absPath of file",
+      "internal": {
+        "contentDigest": "519401ed59304b38ab291428ea9e3e4f",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Robert/uncharted/static/img/my-post-3-.png absPath of file >> ImageSharp": {
+      "id": "/Users/Robert/uncharted/static/img/my-post-3-.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/static/img/my-post-3-.png absPath of file",
+      "internal": {
+        "contentDigest": "fafd50789c7e43ef451549964705d336",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Robert/uncharted/static/img/my-post-4-.png absPath of file": {
+      "id": "/Users/Robert/uncharted/static/img/my-post-4-.png absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/static/img/my-post-4-.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "99d372dd1b2a1931ce5b1cf380ba4fb1",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/uncharted/static/img/my-post-4-.png",
+      "relativePath": "my-post-4-.png",
+      "extension": "png",
+      "size": 468693,
+      "prettySize": "469 kB",
+      "modifiedTime": "2018-06-29T18:09:49.908Z",
+      "accessTime": "2018-06-29T18:09:52.395Z",
+      "changeTime": "2018-06-29T18:09:49.908Z",
+      "birthTime": "2018-06-29T18:09:49.904Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/static/img",
+      "base": "my-post-4-.png",
+      "ext": ".png",
+      "name": "my-post-4-",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8606239759,
+      "blocks": 920,
+      "atimeMs": 1530295792395.4937,
+      "mtimeMs": 1530295789908.1936,
+      "ctimeMs": 1530295789908.1936,
+      "birthtimeMs": 1530295789904.1025,
+      "atime": "2018-06-29T18:09:52.395Z",
+      "mtime": "2018-06-29T18:09:49.908Z",
+      "ctime": "2018-06-29T18:09:49.908Z",
+      "birthtime": "2018-06-29T18:09:49.904Z"
+    },
+    "/Users/Robert/uncharted/static/img/my-post-4-.png absPath of file >> ImageSharp": {
+      "id": "/Users/Robert/uncharted/static/img/my-post-4-.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/static/img/my-post-4-.png absPath of file",
+      "internal": {
+        "contentDigest": "99d372dd1b2a1931ce5b1cf380ba4fb1",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Robert/uncharted/static/img/screen-shot-2018-06-18-at-21.41.37.png absPath of file": {
+      "id": "/Users/Robert/uncharted/static/img/screen-shot-2018-06-18-at-21.41.37.png absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/static/img/screen-shot-2018-06-18-at-21.41.37.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7c7ac93176acf03abbd487c4e63d8987",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/uncharted/static/img/screen-shot-2018-06-18-at-21.41.37.png",
+      "relativePath": "screen-shot-2018-06-18-at-21.41.37.png",
+      "extension": "png",
+      "size": 610143,
+      "prettySize": "610 kB",
+      "modifiedTime": "2018-06-29T18:09:49.922Z",
+      "accessTime": "2018-06-29T18:09:52.355Z",
+      "changeTime": "2018-06-29T18:09:49.922Z",
+      "birthTime": "2018-06-29T18:09:49.919Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/static/img",
+      "base": "screen-shot-2018-06-18-at-21.41.37.png",
+      "ext": ".png",
+      "name": "screen-shot-2018-06-18-at-21.41.37",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8606239764,
+      "blocks": 1192,
+      "atimeMs": 1530295792355.3655,
+      "mtimeMs": 1530295789921.5085,
+      "ctimeMs": 1530295789921.5085,
+      "birthtimeMs": 1530295789918.7197,
+      "atime": "2018-06-29T18:09:52.355Z",
+      "mtime": "2018-06-29T18:09:49.922Z",
+      "ctime": "2018-06-29T18:09:49.922Z",
+      "birthtime": "2018-06-29T18:09:49.919Z"
+    },
+    "/Users/Robert/uncharted/static/img/screen-shot-2018-06-18-at-21.41.37.png absPath of file >> ImageSharp": {
+      "id": "/Users/Robert/uncharted/static/img/screen-shot-2018-06-18-at-21.41.37.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/static/img/screen-shot-2018-06-18-at-21.41.37.png absPath of file",
+      "internal": {
+        "contentDigest": "7c7ac93176acf03abbd487c4e63d8987",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Robert/uncharted/static/img/dsc_0569.jpg absPath of file": {
+      "id": "/Users/Robert/uncharted/static/img/dsc_0569.jpg absPath of file",
+      "children": [
+        "/Users/Robert/uncharted/static/img/dsc_0569.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0be572045341f18e584b511ca0ba25f0",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/uncharted/static/img/dsc_0569.jpg",
+      "relativePath": "dsc_0569.jpg",
+      "extension": "jpg",
+      "size": 5802127,
+      "prettySize": "5.8 MB",
+      "modifiedTime": "2018-06-29T18:09:49.854Z",
+      "accessTime": "2018-06-29T18:09:52.499Z",
+      "changeTime": "2018-06-29T18:09:49.854Z",
+      "birthTime": "2018-06-29T18:09:49.835Z",
+      "root": "/",
+      "dir": "/Users/Robert/uncharted/static/img",
+      "base": "dsc_0569.jpg",
+      "ext": ".jpg",
+      "name": "dsc_0569",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8606239756,
+      "blocks": 11336,
+      "atimeMs": 1530295792499.3147,
+      "mtimeMs": 1530295789854.0813,
+      "ctimeMs": 1530295789854.0813,
+      "birthtimeMs": 1530295789834.6594,
+      "atime": "2018-06-29T18:09:52.499Z",
+      "mtime": "2018-06-29T18:09:49.854Z",
+      "ctime": "2018-06-29T18:09:49.854Z",
+      "birthtime": "2018-06-29T18:09:49.835Z"
+    },
+    "/Users/Robert/uncharted/static/img/dsc_0569.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Robert/uncharted/static/img/dsc_0569.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/static/img/dsc_0569.jpg absPath of file",
+      "internal": {
+        "contentDigest": "0be572045341f18e584b511ca0ba25f0",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
     "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/": {
       "layout": "index",
       "jsonName": "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json",
@@ -6068,7 +6212,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "521eb9cf0634d3dbafcc7f5d7fb02998",
+        "contentDigest": "73c41a5c6d7b75aac1216bce6ac3edd1",
         "owner": "internal-data-bridge"
       }
     },
@@ -6090,7 +6234,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "37787625859e8ae4d1c0ea88e951e8d9",
+        "contentDigest": "44c6c11d54903a8394d3dabbcda7210f",
         "owner": "internal-data-bridge"
       }
     },
@@ -6112,7 +6256,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7d732d0c99cf5d44ea45a703658b7b1a",
+        "contentDigest": "19681baf5c964e5b8c0aae2a84958c6c",
         "owner": "internal-data-bridge"
       }
     },
@@ -6134,7 +6278,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9177926ddbef4e4d5d5216f3d59599bd",
+        "contentDigest": "e20eb46d5fefa962f1d8c33c75363890",
         "owner": "internal-data-bridge"
       }
     },
@@ -6156,7 +6300,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ea7a246a3e6b52c24b6b9ef7a25d82c9",
+        "contentDigest": "b72f9ca6c46b840c22de4f2c9df302d4",
         "owner": "internal-data-bridge"
       }
     },
@@ -6178,7 +6322,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "004619eec607866ccd6b3bf4e71fc83b",
+        "contentDigest": "4d138f046f2dab33b9018461c857777c",
         "owner": "internal-data-bridge"
       }
     },
@@ -6200,7 +6344,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3edd07d5456cfeda089db611f9c04bdf",
+        "contentDigest": "ab4f8997f3b15281365fe82688392ace",
         "owner": "internal-data-bridge"
       }
     },
@@ -6222,7 +6366,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d61d3bd5611a405f90ae7383a66e9ca6",
+        "contentDigest": "16e441413b60550526a850a42482f5e9",
         "owner": "internal-data-bridge"
       }
     },
@@ -6244,7 +6388,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e0e960861bed2f0760a278d69102fb16",
+        "contentDigest": "cb0d1dfdc4498c3f7a6bd48090985448",
         "owner": "internal-data-bridge"
       }
     },
@@ -6266,7 +6410,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a90db7c3bd6badbdf2b465713221d1bd",
+        "contentDigest": "a1e927dd3318f921c5de65ed8d7e2219",
         "owner": "internal-data-bridge"
       }
     },
@@ -6288,7 +6432,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cc76c96b1d7edb70c163a6ebcc8abfc3",
+        "contentDigest": "05189fb29096e22db66cdffa4c6b8279",
         "owner": "internal-data-bridge"
       }
     },
@@ -6310,7 +6454,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0d6e607373aa6a8b827b121c38d3ea85",
+        "contentDigest": "26b5c9086b56f0b37bd8452f13dbd0d4",
         "owner": "internal-data-bridge"
       }
     },
@@ -6330,7 +6474,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3d68b5af63c2eae4ac6c605ada2defde",
+        "contentDigest": "ded0ec6930e29d26e8b46cc9ee68c28c",
         "owner": "internal-data-bridge"
       }
     },
@@ -6350,7 +6494,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b947fe5aab58081b760f6823e787368e",
+        "contentDigest": "92d6522b7261599a4f82dda6c521c3d2",
         "owner": "internal-data-bridge"
       }
     },
@@ -6370,7 +6514,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b55f97df64032a20811a6d2210c18325",
+        "contentDigest": "9d5b256999c208f02e97e8e5f059ced3",
         "owner": "internal-data-bridge"
       }
     },
@@ -6390,7 +6534,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e681dfcfd89b82dfe9a97ec13f5880bb",
+        "contentDigest": "874eff3e8d927f4448d7ee9d6445f39c",
         "owner": "internal-data-bridge"
       }
     },
@@ -6410,7 +6554,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "86902bc66e753470f7ffbc1b9c10d89a",
+        "contentDigest": "42ce86ceea7b47b83c8a850c1d1d5e91",
         "owner": "internal-data-bridge"
       }
     },
@@ -6430,7 +6574,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "95774d8d7aec8999d30afa07929052aa",
+        "contentDigest": "ab362b3496153bd669310145b6e2347c",
         "owner": "internal-data-bridge"
       }
     },
@@ -6450,7 +6594,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6c760611f48298050d4e3066e6b24c92",
+        "contentDigest": "a8440c2e0b164c04690945f74ce92109",
         "owner": "internal-data-bridge"
       }
     },
@@ -6470,7 +6614,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f2dbabd95d711bef2d19ba9e69a237ee",
+        "contentDigest": "25f67ee4f4a9ccf6cbbcd99af86cf6c5",
         "owner": "internal-data-bridge"
       }
     },
@@ -6490,7 +6634,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c801b57172072eb909dd857c2357e486",
+        "contentDigest": "b6ccaaa8f1aea4e3cf799993a0e2dcdd",
         "owner": "internal-data-bridge"
       }
     }
@@ -6747,6 +6891,14 @@
       ],
       "/Users/Robert/uncharted/src/data/terms.md absPath of file >>> MarkdownRemark": [
         "/terms/"
+      ],
+      "/Users/Robert/uncharted/static/img/dsc_0569.jpg absPath of file": [
+        "/",
+        "/stories/"
+      ],
+      "/Users/Robert/uncharted/static/img/dsc_0569.jpg absPath of file >> ImageSharp": [
+        "/",
+        "/stories/"
       ]
     },
     "connections": {

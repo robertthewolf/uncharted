@@ -117,6 +117,10 @@ class Form extends React.Component {
                 />
                 </Date>
 
+                <input type="hidden" name="start" value={this.state.start} />
+                <input type="hidden" name="end" value={this.state.end} />
+
+
                 <Question>How many people are going?</Question>
 
                 <Flex justify="center">
