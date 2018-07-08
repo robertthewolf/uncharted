@@ -3,7 +3,7 @@ templateKey: contact
 tagline: >-
   Feeling a tingle in your fingertips? That is the adventurer wanting to contact
   us
-image: /img/file_000.jpeg
+image: /img/dsc_0598.jpg
 ---
 ## Drop us a line or give us a heads up if:
 * You want to ask us more details about the adventures
