@@ -5,8 +5,8 @@ image: /img/untitled-55.jpg
 ---
 ## Important notes
 
-* All tours start and end in the city of Cluj-Napoca;
-* No matter the way chosen to reach Cluj-Napoca, the adventurer has to make sure he/she arrives at the starting point of the tour no later than time agreed prior with the tour leader;
+* All tours start and end in the city of Sibiu;
+* No matter the way chosen to reach Sibiu, the adventurer has to make sure he/she arrives at the starting point of the tour no later than time agreed prior with the tour leader;
 * Your tour leader will welcome you at the airport and he will be with you all the time along the tour. He will be also the one who will make sure you get to the airport in time for your departure back to home;
 * Throughout each activity you will be accompanied by experts from that specific field;
 * All the specific gear for the activities will be provided by Uncharted. Still, the basic gear such as mountain boots, rain jackets, warm clothes for all seasons etc. have to be brought by the adventurer itself;
