@@ -5,12 +5,21 @@ import styled from 'styled-components'
 import Image from 'gatsby-image'
 import Script from 'react-load-script'
 import Overdrive from 'react-overdrive'
+import rehypeReact from "rehype-react"
 
 import Header from '../components/Header'
 import Wrapper from '../components/Wrapper'
 import Container from '../components/Container'
 import Content from '../components/Content'
 import Form from '../components/Form'
+import Slider from '../components/Slider'
+
+const renderAst = new rehypeReact({
+  createElement: React.createElement,
+  components: { "form": Form, "slider": Slider }
+}).Compiler
+
+export const DataContext = React.createContext();
 
 export default class IndexPage extends React.Component {
 
@@ -76,11 +85,20 @@ export default class IndexPage extends React.Component {
             ))}
           </Trips> */}
           <Container>
-            <Content>
-              <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}  />
-            </Content>
+            <DataContext.Provider
+              value={{
+                 activities: this.props.data.allMarkdownRemark.edges,
+              }}
+            >
+              <Content>
+                {/* <div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}  /> */}
+                {
+                  renderAst(data.markdownRemark.htmlAst)
+                }
+              </Content>
+            </DataContext.Provider>
           </Container>
-          <Form activities={posts.filter(post => post.node.frontmatter.templateKey === 'activity')}/>
+          {/* <Form activities={posts.filter(post => post.node.frontmatter.templateKey === 'activity')}/> */}
       </Wrapper>
     )
   }
@@ -97,7 +115,7 @@ IndexPage.propTypes = {
 export const pageQuery = graphql`
   query IndexQuery {
     markdownRemark(frontmatter: {templateKey: { eq: "frontpage" }}) {
-      html
+      htmlAst
       frontmatter {
         image {
           childImageSharp {

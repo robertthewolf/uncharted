@@ -13,7 +13,7 @@ const Footer = (props) => (
         <Column>
             <Heading>Adventures</Heading>
             {
-                props.packages.map(({ node: post }) => (
+                props.activities.map(({ node: post }) => (
                     <Link to={post.fields.slug} key={post.id}>
                     {post.frontmatter.title}
                     </Link>

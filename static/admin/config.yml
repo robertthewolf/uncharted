@@ -6,27 +6,42 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "packages"
-    label: "Packages"
-    folder: "src/pages/packages"
+  # - name: "packages"
+  #   label: "Packages"
+  #   folder: "src/pages/packages"
+  #   create: true
+  #   fields:
+  #     - {label: "Template Key", name: "templateKey", widget: "hidden", default: "package"}
+  #     - {label: "Title", name: "title", widget: "string"}
+  #     - {label: "Tagline", name: "tagline", widget: "string"}
+  #     - {label: "Cover image", name: "image", widget: "image"}
+  #     - {label: "Price", name: "price", widget: "string"}
+  #     - {label: "Number of days", name: "lenght", widget: "string"}
+  #     - {label: "Other text", name: "body", widget: "markdown"}
+
+  - name: "stories"
+    label: "Stories"
+    folder: "src/pages/blog"
     create: true
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "package"}
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Tagline", name: "tagline", widget: "string"}
       - {label: "Cover image", name: "image", widget: "image"}
-      - {label: "Price", name: "price", widget: "string"}
-      - {label: "Number of days", name: "lenght", widget: "string"}
-      - {label: "Other text", name: "body", widget: "markdown"}
+      - {label: "Published date", name: "date", widget: "date"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Artice text", name: "body", widget: "markdown"}
 
   - name: "activities"
     label: "Activities"
-    folder: "src/data/activities"
+    folder: "src/pages/activities"
     create: true
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "activity"}
       - {label: "Name", name: "title", widget: "string"}
       - {label: "Thumbnail image", name: "image", widget: "image"}
+      - {label: "Tagline", name: "tagline", widget: "string"}
+      - {label: "Other text", name: "body", widget: "markdown"}
 
 #  pages
 
@@ -63,8 +78,8 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "stories"}
           - {label: "Tagline", name: "tagline", widget: "string"}
-          - {label: "Welcoming paragraph", name: "welcome", widget: "text"}
           - {label: "Cover image", name: "image", widget: "image"}
+          - {label: "Body text", name: "body", widget: "markdown"}
       - file: "src/data/contact.md"
         name: "contact"
         label: "Contact"

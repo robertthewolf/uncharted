@@ -45,7 +45,6 @@ export const ConfirmationPageQuery = graphql`
           }
         }
         tagline
-        welcome
       }
     }
   }

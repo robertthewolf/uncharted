@@ -7,6 +7,8 @@ import Image from 'gatsby-image'
 import styled from 'styled-components'
 
 import Header from '../components/Header'
+import Container from '../components/Container'
+import Content from '../components/Content'
 
 const BlogPost = ({ data }) => {
   const { frontmatter, html } = data.markdownRemark
@@ -14,11 +16,11 @@ const BlogPost = ({ data }) => {
   return (
     <section className="section">
       <Helmet title={`${frontmatter.title} | Blog`} />
-      <Header>
-            <Image sizes={frontmatter.image.childImageSharp.sizes} alt="Transylvania Uncharted" />
-            <Title>{frontmatter.title}</Title>
-      </Header>
-      <Content dangerouslySetInnerHTML={{ __html: html }} />
+      <Header background={frontmatter.image.childImageSharp.sizes} tagline={frontmatter.title}/>
+      
+      <Container>
+            <Content><div dangerouslySetInnerHTML={{ __html: html }}  /></Content>
+          </Container>
     </section>
   )
 }
@@ -53,11 +55,3 @@ export const pageQuery = graphql`
     }
   }
 `
-
-const Title = styled.h1`
-text-align: left
-`
-
-const Content = styled.div`
-max-width: 700px
-margin: 0 auto 5rem`

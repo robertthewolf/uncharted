@@ -1,7 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
 import { navigateTo } from "gatsby-link";
-import Image from 'gatsby-image'
 import Link from 'gatsby-link'
 import windowSize from 'react-window-size';
 
@@ -10,6 +9,10 @@ import 'react-dates/initialize';
 import { DateRangePicker, SingleDatePicker, DayPickerRangeController } from 'react-dates';
 import 'react-dates/lib/css/_datepicker.css';
 import './react_dates_overrides.css'
+
+
+//components
+import Activities from './activities'
 
 
 function encode(data) {
@@ -141,14 +144,7 @@ class Form extends React.Component {
 
                 <Question>What do you want to do?</Question>
                 <Flex justify="space-between" wrap="true">
-                    {this.props.activities.map(({node : post}) => (
-                        <Activity key={post.id}>
-                            <Checkbox type="checkbox" name={post.frontmatter.title} onChange={this.handleChange} />
-                            <FakeCheckbox />
-                            <Image sizes={post.frontmatter.image.childImageSharp.sizes} />
-                            <CheckboxName>{post.frontmatter.title}</CheckboxName>
-                        </Activity>
-                    ))}
+                    <Activities handleChange={this.handleChange} />
                 </Flex>
 
                 <Question>Any other wishes?</Question>
@@ -178,18 +174,19 @@ class Form extends React.Component {
     }
 }
 
+
 export default windowSize(Form);
 
 const Container = styled.form`
 max-width: 650px
-margin: 0 auto
+margin: 0 auto 3rem
 padding: 1rem
 `
 
 const Question = styled.h3`
-font-size: 1rem
+font-size: 1.2rem !important
 text-align: center
-margin: 4rem auto 1rem
+margin: 4rem auto 1rem !important
 
 `
 
@@ -243,79 +240,7 @@ opacity: .5
 const PriceValue = styled.p`
 text-align: center`
 
-// activities
 
-
-const Activity = styled.label`
-min-width: 150px;
-flex: 1;
-display: block;
-position: relative;
-margin: .5rem
-cursor: pointer;
-text-align: center
-
-display: flex;
-flex-direction: column;
-justify-content: stretch;
-
-@media screen and (max-width: 600px) {
-
-}
-img {
-    border-radius: .5rem .5rem 0 0
-}
-.gatsby-image-outer-wrapper {
-    flex: 10;
-    > div {
-        opacity: .6
-        transition: opacity 1s ease
-        height: 100%
-    }
-    background-color: black
-    border-radius: .5rem .5rem 0 0
-}
-`
-
-const Checkbox = styled.input`
-position: absolute
-top: 0;
-left: 0;
-opacity: 0
-cursor: pointer
-width: 100%;
-height: 100%;
-&:checked + div {
-    background-color: #464F8A
-    box-shadow: 0 0 0 5px #1F233D;
-    border-radius: calc(.5rem * 1.05);
-}
-
-&:checked ~ .gatsby-image-outer-wrapper > div {
-    opacity: 1
-}
-`
-
-const FakeCheckbox = styled.div`
-position: absolute
-top: 0;
-left: 0;
-width: 100%;
-height: 100%
-background-color: #1F233D
-border-radius: .5rem
-transition: background-color .5s ease-out;
-`
-const CheckboxName = styled.span`
-text-align: center
-text-transform: uppercase
-position: relative
-z-index: 10
-font-size: 1rem
-font-weight: 200
-display: block
-margin: .5rem
-`
 
 const Comments = styled.textarea`
 resize: none
@@ -337,3 +262,4 @@ a {
     text-decoration: underline
 }
 `
+

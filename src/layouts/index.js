@@ -28,7 +28,7 @@ const TemplateWrapper = ({ children, data }) => {
     </Helmet>
     <Navbar />
     <main>{children()}</main>
-    <Footer packages={posts.filter(post => post.node.frontmatter.templateKey === 'package')} />
+    <Footer activities={posts.filter(post => post.node.frontmatter.templateKey === 'activity')} />
   </div>
   )
 }
@@ -42,12 +42,11 @@ TemplateWrapper.propTypes = {
 
 export default TemplateWrapper
 
-export const layoutQuery = graphql`
+export const query = graphql`
   query LayoutQuery {
     allMarkdownRemark {
       edges {
         node {
-          excerpt(pruneLength: 400)
           id
           fields {
             slug

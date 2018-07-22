@@ -6,6 +6,8 @@ import Image from 'gatsby-image'
 
 import Header from '../components/Header'
 import Wrapper from '../components/Wrapper'
+import Container from '../components/Container'
+import Content from '../components/Content'
 
 
 export default class StoriesPage extends React.Component {
@@ -16,9 +18,11 @@ export default class StoriesPage extends React.Component {
 
     return (
       <Wrapper>
-              <Header background={frontmatter.image.childImageSharp.sizes} tagline={frontmatter.tagline}/>
-
-            <Welcome>{frontmatter.welcome}</Welcome>
+          <Header background={frontmatter.image.childImageSharp.sizes} tagline={frontmatter.tagline}/>
+      
+          <Container>
+            <Content><div dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}  /></Content>
+          </Container>
           <Stories>
           {posts
             .filter(post => post.node.frontmatter.templateKey === 'blog-post')
@@ -64,7 +68,6 @@ export const pageQuery = graphql`
           }
         }
         tagline
-        welcome
       }
     }
     allMarkdownRemark {
