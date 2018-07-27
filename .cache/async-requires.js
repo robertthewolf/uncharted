@@ -67,7 +67,13 @@ exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Robert/uncharted/.cache/json/layout-index.json"),
   "terms.json": require("gatsby-module-loader?name=path---terms!/Users/Robert/uncharted/.cache/json/terms.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Robert/uncharted/.cache/json/layout-index.json"),
-  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/Robert/uncharted/.cache/json/404-html.json")
+  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/Robert/uncharted/.cache/json/404-html.json"),
+  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Robert/uncharted/.cache/json/layout-index.json"),
+  "tags-tags.json": require("gatsby-module-loader?name=path---tags-tags!/Users/Robert/uncharted/.cache/json/tags-tags.json"),
+  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Robert/uncharted/.cache/json/layout-index.json"),
+  "tags-not.json": require("gatsby-module-loader?name=path---tags-not!/Users/Robert/uncharted/.cache/json/tags-not.json"),
+  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Robert/uncharted/.cache/json/layout-index.json"),
+  "tags-used.json": require("gatsby-module-loader?name=path---tags-used!/Users/Robert/uncharted/.cache/json/tags-used.json")
 }
 
 exports.layouts = {

@@ -1702,7 +1702,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "86cc7010deb4202b8177d394dfc9edc7",
+        "contentDigest": "8510f33246266b922d5cb969a8888cff",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1711,12 +1711,12 @@
       "absolutePath": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
       "relativePath": "blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
       "extension": "md",
-      "size": 2231,
-      "prettySize": "2.23 kB",
-      "modifiedTime": "2018-07-22T15:13:29.472Z",
-      "accessTime": "2018-07-27T22:11:09.664Z",
-      "changeTime": "2018-07-22T15:13:29.472Z",
-      "birthTime": "2018-07-22T15:13:29.471Z",
+      "size": 217,
+      "prettySize": "217 B",
+      "modifiedTime": "2018-07-27T22:58:26.304Z",
+      "accessTime": "2018-07-27T22:58:26.304Z",
+      "changeTime": "2018-07-27T22:58:26.304Z",
+      "birthTime": "2018-07-27T22:58:26.304Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages/blog",
       "base": "2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
@@ -1730,16 +1730,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8606640502,
+      "ino": 8606787598,
       "blocks": 8,
-      "atimeMs": 1532729469664.4846,
-      "mtimeMs": 1532272409472.4907,
-      "ctimeMs": 1532272409472.4907,
-      "birthtimeMs": 1532272409470.7573,
-      "atime": "2018-07-27T22:11:09.664Z",
-      "mtime": "2018-07-22T15:13:29.472Z",
-      "ctime": "2018-07-22T15:13:29.472Z",
-      "birthtime": "2018-07-22T15:13:29.471Z"
+      "atimeMs": 1532732306303.8833,
+      "mtimeMs": 1532732306304.1729,
+      "ctimeMs": 1532732306304.1729,
+      "birthtimeMs": 1532732306303.8833,
+      "atime": "2018-07-27T22:58:26.304Z",
+      "mtime": "2018-07-27T22:58:26.304Z",
+      "ctime": "2018-07-27T22:58:26.304Z",
+      "birthtime": "2018-07-27T22:58:26.304Z"
     },
     "/Users/Robert/uncharted/src/pages/contact.js absPath of file": {
       "id": "/Users/Robert/uncharted/src/pages/contact.js absPath of file",
@@ -1836,7 +1836,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "17250ec840dbfcab06f44dad68464a99",
+        "contentDigest": "d6faec50be2ccd8e2c159630baa83889",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1845,12 +1845,12 @@
       "absolutePath": "/Users/Robert/uncharted/src/pages/activities/4x4-off-road.md",
       "relativePath": "activities/4x4-off-road.md",
       "extension": "md",
-      "size": 79,
-      "prettySize": "79 B",
-      "modifiedTime": "2018-05-12T08:33:46.709Z",
-      "accessTime": "2018-07-27T22:11:09.664Z",
-      "changeTime": "2018-05-12T08:33:46.709Z",
-      "birthTime": "2018-05-12T08:33:46.708Z",
+      "size": 111,
+      "prettySize": "111 B",
+      "modifiedTime": "2018-07-27T22:58:26.303Z",
+      "accessTime": "2018-07-27T22:58:26.303Z",
+      "changeTime": "2018-07-27T22:58:26.303Z",
+      "birthTime": "2018-07-27T22:58:26.303Z",
       "root": "/",
       "dir": "/Users/Robert/uncharted/src/pages/activities",
       "base": "4x4-off-road.md",
@@ -1864,16 +1864,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 8603426167,
+      "ino": 8606787597,
       "blocks": 8,
-      "atimeMs": 1532729469663.9363,
-      "mtimeMs": 1526114026708.908,
-      "ctimeMs": 1526114026708.908,
-      "birthtimeMs": 1526114026708.4424,
-      "atime": "2018-07-27T22:11:09.664Z",
-      "mtime": "2018-05-12T08:33:46.709Z",
-      "ctime": "2018-05-12T08:33:46.709Z",
-      "birthtime": "2018-05-12T08:33:46.708Z"
+      "atimeMs": 1532732306302.6343,
+      "mtimeMs": 1532732306302.9731,
+      "ctimeMs": 1532732306302.9731,
+      "birthtimeMs": 1532732306302.6343,
+      "atime": "2018-07-27T22:58:26.303Z",
+      "mtime": "2018-07-27T22:58:26.303Z",
+      "ctime": "2018-07-27T22:58:26.303Z",
+      "birthtime": "2018-07-27T22:58:26.303Z"
     },
     "/Users/Robert/uncharted/src/pages/activities/adventure-park.md absPath of file": {
       "id": "/Users/Robert/uncharted/src/pages/activities/adventure-park.md absPath of file",
@@ -2380,64 +2380,6 @@
       "mtime": "2018-05-31T14:40:30.500Z",
       "ctime": "2018-05-31T14:40:30.500Z",
       "birthtime": "2018-05-31T14:40:30.499Z"
-    },
-    "/Users/Robert/uncharted/src/pages/activities/4x4-off-road.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/pages/activities/4x4-off-road.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/pages/activities/4x4-off-road.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: activity\ntitle: 4x4 Off Road\nimage: /img/untitled-70.jpg\n---\n\n",
-        "contentDigest": "b5fde7db1cd8af89bd92ebd3e2725499",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "4x4 Off Road",
-        "templateKey": "activity",
-        "image": "../../../static/img/untitled-70.jpg",
-        "_PARENT": "/Users/Robert/uncharted/src/pages/activities/4x4-off-road.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/pages/activities/4x4-off-road.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/activities/4x4-off-road.md",
-      "fields": {
-        "slug": "/activities/4x4-off-road/"
-      }
-    },
-    "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: blog-post\nimage: /img/hero1.jpg\ntitle: Making sense of the SCAA’s new Flavor Wheel\ndate: 2016-12-17T15:04:10.000Z\ndescription: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.\ntags:\n  - flavor\n  - tasting\n---\n\n![flavor wheel](/img/flavor_wheel.jpg)\n\nThe SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.\n\nWhile this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.\n\n## What the updates mean to you\n\nThe Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:\n\n* producers\n* roasters\n* importers/exporters\n* retailers\n* manufacturers\n* baristas\n\nFor over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.\n\nCoffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as \"Q Graders\". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.\n\nThe coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.\n",
-        "contentDigest": "f6ab6fa2cbd8b99a4c71eeb028135014",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Making sense of the SCAA’s new Flavor Wheel",
-        "templateKey": "blog-post",
-        "image": "../../../static/img/hero1.jpg",
-        "date": "2016-12-17T15:04:10.000Z",
-        "description": "The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.",
-        "tags": [
-          "flavor",
-          "tasting"
-        ],
-        "_PARENT": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
-        "parent": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
-      "fields": {
-        "slug": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
-      }
     },
     "/Users/Robert/uncharted/src/pages/activities/adventure-park.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/uncharted/src/pages/activities/adventure-park.md absPath of file >>> MarkdownRemark",
@@ -6485,7 +6427,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "95f2fef9de20cc893297c4f52932d116",
+        "contentDigest": "5b23141720e5ff98abab9cb5cb11bf29",
         "owner": "internal-data-bridge"
       }
     },
@@ -6507,7 +6449,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8ffc006c69633f8d9eb0357d143ceba1",
+        "contentDigest": "a4e5df30e6a94057166d1495eff4469d",
         "owner": "internal-data-bridge"
       }
     },
@@ -6529,7 +6471,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6a49a522a512c211c169df55b845c729",
+        "contentDigest": "cadb6231953025aded523633973cf5ce",
         "owner": "internal-data-bridge"
       }
     },
@@ -6551,7 +6493,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7c6f83cb45395be4e0319e28b48c9be9",
+        "contentDigest": "c1984ab538b9b87d00592ceaeca1c2e9",
         "owner": "internal-data-bridge"
       }
     },
@@ -6573,7 +6515,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "643999afe603e6c7f4fa9abb3a205d71",
+        "contentDigest": "a44262a349a3680128b84a056dcd3b2c",
         "owner": "internal-data-bridge"
       }
     },
@@ -6595,7 +6537,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a12ae6725ec373ff42274b92af98dda4",
+        "contentDigest": "75c9898ebbab8618728b1353bf768d91",
         "owner": "internal-data-bridge"
       }
     },
@@ -6617,7 +6559,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7e4b5ae1311dd56d6369158e3492d88a",
+        "contentDigest": "52b3daf247578c6bbd4bc7b13f857b98",
         "owner": "internal-data-bridge"
       }
     },
@@ -6639,7 +6581,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b4fff8b672c51417528cdc8e7f54911c",
+        "contentDigest": "b47b49976af7f631acbdcf809a8319a6",
         "owner": "internal-data-bridge"
       }
     },
@@ -6661,7 +6603,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e09b650643d5046f804b3a7f7da48140",
+        "contentDigest": "4b6a9042bd9f072fc7eb2cbc875d260a",
         "owner": "internal-data-bridge"
       }
     },
@@ -6683,7 +6625,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3099ffc46c6d51fe4a4d16228966dfc7",
+        "contentDigest": "89b5045427d830e743cd547b88f24531",
         "owner": "internal-data-bridge"
       }
     },
@@ -6705,7 +6647,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "17c8ef4f639107492995fa03642ceea7",
+        "contentDigest": "294a3aaac7b3440342282f15a2674632",
         "owner": "internal-data-bridge"
       }
     },
@@ -6727,7 +6669,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "69120cfef1fcba9028797dea420e07fb",
+        "contentDigest": "26f8b91487faf1f08b3c67f282ef0540",
         "owner": "internal-data-bridge"
       }
     },
@@ -6749,7 +6691,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ab80686d6bca4cba54a4aae04fdc6118",
+        "contentDigest": "206f7cbe9826364940e58719f2e41759",
         "owner": "internal-data-bridge"
       }
     },
@@ -6976,6 +6918,132 @@
         "contentDigest": "2e36eff24d9864d8d3271deb369ce6c1",
         "owner": "internal-data-bridge"
       }
+    },
+    "/Users/Robert/uncharted/src/pages/activities/4x4-off-road.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/pages/activities/4x4-off-road.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/pages/activities/4x4-off-road.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: activity\ntitle: 4x4 Off Road\nimage: /img/untitled-70.jpg\ntagline: Your offroad adventure\n---\n\n",
+        "contentDigest": "afb91688d481c5a5bda111bc7ba52338",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "4x4 Off Road",
+        "templateKey": "activity",
+        "image": "../../../static/img/untitled-70.jpg",
+        "tagline": "Your offroad adventure",
+        "_PARENT": "/Users/Robert/uncharted/src/pages/activities/4x4-off-road.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/pages/activities/4x4-off-road.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/activities/4x4-off-road.md",
+      "fields": {
+        "slug": "/activities/4x4-off-road/"
+      }
+    },
+    "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: blog-post\ntitle: First article\nimage: /img/hero1.jpg\ndate: 2016-12-17T15:04:10.000Z\ndescription: Description (not used for anything now)\ntags:\n  - tags\n  - not\n  - used\n---\nLorem Ipsum Dolor Sit Amet\n",
+        "contentDigest": "11d36bb6f368057290e44af383ddd5bb",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "First article",
+        "templateKey": "blog-post",
+        "image": "../../../static/img/hero1.jpg",
+        "date": "2016-12-17T15:04:10.000Z",
+        "description": "Description (not used for anything now)",
+        "tags": [
+          "tags",
+          "not",
+          "used"
+        ],
+        "_PARENT": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file",
+        "parent": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/uncharted/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md",
+      "fields": {
+        "slug": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
+      }
+    },
+    "SitePage /tags/tags/": {
+      "layout": "index",
+      "jsonName": "tags-tags.json",
+      "internalComponentName": "ComponentTagsTags",
+      "path": "/tags/tags/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "tags"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/tags/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "feaf082a2f0fa6c68931ae2d729b3956",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/not/": {
+      "layout": "index",
+      "jsonName": "tags-not.json",
+      "internalComponentName": "ComponentTagsNot",
+      "path": "/tags/not/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "not"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/not/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "da6a53f542828115b11ef92e163a3301",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/used/": {
+      "layout": "index",
+      "jsonName": "tags-used.json",
+      "internalComponentName": "ComponentTagsUsed",
+      "path": "/tags/used/",
+      "component": "/Users/Robert/uncharted/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "used"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/Robert/uncharted/src/templates/tags.js",
+      "id": "SitePage /tags/used/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "67728f055ea00357a8280fea622ae662",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -7155,7 +7223,10 @@
       ],
       "Site": [
         "/tags/flavor/",
-        "/tags/tasting/"
+        "/tags/tasting/",
+        "/tags/used/",
+        "/tags/not/",
+        "/tags/tags/"
       ],
       "/Users/Robert/uncharted/src/data/concept.md absPath of file >>> MarkdownRemark": [
         "/concept/"
@@ -7243,7 +7314,10 @@
         "/tags/tasting/",
         "/",
         "/stories/",
-        "LAYOUT___index"
+        "LAYOUT___index",
+        "/tags/used/",
+        "/tags/not/",
+        "/tags/tags/"
       ],
       "SitePage": [
         "/dev-404-page/"

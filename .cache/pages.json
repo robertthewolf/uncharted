@@ -173,5 +173,26 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "404-html.json",
         "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-tags.json",
+        "path": "/tags/tags/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-not.json",
+        "path": "/tags/not/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-used.json",
+        "path": "/tags/used/"
     }
 ]

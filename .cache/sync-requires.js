@@ -72,5 +72,11 @@ exports.json = {
   "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
   "terms.json": require("/Users/Robert/uncharted/.cache/json/terms.json"),
   "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
-  "404-html.json": require("/Users/Robert/uncharted/.cache/json/404-html.json")
+  "404-html.json": require("/Users/Robert/uncharted/.cache/json/404-html.json"),
+  "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
+  "tags-tags.json": require("/Users/Robert/uncharted/.cache/json/tags-tags.json"),
+  "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
+  "tags-not.json": require("/Users/Robert/uncharted/.cache/json/tags-not.json"),
+  "layout-index.json": require("/Users/Robert/uncharted/.cache/json/layout-index.json"),
+  "tags-used.json": require("/Users/Robert/uncharted/.cache/json/tags-used.json")
 }
