@@ -49,7 +49,7 @@ img {
     margin: 2rem auto;
 }
 
-ul {
+ul:not(.DayPicker_weekHeader_ul) {
     margin: 0 2rem
     padding: 3rem 0
     display: grid

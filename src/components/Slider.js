@@ -1,30 +1,37 @@
 import React from 'react'
 import styled from 'styled-components'
 
+import DragScroll from 'react-dragscroll'
+
 export default ({ children }) => {
   return (
     <Slider>
-      {children}
+      <DragScroll width={'100vw'} height={'100%'}>
+        <Flex>
+        {children}
+        </Flex>
+      </DragScroll>
     </Slider>
   )
 }
 
 const Slider = styled.div`
-// display: flex;
-overflow-x: scroll;
-white-space: nowrap;
 width: 100vw;
 position: relative;
 left: 50%;
 transform: translateX(-50%);
-> * {
-    display: inline-block;
-    vertical-align: top;
-    margin: 1rem;
+
+> div {
+  width: 100vw;
+  overflow-x: scroll;
+  cursor: grabbing;
 }
+`
 
-
-&::-webkit-scrollbar {
-    width: 0px;  /* remove scrollbar space */
-    background: transparent;  /* optional: just make scrollbar invisible */
+const Flex = styled.div`
+white-space: nowrap;
+> * {
+  display: inline-block;
+  vertical-align: top;
+  margin: 1rem;
 }`

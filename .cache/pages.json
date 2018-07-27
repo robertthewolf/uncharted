@@ -1,17 +1,10 @@
 [
     {
-        "componentChunkName": "component---src-templates-package-js",
+        "componentChunkName": "component---src-templates-activity-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-fullnatureadventure.json",
-        "path": "/packages/fullnatureadventure/"
-    },
-    {
-        "componentChunkName": "component---src-templates-package-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-medieval-and-wild-adventure.json",
-        "path": "/packages/medieval-and-wild-adventure/"
+        "jsonName": "activities-4-x-4-off-road.json",
+        "path": "/activities/4x4-off-road/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -19,13 +12,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json",
         "path": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
-    },
-    {
-        "componentChunkName": "component---src-templates-package-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-the-wild-carpathians.json",
-        "path": "/packages/the-wild-carpathians/"
     },
     {
         "componentChunkName": "component---src-templates-activity-js",
@@ -38,29 +24,15 @@
         "componentChunkName": "component---src-templates-activity-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "activities-hiking.json",
-        "path": "/activities/hiking/"
-    },
-    {
-        "componentChunkName": "component---src-templates-activity-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "activities-hunt.json",
-        "path": "/activities/hunt/"
-    },
-    {
-        "componentChunkName": "component---src-templates-activity-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "activities-4-x-4-off-road.json",
-        "path": "/activities/4x4-off-road/"
-    },
-    {
-        "componentChunkName": "component---src-templates-activity-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "activities-mountain-biking.json",
         "path": "/activities/mountain-biking/"
+    },
+    {
+        "componentChunkName": "component---src-templates-activity-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "activities-hiking.json",
+        "path": "/activities/hiking/"
     },
     {
         "componentChunkName": "component---src-templates-activity-js",
@@ -73,8 +45,29 @@
         "componentChunkName": "component---src-templates-activity-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "activities-hunt.json",
+        "path": "/activities/hunt/"
+    },
+    {
+        "componentChunkName": "component---src-templates-activity-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "activities-mountain-kayaking.json",
         "path": "/activities/mountain-kayaking/"
+    },
+    {
+        "componentChunkName": "component---src-templates-activity-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "activities-survival-in-the-forest.json",
+        "path": "/activities/survival-in-the-forest/"
+    },
+    {
+        "componentChunkName": "component---src-templates-package-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-fullnatureadventure.json",
+        "path": "/packages/fullnatureadventure/"
     },
     {
         "componentChunkName": "component---src-templates-activity-js",
@@ -84,11 +77,18 @@
         "path": "/activities/snowshoe-hiking/"
     },
     {
-        "componentChunkName": "component---src-templates-activity-js",
+        "componentChunkName": "component---src-templates-package-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "activities-survival-in-the-forest.json",
-        "path": "/activities/survival-in-the-forest/"
+        "jsonName": "packages-the-wild-carpathians.json",
+        "path": "/packages/the-wild-carpathians/"
+    },
+    {
+        "componentChunkName": "component---src-templates-package-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-medieval-and-wild-adventure.json",
+        "path": "/packages/medieval-and-wild-adventure/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",

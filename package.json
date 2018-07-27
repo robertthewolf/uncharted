@@ -29,6 +29,7 @@
     "react": "^16.3.1",
     "react-dates": "^16.5.0",
     "react-dom": "^16.3.1",
+    "react-dragscroll": "^2.0.1",
     "react-helmet": "^5.2.0",
     "react-load-script": "0.0.6",
     "react-overdrive": "0.0.9",

@@ -99,6 +99,11 @@ class Form extends React.Component {
                     </label>
                 </p>
 
+                <Question>What do you want to do?</Question>
+                <Flex justify="space-between" wrap="true">
+                    <Activities handleChange={this.handleChange} />
+                </Flex>
+
                 <Question>When do you want to go?</Question>
                 <Date>
                 <DateRangePicker
@@ -142,10 +147,6 @@ class Form extends React.Component {
                     
                     
 
-                <Question>What do you want to do?</Question>
-                <Flex justify="space-between" wrap="true">
-                    <Activities handleChange={this.handleChange} />
-                </Flex>
 
                 <Question>Any other wishes?</Question>
                 <Comments name="comments" onChange={this.handleChange}>
@@ -187,7 +188,9 @@ const Question = styled.h3`
 font-size: 1.2rem !important
 text-align: center
 margin: 4rem auto 1rem !important
-
+@media screen and (max-width: 600px) {
+    margin: 2rem auto 1rem !important
+}
 `
 
 const Date = styled.div`
