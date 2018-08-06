@@ -1,7 +1,7 @@
 ---
 templateKey: activity
 title: 4x4 Off Road
-image: /img/file_000.jpeg
+image: /img/untitled-70.jpg
 tagline: Your offroad adventure
 ---
 
