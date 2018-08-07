@@ -4,7 +4,7 @@ title: Rock Climbing
 image: /img/rumænien-240317-15854.jpg
 tagline: ' '
 ---
-# We take you higher and higher.
+# We take you higher and higher
 
 If you are an experienced climber, or just an adventurer who wants to make the most of every trip, this is your chance! Climb the grey walls that emerge from the Transylvanian forests and make this experience unforgettable. 
 
