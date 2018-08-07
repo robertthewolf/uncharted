@@ -29,7 +29,7 @@ Since the adventures that we offer are considered package tour, you, the adventu
 * 100% of the package price refunded, if the customer (adventurer) cancels in the timeframe of ≥ 30 days before the first day of the tour
 * 80% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 20-29 days before the first day of the tour  
 * 50% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 10-19 days before the first day of the tour 
-* 20% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 4-9 days before the first day of the tour
+* 20% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 7-9 days before the first day of the tour
 
 ** There is no refund, if the customer (adventurer) cancels in the timeframe of 7 or less days before the first day of the tour or for not showing up at all. **
 
