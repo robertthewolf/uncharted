@@ -31,7 +31,7 @@ Since the adventures that we offer are considered package tour, you, the adventu
 * 50% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 10-19 days before the first day of the tour;  
 * 20% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 4-9 days before the first day of the tour;  
 
-#### There is no refund, if the customer (adventurer) cancels in the timeframe of 3 or less days before the first day of the tour or for not showing up at all.  
+### There is no refund, if the customer (adventurer) cancels in the timeframe of 3 or less days before the first day of the tour or for not showing up at all.  
 
 The right of cancellation may be limited or derogated from in the contract if the organizer has a limited right of cancellation in relation to a third party.
 
