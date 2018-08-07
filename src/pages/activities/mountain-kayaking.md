@@ -12,4 +12,4 @@ Getting a perspective from the roots of the mountains is a once in a lifetime ex
 
 Sliding as the water goes and following its natural path will make your trip unpredictable and fun!
 
-![](/img/screen-shot-2018-08-07-at-14.03.21.png)
+![null](/img/screen-shot-2018-08-08-at-00.39.51-1-.png)
