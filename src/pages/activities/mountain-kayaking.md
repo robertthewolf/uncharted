@@ -11,3 +11,5 @@ Running through Romania’s rivers will sure get you your arms stronger and your
 Getting a perspective from the roots of the mountains is a once in a lifetime experience and we hope you will take advance of this adventure. Not only kayaking will provide you with great skills and teamwork abilities but will help you see the mountains from below.
 
 Sliding as the water goes and following its natural path will make your trip unpredictable and fun!
+
+![](/img/screen-shot-2018-08-07-at-14.03.21.png)
