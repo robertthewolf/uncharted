@@ -18,11 +18,3 @@ image: /img/dsc_0325.jpg
 </slider>
 
 <form></form>
-
-<slider>
-
-![null](/img/transylvania-offroad.png)
-
-![](/img/questo.png)
-
-</slider>
