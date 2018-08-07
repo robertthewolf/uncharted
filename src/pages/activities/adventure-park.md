@@ -13,3 +13,5 @@ This time, the exciting games we have prepared for you will be the ones making s
 Taking advantage of the fresh air while performing exciting activities will clear your mind from all the stress and will help you become focused on doing the right moves at the right times.
 
 Taking it to the next level with the different paths and their levels of performance will challenge yourself and will take you out of the comfort zone ...just saying!
+
+![](/img/escalada.jpg)
