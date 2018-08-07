@@ -2,7 +2,7 @@
 templateKey: activity
 title: 4x4 Off Road
 image: /img/dsc04624.jpg
-tagline: Your offroad adventure
+tagline: '  '
 ---
 # Feeling low on energy? No problem!
 
