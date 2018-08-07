@@ -26,10 +26,10 @@ After your request has been processed, you will receive an email confirming your
 
 Since the adventures that we offer are considered package tour, you, the adventurer are covered by the Package Travel Act. According to it, the customer (adventurer) is entitled to cancellation. Should the adventurer cancel the package tour, the organizer (Uncharted) can only claim appropriate compensation as determined considering the timing of the cancellation and the nature of the package tour. If the upper paragraph applies, the customer (adventurer) is refunded as the following:  
 
-* 100% of the package price refunded, if the customer (adventurer) cancels in the timeframe of > 30 days before the first day of the tour;  
-* 80% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 20-29 days before the first day of the tour;  
-* 50% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 10-19 days before the first day of the tour;  
-* 20% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 4-9 days before the first day of the tour;
+* 100% of the package price refunded, if the customer (adventurer) cancels in the timeframe of ≥ 30 days before the first day of the tour
+* 80% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 20-29 days before the first day of the tour  
+* 50% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 10-19 days before the first day of the tour 
+* 20% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 4-9 days before the first day of the tour
 
 **There is no refund, if the customer (adventurer) cancels in the timeframe of 3 or less days before the first day of the tour or for not showing up at all.**
 
