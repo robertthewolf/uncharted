@@ -4,7 +4,7 @@ title: Winter Fun
 image: /img/dsc_1067.jpg
 tagline: 'Snowboarding, Skiing & Snowshoe Hiking '
 ---
-# Adventure skiing/ Snowboarding in the Area of Sibiu
+# Adventure skiing and Snowboarding
 
 I’m ready for you in every season of the year, just so you know. Skiing/ Snowboarding is one of my winter themed activities and I can guarantee you will have a blast! 
 
@@ -15,8 +15,6 @@ Furthermore, the resort has the most modern fun-park in Romania, with nightlight
 Lastly, every weekend, Arena Platos Paltinis gathers competitions for professionals, wacky games like “Slide and Freeze” or “Miss Bikini” contests. The audience of these events and the adrenaline that they provide, have made them become legendary within the Carpathian Mountains. 
 
 If a skiing/ snowboarding session is not enough for you, simply just go for the other options too, and remember that you can mix and match your adventure pack, tailoring it for your own personal preferences, abilities and desires! 
-
-
 
 # Snowshoe Hiking
 
