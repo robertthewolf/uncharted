@@ -16,6 +16,8 @@ Lastly, every weekend, Arena Platos Paltinis gathers competitions for profession
 
 If a skiing/ snowboarding session is not enough for you, simply just go for the other options too, and remember that you can mix and match your adventure pack, tailoring it for your own personal preferences, abilities and desires! 
 
+![](/img/dsc_0238.jpg)
+
 # Snowshoe Hiking
 
 I am ready for you in every season of the year, just so you know. Snow Shoes Hiking is one of my winter themed activities and I can guarantee you will have a blast!
