@@ -12,6 +12,4 @@ Our team has managed to get you some -adventurer quests- around the major cities
 
 Together with Uncharted, you will be able to take part of this beautiful and relaxing change of discovering Transylvanian and its remarkable history.
 
-![](/img/untitled-65.jpg)
-
-![]()
+![null](/img/rumænien-270317-15626.jpg)
