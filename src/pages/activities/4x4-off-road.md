@@ -11,4 +11,4 @@ If you ever get exhausted or if biking is not really your jam, spice your advent
 
 Whether is a sheepfold on the top of the mountains where you just want to take a picnic and enjoy the view, or a remote village to discover crafts and traditions, we got you covered. Our team’s cars have learnt their paths far better than the brown bear ruling over Carpathians ever has. All you need to do is to embrace the bumpy ride whilst admiring the nature.
 
-![](/img/untitled-70.jpg)
+![null](/img/img_2062.jpg)
