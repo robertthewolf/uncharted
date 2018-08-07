@@ -12,6 +12,12 @@ image: /img/untitled-55.jpg
 * All the specific gear for the activities will be provided by Uncharted. Still, the basic gear such as mountain boots, rain jackets, warm clothes for all seasons etc. have to be brought by the adventurer itself;
 * In case of external factors, such as bad weather, interfering with the plan, some of the activities might be replaced with more suitable ones for the weather conditions. These measures will be taken to ensure that you will have the best experience.
 
+## Personal information
+
+Your personal information collected by Uncharted may be disclosed, either directly or through our partners, for the purposes of offering or booking travel services on your behalf, such as your name, age, address, phone number, e-mail address, emergency contact information, passport information, nationality, residency, nutrition preferences. This personal information allows us to provide you with trip information, accommodations, process payments, and provide similar travel services such as the activities.
+
+Uncharted puts high emphasis on sustainable travelling, often relying on local service providers in order to ensure a genuine adventure for you and your fellow travellers. Please be aware that Uncharted may be required to provide certain personal information to our service providers for the purposes of delivering your experience. When you book travel services with us, you consent to the collection, use and disclosure of your personal information by Flash Pack—and the corresponding collection and use by the relevant travel partners or suppliers—for the purposes of administering and delivering the travel services you requested.
+
 ## Deposit and Full Payment
 
 After your request has been processed, you will receive an email confirming your booking and containing your invoice. To finalize your request for the offer and have a place booked within the tour, you will have 7 days to pay at least 50% of the amount received in the invoice. The rest of the amount must be paid latest 30 days due the trip’s departure. If the trip is due in less than 30 days, the full payment must be done at once. (Note: please check the invoice for due date as well as additional information regarding reminders)
@@ -24,7 +30,8 @@ Since the adventures that we offer are considered package tour, you, the adventu
 * 80% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 20-29 days before the first day of the tour;  
 * 50% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 10-19 days before the first day of the tour;  
 * 20% of the package price refunded, if the customer (adventurer) cancels in the timeframe of 4-9 days before the first day of the tour;  
-* There is no refund, if the customer (adventurer) cancels in the timeframe of 3 or less days before the first day of the tour or for not showing up at all.  
+
+#### There is no refund, if the customer (adventurer) cancels in the timeframe of 3 or less days before the first day of the tour or for not showing up at all.  
 
 The right of cancellation may be limited or derogated from in the contract if the organizer has a limited right of cancellation in relation to a third party.
 
