@@ -1,6 +1,6 @@
 ---
 templateKey: activity
-title: Winter Fun
+title: Winter Adventure
 image: /img/dsc_1067.jpg
 tagline: 'Snowboarding, Skiing & Snowshoe Hiking '
 ---
