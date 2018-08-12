@@ -22,7 +22,6 @@ left: 50%;
 transform: translateX(-50%);
 
 > div {
-  width: 100vw;
   overflow-x: scroll;
   cursor: grabbing;
 }

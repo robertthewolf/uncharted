@@ -5,6 +5,7 @@
   "author": "Robert Wolf",
   "dependencies": {
     "bulma": "^0.6.0",
+    "dragscroll": "0.0.8",
     "gatsby": "^1.9.213",
     "gatsby-image": "^1.0.52",
     "gatsby-link": "^1.6.37",

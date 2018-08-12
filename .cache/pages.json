@@ -1,5 +1,26 @@
 [
     {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json",
+        "path": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
+    },
+    {
+        "componentChunkName": "component---src-templates-package-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-fullnatureadventure.json",
+        "path": "/packages/fullnatureadventure/"
+    },
+    {
+        "componentChunkName": "component---src-templates-package-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "packages-medieval-and-wild-adventure.json",
+        "path": "/packages/medieval-and-wild-adventure/"
+    },
+    {
         "componentChunkName": "component---src-templates-activity-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -7,11 +28,11 @@
         "path": "/activities/4x4-off-road/"
     },
     {
-        "componentChunkName": "component---src-templates-blog-post-js",
+        "componentChunkName": "component---src-templates-package-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json",
-        "path": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"
+        "jsonName": "packages-the-wild-carpathians.json",
+        "path": "/packages/the-wild-carpathians/"
     },
     {
         "componentChunkName": "component---src-templates-activity-js",
@@ -24,22 +45,8 @@
         "componentChunkName": "component---src-templates-activity-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "activities-mountain-biking.json",
-        "path": "/activities/mountain-biking/"
-    },
-    {
-        "componentChunkName": "component---src-templates-activity-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "activities-hiking.json",
         "path": "/activities/hiking/"
-    },
-    {
-        "componentChunkName": "component---src-templates-activity-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "activities-rock-climbing.json",
-        "path": "/activities/rock-climbing/"
     },
     {
         "componentChunkName": "component---src-templates-activity-js",
@@ -52,8 +59,22 @@
         "componentChunkName": "component---src-templates-activity-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "activities-mountain-biking.json",
+        "path": "/activities/mountain-biking/"
+    },
+    {
+        "componentChunkName": "component---src-templates-activity-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "activities-mountain-kayaking.json",
         "path": "/activities/mountain-kayaking/"
+    },
+    {
+        "componentChunkName": "component---src-templates-activity-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "activities-rock-climbing.json",
+        "path": "/activities/rock-climbing/"
     },
     {
         "componentChunkName": "component---src-templates-activity-js",
@@ -63,13 +84,6 @@
         "path": "/activities/survival-in-the-forest/"
     },
     {
-        "componentChunkName": "component---src-templates-package-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-fullnatureadventure.json",
-        "path": "/packages/fullnatureadventure/"
-    },
-    {
         "componentChunkName": "component---src-templates-activity-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -77,32 +91,25 @@
         "path": "/activities/snowshoe-hiking/"
     },
     {
-        "componentChunkName": "component---src-templates-package-js",
+        "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-the-wild-carpathians.json",
-        "path": "/packages/the-wild-carpathians/"
-    },
-    {
-        "componentChunkName": "component---src-templates-package-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "packages-medieval-and-wild-adventure.json",
-        "path": "/packages/medieval-and-wild-adventure/"
+        "jsonName": "tags-tags.json",
+        "path": "/tags/tags/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-flavor.json",
-        "path": "/tags/flavor/"
+        "jsonName": "tags-not.json",
+        "path": "/tags/not/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-tasting.json",
-        "path": "/tags/tasting/"
+        "jsonName": "tags-used.json",
+        "path": "/tags/used/"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",
@@ -173,26 +180,5 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "404-html.json",
         "path": "/404.html"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-tags.json",
-        "path": "/tags/tags/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-not.json",
-        "path": "/tags/not/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-used.json",
-        "path": "/tags/used/"
     }
 ]
