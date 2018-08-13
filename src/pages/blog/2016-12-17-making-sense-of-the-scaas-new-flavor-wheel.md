@@ -80,7 +80,11 @@ tags:
     very cool rock climbing as well. The Romanian wilderness will make you feel
     small and insignificant compared nature's forces"
 ---
-When I travel, I always pick my destinations from a nature lovers point of view. I like to go to remote places, preferably as far away from home as possible and for as long as possible. Last summer my brother and I had just a one week window and a very limited budged for doing a wilderness hiking trip together in July. We wanted the trip to be an adventurous one, and we wanted to go somewhere that was "new ground" for both of us. After a bit of research and google image searching, we decided on the Carpathian mountains in Romania, which was only a 4 hours flight away from Copenhagen. We knew that the cost of living would be very low in Romania (and it certainly was!) Our only night in a hotel was 80 DKK each, and the hotel was pretty nice! We landed in Sibiu airport, went into town to get supplies for the hiking trip (mainly fuel for the stove, which was fairly easy to find), then we got a taxi straight to the very small village og Sebesu de Sus where we started our hike right away. 
+When I travel, I always pick my destinations from a nature lovers point of view. I like to go to remote places, preferably as far away from home as possible and for as long as possible. Last summer my brother and I had just a one week window and a very limited budged for doing a wilderness hiking trip together in July. We wanted the trip to be an adventurous one, and we wanted to go somewhere that was "new ground" for both of us. 
+
+![](/img/img_6874.jpg)
+
+After a bit of research and google image searching, we decided on the Carpathian mountains in Romania, which was only a 4 hours flight away from Copenhagen. We knew that the cost of living would be very low in Romania (and it certainly was!) Our only night in a hotel was 80 DKK each, and the hotel was pretty nice! We landed in Sibiu airport, went into town to get supplies for the hiking trip (mainly fuel for the stove, which was fairly easy to find), then we got a taxi straight to the very small village og Sebesu de Sus where we started our hike right away. 
 
 ![null](/img/img_6496.jpg)
 
