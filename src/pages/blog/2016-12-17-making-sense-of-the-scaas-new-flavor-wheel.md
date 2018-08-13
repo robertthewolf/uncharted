@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: The Transylvanian Adventure of two danish brothers
-image: /img/img_6496.jpg
+image: /img/img_6349.jpg
 date: '2018-08-12'
 description: ' '
 tags:
