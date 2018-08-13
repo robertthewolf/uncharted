@@ -102,4 +102,6 @@ From here, you can see the vast, flat plateau from which the Carpathians rise so
 
 We even got lucky enough to see a herd of 15-17 wild black goats one day. We got a very clear understanding that this place (although people live up here for sheep herding) is a true wilderness, and a big one! We could have easily spend another week or two exploring the hidden treasures of these mountains, which seemed to be around every corner. Romania is definitely worthy of more trips in the future! I think there are challenges to be found here for even the most experienced wilderness-traveler and amazing opportunities for some very cool rock climbing as well. The Romanian wilderness will make you feel small and insignificant compared nature's forces. For me, this is exactly was wilderness travel is about and the Carpathians will leave you with amazing experiences equal to those you get in any of the more "famous" wildernesses around the world. The Carpathians are one of the more adventurous hiking destinations I have found within Europe!
 
+\- Andreas Jørgensen
+
 ![null](/img/img_6550-1-.jpg)
