@@ -7,7 +7,7 @@ image: /img/dsc_0325.jpg
 
 ## Let us guide you on your adventure path
 
-![null](/img/my-post-2-.jpg)
+![null](/img/my-post-8-.png)
 
 <form></form>
 
