@@ -1,9 +1,9 @@
 ---
 templateKey: frontpage
-tagline: 'Unique adventures for unique travellers '
+tagline: 'Life is an adventure, and so are we'
 image: /img/dsc_0325.jpg
 ---
-### Leave the world behind and let's go on an adventure in Transylvania
+### Keep scrolling, you are on the right path to a wild adventure
 
 ## Let us guide you on your adventure path
 
