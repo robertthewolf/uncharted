@@ -15,4 +15,4 @@ Each activity is created after careful researches and a lot of time spent in the
 
 ![null](/img/4.jpeg)
 
-![](/img/20170801_183221.jpg)
+![null](/img/20170801_183221.jpg)
