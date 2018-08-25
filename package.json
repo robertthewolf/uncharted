@@ -35,7 +35,7 @@
     "react-load-script": "0.0.6",
     "react-overdrive": "0.0.9",
     "react-parallax": "^1.7.0",
-    "react-window-size": "^1.2.0",
+    "react-window-size": "1.2.0",
     "react-window-size-listener": "^1.2.1",
     "rehype-react": "^3.0.3",
     "reset-css": "^3.0.0",
