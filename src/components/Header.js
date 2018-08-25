@@ -29,7 +29,7 @@ div.gatsby-image-outer-wrapper {
     top: 0;
     left: 0;
     z-index: -1
-    background: linear-gradient(to bottom, #EBD5D5 0%, transparent 50%, black 100%);
+    background: linear-gradient(to bottom, #EBD5D5 0%, transparent 45%, rgba(0,0,0,.5) 85%, black 100%);
 
   }
 }

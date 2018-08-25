@@ -17,6 +17,13 @@
         "componentChunkName": "component---src-templates-activity-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "activities-adventure-park.json",
+        "path": "/activities/adventure-park/"
+    },
+    {
+        "componentChunkName": "component---src-templates-activity-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "activities-hunt.json",
         "path": "/activities/hunt/"
     },
@@ -31,22 +38,8 @@
         "componentChunkName": "component---src-templates-activity-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "activities-adventure-park.json",
-        "path": "/activities/adventure-park/"
-    },
-    {
-        "componentChunkName": "component---src-templates-activity-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "activities-mountain-biking.json",
         "path": "/activities/mountain-biking/"
-    },
-    {
-        "componentChunkName": "component---src-templates-activity-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "activities-rock-climbing.json",
-        "path": "/activities/rock-climbing/"
     },
     {
         "componentChunkName": "component---src-templates-activity-js",
@@ -70,6 +63,13 @@
         "path": "/activities/survival-in-the-forest/"
     },
     {
+        "componentChunkName": "component---src-templates-activity-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "activities-rock-climbing.json",
+        "path": "/activities/rock-climbing/"
+    },
+    {
         "componentChunkName": "component---src-templates-package-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -89,6 +89,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "packages-the-wild-carpathians.json",
         "path": "/packages/the-wild-carpathians/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
     },
     {
         "componentChunkName": "component---src-pages-404-js",
