@@ -11,8 +11,6 @@ import '../css/all.sass'
 
 
 const TemplateWrapper = ({ children, data }) => {
-  const { edges: posts } = data.allMarkdownRemark
-
   return(
   <div>
     <Helmet title="Uncharted | A New Way Of Travelling">
@@ -28,16 +26,16 @@ const TemplateWrapper = ({ children, data }) => {
     </Helmet>
     <Navbar />
     <main>{children()}</main>
-    <Footer activities={posts.filter(post => post.node.frontmatter.templateKey === 'activity')} />
+    <Footer activities={data.allMarkdownRemark.edges.filter(post => post.node.frontmatter.templateKey === 'activity')} />
   </div>
   )
 }
 
 TemplateWrapper.propTypes = {
   children: PropTypes.any,
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.object,
-  }),
+  // data: PropTypes.shape({
+  //   allMarkdownRemark: PropTypes.object,
+  // }),
 }
 
 export default TemplateWrapper
