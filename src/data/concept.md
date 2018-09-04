@@ -14,5 +14,3 @@ Each activity is created after careful researches and a lot of time spent in the
 ![null](/img/3.jpeg)
 
 ![null](/img/4.jpeg)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UwjuwQFpLk4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
