@@ -1,7 +1,7 @@
 ---
 templateKey: activity
 title: Rock Climbing
-image: /img/dsc_0293.jpg
+image: /img/rock-climbing.jpg
 tagline: ' '
 ---
 # We take you higher and higher
