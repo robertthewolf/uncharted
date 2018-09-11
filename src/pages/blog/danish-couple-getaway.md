@@ -9,7 +9,7 @@ description: >-
 tags:
   - We've really had one of the best backpacking-times here
 ---
-Me and my boyfriend visited Romania in 2017, as we were backpacking in Eastern Europe. We're used to backpacking and hostel-stays, but we were completely head over heels about the hospital people in Romania, especially in Brasov and Sibiu! 
+My boyfriend and I visited Romania in 2017, as we were backpacking in Eastern Europe. We're used to backpacking and hostel-stays, but we were completely head over heels about the hospital people in Romania, especially in Brasov and Sibiu! 
 
 ![null](/img/img_9154.jpg)
 
