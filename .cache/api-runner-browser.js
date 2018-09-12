@@ -1,8 +1,8 @@
 var plugins = [{
-      plugin: require('/Users/Robert/uncharted/uncharted/node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
+      plugin: require('/Users/Robert/uncharted/node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
       options: {"plugins":[],"trackingId":"UA-120131576-1","head":false,"anonymize":true,"respectDNT":true,"exclude":["/preview/**","/do-not-track/me/too/"]},
     },{
-      plugin: require('/Users/Robert/uncharted/uncharted/node_modules/gatsby-plugin-facebook-pixel/gatsby-browser.js'),
+      plugin: require('/Users/Robert/uncharted/node_modules/gatsby-plugin-facebook-pixel/gatsby-browser.js'),
       options: {"plugins":[],"pixelId":"540313399720280"},
     }]
 // During bootstrap, we write requires at top of this file which looks

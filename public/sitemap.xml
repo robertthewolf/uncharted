@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://www.uncharted.dk/activities/adventure-park/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.uncharted.dk/blog/danish-couple-getaway/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.uncharted.dk/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.uncharted.dk/packages/fullnatureadventure/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.uncharted.dk/packages/medieval-and-wild-adventure/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.uncharted.dk/packages/the-wild-carpathians/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.uncharted.dk/activities/4x4-off-road/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.uncharted.dk/activities/adventure-park/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.uncharted.dk/activities/hunt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.uncharted.dk/activities/hiking/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.uncharted.dk/activities/mountain-biking/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -9,11 +14,6 @@
 <url> <loc>https://www.uncharted.dk/activities/rock-climbing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.uncharted.dk/activities/snowshoe-hiking/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.uncharted.dk/activities/survival-in-the-forest/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.uncharted.dk/blog/danish-couple-getaway/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.uncharted.dk/packages/medieval-and-wild-adventure/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.uncharted.dk/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.uncharted.dk/packages/fullnatureadventure/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.uncharted.dk/packages/the-wild-carpathians/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.uncharted.dk/concept/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.uncharted.dk/confirmation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.uncharted.dk/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

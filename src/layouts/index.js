@@ -33,9 +33,9 @@ const TemplateWrapper = ({ children, data }) => {
 
 TemplateWrapper.propTypes = {
   children: PropTypes.any,
-  // data: PropTypes.shape({
-  //   allMarkdownRemark: PropTypes.object,
-  // }),
+  data: PropTypes.shape({
+    allMarkdownRemark: PropTypes.object,
+  }),
 }
 
 export default TemplateWrapper

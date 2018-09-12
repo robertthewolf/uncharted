@@ -17,8 +17,8 @@ const Element = ({ activities, handleChange }) => {
                 <Image sizes={node.frontmatter.image.childImageSharp.sizes} />
                 <CheckboxName>{node.frontmatter.title}
                 </CheckboxName>
-                <ReadMore>
-                    <Link to={node.fields.slug} >i</Link>
+    s            <ReadMore>
+                    <Link to={node.fields.slug} >?</Link>
                 </ReadMore>
             </Activity>
         ))
