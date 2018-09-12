@@ -1,2 +1,0 @@
-webpackJsonp([55702396619907],{414:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Uncharted"}},allMarkdownRemark:{group:[{fieldValue:"brewing",totalCount:1},{fieldValue:"chemex",totalCount:1},{fieldValue:"flavor",totalCount:2},{fieldValue:"green beans",totalCount:1},{fieldValue:"jamaica",totalCount:1},{fieldValue:"tasting",totalCount:2}]}},pathContext:{}}}});
-//# sourceMappingURL=path---tags-47f9ee02d322102dae8d.js.map
