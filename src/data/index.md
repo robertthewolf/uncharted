@@ -9,7 +9,7 @@ image: /img/dsc_0325.jpg
 <p>-  Viktorija Raichelyte, Founder of Uncharted - </p></center>
 <p> </p> </center>
 
-### Keep scrolling if you are ready to create your new adventure <img src="scroll-arrow-to-down.png">
+### Keep scrolling if you are ready to create your new adventure 
 
 ## Let us guide you on your adventure path
 
