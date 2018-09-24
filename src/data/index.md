@@ -3,6 +3,8 @@ templateKey: frontpage
 tagline: 'Life is an adventure, and so are we'
 image: /img/dsc_0325.jpg
 ---
+## “_We are here to lead the new generations of adventurers on their first journey towards discovery by pushing their limits._” -  Viktorija Raichelyte, Founder of Uncharted
+
 ### Keep scrolling, you are on the right path to a wild adventure
 
 ## Let us guide you on your adventure path
