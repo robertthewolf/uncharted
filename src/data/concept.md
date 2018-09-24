@@ -35,9 +35,9 @@ Each activity is created after careful researches and a lot of time spent in the
     clear: both;
 }
 </style>
+
 </head>
 <body>
-
 
 <div class="row">
   <div class="column left" >
@@ -47,11 +47,3 @@ Each activity is created after careful researches and a lot of time spent in the
     <p>Uncharted Challenges you to experience every small detail, as if it were for the first time. Except for the UNEXPLORED DESTINATIONS and EXCITING ACTIVITIES, the adventure tours give you time to ENJOY the SILENCE, and REFLECT on your new discoveries, while enjoying the landscape.  </p>
   </div>
 </div>
-
-![null](/img/1.jpeg)
-
-![null](/img/2.jpeg)
-
-![null](/img/3.jpeg)
-
-![null](/img/4.jpeg)
