@@ -12,20 +12,12 @@ Each activity is created after careful researches and a lot of time spent in the
     box-sizing: border-box;
 }
 
-/* Create two unequal columns that floats next to each other */
+/* Create two equal columns that floats next to each other */
 .column {
     float: left;
+    width: 50%;
     padding: 10px;
     height: 300px; /* Should be removed. Only for demonstration */
-}
-
-.left {
-  width: 30%;
-  
-}
-
-.right {
-  width: 70%;
 }
 
 /* Clear floats after the columns */
@@ -34,10 +26,13 @@ Each activity is created after careful researches and a lot of time spent in the
     display: table;
     clear: both;
 }
-</style>
 
-</head>
-<body>
+(max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+</style>
 <div class="row">
   <div class="column left" >
     <center><h2>Rediscover Yourself</h2></center>
