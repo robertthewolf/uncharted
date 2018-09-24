@@ -20,12 +20,12 @@ Each activity is created after careful researches and a lot of time spent in the
 }
 
 .left {
-  width: 50%;
+  width: 30%;
   
 }
 
 .right {
-  width: 50%;
+  width: 30%;
 }
 
 /* Clear floats after the columns */
