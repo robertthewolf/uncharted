@@ -25,7 +25,7 @@ Each activity is created after careful researches and a lot of time spent in the
 }
 
 .right {
-  width: 30%;
+  width: 70%;
 }
 
 /* Clear floats after the columns */
@@ -38,7 +38,6 @@ Each activity is created after careful researches and a lot of time spent in the
 
 </head>
 <body>
-
 <div class="row">
   <div class="column left" >
     <center><h2>Rediscover Yourself</h2></center>
