@@ -5,7 +5,9 @@ image: /img/dsc_0325.jpg
 ---
 ## "We are here to lead the new generations of adventurers on their first journey towards discovery by pushing their limits." 
 
-\-  Viktorija Raichelyte, Founder of Uncharted - 
+<center>
+<p>-  Viktorija Raichelyte, Founder of Uncharted - </p></center>
+<p> </p> </center>
 
 ### Keep scrolling, you are on the right path to a wild adventure
 
