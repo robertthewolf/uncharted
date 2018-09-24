@@ -21,8 +21,7 @@ Each activity is created after careful researches and a lot of time spent in the
     display: table;
     clear: both;
 }
-
-(max-width: 600px) {
+@media screen and (max-width: 600px) {
     .column {
         width: 100%;
     }
