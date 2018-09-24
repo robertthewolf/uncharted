@@ -31,13 +31,9 @@ Each activity is created after careful researches and a lot of time spent in the
 
 <div class="row">
   <div class="column left" >
-    <center><h2 style="font-size:2vw;">Rediscover Yourself</h2></center>
+    <center><h2 >Rediscover Yourself</h2></center>
   </div>
   <div class="column right" >
-    <p style="font-size:2vw;">Uncharted Challenges you to experience every small detail, as if it were for the first time. Except for the UNEXPLORED DESTINATIONS and EXCITING ACTIVITIES, the adventure tours give you time to ENJOY the SILENCE, and REFLECT on your new discoveries, while enjoying the landscape.  </p>
+    <p >Uncharted Challenges you to experience every small detail, as if it were for the first time. Except for the UNEXPLORED DESTINATIONS and EXCITING ACTIVITIES, the adventure tours give you time to ENJOY the SILENCE, and REFLECT on your new discoveries, while enjoying the landscape.  </p>
   </div>
 </div>
-
-
-
-jjjjjjj
