@@ -8,21 +8,6 @@ Uncharted was born in Aarhus, Denmark from a young couple’s idea of creating a
 Each activity is created after careful researches and a lot of time spent in the mountains; all to ensure the most authentic spots and services of Transylvania. Our team is constantly working on discovering new places and designing new activities that will take your adventure to the next level.
 
 <style>
-div.row {
-  padding: 20px;
-}
-
-@media screen and (min-width: 601px) {
-  div.row {
-    font-size: 80px;
-  }
-}
-
-@media screen and (max-width: 200px) {
-  div.row {
-    font-size: 30px;
-  }
-}
 * {
     box-sizing: border-box;
 }
@@ -45,10 +30,10 @@ div.row {
 </style>
 <div class="row">
   <div class="column left" >
-    <center><h2>Rediscover Yourself</h2></center>
+    <center><h2 style="font-size:5vw;">Rediscover Yourself</h2></center>
   </div>
   <div class="column right" >
-    <p>Uncharted Challenges you to experience every small detail, as if it were for the first time. Except for the UNEXPLORED DESTINATIONS and EXCITING ACTIVITIES, the adventure tours give you time to ENJOY the SILENCE, and REFLECT on your new discoveries, while enjoying the landscape.  </p>
+    <p style="font-size:2.5vw;">Uncharted Challenges you to experience every small detail, as if it were for the first time. Except for the UNEXPLORED DESTINATIONS and EXCITING ACTIVITIES, the adventure tours give you time to ENJOY the SILENCE, and REFLECT on your new discoveries, while enjoying the landscape.  </p>
   </div>
 </div>
 
