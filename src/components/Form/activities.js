@@ -14,9 +14,8 @@ const Element = ({ activities, handleChange }) => {
                 <Checkbox type="checkbox" name={node.frontmatter.title} onChange={handleChange} />
                 <FakeCheckbox />
                 <Image sizes={node.frontmatter.image.childImageSharp.sizes} />
-                <CheckboxName>{node.frontmatter.title}
-                </CheckboxName>
-    s            <ReadMore>
+                <CheckboxName>{node.frontmatter.title}</CheckboxName>
+                <ReadMore>
                     <Link to={node.fields.slug} >?</Link>
                 </ReadMore>
             </Activity>
@@ -41,9 +40,9 @@ min-width: 150px;
 flex: 1;
 display: block;
 position: relative;
-margin: .5rem
+margin: .5rem;
 cursor: pointer;
-text-align: center
+text-align: center;
 
 display: flex;
 flex-direction: column;

@@ -19,10 +19,10 @@ const Info = () => (
 
 const SocialLink = styled.a`
 display: inline-block !important;
-padding: 1em 1em 0 0
+padding: 1em 1em 0 0;
 & img {
-width: 28px
-height: 28px
+width: 28px;
+height: 28px;
 }`
 
 export default Info

@@ -253,7 +253,7 @@ height: 5rem;
 
 const Submit = styled.button`
 margin-top: auto;
-margin-left: 1rem`
+margin-left: 1rem;`
 
 const Terms = styled.div`
 padding-top: 1rem;
