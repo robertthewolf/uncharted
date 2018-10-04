@@ -14,19 +14,6 @@ const Map = ({ children }) => (
 
 export default Map
 
-
-// const light = '#464F8A';
-// const dark = '#1F233D';
-// const color = 'white';
-
-// const light = 'rgb(215, 202, 235)';
-// const dark = 'rgb(165, 166, 133)';
-// const color = 'black';
-
-// const light = '#BABABA';
-// const dark = '#8D8D8D';
-// const color = 'black';
-
 const light = '#E7E7E7';
 const dark = '#B8B8B8';
 const color = 'black';

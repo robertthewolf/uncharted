@@ -10,16 +10,17 @@ const Header = ({ background, tagline }) => (
 )
 
 const Wrapper =  styled.header`
-text-align: center
-width: 100%
+text-align: center;
+width: 100%;
+
 div.gatsby-image-outer-wrapper {
   animation: fadeIn 2s ease;
   max-height: calc(50vh + 20vw);
   margin-bottom: -10vw;
   overflow: hidden;
-  z-index: -2
+  z-index: -2;
   img {
-    z-index: -2
+    z-index: -2;
   }
   &:after {
     content: "";
@@ -28,7 +29,7 @@ div.gatsby-image-outer-wrapper {
     height: 100%;
     top: 0;
     left: 0;
-    z-index: -1
+    z-index: -1;
     background: linear-gradient(to bottom, #EBD5D5 0%, transparent 45%, rgba(0,0,0,.5) 85%, black 100%);
 
   }

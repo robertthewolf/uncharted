@@ -100,26 +100,26 @@ const Tagline = styled.h1`
 `
 
 const Welcome = styled.p`
-max-width: 700px
-margin: 0 auto 5rem`
+max-width: 700px;
+margin: 0 auto 5rem;`
 
 const Stories = styled.section`
-width: 100%
-max-width: 1024px
-margin: 0 auto
-overflow-x: hidden
-display: grid
-grid-template-columns: 1fr 1fr
-align-content: stretch`
+width: 100%;
+max-width: 1024px;
+margin: 0 auto;
+overflow-x: hidden;
+display: grid;
+grid-template-columns: 1fr 1fr;
+align-content: stretch`;
 
 const Trip = styled.figure`
-padding: 1em
-position: relative`
+padding: 1em;
+position: relative;`
 
 const Thumbnail = styled.div`
-width: 100%
-overflow: hidden
-position: relative
+width: 100%;
+overflow: hidden;
+position: relative;
 &:after {
   content: "";
   position: relative;
@@ -132,7 +132,7 @@ position: relative
   transition: opacity 1s ease;
 }
 &:hover:after {
-  opacity: .5
+  opacity: .5;
 }
 div {
   position: absolute !important;
@@ -145,7 +145,7 @@ div {
 
 const Caption = styled.figcaption`
 width: calc(100% - 2em);
-text-align: center
-font-weight: 600
-text-transform: uppercase
+text-align: center;
+font-weight: 600;
+text-transform: uppercase;
 `

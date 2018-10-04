@@ -155,35 +155,35 @@ export const pageQuery = graphql`
 `
 
 const Welcome = styled.p`
-max-width: 700px
-margin: 0 auto 5rem
-padding: 1rem`
+max-width: 700px;
+margin: 0 auto 5rem;
+padding: 1rem;`
 
 const Trips = styled.section`
-width: 100%
-max-width: 1024px
-margin: 0 auto
-overflow-x: hidden
-display: grid
-grid-template-columns: 1fr 1fr 1fr
-align-content: stretch
+width: 100%;
+max-width: 1024px;
+margin: 0 auto;
+overflow-x: hidden;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+align-content: stretch;
 @media screen and (max-width: 700px) {
-  grid-template-columns: 1fr 1fr
+  grid-template-columns: 1fr 1fr;
 }
 @media screen and (max-width: 380px) {
-  grid-template-columns: 1fr
+  grid-template-columns: 1fr;
 }
 `
 
 const Trip = styled.figure`
-padding: 1em
-position: relative`
+padding: 1em;
+position: relative;`
 
 const Thumbnail = styled.div`
-width: 100%
-border-radius: 50%
-overflow: hidden
-position: relative
+width: 100%;
+border-radius: 50%;
+overflow: hidden;
+position: relative;
 &:after {
   content: "";
   position: relative;
@@ -196,7 +196,7 @@ position: relative
 }
 &:hover {
   &:after {
-    opacity: .5
+    opacity: .5;
   }
 }
 div {
@@ -211,10 +211,10 @@ div {
 `
 
 const Caption = styled.figcaption`
-position: absolute
-bottom: 1em
+position: absolute;
+bottom: 1em;
 width: calc(100% - 2em);
-text-align: center
-font-weight: 600
-text-transform: uppercase
+text-align: center;
+font-weight: 600;
+text-transform: uppercase;
 `

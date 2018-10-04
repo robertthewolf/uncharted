@@ -57,57 +57,57 @@ export default class Navbar extends React.Component {
 
 
 const NavWrapper = styled.nav`
-  display: flex
-  padding: 1em
+  display: flex;
+  padding: 1em;
   width: calc(100% - 2em);
-  justify-content: space-between
-  align-items: center
-  position: absolute
-  z-index: 10
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  z-index: 10;
 `
 
 const Logo = styled.img`
-width: 140px
+width: 140px;
 `
 
 const Menu = styled.ul`
-display: flex
+display: flex;
 & a {
-  color: black
+  color: black;
 }
 @media screen and (max-width: 600px) {
-  position: fixed
-  top: 0
-  left: 0
-  width: 100%
-  height: 100vh
-  background-color: black
-  flex-direction: column
-  justify-content: space-around
-  align-items: center
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
   transform: translateX(${props => props.open ? '0px' : '-100vw'});
   transition: transform .2s ease-in;
   & * {
-    color: white !important
+    color: white !important;
   }
 }
 `
 
 const MenuButton = styled.div`
 @media screen and (min-width: 600px) {
-  display: none
+  display: none;
 }
-position: fixed
-top: 1rem
-right: 1rem
-width: 25px
-text-align: center
-background: white
-color: black
-font-size: 28px
-padding: 0 .4em .125em
+position: fixed;
+top: 1rem;
+right: 1rem;
+width: 25px;
+text-align: center;
+background: white;
+color: black;
+font-size: 28px;
+padding: 0 .4em .125em;
 border-radius: .25rem;
-cursor: pointer
+cursor: pointer;
 &:after{
   content: ${props => props.open ? '"✕"' : '"☰"'};
 }
@@ -115,19 +115,19 @@ cursor: pointer
 `
 
 const Item = styled.li`
-  padding: 0 1em
-  line-height: 1em
-  text-transform: uppercase
-  font-weight: 400
-  letter-spacing: .2em
+  padding: 0 1em;
+  line-height: 1em;
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: .2em;
 `
 
 const ContactButton = styled.div`
 & + div {
-  display: none
+  display: none;
 }
 
 &:hover + div, & + div:hover {
-  display: block
+  display: block;
 }
 `

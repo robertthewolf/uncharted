@@ -58,19 +58,19 @@ const Tagline = styled.h1`
 `
 
 const Welcome = styled.p`
-max-width: 700px
-margin: 0 auto 5rem`
+max-width: 700px;
+margin: 0 auto 5rem;`
 
 const Heading = styled.h3`
-font-family: Sign
-font-weight: 400
-text-transform: uppercase
-text-align: center
-text-align: left
-font-size: 1.6em
-color: black
+font-family: Sign;
+font-weight: 400;
+text-transform: uppercase;
+text-align: center;
+text-align: left;
+font-size: 1.6em;
+color: black;
 `
 
 const Text = styled.p`
-color: black
+color: black;
 `

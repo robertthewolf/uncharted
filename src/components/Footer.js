@@ -55,31 +55,31 @@ const Footer = (props) => (
 export default Footer
 
 const Wrapper = styled.footer`
-background-color: #1F233D
-padding: 1rem
+background-color: #1F233D;
+padding: 1rem;
 & a {
-    display: block
-    text-transform: uppercase
-    font-weight: 600
-    font-size: 1rem
-    line-height: 2
+    display: block;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 2;
 }
 & p {
-    font-size: 1rem
-    margin: 1rem 0
+    font-size: 1rem;
+    margin: 1rem 0;
 }
 `
 
 const Container = styled.div`
-max-width: 1024px
-margin: 0 auto
-display: grid
-grid-template-columns: 1fr 1fr 1fr 1fr
+max-width: 1024px;
+margin: 0 auto;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
 @media screen and (max-width: 850px) {
-    grid-template-columns: 1fr 1fr
+    grid-template-columns: 1fr 1fr;
 }
 @media screen and (max-width: 420px) {
-    grid-template-columns: 1fr
+    grid-template-columns: 1fr;
 }
 `
 
@@ -89,8 +89,8 @@ margin: 2rem .5rem;
 const Heading = styled.h3`
 `
 const Image = styled.img`
-width: 100%
-max-width: 140px
+width: 100%;
+max-width: 140px;
 `
 
 const Signature = styled.p`

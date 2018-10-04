@@ -60,7 +60,7 @@ query ContactQuery {
 
 const Contact = styled.div`
 margin: 2rem auto 1rem;
-text-align: center
+text-align: center;
 div {
   a {
     display: block;
