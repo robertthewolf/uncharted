@@ -179,17 +179,17 @@ class Form extends React.Component {
 export default windowSize(Form);
 
 const Container = styled.form`
-max-width: 650px
-margin: 0 auto 3rem
-padding: 1rem
+max-width: 650px;
+margin: 0 auto 3rem;
+padding: 1rem;
 `
 
 const Question = styled.h3`
-font-size: 1.2rem !important
-text-align: center
-margin: 4rem auto 1rem !important
+font-size: 1.2rem !important;
+text-align: center;
+margin: 4rem auto 1rem !important;
 @media screen and (max-width: 600px) {
-    margin: 2rem auto 1rem !important
+    margin: 2rem auto 1rem !important;
 }
 `
 
@@ -204,27 +204,27 @@ flex-wrap: ${(props => props.wrap)? 'wrap' : 'no-wrap'};
 `
 
 const PlusButton = styled.div`
-justify-self: right
-border-radius: .5rem 0 0 .5rem
-background-color: #464F8A
-padding: .1rem 1.2rem
-font-size: 1.5rem
-cursor: pointer
+justify-self: right;
+border-radius: .5rem 0 0 .5rem;
+background-color: #464F8A;
+padding: .1rem 1.2rem;
+font-size: 1.5rem;
+cursor: pointer;
 user-select: none;
 `
 
 const MinusButton = styled.div`
-justify-self: left
-border-radius: 0 .5rem .5rem 0
-background-color: #464F8A
-padding: .1rem 1.2rem
-font-size: 1.5rem
-cursor: pointer
+justify-self: left;
+border-radius: 0 .5rem .5rem 0;
+background-color: #464F8A;
+padding: .1rem 1.2rem;
+font-size: 1.5rem;
+cursor: pointer;
 user-select: none;
 `
 
 const PeopleValue = styled.input`
-text-align: center
+text-align: center;
 border-radius: 0;
 `
 
@@ -233,36 +233,36 @@ const PriceInput = styled.input`
 width: calc(100% - 2rem) !important;`
 
 const PriceLimit = styled.label`
-white-space: nowrap
-font-size: .8rem
-opacity: .5
+white-space: nowrap;
+font-size: .8rem;
+opacity: .5;
 &:nth-of-type(2) {
-    text-align: right
+    text-align: right;
 }`
 
 const PriceValue = styled.p`
-text-align: center`
+text-align: center;`
 
 
 
 const Comments = styled.textarea`
-resize: none
+resize: none;
 width: calc(100% - 2rem);
-height: 5rem
+height: 5rem;
 `
 
 const Submit = styled.button`
-margin-top: auto
+margin-top: auto;
 margin-left: 1rem`
 
 const Terms = styled.div`
-padding-top: 1rem
+padding-top: 1rem;
 input {
-    margin-right: 1rem
-    vertical-align: top
+    margin-right: 1rem;
+    vertical-align: top;
 }
 a {
-    text-decoration: underline
+    text-decoration: underline;
 }
 `
 

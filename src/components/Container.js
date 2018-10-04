@@ -8,7 +8,7 @@ const Container = ({ children }) => (
 )
 
 const Outer =  styled.section`
-max-width: 1024px
+max-width: 1024px;
 padding: 1rem;
 margin: 0 auto;
 text-align: left;

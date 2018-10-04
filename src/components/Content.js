@@ -34,14 +34,14 @@ const color = 'black';
 const Outer = styled.ul`
 h3, h4 {
 
-    margin-top: 2rem
-    max-width: 700px
-    margin: 0 auto
-    text-align: center
+    margin-top: 2rem;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 h3 {
-  font-size: 1.5rem
+  font-size: 1.5rem;
 }
 
 img {
@@ -50,9 +50,9 @@ img {
 }
 
 ul:not(.DayPicker_weekHeader_ul) {
-    margin: 0 2rem
-    padding: 3rem 0
-    display: grid
+    margin: 0 2rem;
+    padding: 3rem 0;
+    display: grid;
     @media screen and (min-width: 600px) {
     grid-template-columns: 1fr 1fr
     }
@@ -66,9 +66,9 @@ ul:not(.DayPicker_weekHeader_ul) {
     }
 
     li {
-        padding: 1.5rem 1.5rem 1.9rem
-        margin: -.3rem -.05rem
-        position: relative
+        padding: 1.5rem 1.5rem 1.9rem;
+        margin: -.3rem -.05rem;
+        position: relative;
         background: linear-gradient(215deg, ${light} 0%, ${dark} 100%);
 
 
@@ -110,31 +110,31 @@ ul:not(.DayPicker_weekHeader_ul) {
 
 ol {
     li {
-        position: relative
-        counter-increment: day
-        max-width: 732px
+        position: relative;
+        counter-increment: day;
+        max-width: 732px;
         margin: 0 auto;
         &::after {
             content: '';
-            position: absolute
-            top: 0
-            left: 50%
-            width: 1px
+            position: absolute;
+            top: 0;
+            left: 50%;
+            width: 1px;
             height: calc(100% + 2rem);
             background-color: #1F233D;
-            z-index: -1
+            z-index: -1;
         }
         &::before {
             content: "Day " counter(day);
             display: block;
             margin: 2rem auto 1rem;
-            padding: .5rem 1rem
-            text-align: center
-            line-height: 1.8rem
-            font-weight: 200
-            width: 3rem
+            padding: .5rem 1rem;
+            text-align: center;
+            line-height: 1.8rem;
+            font-weight: 200;
+            width: 3rem;
             background-color: #464F8A;
-            border-radius: .5rem
+            border-radius: .5rem;
         }
 
     }
