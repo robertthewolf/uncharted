@@ -16,7 +16,7 @@ Lastly, every weekend, Arena Platos Paltinis gathers competitions for profession
 
 If a skiing/ snowboarding session is not enough for you, simply just go for the other options too, and remember that you can mix and match your adventure pack, tailoring it for your own personal preferences, abilities and desires! 
 
-![null](/img/3c79bd940c.jpg)
+![null](/img/7a426fc62b.jpg)
 
 # Snowshoe Hiking
 
@@ -26,4 +26,4 @@ It is the perfect wither activity for those hiking lovers that wish to be surrou
 
 The interesting part of this activity is that there is no learning curve. You know how to walk, therefore you know how to walk in snowshoes too!
 
-![null](/img/dsc_0172.jpg)
+![null](/img/dsc_0444.jpg)
