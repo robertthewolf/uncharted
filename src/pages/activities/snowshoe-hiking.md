@@ -26,4 +26,4 @@ It is the perfect wither activity for those hiking lovers that wish to be surrou
 
 The interesting part of this activity is that there is no learning curve. You know how to walk, therefore you know how to walk in snowshoes too!
 
-![null](/img/dsc_0444.jpg)
+![null](/img/dsc_0163.jpg)
