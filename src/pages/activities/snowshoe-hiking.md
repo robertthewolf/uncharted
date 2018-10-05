@@ -1,7 +1,7 @@
 ---
 templateKey: activity
 title: Winter Adventure
-image: /img/dsc_1659.jpg
+image: /img/dsc_0335.jpg
 tagline: 'Snowboarding, Skiing & Snowshoe Hiking '
 ---
 # Adventure skiing and Snowboarding
