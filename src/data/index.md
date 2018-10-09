@@ -3,7 +3,7 @@ templateKey: frontpage
 tagline: 'Life is an adventure, and so are we'
 image: /img/dsc_0325.jpg
 ---
-## "We are here to lead the new generations of adventurers on their first journey towards discovery by pushing their limits."
+## "We lead the new generation of adventurers into a journey of discovery by pushing their limits in EUROPE'S LAST TRUE WILDERNESS, TRANSYLVANIA"
 
 <center>
 <p>-  Viktorija Raichelyte, Founder of Uncharted - </p></center>
@@ -17,7 +17,7 @@ image: /img/dsc_0325.jpg
 
 <form></form>
 
-![](/img/2nd-half.png)
+![null](/img/2nd-half.png)
 
 <slider>
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsiemanko11%2Fposts%2F1628853980479688%3A0&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allow="encrypted-media"></iframe>
