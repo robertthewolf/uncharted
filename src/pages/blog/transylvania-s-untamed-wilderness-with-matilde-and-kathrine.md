@@ -31,4 +31,4 @@ Throughout the planning in Denmark as well as when in Romania, Tudor has been a 
 
 \- Matilde Mikkeline Holst Stoltze and Kathrine Tejlgård Jensen -
 
-![](/img/20180702_120101.jpeg)
+![null](/img/20180702_120101.jpeg)
