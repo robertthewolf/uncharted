@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: The Transylvanian Adventure of two danish brothers
-image: /img/my-post-1-.jpg
+image: /img/andreas-and-his-brother.jpg
 date: '2018-08-12'
 description: ' '
 tags:
