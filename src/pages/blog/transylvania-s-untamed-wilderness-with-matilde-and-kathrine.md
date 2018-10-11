@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Transylvania's Untamed Wilderness with Matilde and Kathrine
-image: /img/20180701_180415.jpeg
+image: /img/20180701_180415.jpg
 date: '2018-10-11'
 description: Mountain Adventure in Europe's last great Wilderness
 tags:
@@ -17,18 +17,18 @@ The route took us through a wide range of vegetation types: all from dense pine 
 
 The trail was easy to follow and well-marked as well as water springs were easy to find along the trail. Each day, we passed one or more rather primitive shelters. Some shelters were nice, but others were in very bad shape, so we strongly recommend bringing a tent.
 
-![null](/img/20180702_094920.jpeg)
+![null](/img/20180702_094920.jpg)
 
 We didn’t meet other hikers the first three days of the hike and even though we met more the closer we got to Balea Lake, the route was never crowed or trashed. We did meet plenty of shepherds, their sheeps, and big (scary) dogs.
 
-![null](/img/20180701_180415.jpeg)
+![null](/img/20180701_180415.jpg)
 
 Our purpose was hiking, so we didn’t use much time in the city nor to experience the culture but all the Romanian people we met were very kind and helpful and made us feel welcome in their country. Romania is a very budget-friendly country to visit – both with regards to the food and public transport.
 
-![null](/img/20180703_112920.jpeg)
+![null](/img/20180703_112920.jpg)
 
 Throughout the planning in Denmark as well as when in Romania, Tudor has been a great help. He has a great knowledge about Romania's wilderness and a passion for adventure travel planning, that he shared with us. Thanks to Tudor, we had an amazing trip to Romania.
 
 \- Matilde Mikkeline Holst Stoltze and Kathrine Tejlgård Jensen -
 
-![null](/img/20180702_120101.jpeg)
+![null](/img/20180702_120101.jpg)
