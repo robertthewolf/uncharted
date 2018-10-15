@@ -84,7 +84,7 @@ When I travel, I always pick my destinations from a nature lovers point of view.
 
 ![null](/img/img_6874.jpg)
 
-After a bit of research and google image searching, we decided on the Carpathian mountains in Romania, which was only a 4 hours flight away from Copenhagen. We knew that the cost of living would be very low in Romania (and it certainly was!) Our only night in a hotel was 80 DKK each, and the hotel was pretty nice! We landed in Sibiu airport, went into town to get supplies for the hiking trip (mainly fuel for the stove, which was fairly easy to find), then we got a taxi straight to the very small village og Sebesu de Sus where we started our hike right away. 
+After a bit of research and google image searching, we decided on the Carpathian mountains in Romania, which was only a 4 hours flight away from Copenhagen.  We landed in Sibiu airport, went into town to get supplies for the hiking trip (mainly fuel for the stove, which was fairly easy to find), then we got a taxi straight to the very small village og Sebesu de Sus where we started our hike right away. 
 
 ![null](/img/img_6496.jpg)
 
