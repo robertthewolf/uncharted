@@ -4,7 +4,7 @@ title: Hiking into unknown
 image: /img/untitled-60.jpg
 tagline: '  '
 ---
-![null](/img/hiking-discription-1-.png)
+![null](/img/hiking-discription-.png)
 
 # Embrace getting lost for a while
 
