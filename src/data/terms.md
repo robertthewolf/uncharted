@@ -75,4 +75,4 @@ A valid passport is required for all overseas/non-EU visitors.Your passport must
 To apply for an extended stay visa please visit [eVisa.MAE.ro.](http://evisa.mae.ro/)\
 For additional information please contact the [Romanian Immigration Office.](http://igi.mai.gov.ro/en)
 
-<form></form>
+
