@@ -74,3 +74,5 @@ In case of a flight delay or external issues that might delay your arrival, cont
 A valid passport is required for all overseas/non-EU visitors.Your passport must be valid for the entire duration of your visit (it will not expire sooner than your intended date of departure). However, please check the expiration date on your passport carefully before traveling to Europe.\
 To apply for an extended stay visa please visit [eVisa.MAE.ro.](http://evisa.mae.ro/)\
 For additional information please contact the [Romanian Immigration Office.](http://igi.mai.gov.ro/en)
+
+<form></form>
