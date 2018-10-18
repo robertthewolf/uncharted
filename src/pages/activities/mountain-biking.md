@@ -4,6 +4,8 @@ title: Mountain Biking
 image: /img/mountain-biking.jpg
 tagline: '  '
 ---
+![](/img/mountain-biking-description.png)
+
 # Walking is fine but have you tried going a little faster?
 
  Mountain biking is an alternative sustainable activity with plenty roads that have been designed just for you. At the same time, is it a great and valuable experience that will provide you much more sightseeing and meaningful landscapes than you would gather, for instance, by sitting on a bus. 
