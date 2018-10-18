@@ -4,6 +4,8 @@ title: Extreme forest walk
 image: /img/dsc_0569.jpg
 tagline: '  '
 ---
+![](/img/extreme-forest-walk-description.png)
+
 # Comfort zone is fine but nothing ever grows there
 
 This combination of challenging activities and forest walks will get your heart race fast and your adrenaline pump through your veins. 
@@ -14,4 +16,4 @@ Taking advantage of the fresh air while performing exciting activities will clea
 
 Taking it to the next level with the different paths and their levels of performance will challenge yourself and will take you out of the comfort zone ...just saying!
 
-![](/img/escalada.jpg)
+![null](/img/escalada.jpg)
