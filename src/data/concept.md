@@ -74,7 +74,12 @@ INFORMATION on the places and activities
 INTRODUCE you to 'local friends'
 
 KNOWLEDGE about the surrounding  area</p>  
+
   </div>
 </div>
 </body>
 </html>
+
+![](/img/3.jpeg)
+
+![](/img/4.jpeg)
