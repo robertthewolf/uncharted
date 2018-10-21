@@ -18,9 +18,9 @@ If a skiing/ snowboarding session is not enough for you, simply just go for the 
 
 ![null](/img/7a426fc62b.jpg)
 
-![](/img/snowshoe-description.png)
-
 # Snowshoe Hiking
+
+![](/img/snowshoe-description.png)
 
 I am ready for you in every season of the year, just so you know. Snow Shoes Hiking is one of my winter themed activities and I can guarantee you will have a blast!
 
