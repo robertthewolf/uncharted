@@ -4,6 +4,8 @@ title: 4x4 Off Road
 image: /img/dsc04624.jpg
 tagline: '  '
 ---
+![](/img/off-road-description.png)
+
 # Feeling low on energy? No problem!
 
 \
