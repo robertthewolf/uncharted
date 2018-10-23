@@ -4,7 +4,9 @@ title: Rock Climbing
 image: /img/rockclimbing.jpg
 tagline: ' '
 ---
-# We take you higher and higher
+![](/img/climbing-description-1-.png)
+
+# Every move is a challenge
 
 If you are an experienced climber, or just an adventurer who wants to make the most of every trip, this is your chance! Climb the grey walls that emerge from the Transylvanian forests and make this experience unforgettable. 
 
