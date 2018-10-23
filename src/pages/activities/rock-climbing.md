@@ -8,10 +8,14 @@ tagline: ' '
 
 # Every move is a challenge
 
-If you are an experienced climber, or just an adventurer who wants to make the most of every trip, this is your chance! Climb the grey walls that emerge from the Transylvanian forests and make this experience unforgettable. 
+Climb the grey walls that emerge from the Transylvanian Mountains and make this experience unforgettable. Rock climbing is a fast-growing sport in regards to its popularity and the people choosing it as a unique activity to practice. The reason behind is because it allows you to combine multiple ways of challenging yourself, body and mind, while still being in the nature and getting clean air. Honestly, the power of this activity is in your hands. 
 
-Rock climbing is a fast-growing sport in regards to its popularity and the people choosing it as an unique activity to practice. Within the warm season, all the adventure packages include a small glimpse into this activity. 
+![](/img/rumænien-220317-15229.jpg)
 
-No matter if you are a professional, an amateur or even an adventurer who is just eager to try this sport, I, Uncharted, am ready to support you and guide you through your steps.  Additionally, Romanian’s best spots and talented instructors are staying at your disposal to ensure a successful and enjoyable adventure.
+The Turda Gorge is one of the most famous climbing areas of the country and the place where this challenging activity will take place. The gorge is host to 267 climbing routes of different levels and climbing styles ( sport, trad, multi-pitch).
+
+![](/img/dsc_0279.png)
+
+No matter if you are a professional, an amateur or even an adventurer who is just eager to challenge himself/herself Transylvania’s best spots and talented instructors are staying at your disposal to ensure a successful and enjoyable adventure.
 
 ![null](/img/rumænien-240317-15743.jpg)
