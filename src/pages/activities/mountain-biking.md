@@ -1,15 +1,25 @@
 ---
 templateKey: activity
 title: Mountain Biking
-image: /img/mountain-biking.jpg
+image: /img/mountain-biking-with-old-lady-and-mountains.png
 tagline: '  '
 ---
-![](/img/mountain-biking-description.png)
+![null](/img/mountain-biking-description.png)
 
-# Walking is fine but have you tried going a little faster?
+# Speeding up your adventure
 
- Mountain biking is an alternative sustainable activity with plenty roads that have been designed just for you. At the same time, is it a great and valuable experience that will provide you much more sightseeing and meaningful landscapes than you would gather, for instance, by sitting on a bus. 
+Transylvania is a host to a huge variety of impressive, challenging and adventurous mountain biking trails. The Lotru mountains and the Cindrel mountains are two impressive massifs which are able to be crossed not only by trekking but also by mountain biking. 
 
-It does not matter if you are a professional or just a bike enthusiasts; we guarantee that an adventure on two wheels will never leave you disappointed!
+![](/img/mountain-biking.png)
 
-![null](/img/91602f2d02.jpg)
+Riding on the uncharted paths with our team is by definition an   adventurous activity, involving a certain spirit of exploring and risk-taking. And let’s be honest, being an adventurer makes you one of the most interesting people at the table. Can you recall Monday lunches at work when you are asked “how was your weekend?” ?  How many times did you tell the glorified tales about your adventures? None?! No worries, Uncharted team is here to change it. 
+
+![](/img/mountain-biking-with-view-and-small-village.png)
+
+If you love mountain biking, you will enjoy experiencing it in Transylvania, where the challenge of activity merges with the beauty of the nature. After this engaging experience, we promise, you will be able to brag about going across rickety bridges, scaling treacherous peaks, dodging branches or carving your way down a technical descent and awkwardly returning to civilisation covered in mud, stained with blood and with a big smile that says “that was a hell of a ride”.
+
+![](/img/mountain-biking-with-old-house.png)
+
+Become a sunset chaser and embrace this opportunity; no matter if you are a professional or just a bike enthusiasts, we guarantee that an adventure on two wheels will never leave you disappointed!
+
+![null](/img/3056ab6ee3.png)
