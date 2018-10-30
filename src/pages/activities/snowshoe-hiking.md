@@ -1,7 +1,7 @@
 ---
 templateKey: activity
 title: Winter Adventure
-image: /img/snow-hike-lonely-girl.png
+image: /img/mom-and-son-winter-hike.png
 tagline: 'Snowboarding, Skiing & Snowshoe Hiking '
 ---
 # Snowshoe Hiking, Snowboarding & Skiing
