@@ -6,11 +6,21 @@ tagline: '  '
 ---
 ![null](/img/off-road-description.png)
 
-# Feeling low on energy? No problem!
+# Drive where hardly anyone else ever does!
 
 \
-If you ever get exhausted or if biking is not really your jam, spice your adventure up with this extra activity to restore your batteries and get more memories with you back home. No matter the weather or the season, this opportunity will get you at your destination.
-
-Whether is a sheepfold on the top of the mountains where you just want to take a picnic and enjoy the view, or a remote village to discover crafts and traditions, we got you covered. Our team’s cars have learnt their paths far better than the brown bear ruling over Carpathians ever has. All you need to do is to embrace the bumpy ride whilst admiring the nature.
+Feeling low on energy? Got exhausted? Biking is not really your jam? We got you covered! SPICE UP your adventure with the activity that RESTORES your batteries. Enjoy the views of Transylvania through a bumpy road and speed up experience by reaching your desired destination faster! 
 
 ![null](/img/img_2062.jpg)
+
+One could argue “Off-road - adventure?”, oh trusts us. Steep mountain edge, muddy road, roots and rocks shaking the jeep, sweaty forehead and hands, moments when you catch yourself thinking “Is this destination worth all of this?” - that is what we call 4x4 OFF-ROAD experience. 
+
+![](/img/img_8856.png)
+
+Oh and the answer is YES! WORTH every single second, every collected memory, every reached sheepfold on the top of the mountain or even that one magical sunset above the tip of the mountain.
+
+![](/img/img_2104-1-.jpg)
+
+With a help of the BEST off-road TEAM in Transylvania, EMBRACE the bumpy ride while admiring the nature in any weather or season.
+
+![](/img/possible-background-pic-with-feature-at-the-bottom-right.png)
