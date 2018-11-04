@@ -37,7 +37,7 @@ Each activity is created after careful researches and a lot of time spent in the
     <center><h2 >Rediscover Yourself</h2></center>
   </div>
   <div class="column right" >
-    <p >Uncharted Challenges you to experience every small detail, as if it were for the first time. Except for the UNEXPLORED DESTINATIONS and EXCITING ACTIVITIES, the adventure tours give you time to ENJOY the SILENCE, and REFLECT on your new discoveries, while enjoying the landscape.  </p>
+    <p >Uncharted Challenges you to experience every small detail, as if it were for the first time, except for the UNEXPLORED DESTINATIONS and EXCITING ACTIVITIES. The adventure tours give you time to ENJOY the SILENCE, and REFLECT on your new discoveries, while enjoying the landscape.  </p>
   </div>
 </div>
 </body>
@@ -47,7 +47,7 @@ Each activity is created after careful researches and a lot of time spent in the
 <center><h2 >Genuine adventure</h2></center>
   </div>
   <div class="column right" >
-  <p >DISCOVER locations with great BEAUTY and HISTORY, but which are NOT KNOWN to everyone.Either you choose a weekend GETAWAY or the multiple days’ ADVENTURE, combine the EXCITING activities, to create the perfect recipe for the Genuine Adventure tour.</p>  
+  <p >DISCOVER locations with great BEAUTY and HISTORY, but which are NOT KNOWN to everyone.Whether you choose a weekend GETAWAY or a multiple days’ ADVENTURE, combine the EXCITING activities, to create the perfect recipe for a Genuine Adventure.</p>  
   </div>
 </div>
 </body>
@@ -80,6 +80,6 @@ KNOWLEDGE about the surrounding  area</p>
 </body>
 </html>
 
-![](/img/3.jpeg)
+![null](/img/3.jpeg)
 
-![](/img/4.jpeg)
+![null](/img/4.jpeg)
